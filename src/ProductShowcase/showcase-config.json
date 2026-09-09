@@ -1,0 +1,60 @@
+{
+  "backgroundImage": "ProductShowcase_assets/texture.jpg",
+  "centerImage": "ProductShowcase_assets/apple.png",
+  "showNumbers": true,
+  "fps": 24,
+  "introDurationSeconds": 2.0,
+  "finalBufferSeconds": 3.0,
+  "points": [
+    {
+      "title": "Rich in Nutrients",
+      "image": "ProductShowcase_assets/dummy_image_1.jpg",
+      "durationSeconds": 3.0
+    },
+    {
+      "title": "Supports Heart Health",
+      "image": "ProductShowcase_assets/dummy_image_1.jpg",
+      "durationSeconds": 2.5
+    },
+    {
+      "title": "Good Source of Fiber",
+      "image": "ProductShowcase_assets/dummy_image_1.jpg",
+      "durationSeconds": 2.0
+    },
+    {
+      "title": "Boosts Immune System",
+      "image": "ProductShowcase_assets/dummy_image_1.jpg",
+      "durationSeconds": 2.5
+    },
+    {
+      "title": "Promotes Brain Health",
+      "image": "ProductShowcase_assets/dummy_image_1.jpg",
+      "durationSeconds": 3.0
+    },
+    {
+      "title": "Low Calorie Snack",
+      "image": "ProductShowcase_assets/dummy_image_1.jpg",
+      "durationSeconds": 2.0
+    },
+    {
+      "title": "Regulates Blood Sugar",
+      "image": "ProductShowcase_assets/dummy_image_1.jpg",
+      "durationSeconds": 2.5
+    },
+    {
+      "title": "Aids Dental Health",
+      "image": "ProductShowcase_assets/dummy_image_1.jpg",
+      "durationSeconds": 2.0
+    },
+    {
+      "title": "Hydration Support",
+      "image": "ProductShowcase_assets/dummy_image_1.jpg",
+      "durationSeconds": 2.5
+    },
+    {
+      "title": "Skin Glow Enhancer",
+      "image": "ProductShowcase_assets/dummy_image_1.jpg",
+      "durationSeconds": 3.0
+    }
+  ]
+}

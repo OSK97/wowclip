@@ -1,0 +1,77 @@
+{
+  "composition": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSeconds": 4
+  },
+  "logo": {
+    "show": true,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg",
+    "height": 90
+  },
+  "theme": {
+    "backgroundColor": "#FAF9F6",
+    "backgroundGradient": "radial-gradient(circle at center, #FFFFFF 20%, #F5F3ED 70%, #EAE7DC 100%)",
+    "textColor": "#1E1B18",
+    "subtextColor": "#7E756B",
+    "gridColor": "rgba(30, 27, 24, 0.15)",
+    "hubColorStart": "#0F766E",
+    "hubColorEnd": "#2DD4BF",
+    "childColorStart": "#059669",
+    "childColorEnd": "#34D399",
+    "lineColor": "rgba(16, 185, 129, 0.25)",
+    "particleColor": "#FFFFFF"
+  },
+  "bottomHeading": {
+    "text": "Network Operational Sync",
+    "fontSize": 64,
+    "fontWeight": 800,
+    "letterSpacing": -2,
+    "lineHeight": 1.05,
+    "marginBottom": 180
+  },
+  "indicator": {
+    "show": true,
+    "fontSize": 120,
+    "fontWeight": 800,
+    "suffix": " Gbps",
+    "color": "#1E1B18",
+    "opacity": 0.08,
+    "position": "bottom-left",
+    "marginBottom": 290,
+    "marginLeft": 60
+  },
+  "graph": {
+    "gridWidth": 1000,
+    "gridHeight": 1200,
+    "positionY": "53%",
+    "parentX": 500,
+    "parentY": 600,
+    "parentR": 75,
+    "childR": 55,
+    "lineWidth": 6,
+    "particleR": 14
+  },
+  "data": {
+    "parentLabel": "CORE",
+    "children": [
+      { "label": "Server Node A", "letter": "A", "angle": -90, "distance": 380 },
+      { "label": "Client Node B", "letter": "B", "angle": -18, "distance": 380 },
+      { "label": "Gateway Node C", "letter": "C", "angle": 54, "distance": 380 },
+      { "label": "API Service D", "letter": "D", "angle": 126, "distance": 380 },
+      { "label": "Database Node E", "letter": "E", "angle": 198, "distance": 380 }
+    ]
+  },
+  "animation": {
+    "gridFadeIn": [5, 25],
+    "bottomTextFadeIn": [10, 30],
+    "indicatorFadeIn": [15, 35],
+    "parentSyncStartFrame": 12,
+    "syncSpeedMax": 148,
+    "lineStaggerFrame": 3.5,
+    "lineDrawDuration": 20,
+    "breathingAmplitude": 0.005,
+    "breathingSpeed": 50
+  }
+}

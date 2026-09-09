@@ -1,0 +1,25 @@
+{
+  "documentNumber": "DIRECTIVE NO. 2026-894-A",
+  "classification": "UNCLASSIFIED // FOR OFFICIAL USE ONLY",
+  "headerDepartment": "DEPARTMENT OF COGNITIVE REGULATION",
+  "headerLocation": "WASHINGTON, D.C. 20530",
+  "memoTo": "Heads of All Executive Departments and Federal Agencies",
+  "memoFrom": "Office of the Attorney General & Technology Policy Director",
+  "date": "June 17, 2026",
+  "memoSubject": "ALIGNED DEVELOPMENT & COMPLIANCE OF AUTONOMOUS SYSTEMS",
+  "signatureName": "Hon. Evelyn Vance",
+  "signatureTitle": "Attorney General & Director of Science Policy",
+  "stamp": {
+    "text": "APPROVED",
+    "color": "#b71c1c",
+    "frame": 80,
+    "rotation": -15
+  },
+  "styling": {
+    "backgroundColor": "#faf7f0",
+    "textColor": "#1a1e24",
+    "sealColor": "#2d3648",
+    "inkStampColor": "#b71c1c",
+    "highlightColor": "rgba(255, 235, 59, 0.45)"
+  }
+}

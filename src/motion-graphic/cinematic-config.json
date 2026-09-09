@@ -1,0 +1,21 @@
+{
+  "fps": 24,
+  "timing": {
+    "startBufferSeconds": 1.0,
+    "introDuration": 2.0,
+    "slideDuration": 1.2,
+    "textHoldDuration": 1.0,
+    "endBufferSeconds": 1.0,
+    "showBottomCard": true,
+    "bottomCardDuration": 1.5
+  },
+  "content": {
+    "bgImage": "motion-graphic/download.png",
+    "mainImage": "motion-graphic/apple.png",
+    "showText": true,
+    "title": "Fresh\nPerspective",
+    "showSubtitle": true,
+    "subtitle": "A cinematic focus shift",
+    "bottomImage": "motion-graphic/tank.jpg"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "durationInSeconds": 8,
+  "kicker": "Breaking",
+  "logoUrl": "zee.png",
+  "accentColor": "#C084FC",
+  "headline": "Global Aerospace Venture Reveals Orbital Timeline",
+  "author": "By Space & Aviation Radar",
+  "dateStr": "September 30, 2026",
+  "description": "Industry leaders gathered today in Washington to discuss commercial space colonization. Missions will begin within three years as private enterprise partnerships accelerate propulsion breakthroughs across multiple orbital test stations.",
+  "highlights": [
+    {
+      "target": "description",
+      "at": 1.3,
+      "until": 3.9,
+      "fromWord": 11,
+      "toWord": 16,
+      "color": "yellow"
+    },
+    {
+      "target": "description",
+      "at": 4.1,
+      "until": 5.7,
+      "fromWord": 17,
+      "toWord": 19,
+      "color": "green"
+    }
+  ]
+}

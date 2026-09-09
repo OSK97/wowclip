@@ -1,0 +1,62 @@
+{
+  "durationInSeconds": 18,
+  "month": "OCTOBER",
+  "year": 2024,
+  "highlightedDate": 20,
+  "theme": {
+    "backgroundColor": "#121316",
+    "cardBg": "linear-gradient(180deg, #1e1e21 0%, #121214 100%)",
+    "accentColor": "#8B5CF6",
+    "accentBarGradient": "linear-gradient(90deg, #7C3AED, #8B5CF6 40%, #A78BFA 70%, #7C3AED)",
+    "textColor": "#ffffff",
+    "weekdayColor": "rgba(255, 255, 255, 0.35)",
+    "strokeColor": "#8B5CF6"
+  },
+  "timings": {
+    "zoomStartFrame": 96,
+    "zoomDuration": 36,
+    "diveStartFrame": 300,
+    "diveDuration": 48
+  },
+  "days": [
+    { "value": 30, "isCurrentMonth": false },
+    { "value": 1, "isCurrentMonth": true },
+    { "value": 2, "isCurrentMonth": true },
+    { "value": 3, "isCurrentMonth": true },
+    { "value": 4, "isCurrentMonth": true },
+    { "value": 5, "isCurrentMonth": true },
+    { "value": 6, "isCurrentMonth": true },
+
+    { "value": 7, "isCurrentMonth": true },
+    { "value": 8, "isCurrentMonth": true },
+    { "value": 9, "isCurrentMonth": true },
+    { "value": 10, "isCurrentMonth": true },
+    { "value": 11, "isCurrentMonth": true },
+    { "value": 12, "isCurrentMonth": true },
+    { "value": 13, "isCurrentMonth": true },
+
+    { "value": 14, "isCurrentMonth": true },
+    { "value": 15, "isCurrentMonth": true },
+    { "value": 16, "isCurrentMonth": true },
+    { "value": 17, "isCurrentMonth": true },
+    { "value": 18, "isCurrentMonth": true },
+    { "value": 19, "isCurrentMonth": true },
+    { "value": 20, "isCurrentMonth": true },
+
+    { "value": 21, "isCurrentMonth": true },
+    { "value": 22, "isCurrentMonth": true },
+    { "value": 23, "isCurrentMonth": true },
+    { "value": 24, "isCurrentMonth": true },
+    { "value": 25, "isCurrentMonth": true },
+    { "value": 26, "isCurrentMonth": true },
+    { "value": 27, "isCurrentMonth": true },
+
+    { "value": 28, "isCurrentMonth": true },
+    { "value": 29, "isCurrentMonth": true },
+    { "value": 30, "isCurrentMonth": true },
+    { "value": 31, "isCurrentMonth": true },
+    { "value": 1, "isCurrentMonth": false },
+    { "value": 2, "isCurrentMonth": false },
+    { "value": 3, "isCurrentMonth": false }
+  ]
+}

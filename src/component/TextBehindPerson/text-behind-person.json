@@ -1,0 +1,24 @@
+{
+  "fps": 24,
+  "durationInSeconds": 4,
+  "totalFrames": 96,
+  "clip": "tbp_assets/clip.mp4",
+  "framesDir": "tbp_assets/frames",
+  "foregroundDir": "tbp_assets/foreground",
+  "text": {
+    "line1": "DISCIPLINE",
+    "line1Style": "italic-serif",
+    "line2": "CHANGES",
+    "line2Style": "bold-sans",
+    "line3": "everything",
+    "line3Style": "italic-serif"
+  },
+  "placement": {
+    "textY": 820,
+    "textX": 540,
+    "fontSize": 100,
+    "textColor": "#FFFFFF",
+    "textShadow": "0 2px 30px rgba(0,0,0,0.7), 0 0px 60px rgba(0,0,0,0.4)",
+    "personPosition": "center"
+  }
+}

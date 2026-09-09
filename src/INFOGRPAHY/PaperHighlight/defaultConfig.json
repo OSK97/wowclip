@@ -1,0 +1,711 @@
+{
+  "version": 2,
+  "composition": {
+    "id": "PaperHighlightReplica",
+    "width": 1080,
+    "height": 1920,
+    "fps": 24,
+    "durationSeconds": 2.5,
+    "posterizeFps": 14,
+    "audioLoopFrames": 14,
+    "cutFrames": [0, 8, 16, 22, 28, 35, 42, 50, 58, 65]
+  },
+  "highlightText": "Gaza War",
+  "focus": {
+    "anchorX": 0.5,
+    "anchorY": 0.42,
+    "fontFamily": "Tinos, 'Times New Roman', serif",
+    "fontSize": 82,
+    "fontWeight": 700,
+    "lineHeight": 0.98,
+    "letterSpacing": -0.5,
+    "markerColor": "#FFD42A",
+    "markerOpacity": 0.84,
+    "markerPaddingX": 15,
+    "markerPaddingY": 5,
+    "markerRoughness": 0.5,
+    "maxXDrift": 8,
+    "maxYDrift": 8,
+    "maxSizeVariationPercent": 4
+  },
+  "typography": {
+    "fontFamily": "Tinos, 'Times New Roman', serif",
+    "bodyFontSize": 50,
+    "bodyLineHeight": 1.25,
+    "headlineFontSize": 96,
+    "headlineLineHeight": 1.0,
+    "textColor": "#11100E"
+  },
+  "paper": {
+    "baseColor": "#fff4cc",
+    "globalGrainOpacity": 0.10,
+    "globalFibreOpacity": 0.07,
+    "globalCrumpleOpacity": 0.10,
+    "stainOpacity": 0.08,
+    "edgeDarkening": 0.05
+  },
+  "motion": {
+    "globalPush": 0.012,
+    "useCrossfade": false,
+    "useMotionBlur": false
+  },
+  "pages": [
+    {
+      "id": "page-01",
+      "layout": "body-focus-with-lower-headline",
+      "seed": 201,
+      "focusLine": {
+        "prefix": "impact of the",
+        "highlight": "{{highlightText}}",
+        "suffix": "has driven current"
+      },
+      "headline": "Rental Program Temporarily Withheld Due To Crisis",
+      "topParagraphs": [
+        "Officials said the expanded programme could begin citywide by next year, pending further review of the situation.",
+        "Representatives discussed public safety measures during the weekly meeting, emphasizing the need for immediate action in affected districts.",
+        "A secondary report highlights the structural deficiencies in the existing policy."
+      ],
+      "bottomParagraphs": [
+        "The regional council approved a shared plan that will allow local municipalities to coordinate maintenance and emergency dispatch more effectively.",
+        "Further details are expected after the next public session, where stakeholders will voice their concerns directly to the committee.",
+        "This follows a series of unprecedented challenges that have strained regional resources.",
+        "Economic forecasters remain cautious about the long-term prospects of recovery.",
+        "The newly proposed infrastructure bill aims to address the growing urban transit challenges, allocating substantial resources to modernization."
+      ],
+      "transform": {
+        "scale": 1.02,
+        "translateX": -14,
+        "translateY": 18,
+        "rotate": -0.1
+      },
+      "textures": {
+        "crease": "crease-01",
+        "tear": null,
+        "stain": "stain-01"
+      }
+    },
+    {
+      "id": "page-02",
+      "layout": "dense-column-focus",
+      "seed": 202,
+      "focusLine": {
+        "prefix": "Despite the impacts of the",
+        "highlight": "{{highlightText}}",
+        "suffix": ", many initiatives"
+      },
+      "topParagraphs": [
+        "Economic forecasters predict a slow recovery across multiple industrial sectors, noting an increase in manufacturing costs.",
+        "A formal statement released by the committee highlights the necessity of long-term investments in renewable energy.",
+        "Several key figures have stepped down following the controversial decision."
+      ],
+      "bottomParagraphs": [
+        "Local businesses continue to adapt to new regulatory frameworks introduced late last month.",
+        "Stakeholders are urging the administration to clarify funding allocation for the upcoming fiscal year.",
+        "Community leaders expressed their dismay at the lack of transparency in the procurement process.",
+        "Protests have erupted in several major cities in response to the latest developments.",
+        "Analysts suggest that further market volatility is to be expected in the short term."
+      ],
+      "transform": {
+        "scale": 1.05,
+        "translateX": 25,
+        "translateY": 40,
+        "rotate": 0.3
+      },
+      "textures": {
+        "crease": "crease-02",
+        "tear": "tear-01",
+        "stain": null
+      }
+    },
+    {
+      "id": "page-03",
+      "layout": "body-focus",
+      "seed": 203,
+      "focusLine": {
+        "prefix": "discussions concerning the",
+        "highlight": "{{highlightText}}",
+        "suffix": "have dominated recent"
+      },
+      "topParagraphs": [
+        "The summit concluded with a unanimous agreement on several environmental protection policies.",
+        "However, key financial issues remain unresolved, leaving many uncertain about the future.",
+        "A joint task force has been established to monitor compliance with the new regulations."
+      ],
+      "bottomParagraphs": [
+        "Citizens expressed their concerns at the public forum held yesterday evening at the community center.",
+        "The methodology utilized in the study has been praised for its rigorous standards and innovative approach.",
+        "Despite early setbacks, the project is now proceeding according to the revised schedule.",
+        "Funding for the initiative was secured through a public-private partnership."
+      ],
+      "transform": {
+        "scale": 1.03,
+        "translateX": -15,
+        "translateY": -30,
+        "rotate": -0.2
+      },
+      "textures": {
+        "crease": null,
+        "tear": null,
+        "stain": "stain-02"
+      }
+    },
+    {
+      "id": "page-04",
+      "layout": "body-focus",
+      "seed": 204,
+      "focusLine": {
+        "prefix": "The underlying causes of the",
+        "highlight": "{{highlightText}}",
+        "suffix": "were meticulously"
+      },
+      "topParagraphs": [
+        "A comprehensive review of historical data reveals unexpected trends in consumer behavior over the past decade.",
+        "Experts warn that failing to adapt to these changes could have severe economic consequences."
+      ],
+      "bottomParagraphs": [
+        "Researchers published their findings in a peer-reviewed journal, emphasizing the need for further study.",
+        "The methodology utilized in the study has been praised for its rigorous standards and innovative approach.",
+        "Subsequent investigations have uncovered additional layers of complexity within the system.",
+        "The report calls for immediate legislative action to address the identified loopholes.",
+        "Critics argue that the proposed solutions are insufficient and overly bureaucratic."
+      ],
+      "transform": {
+        "scale": 1.02,
+        "translateX": 45,
+        "translateY": 10,
+        "rotate": 0.1
+      },
+      "textures": {
+        "crease": "crease-03",
+        "tear": null,
+        "stain": null
+      }
+    },
+    {
+      "id": "page-05",
+      "layout": "sparse-paper-focus",
+      "seed": 205,
+      "focusLine": {
+        "prefix": "In the aftermath of the",
+        "highlight": "{{highlightText}}",
+        "suffix": ", communities"
+      },
+      "topParagraphs": [
+        "Volunteer organizations mobilized rapidly to provide essential supplies and logistical support to those in need.",
+        "The coordination between various groups was commendable, given the difficult circumstances.",
+        "Early assessments indicate that the damage is far more extensive than initially reported."
+      ],
+      "bottomParagraphs": [
+        "The resilience of the affected populations has garnered international attention and praise.",
+        "Efforts to rebuild critical infrastructure are already underway in the most severely impacted areas.",
+        "Donations have poured in from across the globe, providing much-needed relief.",
+        "A long-term recovery plan is being drafted by a coalition of experts and community leaders."
+      ],
+      "transform": {
+        "scale": 1.06,
+        "translateX": -50,
+        "translateY": -50,
+        "rotate": -0.4
+      },
+      "textures": {
+        "crease": "crease-01",
+        "tear": "tear-02",
+        "stain": null
+      }
+    },
+    {
+      "id": "page-06",
+      "layout": "body-focus-with-lower-headline",
+      "seed": 206,
+      "focusLine": {
+        "prefix": "a direct consequence of the",
+        "highlight": "{{highlightText}}",
+        "suffix": "which altered"
+      },
+      "headline": "City Council Approves New Zoning Laws",
+      "topParagraphs": [
+        "An unprecedented level of cooperation between rival political factions led to the breakthrough agreement.",
+        "The legislation is expected to stimulate housing development while preserving historical neighborhoods."
+      ],
+      "bottomParagraphs": [
+        "Opponents argue that the changes may lead to increased traffic congestion in residential areas.",
+        "A special committee has been formed to monitor the implementation and address any unforeseen issues.",
+        "The mayor praised the council's decision as a major step forward for the city's future.",
+        "Property values are expected to fluctuate as the market adjusts to the new regulations.",
+        "Several environmental groups have filed petitions demanding stricter oversight of future projects."
+      ],
+      "transform": {
+        "scale": 1.04,
+        "translateX": 10,
+        "translateY": -20,
+        "rotate": 0.2
+      },
+      "textures": {
+        "crease": null,
+        "tear": null,
+        "stain": "stain-01"
+      }
+    },
+    {
+      "id": "page-07",
+      "layout": "headline-focus",
+      "seed": 207,
+      "focusLine": {
+        "prefix": "IMPACT OF THE",
+        "highlight": "{{highlightText}}",
+        "suffix": "ASSESSED"
+      },
+      "topParagraphs": [
+        "Preliminary reports indicate a significant shift in diplomatic priorities following the recent summit.",
+        "International observers are closely monitoring the situation as it continues to unfold."
+      ],
+      "bottomParagraphs": [
+        "The secretary's remarks yesterday underscored the urgency of establishing a stable framework for negotiations.",
+        "Analysts suggest that further developments are imminent, given the current political climate.",
+        "The border closure has disrupted trade and exacerbated existing humanitarian issues.",
+        "A special envoy has been dispatched to facilitate dialogue between the conflicting parties.",
+        "The United Nations has called for an immediate ceasefire to allow for the delivery of aid."
+      ],
+      "transform": {
+        "scale": 1.04,
+        "translateX": -20,
+        "translateY": 30,
+        "rotate": -0.1
+      },
+      "textures": {
+        "crease": "crease-02",
+        "tear": null,
+        "stain": null
+      }
+    },
+    {
+      "id": "page-08",
+      "layout": "two-line-headline-focus",
+      "seed": 208,
+      "focusLine": {
+        "prefix": "THE",
+        "highlight": "{{highlightText}}",
+        "suffix": "CRISIS"
+      },
+      "subheadline": "New Perspectives on Historic Challenges",
+      "topParagraphs": [
+        "Archival documents recently declassified offer fresh insights into the decision-making process of the era.",
+        "The release of these papers has reignited debate among scholars and historians alike."
+      ],
+      "bottomParagraphs": [
+        "Historians are re-evaluating long-held assumptions in light of this new evidence.",
+        "The findings will be presented at the upcoming academic conference next month.",
+        "The newly discovered letters provide a more nuanced understanding of the key figures involved.",
+        "Several documentaries are already in production, aiming to bring this story to a wider audience.",
+        "The implications of these discoveries could reshape our understanding of international relations."
+      ],
+      "transform": {
+        "scale": 1.05,
+        "translateX": 35,
+        "translateY": -15,
+        "rotate": 0.4
+      },
+      "textures": {
+        "crease": "crease-03",
+        "tear": "tear-01",
+        "stain": "stain-02"
+      }
+    },
+    {
+      "id": "page-09",
+      "layout": "cropped-headline-focus",
+      "seed": 209,
+      "focusLine": {
+        "prefix": "DURING THE",
+        "highlight": "{{highlightText}}",
+        "suffix": "AND BEYOND"
+      },
+      "topParagraphs": [
+        "The exhibition features a curated collection of artifacts and personal accounts from the period.",
+        "Visitors have reported being deeply moved by the exhibits and the stories they tell."
+      ],
+      "bottomParagraphs": [
+        "Museum curators emphasized the importance of preserving these primary sources for future generations.",
+        "The gallery will remain open to the public through the end of the year, due to popular demand.",
+        "A companion book, featuring essays by leading experts, will be published in the fall.",
+        "The interactive displays provide a compelling and immersive experience for younger audiences.",
+        "Funding for the exhibition was provided by a generous grant from the national endowment."
+      ],
+      "transform": {
+        "scale": 1.03,
+        "translateX": -40,
+        "translateY": -5,
+        "rotate": -0.3
+      },
+      "textures": {
+        "crease": "crease-01",
+        "tear": null,
+        "stain": null
+      }
+    },
+    {
+      "id": "page-10",
+      "layout": "body-focus",
+      "seed": 210,
+      "focusLine": {
+        "prefix": "strategic miscalculations regarding the",
+        "highlight": "{{highlightText}}",
+        "suffix": "ultimately"
+      },
+      "topParagraphs": [
+        "A critical analysis of the campaign reveals significant logistical failures and intelligence gaps.",
+        "Commanders acknowledged the unforeseen difficulties encountered on the ground.",
+        "The lack of clear objectives contributed to the overall confusion and low morale."
+      ],
+      "bottomParagraphs": [
+        "The revised strategy attempts to mitigate these risks by emphasizing rapid deployment and flexible response.",
+        "Military analysts debate the effectiveness of the new doctrine in modern conflict scenarios.",
+        "The procurement of advanced weaponry is seen as a necessary step to maintain a competitive edge.",
+        "Joint training exercises with allied nations have been scheduled for the upcoming spring.",
+        "The defense budget is expected to face intense scrutiny during the next legislative session."
+      ],
+      "transform": {
+        "scale": 1.06,
+        "translateX": 15,
+        "translateY": 45,
+        "rotate": 0.2
+      },
+      "textures": {
+        "crease": null,
+        "tear": "tear-02",
+        "stain": "stain-01"
+      }
+    },
+    {
+      "id": "page-11",
+      "layout": "dense-column-focus",
+      "seed": 211,
+      "focusLine": {
+        "prefix": "coverage of the",
+        "highlight": "{{highlightText}}",
+        "suffix": "has often been"
+      },
+      "topParagraphs": [
+        "Media watchdogs have criticized the polarization of news broadcasting in recent years.",
+        "A growing reliance on sensationalism has eroded public trust in journalistic institutions.",
+        "The proliferation of misinformation online has further complicated the media landscape."
+      ],
+      "bottomParagraphs": [
+        "Efforts to promote media literacy are gaining traction in educational curricula nationwide.",
+        "Independent fact-checking organizations play an increasingly vital role in public discourse.",
+        "The debate over the regulation of social media platforms continues to intensify.",
+        "Several high-profile cases of libel have recently been settled out of court.",
+        "The industry faces significant challenges in adapting to the digital age while maintaining editorial integrity."
+      ],
+      "transform": {
+        "scale": 1.05,
+        "translateX": -25,
+        "translateY": -35,
+        "rotate": -0.4
+      },
+      "textures": {
+        "crease": "crease-02",
+        "tear": null,
+        "stain": null
+      }
+    },
+    {
+      "id": "page-12",
+      "layout": "body-focus-with-lower-headline",
+      "seed": 212,
+      "focusLine": {
+        "prefix": "when the",
+        "highlight": "{{highlightText}}",
+        "suffix": "began, many analysts"
+      },
+      "headline": "Market Volatility Continues Amid Uncertainty",
+      "topParagraphs": [
+        "Investors react nervously to the latest economic indicators, which suggest a potential slowdown.",
+        "The tech sector has been particularly hard hit, with several major companies reporting lower than expected earnings."
+      ],
+      "bottomParagraphs": [
+        "The central bank is considering a further interest rate adjustment to stabilize the currency.",
+        "Financial experts advise caution as global supply chains remain strained due to ongoing geopolitical tensions.",
+        "Commodity prices have fluctuated wildly in recent weeks, causing concern among manufacturers.",
+        "The housing market shows signs of cooling off after a period of rapid expansion.",
+        "Consumers are tightening their belts in anticipation of a potential recession."
+      ],
+      "transform": {
+        "scale": 1.02,
+        "translateX": 30,
+        "translateY": 15,
+        "rotate": 0.3
+      },
+      "textures": {
+        "crease": "crease-03",
+        "tear": null,
+        "stain": "stain-02"
+      }
+    },
+    {
+      "id": "page-13",
+      "layout": "sparse-paper-focus",
+      "seed": 213,
+      "focusLine": {
+        "prefix": "rebuilding after the",
+        "highlight": "{{highlightText}}",
+        "suffix": "requires substantial"
+      },
+      "topParagraphs": [
+        "International aid agencies have launched an extensive fundraising campaign to support the reconstruction efforts.",
+        "The initial phase will focus on restoring critical infrastructure and public utilities in the hardest-hit areas.",
+        "The delivery of aid has been hampered by logistical bottlenecks and security concerns."
+      ],
+      "bottomParagraphs": [
+        "Local contractors are working around the clock to clear debris and secure hazardous areas.",
+        "Progress is visible, though monumental tasks lie ahead before normal life can resume.",
+        "The international community has pledged significant financial support for the recovery.",
+        "A centralized coordination center has been established to oversee the distribution of resources.",
+        "Public health officials warn of potential disease outbreaks if sanitation is not promptly addressed."
+      ],
+      "transform": {
+        "scale": 1.04,
+        "translateX": -10,
+        "translateY": -10,
+        "rotate": -0.2
+      },
+      "textures": {
+        "crease": "crease-01",
+        "tear": "tear-01",
+        "stain": null
+      }
+    },
+    {
+      "id": "page-14",
+      "layout": "headline-focus",
+      "seed": 214,
+      "focusLine": {
+        "prefix": "THE",
+        "highlight": "{{highlightText}}",
+        "suffix": "NEGOTIATIONS"
+      },
+      "topParagraphs": [
+        "Diplomats from the participating nations arrived in the capital earlier this morning.",
+        "The agenda for the talks remains tightly guarded, fueling speculation about potential breakthroughs.",
+        "A sense of cautious optimism permeated the opening statements."
+      ],
+      "bottomParagraphs": [
+        "Sources close to the negotiations suggest that a preliminary framework may be agreed upon by the weekend.",
+        "The success of the talks is crucial for regional stability and long-term economic growth.",
+        "Several contentious issues, including border disputes and resource allocation, remain unresolved.",
+        "Bilateral meetings have been scheduled on the sidelines of the main conference.",
+        "The international community is watching closely, hoping for a peaceful resolution."
+      ],
+      "transform": {
+        "scale": 1.05,
+        "translateX": 20,
+        "translateY": -25,
+        "rotate": 0.1
+      },
+      "textures": {
+        "crease": null,
+        "tear": null,
+        "stain": "stain-01"
+      }
+    },
+    {
+      "id": "page-15",
+      "layout": "body-focus",
+      "seed": 215,
+      "focusLine": {
+        "prefix": "the shadow of the",
+        "highlight": "{{highlightText}}",
+        "suffix": "looms over the"
+      },
+      "topParagraphs": [
+        "The literary festival opened with a panel discussion exploring the thematic elements of recent novels.",
+        "Authors debated the role of art in times of political turmoil and social unrest.",
+        "The venue was packed to capacity, reflecting a growing public interest in contemporary literature."
+      ],
+      "bottomParagraphs": [
+        "The overarching sentiment was one of cautious optimism regarding the power of storytelling to foster empathy.",
+        "The festival will conclude with an awards ceremony on Sunday, honoring the best new voices.",
+        "Workshops and readings have been held throughout the week at various locations across the city.",
+        "The organizers hope to expand the event next year to include more international participants.",
+        "A special exhibition showcasing rare manuscripts is also on display at the local library."
+      ],
+      "transform": {
+        "scale": 1.07,
+        "translateX": -35,
+        "translateY": 35,
+        "rotate": -0.4
+      },
+      "textures": {
+        "crease": "crease-02",
+        "tear": "tear-02",
+        "stain": null
+      }
+    },
+    {
+      "id": "page-16",
+      "layout": "cropped-headline-focus",
+      "seed": 216,
+      "focusLine": {
+        "prefix": "REFLECTING ON THE",
+        "highlight": "{{highlightText}}",
+        "suffix": "YEARS LATER"
+      },
+      "topParagraphs": [
+        "A commemorative ceremony was held at the national monument, attended by dignitaries and citizens alike.",
+        "The solemn event featured a moment of silence and a performance by the national choir."
+      ],
+      "bottomParagraphs": [
+        "The keynote address emphasized the enduring legacy of those who sacrificed their lives.",
+        "Floral wreaths were laid at the base of the memorial in a moving tribute.",
+        "Veterans shared their personal stories and reflections on the impact of the conflict.",
+        "The ceremony serves as a powerful reminder of the cost of war and the importance of peace.",
+        "Educational programs are being launched to ensure that future generations understand this critical period in history."
+      ],
+      "transform": {
+        "scale": 1.02,
+        "translateX": 40,
+        "translateY": 5,
+        "rotate": 0.2
+      },
+      "textures": {
+        "crease": "crease-03",
+        "tear": null,
+        "stain": "stain-02"
+      }
+    },
+    {
+      "id": "page-17",
+      "layout": "two-line-headline-focus",
+      "seed": 217,
+      "focusLine": {
+        "prefix": "ANALYZING",
+        "highlight": "{{highlightText}}",
+        "suffix": "DATA"
+      },
+      "subheadline": "Statistical Models Reveal New Patterns",
+      "topParagraphs": [
+        "The research team utilized advanced machine learning algorithms to process the vast dataset.",
+        "The results challenge previously accepted paradigms in the field of sociology.",
+        "A peer review of the study confirmed the validity of the innovative methodology."
+      ],
+      "bottomParagraphs": [
+        "Further validation is required before the findings can be widely applied in practice.",
+        "The methodology is outlined in detail in the supplementary materials published online.",
+        "The study's authors call for increased interdisciplinary collaboration to tackle complex societal issues.",
+        "Funding for the research was provided by a consortium of universities and private foundations.",
+        "The implications of these findings are likely to reverberate across multiple academic disciplines."
+      ],
+      "transform": {
+        "scale": 1.03,
+        "translateX": -15,
+        "translateY": -45,
+        "rotate": -0.2
+      },
+      "textures": {
+        "crease": "crease-01",
+        "tear": null,
+        "stain": null
+      }
+    },
+    {
+      "id": "page-18",
+      "layout": "dense-column-focus",
+      "seed": 218,
+      "focusLine": {
+        "prefix": "the economic fallout of the",
+        "highlight": "{{highlightText}}",
+        "suffix": "is still being"
+      },
+      "topParagraphs": [
+        "Small businesses, in particular, have struggled to adapt to the changing economic landscape.",
+        "Government subsidies have provided temporary relief, but long-term solutions are urgently needed.",
+        "The tourism industry has suffered a significant decline in revenue."
+      ],
+      "bottomParagraphs": [
+        "Innovation and entrepreneurship are viewed as critical drivers of future economic growth.",
+        "Chambers of commerce are lobbying for more supportive tax policies to encourage investment.",
+        "The retraining of the workforce is essential to meet the demands of emerging industries.",
+        "A series of public-private partnerships have been proposed to revitalize distressed communities.",
+        "Economists are divided on the best course of action, with some advocating for austerity and others for stimulus."
+      ],
+      "transform": {
+        "scale": 1.04,
+        "translateX": 25,
+        "translateY": 25,
+        "rotate": 0.4
+      },
+      "textures": {
+        "crease": "crease-02",
+        "tear": "tear-01",
+        "stain": "stain-01"
+      }
+    },
+    {
+      "id": "page-19",
+      "layout": "body-focus-with-lower-headline",
+      "seed": 219,
+      "focusLine": {
+        "prefix": "narratives surrounding the",
+        "highlight": "{{highlightText}}",
+        "suffix": "are increasingly"
+      },
+      "headline": "Public Transportation Overhaul Proposed",
+      "topParagraphs": [
+        "Sociologists are studying the impact of social media on the dissemination of information and the formation of public opinion.",
+        "The speed at which narratives evolve has unprecedented implications for political stability.",
+        "A recent survey indicates a growing skepticism toward traditional news sources."
+      ],
+      "bottomParagraphs": [
+        "The transit authority unveiled an ambitious plan to modernize the aging subway system.",
+        "The project will require substantial federal funding and years of construction to complete.",
+        "Commuters are expected to face significant disruptions during the upgrade process.",
+        "The new trains will feature state-of-the-art safety systems and improved accessibility.",
+        "Environmentalists have praised the plan's focus on reducing carbon emissions."
+      ],
+      "transform": {
+        "scale": 1.05,
+        "translateX": -30,
+        "translateY": -15,
+        "rotate": -0.3
+      },
+      "textures": {
+        "crease": null,
+        "tear": null,
+        "stain": "stain-02"
+      }
+    },
+    {
+      "id": "page-20",
+      "layout": "body-focus",
+      "seed": 220,
+      "focusLine": {
+        "prefix": "ultimately, the lessons of the",
+        "highlight": "{{highlightText}}",
+        "suffix": "must not be"
+      },
+      "topParagraphs": [
+        "The final chapter of the book offers a sobering reflection on the events that transpired.",
+        "The author argues that memory is a crucial component of societal resilience.",
+        "The narrative weaves together personal anecdotes and historical analysis."
+      ],
+      "bottomParagraphs": [
+        "Educators are incorporating these themes into the curriculum to foster critical thinking among students.",
+        "The legacy of this period will undoubtedly shape future generations and their approach to conflict resolution.",
+        "The book has received widespread critical acclaim and has sparked important conversations.",
+        "A documentary adaptation is currently in the early stages of development.",
+        "The author will embark on a nationwide speaking tour to discuss the book's findings."
+      ],
+      "transform": {
+        "scale": 1.04,
+        "translateX": 10,
+        "translateY": 50,
+        "rotate": 0.2
+      },
+      "textures": {
+        "crease": "crease-03",
+        "tear": "tear-02",
+        "stain": null
+      }
+    }
+  ]
+}

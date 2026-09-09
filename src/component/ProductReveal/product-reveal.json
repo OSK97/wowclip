@@ -1,0 +1,56 @@
+{
+  "_capabilities": "This JSON completely controls the Product Reveal layout and timing. You can design ANY card interface using the footer blocks.",
+  "composition": {
+    "durationSeconds": 7,
+    "fps": 30
+  },
+  "theme": {
+    "initialBg": "#0B0E14",
+    "initialBgShade": "rgba(0,0,0,0.3)",
+    "cardBg": "hsl(220, 16%, 10%)",
+    "cardRadius": 36,
+    "cardWidth": 720,
+    "imageAreaHeight": 460,
+    "finalBg": "#030712",
+    "finalBgGradient": "radial-gradient(ellipse 130% 90% at 50% 35%, #0F172A 0%, #070D1F 60%, #020408 100%)",
+    "showOrbs": true,
+    "orb1Color": "rgba(56, 189, 248, 0.14)",
+    "orb2Color": "rgba(129, 140, 248, 0.09)",
+    "gridColor": "rgba(56, 189, 248, 0.05)",
+    "showGrid": true,
+    "imageHoldFrames": 45
+  },
+  "image": {
+    "src": "Components/iphone.png",
+    "objectFit": "contain"
+  },
+  "footer": [
+    {
+      "type": "label",
+      "value": "APPLE",
+      "enterFrame": 95,
+      "color": "#38BDF8",
+      "fontSize": 26,
+      "fontWeight": 900
+    },
+    {
+      "type": "title",
+      "value": "iPhone 16 Pro Max",
+      "enterFrame": 110,
+      "color": "#FFFFFF",
+      "fontSize": 56,
+      "fontWeight": 800
+    },
+    {
+      "type": "price",
+      "value": "₹1,44,900",
+      "enterFrame": 130,
+      "transitionFrame": 175,
+      "transitionValue": "₹1,29,900",
+      "transitionColor": "#10B981",
+      "color": "#E2E8F0",
+      "fontSize": 48,
+      "fontWeight": 700
+    }
+  ]
+}

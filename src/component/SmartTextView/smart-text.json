@@ -1,0 +1,39 @@
+{
+  "theme": {
+    "backgroundColor": "#0F172A",
+    "backgroundGradient": "radial-gradient(circle at 50% 50%, #1E293B 0%, #0F172A 60%, #020617 100%)",
+    "showOrbs": false,
+    "showGrid": false,
+    "textFontSize": 56,
+    "numberFontSize": 100,
+    "lineHeight": 1.5,
+    "textAlign": "center",
+    "wordStaggerFrames": 5,
+    "countUpDuration": 40
+  },
+  "segments": [
+    {
+      "type": "text",
+      "value": "Just",
+      "style": "normal",
+      "color": "#94A3B8",
+      "animation": "fadeUp"
+    },
+    {
+      "type": "number",
+      "value": 1,
+      "suffix": "%",
+      "decimals": 0,
+      "format": "normal",
+      "animation": "countUp",
+      "color": "#22D3EE"
+    },
+    {
+      "type": "text",
+      "value": "better every single day.",
+      "style": "bold",
+      "color": "#F8FAFC",
+      "animation": "wordReveal"
+    }
+  ]
+}

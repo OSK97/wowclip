@@ -1,0 +1,73 @@
+{
+  "composition": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "durationSeconds": 8
+  },
+  "theme": {
+    "backgroundColor": "#0f172a",
+    "backgroundGradient": "linear-gradient(180deg, #0f172a 0%, #1e293b 50%, #0f172a 100%)",
+    "spineColor": "rgba(148, 163, 184, 0.2)",
+    "spineWidth": 3,
+    "nodeColor": "#3b82f6",
+    "nodeSize": 22,
+    "activeNodeColor": "#22c55e",
+    "activeNodeGlow": "rgba(34, 197, 94, 0.3)",
+    "dateColor": "#94a3b8",
+    "dateFontSize": 24,
+    "titleColor": "#ffffff",
+    "titleFontSize": 30,
+    "descriptionColor": "#94a3b8",
+    "descriptionFontSize": 22,
+    "connectorColor": "rgba(148, 163, 184, 0.15)",
+    "cardBg": "rgba(30, 41, 59, 0.5)",
+    "cardBorder": "rgba(100, 116, 139, 0.15)",
+    "cardRadius": 16
+  },
+  "title": {
+    "text": "The Journey",
+    "fontSize": 44,
+    "color": "#ffffff",
+    "subtitle": "From startup to unicorn",
+    "subtitleColor": "#94a3b8",
+    "subtitleFontSize": 26
+  },
+  "milestones": [
+    {
+      "date": "2010",
+      "title": "Company Founded",
+      "description": "Started in a garage with 3 people",
+      "isActive": false
+    },
+    {
+      "date": "2013",
+      "title": "First Funding",
+      "description": "Raised $2M seed round",
+      "isActive": false
+    },
+    {
+      "date": "2016",
+      "title": "1M Users",
+      "description": "Crossed one million active users",
+      "isActive": false
+    },
+    {
+      "date": "2020",
+      "title": "Series C",
+      "description": "Raised $150M at $1B valuation",
+      "isActive": false
+    },
+    {
+      "date": "2024",
+      "title": "IPO",
+      "description": "Listed on NASDAQ at $5B market cap",
+      "isActive": true
+    }
+  ],
+  "animation": {
+    "spineDrawFrames": 30,
+    "nodeStaggerFrames": 20,
+    "nodeEntranceDelay": 15
+  }
+}

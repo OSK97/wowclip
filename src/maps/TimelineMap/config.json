@@ -1,0 +1,61 @@
+{
+  "totalDurationInFrames": 260,
+  "country": "india",
+  "theme": {
+    "mapColor": "#DADADA",
+    "highlightColor": "#F97316",
+    "backgroundColor": "#FAF9F6",
+    "gridColor": "",
+    "textColor": "#0F172A"
+  },
+  "timeline": [
+    {
+      "stateId": "INRJ",
+      "year": "2024",
+      "title": "RAJASTHAN",
+      "description": "Narendra Modi & BJP Leadership",
+      "highlightColor": "#F97316",
+      "steps": [
+        {
+          "mode": "image",
+          "image": "Documnetry_Info_assets/bjp.jpg",
+          "durationInFrames": 50
+        },
+        {
+          "mode": "png",
+          "pngs": [
+            {
+              "id": "modi-rajasthan",
+              "image": "modi.png"
+            }
+          ],
+          "durationInFrames": 70
+        }
+      ]
+    },
+    {
+      "stateId": "INOR",
+      "year": "2024",
+      "title": "ODISHA",
+      "description": "Narendra Modi & Odisha Governance",
+      "highlightColor": "#3B82F6",
+      "steps": [
+        {
+          "mode": "image",
+          "image": "Documnetry_Info_assets/bjp.jpg",
+          "durationInFrames": 50
+        },
+        {
+          "mode": "png",
+          "pngs": [
+            {
+              "id": "modi-odisha",
+              "image": "modi.png"
+            }
+          ],
+          "durationInFrames": 70
+        }
+      ]
+    }
+  ]
+}

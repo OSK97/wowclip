@@ -1,0 +1,287 @@
+{
+  "fps": 30,
+  "theme": {
+    "mode": "light",
+    "accent": "#0284C7"
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "durationInSeconds": 5,
+      "elements": [
+        {
+          "type": "video",
+          "src": "showcase_video.mp4"
+        },
+        {
+          "type": "text",
+          "tone": "title",
+          "value": "Every answer you get from an AI burns real electricity",
+          "emphasis": ["burns real electricity"]
+        }
+      ]
+    },
+    {
+      "id": "scale",
+      "durationInSeconds": 6,
+      "elements": [
+        {
+          "type": "kicker",
+          "value": "THE SCALE"
+        },
+        {
+          "type": "statRow",
+          "highlight": 1,
+          "stats": [
+            { "value": 460, "suffix": " TWh", "label": "Used by data centres in 2022" },
+            { "value": 1050, "suffix": " TWh", "label": "Projected for 2026" }
+          ]
+        },
+        {
+          "type": "text",
+          "tone": "body",
+          "value": "That second number is roughly all of Japan.",
+          "emphasis": ["all of Japan"]
+        }
+      ]
+    },
+    {
+      "id": "onequestion",
+      "durationInSeconds": 7,
+      "layout": "hero",
+      "elements": [
+        {
+          "type": "number",
+          "value": 10,
+          "suffix": "x",
+          "label": "An AI search versus a normal one"
+        },
+        {
+          "type": "bullets",
+          "marker": "dash",
+          "highlight": 0,
+          "items": [
+            "A plain web search: 0.3 watt-hours",
+            "One AI answer: about 3 watt-hours",
+            "Multiply by a billion queries a day"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "growth",
+      "durationInSeconds": 6,
+      "elements": [
+        {
+          "type": "kicker",
+          "value": "DEMAND CURVE"
+        },
+        {
+          "type": "lineGraph",
+          "points": [
+            { "label": "2020", "value": 210 },
+            { "label": "2021", "value": 260 },
+            { "label": "2022", "value": 340 },
+            { "label": "2023", "value": 480 },
+            { "label": "2024", "value": 690 }
+          ]
+        },
+        {
+          "type": "text",
+          "tone": "caption",
+          "value": "Global AI training compute, in petaflop-days."
+        }
+      ]
+    },
+    {
+      "id": "whopays",
+      "durationInSeconds": 7,
+      "elements": [
+        {
+          "type": "kicker",
+          "value": "WHO IS BUILDING"
+        },
+        {
+          "type": "table",
+          "columns": ["Company", "Spend 2024", "Sites"],
+          "rows": [
+            ["Microsoft", "$53B", "300+"],
+            ["Amazon", "$48B", "215"],
+            ["Google", "$44B", "180"],
+            ["Meta", "$37B", "24"]
+          ],
+          "highlight": [[0, 1]]
+        },
+        {
+          "type": "text",
+          "tone": "body",
+          "value": "Four companies now spend more on compute than most countries spend on power."
+        }
+      ]
+    },
+    {
+      "id": "mix",
+      "durationInSeconds": 6,
+      "elements": [
+        {
+          "type": "pieChart",
+          "highlight": 0,
+          "sectors": [
+            { "label": "Gas", "value": 43 },
+            { "label": "Solar", "value": 24 },
+            { "label": "Wind", "value": 18 },
+            { "label": "Coal", "value": 15 }
+          ]
+        },
+        {
+          "type": "text",
+          "tone": "body",
+          "value": "Most of it still runs on gas, not the clean grid in the press release.",
+          "emphasis": ["still runs on gas"]
+        }
+      ]
+    },
+    {
+      "id": "sites",
+      "durationInSeconds": 7,
+      "elements": [
+        {
+          "type": "kicker",
+          "value": "WHERE THEY LAND"
+        },
+        {
+          "type": "gallery",
+          "highlight": 2,
+          "srcs": [
+            "building.png",
+            "building1.png",
+            "motion-graphic/dummy_image_1.jpg",
+            "frame_mockup.jpg",
+            "book_cover.jpg",
+            "motion-graphic/texture.jpg"
+          ]
+        },
+        {
+          "type": "text",
+          "tone": "caption",
+          "value": "Cheap land, cold air, and a substation. That is the whole site checklist."
+        }
+      ]
+    },
+    {
+      "id": "town",
+      "durationInSeconds": 8,
+      "elements": [
+        {
+          "type": "image",
+          "src": "building.png",
+          "srcs": ["building1.png", "motion-graphic/dummy_image_1.jpg"],
+          "swapEvery": 2.1
+        },
+        {
+          "type": "text",
+          "tone": "body",
+          "value": "Three towns, one grid, and a queue for power that now runs seven years long."
+        }
+      ]
+    },
+    {
+      "id": "reaction",
+      "durationInSeconds": 6,
+      "elements": [
+        {
+          "type": "socialEmbed",
+          "platform": "twitter",
+          "author": "Grid Watch",
+          "handle": "@gridwatch",
+          "text": "Utilities in five states have quietly asked to delay coal plant retirements. The reason listed on the filings: data centre load growth."
+        },
+        {
+          "type": "text",
+          "tone": "body",
+          "value": "The cleanest plan on paper is the first thing to go."
+        }
+      ]
+    },
+    {
+      "id": "voice",
+      "durationInSeconds": 6,
+      "elements": [
+        {
+          "type": "image",
+          "src": "modi.png",
+          "shape": "circle",
+          "caption": "Regional grid operator"
+        },
+        {
+          "type": "quote",
+          "value": "We planned for decades of flat demand. It arrived in eighteen months.",
+          "author": "Interconnection filing, 2024"
+        }
+      ]
+    },
+    {
+      "id": "fixes",
+      "durationInSeconds": 7,
+      "elements": [
+        {
+          "type": "kicker",
+          "value": "WHAT ACTUALLY HELPS"
+        },
+        {
+          "type": "bullets",
+          "marker": "check",
+          "highlight": 2,
+          "items": [
+            "Run training where the wind is",
+            "Shift flexible jobs to off-peak hours",
+            "Publish real per-query energy numbers",
+            "Price carbon into compute contracts"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "tone": "caption",
+          "value": "None of these need new physics. They need disclosure."
+        }
+      ]
+    },
+    {
+      "id": "close",
+      "durationInSeconds": 6,
+      "elements": [
+        {
+          "type": "smartText",
+          "segments": [
+            {
+              "type": "text",
+              "value": "By 2030 data centres could draw",
+              "style": "normal",
+              "color": "#64748B",
+              "animation": "fadeUp"
+            },
+            {
+              "type": "number",
+              "value": 9,
+              "suffix": "%",
+              "decimals": 0,
+              "format": "normal",
+              "animation": "countUp",
+              "color": "#0284C7"
+            },
+            {
+              "type": "text",
+              "value": "of all electricity generated on Earth.",
+              "style": "bold",
+              "color": "#0F172A",
+              "animation": "wordReveal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

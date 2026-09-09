@@ -1,0 +1,86 @@
+{
+  "country": "india",
+  "states": [
+    {
+      "id": "INMH",
+      "displayName": "India",
+      "image": "modi.png",
+      "mode": "smart_text",
+      "smartTextSegments": [
+        {
+          "type": "text",
+          "value": "FASTEST GROWING",
+          "style": "bold",
+          "case": "uppercase",
+          "color": "#F97316",
+          "emphasis": "marker",
+          "emphasisColor": "rgba(249, 115, 22, 0.15)",
+          "lineBreak": true
+        },
+        {
+          "type": "number",
+          "value": 7.2,
+          "prefix": "",
+          "suffix": "% GDP Growth",
+          "color": "#10B981",
+          "animation": "countUp",
+          "lineBreak": true
+        },
+        {
+          "type": "text",
+          "value": "1.44B Population • $3.75T Economy",
+          "color": "#475569"
+        }
+      ],
+      "theme": {
+        "highlightColor": "#F97316"
+      }
+    },
+    {
+      "id": "INGJ",
+      "displayName": "China",
+      "image": "modi.png",
+      "mode": "smart_text",
+      "smartTextSegments": [
+        {
+          "type": "text",
+          "value": "MANUFACTURING GIANT",
+          "style": "bold",
+          "case": "uppercase",
+          "color": "#E63946",
+          "emphasis": "marker",
+          "emphasisColor": "rgba(230, 57, 70, 0.15)",
+          "lineBreak": true
+        },
+        {
+          "type": "number",
+          "value": 5.0,
+          "prefix": "",
+          "suffix": "% GDP Growth",
+          "color": "#2563EB",
+          "animation": "countUp",
+          "lineBreak": true
+        },
+        {
+          "type": "text",
+          "value": "1.41B Population • $17.8T Economy",
+          "color": "#475569"
+        }
+      ],
+      "theme": {
+        "highlightColor": "#E63946"
+      }
+    }
+  ],
+  "theme": {
+    "mapColor": "#D8D8D8",
+    "backgroundColor": "#FAF9F6",
+    "gridColor": "rgba(30, 27, 24, 0.18)",
+    "textColor": "#0F172A",
+    "dividerColor": "rgba(15, 23, 42, 0.15)"
+  },
+  "animation": {
+    "type": "fly_in",
+    "durationInFrames": 30
+  }
+}

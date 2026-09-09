@@ -1,0 +1,21 @@
+{
+  "fps": 30,
+  "durationInSeconds": 10,
+  "backgroundVideo": "planner_bg.mp4",
+  "whiteOverlayOpacity": 0.52,
+  "theme": {
+    "showQuoteSymbols": true,
+    "quoteSymbolColor": "rgba(37, 99, 235, 0.22)",
+    "fontFamily": "Outfit"
+  },
+  "quote": {
+    "text": "\"Wake up, father... you promised heroes never die.\"",
+    "color": "#0F172A",
+    "highlightColor": "#2563EB",
+    "fontSize": 76
+  },
+  "author": {
+    "name": "The Little Knight",
+    "nameColor": "#0F172A"
+  }
+}

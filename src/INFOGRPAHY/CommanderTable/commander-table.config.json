@@ -1,0 +1,34 @@
+{
+  "durationInFrames": 360,
+  "documentBlocks": [
+    {
+      "type": "heading",
+      "content": "DIRECTIVE FROM THE NATIONAL SECURITY COUNCIL"
+    },
+    {
+      "type": "separator",
+      "content": ""
+    },
+    {
+      "type": "bold",
+      "content": "DATE: 24 JUNE 2026\nTO: COMMANDING OFFICER\nFROM: OFFICE OF THE NATIONAL SECURITY ADVISOR\nSUBJECT: SPECIAL APPOINTMENT ORDER"
+    },
+    {
+      "type": "spacer",
+      "content": ""
+    },
+    {
+      "type": "normal",
+      "content": "Following a review of your record and operational readiness, this office has approved your appointment to the Strategic Response Program. You should join this command within 4 months of receiving this order. Failure to report within the stated window will require written clearance from headquarters."
+    }
+  ],
+  "script": {
+    "instructions": [
+      {
+        "startFrame": 96,
+        "fromWord": 44,
+        "toWord": 55
+      }
+    ]
+  }
+}

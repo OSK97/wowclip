@@ -1,0 +1,126 @@
+{
+  "composition": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSeconds": 8
+  },
+  "logo": {
+    "show": false,
+    "url": "",
+    "height": 90
+  },
+  "theme": {
+    "backgroundColor": "#0A0A0A",
+    "backgroundGradient": "radial-gradient(ellipse 120% 80% at 50% 35%, #1A1F14 0%, #0E110A 50%, #060804 100%)",
+    "textColor": "#F0F5E8",
+    "subtextColor": "#6B8A5E",
+    "gridColor": "rgba(118, 185, 0, 0.05)",
+    "fontPrimary": "Inter",
+    "fontDisplay": "Outfit"
+  },
+  "legend": {
+    "position": "top-right",
+    "layout": "column",
+    "items": [
+      {
+        "label": "NVIDIA Revenue ($B)",
+        "color": "#76B900",
+        "colorGradient": ["#A3E635", "#76B900", "#4D7C0F"],
+        "dotSize": 22
+      }
+    ],
+    "fontSize": 28,
+    "fontWeight": 700,
+    "gap": 18,
+    "marginTop": 120,
+    "marginRight": 70
+  },
+  "bottomHeading": {
+    "show": true,
+    "text": "NVIDIA Gross Revenue",
+    "fontSize": 64,
+    "fontWeight": 800,
+    "letterSpacing": -2,
+    "lineHeight": 1.05,
+    "marginBottom": 170
+  },
+  "indicator": {
+    "show": true,
+    "fontSize": 120,
+    "fontWeight": 800,
+    "suffix": "B",
+    "color": "#76B900",
+    "opacity": 0.12,
+    "position": "bottom-left",
+    "marginBottom": 280,
+    "marginLeft": 60
+  },
+  "graph": {
+    "marginX": 60,
+    "marginY": 80,
+    "gridWidth": 920,
+    "gridHeight": 850,
+    "positionY": "46%",
+    "strokeWidth": 6,
+    "dotRadius": 15,
+    "dotPulseRadius": 34,
+    "showArea": true,
+    "areaOpacityStart": 0.18,
+    "areaOpacityEnd": 0.0,
+    "showTooltip": true,
+    "showGridLines": true,
+    "gridLineWidth": 1.2
+  },
+  "data": {
+    "series": [
+      {
+        "name": "Gross Revenue",
+        "drawRange": [18, 100],
+        "keyframes": [
+          { "frame": 18, "progress": 0 },
+          { "frame": 50, "progress": 0.45 },
+          { "frame": 70, "progress": 0.6 },
+          { "frame": 100, "progress": 1 }
+        ],
+        "values": [11, 17, 27, 27, 61, 96, 130, 200, 260],
+        "color": "#76B900",
+        "strokeGradient": ["#A3E635", "#76B900", "#4D7C0F"],
+        "areaColor": "#76B900",
+        "shadowColor": "rgba(118, 185, 0, 0.35)"
+      }
+    ],
+    "maxValue": 280,
+    "timeline": [
+      "FY20",
+      "FY21",
+      "FY22",
+      "FY23",
+      "FY24",
+      "Q2 25",
+      "Q3 25",
+      "Q1 26",
+      "Q3 26"
+    ],
+    "yLabels": [
+      { "value": 100, "label": "$280B" },
+      { "value": 75, "label": "$210B" },
+      { "value": 50, "label": "$140B" },
+      { "value": 25, "label": "$70B" },
+      { "value": 0, "label": "0" }
+    ]
+  },
+  "animation": {
+    "gridFadeIn": [5, 30],
+    "legendFadeIn": [8, 25],
+    "drawLineRange": [18, 100],
+    "drawLineEasing": "easeOutCubic",
+    "bottomTextFadeIn": [10, 30],
+    "indicatorFadeIn": [15, 35],
+    "dotAppearFrame": 22,
+    "tooltipAppearFrame": 22,
+    "labelsFadeIn": [12, 35],
+    "breathingAmplitude": 0.003,
+    "breathingSpeed": 50
+  }
+}

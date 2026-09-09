@@ -1,0 +1,32 @@
+{
+  "durationInFrames": 288,
+  "documentBlocks": [
+    {
+      "type": "heading",
+      "content": "ARTICLE 99: AUDIT & COMPLIANCE"
+    },
+    {
+      "type": "normal",
+      "content": "Official audit records confirm that federal expenditure across AI supervisory systems must strictly align with statutory fiscal guidelines. Preliminary evaluations identified discrepancies totaling $42,000,000 within Sector A, while subsequent verification confirmed an additional $18,500,000 across regional facilities."
+    }
+  ],
+  "script": {
+    "instructions": [
+      {
+        "fromWord": 18,
+        "toWord": 22,
+        "startFrame": 120
+      },
+      {
+        "fromWord": 28,
+        "toWord": 28,
+        "startFrame": 204
+      },
+      {
+        "fromWord": 38,
+        "toWord": 38,
+        "startFrame": 222
+      }
+    ]
+  }
+}

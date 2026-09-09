@@ -1,0 +1,63 @@
+{
+  "durationInSeconds": 6,
+  "_capabilities": "This JSON file fully controls the table animation. You can define the table's theme, layout, animation speeds, and data.",
+  "theme": {
+    "backgroundColor": "#F8FAFC",
+    "backgroundGradient": "radial-gradient(ellipse 130% 90% at 50% 35%, #FFFFFF 0%, #F1F5F9 60%, #E2E8F0 100%)",
+    "gridColor": "",
+    "textColor": "#1E293B",
+    "headerColor": "#64748B",
+    "rowBorderColor": "rgba(100, 116, 139, 0.18)",
+    "highlightColor": "rgba(250, 204, 21, 0.45)",
+    "fontFamily": "Inter, system-ui, -apple-system, sans-serif"
+  },
+  "layout": {
+    "width": 880,
+    "minRowHeight": 110,
+    "headerHeight": 70,
+    "imageSize": 80,
+    "headerFontSize": 25,
+    "cellFontSize": 28
+  },
+  "animation": {
+    "entranceDurationFrames": 25,
+    "rowStaggerFrames": 12,
+    "cellStaggerFrames": 4
+  },
+  "columns": [
+    {
+      "key": "metric",
+      "label": "Metric",
+      "align": "left",
+      "width": "55%",
+      "fontWeight": 600,
+      "color": "#64748B"
+    },
+    {
+      "key": "value",
+      "label": "Value",
+      "align": "right",
+      "width": "45%",
+      "fontWeight": 700,
+      "color": "#0F172A"
+    }
+  ],
+  "data": [
+    {
+      "metric": { "text": "Market Valuation" },
+      "value": { "text": "₹20.4 Lakh Cr", "highlight": { "color": "rgba(250, 204, 21, 0.45)", "startFrame": 150, "durationFrames": 25 } }
+    },
+    {
+      "metric": { "text": "Annual Revenue" },
+      "value": { "text": "₹10.0 Lakh Cr" }
+    },
+    {
+      "metric": { "text": "Digital Subscribers" },
+      "value": { "text": "450+ Million" }
+    },
+    {
+      "metric": { "text": "Net Profit Margin" },
+      "value": { "text": "+18.5%" }
+    }
+  ]
+}

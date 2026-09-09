@@ -1,0 +1,13 @@
+node_modules
+dist
+build
+.remotion
+.DS_Store
+.env
+old_remotion
+*_backup.mp4
+*.bak
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+

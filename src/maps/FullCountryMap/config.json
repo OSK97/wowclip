@@ -1,0 +1,51 @@
+{
+  "durationInSeconds": 8,
+  "country": "india_full",
+  "displayName": "India",
+  "theme": {
+    "countryColor": "#EF4444",
+    "backgroundColor": "#FAF9F6",
+    "gridColor": "",
+    "textColor": "#0F172A"
+  },
+  "steps": [
+    {
+      "mode": "color",
+      "color": "#EF4444",
+      "startFrame": 0,
+      "durationInFrames": 60
+    },
+    {
+      "mode": "image",
+      "image": "Documnetry_Info_assets/bjp.jpg",
+      "startFrame": 60,
+      "durationInFrames": 60
+    },
+    {
+      "mode": "png",
+      "pngs": [
+        {
+          "id": "modi-full-country",
+          "image": "modi.png",
+          "scale": 0.92,
+          "offsetY": 0
+        }
+      ],
+      "startFrame": 120,
+      "durationInFrames": 60
+    },
+    {
+      "mode": "smart_text",
+      "startFrame": 180,
+      "durationInFrames": 60,
+      "smartTextSegments": [
+        { "type": "highlight", "value": "INDIA" },
+        { "type": "text", "value": "1.4 Billion Strong Nation" }
+      ],
+      "smartTextTheme": {
+        "badgeBg": "#F97316",
+        "badgeText": "#FFFFFF"
+      }
+    }
+  ]
+}

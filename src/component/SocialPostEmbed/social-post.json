@@ -1,0 +1,65 @@
+{
+  "composition": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "durationSeconds": 6
+  },
+  "theme": {
+    "backgroundColor": "#000000",
+    "backgroundGradient": "linear-gradient(160deg, #0a0a0a 0%, #111827 50%, #0a0a0a 100%)",
+    "showGrid": false,
+    "cardBg": "#16181c",
+    "cardBorder": "#2f3336",
+    "cardRadius": 24,
+    "cardMaxWidth": 880,
+    "cardPaddingX": 50,
+    "cardPaddingY": 40
+  },
+  "platform": "twitter",
+  "profile": {
+    "name": "Elon Musk",
+    "handle": "@elonmusk",
+    "avatar": "",
+    "verified": true,
+    "nameColor": "#e7e9ea",
+    "handleColor": "#71767b",
+    "nameFontSize": 32,
+    "handleFontSize": 26
+  },
+  "post": {
+    "text": "The most entertaining outcome is the most likely.",
+    "fontSize": 40,
+    "color": "#e7e9ea",
+    "lineHeight": 1.5,
+    "staggerFrames": 3,
+    "entranceDelay": 25,
+    "image": ""
+  },
+  "engagement": {
+    "show": true,
+    "replies": "2.4K",
+    "reposts": "18.5K",
+    "likes": "142K",
+    "views": "28.3M",
+    "iconColor": "#71767b",
+    "textColor": "#71767b",
+    "fontSize": 24,
+    "likesColor": "#f91880",
+    "repostsColor": "#00ba7c",
+    "entranceDelay": 70
+  },
+  "timestamp": {
+    "text": "10:42 PM · Mar 15, 2024",
+    "color": "#71767b",
+    "fontSize": 22
+  },
+  "animation": {
+    "cardEntranceDelay": 5,
+    "profileDelay": 10
+  }
+}
+
+
+
+

@@ -1,0 +1,43 @@
+{
+  "durationInSeconds": 6,
+  "country": "india",
+  "mode": "highlight_state",
+  "displayName": "Gujarat",
+  "states": [
+    {
+      "id": "INGJ",
+      "displayName": "Gujarat",
+      "theme": {
+        "highlightColor": "#F97316"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "startFrame": 0,
+      "highlightColor": "#F97316"
+    },
+    {
+      "startFrame": 48,
+      "mode": "png",
+      "pngs": [
+        {
+          "id": "modi-single",
+          "image": "modi.png"
+        }
+      ]
+    },
+    {
+      "startFrame": 96,
+      "mode": "image",
+      "image": "Documnetry_Info_assets/bjp.jpg"
+    }
+  ],
+  "theme": {
+    "mapColor": "#DADADA",
+    "highlightColor": "#F97316",
+    "backgroundColor": "#FAF9F6",
+    "gridColor": "",
+    "textColor": "#0F172A"
+  }
+}

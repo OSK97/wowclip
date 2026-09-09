@@ -1,0 +1,47 @@
+{
+  "platform": "twitter",
+  "theme": {
+    "darkMode": true,
+    "backgroundColor": "#030712",
+    "backgroundGradient": "radial-gradient(ellipse 130% 90% at 50% 35%, #0F172A 0%, #070D1F 60%, #020408 100%)",
+    "showGrid": true,
+    "gridColor": "rgba(56, 189, 248, 0.05)",
+    "highlightColor": "rgba(56, 189, 248, 0.28)"
+  },
+  "animation": {
+    "entranceDelay": 0,
+    "textStartFrame": 15,
+    "mediaStartFrame": 45,
+    "statsStartFrame": 60,
+    "statsDuration": 40,
+    "highlightDelay": 85,
+    "highlightSpeed": 4
+  },
+  "profile": {
+    "name": "Narendra Modi",
+    "handle": "@narendramodi",
+    "avatar": "modi.png",
+    "verified": true
+  },
+  "post": {
+    "text": "Those responsible for the NEET paper leak will not be spared. Strict action is being taken, and the CBI investigation will ensure complete transparency and justice for our youth.",
+    "timestamp": "11:15 AM · Jul 10, 2024 · 12.4M Views"
+  },
+  "stats": {
+    "replies": 34500,
+    "reposts": 82400,
+    "likes": 342000,
+    "views": 12400000
+  },
+  "highlights": [
+    {
+      "target": "text",
+      "words": ["NEET paper leak", "CBI investigation", "justice for our youth"],
+      "color": "rgba(56, 189, 248, 0.3)"
+    },
+    {
+      "target": "likes",
+      "color": "rgba(244, 63, 94, 0.3)"
+    }
+  ]
+}

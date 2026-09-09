@@ -1,0 +1,17 @@
+{
+  "country": "india",
+  "bubbles": [
+    { "stateId": "INMH", "value": 430, "displayValue": "$430B", "label": "Maharashtra" },
+    { "stateId": "INGJ", "value": 290, "displayValue": "$290B", "label": "Gujarat" },
+    { "stateId": "INKA", "value": 310, "displayValue": "$310B", "label": "Karnataka" },
+    { "stateId": "INGA", "value": 35, "displayValue": "$35B", "label": "Goa" }
+  ],
+  "theme": {
+    "mapColor": "#D8D8D8",
+    "bubbleColor": "rgba(235, 111, 45, 0.4)",
+    "bubbleStrokeColor": "#EB6F2D",
+    "backgroundColor": "#FAF9F6",
+    "gridColor": "rgba(30, 27, 24, 0.18)",
+    "textColor": "#0F172A"
+  }
+}

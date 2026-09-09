@@ -1,0 +1,83 @@
+{
+  "composition": {
+    "durationSeconds": 16,
+    "fps": 60
+  },
+  "theme": {
+    "backgroundColor": "#000000",
+    "backgroundGradient": "",
+    "showOrbs": false,
+    "showGrid": false,
+    "itemGap": 56,
+    "textFontSize": 56,
+    "numberFontSize": 72,
+    "staggerFrames": 120,
+    "contentPaddingX": 80,
+    "contentPaddingY": 200,
+    "showDividers": true,
+    "dividerColor": "rgba(255, 255, 255, 0.15)",
+    "textAlign": "left"
+  },
+  "items": [
+    {
+      "marker": "number",
+      "value": 1,
+      "text": "Learn from the mistakes of others.",
+      "markerColor": "#FFFFFF",
+      "textColor": "#FFFFFF",
+      "animation": "slideUp",
+      "wordStaggerFrames": 14,
+      "wordHighlights": [
+        { "wordMatch": "mistakes", "color": "#A3A3A3" }
+      ]
+    },
+    {
+      "marker": "number",
+      "value": 2,
+      "text": "A man is great by deeds, not by birth.",
+      "markerColor": "#FFFFFF",
+      "textColor": "#FFFFFF",
+      "animation": "slideUp",
+      "wordStaggerFrames": 12,
+      "wordHighlights": [
+        { "wordMatch": "deeds", "color": "#A3A3A3" }
+      ]
+    },
+    {
+      "marker": "number",
+      "value": 3,
+      "text": "Education is the best friend.",
+      "markerColor": "#FFFFFF",
+      "textColor": "#FFFFFF",
+      "animation": "slideUp",
+      "wordStaggerFrames": 15,
+      "wordHighlights": [
+        { "wordMatch": "Education", "color": "#A3A3A3" }
+      ]
+    },
+    {
+      "marker": "number",
+      "value": 4,
+      "text": "Before you start some work, always ask yourself why.",
+      "markerColor": "#FFFFFF",
+      "textColor": "#FFFFFF",
+      "animation": "slideUp",
+      "wordStaggerFrames": 11,
+      "wordHighlights": [
+        { "wordMatch": "why", "color": "#A3A3A3" }
+      ]
+    },
+    {
+      "marker": "number",
+      "value": 5,
+      "text": "Do not reveal what you have thought upon doing.",
+      "markerColor": "#FFFFFF",
+      "textColor": "#FFFFFF",
+      "animation": "slideUp",
+      "wordStaggerFrames": 12,
+      "wordHighlights": [
+        { "wordMatch": "reveal", "color": "#A3A3A3" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "composition": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "durationSeconds": 5
+  },
+  "background": {
+    "backgroundColor": "#f8fafc",
+    "backgroundGradient": "radial-gradient(ellipse at 50% 30%, #ffffff 0%, #f1f5f9 40%, #e2e8f0 70%, #cbd5e1 100%)",
+    "showGrid": true,
+    "gridColor": "rgba(99, 102, 241, 0.05)",
+    "gridSize": 60,
+    "gridOpacity": 1,
+    "showOrbs": true,
+    "orb1Color": "rgba(59, 130, 246, 0.08)",
+    "orb2Color": "rgba(99, 102, 241, 0.06)",
+    "orb3Color": "rgba(244, 63, 94, 0.05)"
+  },
+  "floating": {
+    "enable": true,
+    "floatAmplitudeY": 10,
+    "floatFrequencyY": 0.04,
+    "rotateAmplitude": 1.2,
+    "rotateFrequency": 0.025
+  },
+  "image": {
+    "src": "Components/iphone.png",
+    "heightPercent": 0.65,
+    "marginTop": 80,
+    "marginSide": 60,
+    "marginBottom": 100,
+    "borderRadius": 28,
+    "showShadow": true,
+    "shadowColor": "rgba(15, 23, 42, 0.12)",
+    "shadowBlur": 70,
+    "entranceDelay": 0
+  },
+  "text": {
+    "fontFamily": "Inter",
+    "fontSize": 72,
+    "color": "#0f172a",
+    "textAlign": "center",
+    "marginTop": 140,
+    "marginSide": 80,
+    "entranceDelay": 15,
+    "staggerFrames": 4
+  },
+  "segments": [
+    {
+      "type": "text",
+      "value": "Introducing the",
+      "style": "normal",
+      "case": "uppercase",
+      "color": "slate"
+    },
+    {
+      "type": "text",
+      "value": "iPhone 16 Pro",
+      "style": "bold",
+      "color": "blue",
+      "emphasis": "marker",
+      "emphasisColor": "rgba(37, 99, 235, 0.15)"
+    },
+    {
+      "type": "text",
+      "value": "with a stunning",
+      "style": "normal",
+      "color": "slate"
+    },
+    {
+      "type": "text",
+      "value": "Cursive Highlight",
+      "style": "cursive",
+      "color": "rose",
+      "emphasis": "underline",
+      "emphasisColor": "rgba(244, 63, 94, 0.4)"
+    },
+    {
+      "type": "text",
+      "value": "delivering",
+      "style": "normal",
+      "color": "slate"
+    },
+    {
+      "type": "number",
+      "value": 120,
+      "suffix": " Hz",
+      "format": "normal",
+      "color": "emerald",
+      "fontSize": 110
+    }
+  ]
+}

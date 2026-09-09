@@ -1,0 +1,25 @@
+{
+  "fps": 30,
+  "durationInSeconds": 10,
+  "backgroundVideo": "planner_bg.mp4",
+  "whiteOverlayOpacity": 0.55,
+  "image": {
+    "url": "book_cover.jpg",
+    "width": 380,
+    "borderRadius": 20
+  },
+  "text": {
+    "titleLines": [
+      "DIYORA",
+      "LAKSHBHAI",
+      "VIJAYBHAI"
+    ],
+    "description": "A novel by Manisha Garmus",
+    "titleColor": "#0F172A",
+    "accentColor": "#E11D48",
+    "descriptionColor": "#475569",
+    "titleFontSize": 74,
+    "descriptionFontSize": 30,
+    "textTransform": "uppercase"
+  }
+}

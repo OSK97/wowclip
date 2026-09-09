@@ -1,0 +1,23 @@
+{
+  "_capabilities": "This JSON completely controls the TV media and the captions. You define exactly when each word/phrase appears.",
+  "composition": {
+    "durationSeconds": 5,
+    "fps": 24
+  },
+  "media": {
+    "src": "time_assets/calendar-video.mp4",
+    "objectFit": "cover",
+    "scale": 1.0
+  },
+  "theme": {
+    "textAlign": "left",
+    "backgroundColor": "#0B0E14"
+  },
+  "captions": [
+    { "type": "text", "value": "Innovation", "startFrame": 20 },
+    { "type": "text", "value": "powers", "startFrame": 32 },
+    { "type": "text", "value": "India's", "startFrame": 44 },
+    { "type": "text", "value": "digital", "startFrame": 56 },
+    { "type": "text", "value": "future.", "startFrame": 68, "color": "emerald", "emphasis": "marker" }
+  ]
+}

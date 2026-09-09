@@ -1,0 +1,64 @@
+{
+  "composition": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSeconds": 4
+  },
+  "logo": {
+    "show": false,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg",
+    "height": 90
+  },
+  "theme": {
+    "backgroundColor": "#FAF9F6",
+    "backgroundGradient": "radial-gradient(circle at center, #FFFFFF 20%, #F5F3ED 70%, #EAE7DC 100%)",
+    "textColor": "#0F172A",
+    "subtextColor": "#475569",
+    "gridColor": "rgba(30, 27, 24, 0.20)"
+  },
+  "elements": {
+    "showTitles": true
+  },
+  "chart": {
+    "cx": 540,
+    "cy": 960,
+    "radius": 240,
+    "gridWidth": 720,
+    "gridHeight": 800
+  },
+  "sectors": [
+    {
+      "id": "model-training",
+      "name": "Model Training",
+      "percentage": 40,
+      "color": "#00A5DF",
+      "drawRange": [10, 32],
+      "labelRange": [24, 34]
+    },
+    {
+      "id": "data-cleaning",
+      "name": "Data Cleaning",
+      "percentage": 10,
+      "color": "#FFA000"
+    },
+    {
+      "id": "inference-run",
+      "name": "Inference Run",
+      "percentage": 30,
+      "color": "#3B82F6"
+    },
+    {
+      "id": "safety-filters",
+      "name": "Safety Filters",
+      "percentage": 7,
+      "color": "#84CC16"
+    },
+    {
+      "id": "vector-search",
+      "name": "Vector Search",
+      "percentage": 13,
+      "color": "#64748B"
+    }
+  ]
+}

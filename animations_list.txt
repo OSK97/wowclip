@@ -1,0 +1,233 @@
+Name: AestheticNewsLayout
+Description:
+A dark Reuters-style news layout with blurred background image, headline, description, author, and date.
+It features active text highlighting synced with 5-phase camera zoom and panning math to follow active words.
+Goal & Adaptability:
+Its goal is to create premium infographic or news reports with dynamic camera focus on active speech/reading.
+It is highly adaptable, allowing full control of text values, author/date metadata, logo, background image,
+and custom highlight scripts defining timing and camera modes.
+
+Name: CommanderTable
+Description:
+A tactical documentary composition displaying text directive blocks onto a physical table document backdrop.
+It features smooth text highlighting combined with a dynamic 6-phase camera system (panning, zoom, and portal dive).
+Goal & Adaptability:
+Its goal is to present historical, tactical, or investigative documentary briefings with an immersive camera effect.
+It is highly adaptable, allowing custom document text blocks, highlight word selections, highlight timings,
+custom background table images, and total composition duration.
+
+Name: PaperHighlightReplica
+Description:
+A retro newspaper documentary infographic that rapidly cycles background newspaper pages to simulate scanning archives.
+It overlays a high-contrast spotlight focus band showing highlighted quote text with yellow marker highlight animations.
+Goal & Adaptability:
+Its goal is to highlight a key quote from newspaper/print sources in a gritty, rapid-cycling archival documentary style.
+It is highly adaptable, allowing custom background paper page configurations (layout, transform, seed, textures),
+highlight positions, typography fonts, sizes, colors, marker settings, zoom intensity, and typewriter audio loops.
+
+Name: GovernmentDocument
+Description:
+A classified government memo layout with retro serif typography, signature blocks, and stamp options.
+It supports word-by-word highlights linked to dynamic camera math (zoom, pan, slide, and wide hold).
+Goal & Adaptability:
+Its goal is to present historical, geopolitical, or whistleblower documentary-style memos with highlighted sections.
+It is highly adaptable, allowing custom header metadata (memo fields, classifications), document text blocks,
+signature details, custom stamps, highlight timings, background colors, and camera zoom scales.
+
+Name: ElonRocketNews
+Description:
+An upfront image-focused documentary template designed for modern social media posts (shorts/TikTok format).
+It features a static background overlay, cinematic film grain, word-by-word highlights, and foreground image scaling.
+Goal & Adaptability:
+Its goal is to present high-engagement news summaries where a portrait photo of a subject smoothly reveals.
+It is highly adaptable, allowing custom headlines, descriptions, dates, topic/publisher brand logo/text,
+front upfront image, blurred background image, highlight timings, upfront image heights, and total duration.
+
+Name: BarGraph
+Description:
+An animated bar chart component rendering up to 7 bars with gradient fills and drop shadows.
+It features dynamic label/value pop-ins, title, logo overlay, and a header count-up total value.
+Goal & Adaptability:
+Its goal is to present high-impact comparisons of discrete data points in a premium, vertical bar format.
+It is highly adaptable, allowing custom data values, colors, gradients, start frames, bar icons,
+title text/toggle, logo URL/visibility, custom themes, and label/grid fade timing.
+
+Name: LineGraph
+Description:
+A config-driven, multi-series animated line graph rendering curves with gradient stroke/fill areas.
+It features horizontal gridlines, Y-axis labels, custom legend items, and a digital count-up indicator overlay.
+Goal & Adaptability:
+Its goal is to illustrate trend progress or multi-series numeric data over time in a portrait layout.
+It is highly adaptable, allowing custom series data (names, values, colors, gradients, keyframes),
+legend styling, bottom headings, indicators, grid sizes, tooltips, and fade-in/breathing animations.
+
+Name: PieChart
+Description:
+A config-driven animated pie chart that calculates sector coordinates and divider paths automatically.
+It draws sector slices staggered in time, populates percentage labels inside wedges, and reveals outer titles.
+Goal & Adaptability:
+Its goal is to present high-premium proportional distribution charts in a dynamic, vertical layout.
+It is highly adaptable, allowing custom sector entries (name, percentage, color, custom draw/label ranges),
+center/radius coordinate sizes, background grids, brand logo, and overall layout colors.
+
+Name: GrossVolume
+Description:
+A high-premium financial/crypto chart layout displaying a 3D-angled Glassmorphic card over bokeh light orbs.
+It features a count-up main value, animated profit/loss badge, and a smooth Bezier chart curve reveal.
+Goal & Adaptability:
+Its goal is to present financial metrics, stock updates, or volume changes in a stunning social video post.
+It is highly adaptable, allowing custom company details (name, ticker, currency), data values (start/end value,
+points coordinates, labels), and custom themes (colors, badge properties, background styling).
+
+Name: LargeNumber
+Description:
+An animated graphic displaying a large central counting statistic milestone surrounded by top/bottom text layouts.
+It parses subtitles automatically to extract prefix/suffix values, animating them with slide-up/fade and blur transitions.
+Goal & Adaptability:
+Its goal is to showcase a single high-impact metric or statistic milestone in social media shorts/reels.
+It is highly adaptable, allowing custom themes (colors, gradients, grid settings), text content (top text,
+metric prefix/suffix/value, bottom cursive text), font sizing rules, and animation properties.
+
+Name: TableAnimation
+Description:
+An animated table layout displaying headers and data rows with column auto-scaling logic and fading borders.
+It features cell-by-cell staggered entry animations and custom highlighter markers sweeping over individual cells.
+Goal & Adaptability:
+Its goal is to present structured data, comparative features, rankings, or catalog listings dynamically.
+It is highly adaptable, allowing custom columns (keys, widths, alignments, fonts), data rows (values, colors,
+stacked layouts, images), cell-level highlights (color, timing delay, duration), and auto-scaling rules.
+
+Name: SmartTextView
+Description:
+A versatile typography composition that renders segments of styled text and animated numbers sequentially.
+It supports multiple typography styles, case rules, and segment-level text animations with drawing highlights.
+Goal & Adaptability:
+Its goal is to present narrative captions, testimonials, or hybrid text-and-number callouts with rich transitions.
+It is highly adaptable, allowing custom segment arrays (text vs number, value, style, case, color, emphasis,
+count-up duration, prefix/suffix, delays), custom themes, and total duration.
+
+Name: PortraitAnimation
+Description:
+A portrait/avatar feature presentation template displaying a subject image framed in a circle container with pop-out effects.
+It features organic floating/rotating physics on the avatar, slowly zooming subject image, and word-by-word text slide-ins.
+Goal & Adaptability:
+Its goal is to introduce or profile key people, leaders, or icons in documentary or social post formats.
+It is highly adaptable, allowing custom backgrounds (colors, gradients, grids, spot lights), avatar contents
+(image path, circle background, outer/inner glow colors, borders), floating amplitudes, and label properties.
+
+Name: BlurredBackgroundVideo
+Description:
+A cinematic parallax composition layering a blurred video/image background, centered foreground cutout, and text behind it.
+It simulates organic handheld camera shake, golden light sweep flares, parallax drifts, and gold-text glow pulses.
+Goal & Adaptability:
+Its goal is to present personal announcements or character profile intros in a cinematic 3D parallax format.
+It is highly adaptable, allowing custom themes (blurred background, foreground cutout), text strings (lines 1, 2, 3),
+custom timings (cutout enter frame, text enter frame), and overall frame durations.
+
+Name: CalendarComposition
+Description:
+A high-premium timeline calendar graphic displaying a dark calendar card grid with 3D entry animation.
+It sweeps a hand-drawn circle over a highlighted date, zooms in, and portal dives through it to reveal background video.
+Goal & Adaptability:
+Its goal is to introduce a specific date or event deadline by transitioning from a calendar to video footage.
+It is highly adaptable, allowing custom month/year text headings, highlighted date values, calendar days data,
+timings (zoom/dive start frames), and the background video source.
+
+Name: ChecklistView
+Description:
+A structured checklist vertical stack with bullet, number, or checkmarks over an animated grid/orb background.
+It features item entrance transitions, checked pops, and word-by-word staggered text reveals with highlights.
+Goal & Adaptability:
+Its goal is to present standard list summaries, features checklists, step lists, or instructions dynamically.
+It is highly adaptable, allowing custom items list (marker types/shapes, value, text/descriptions, word-level highlights),
+layout parameters (textAlign, gaps, paddings, scales), and backgrounds.
+
+Name: ProductReveal
+Description:
+A product showcase template transitioning from a full-screen image to a floating glassmorphic product card.
+It features background transition sweeps, animated card sizing transitions, spotlight sweeps, and staggered footer blocks.
+Goal & Adaptability:
+Its goal is to announce, launch, or reveal a product, discount, or brand catalog item with high visual impact.
+It is highly adaptable, allowing custom themes (background colors, dimensions, hold durations), images (object-fit,
+sources), footer elements (types like button/badge/rating/price, values, timings), and durations.
+
+Name: TvText
+Description:
+A retro television/CRT overlay composition positioning a television mockup frame over video or image media.
+It couples with styled typographic layouts underneath that display sequential text slides and counting numbers.
+Goal & Adaptability:
+Its goal is to present narrative facts, news commentary, or statistics alongside media inside a retro analog CRT window.
+It is highly adaptable, allowing custom TV media source (video/image files or solid color), scale factor,
+segments list (text blocks with markers/underlines/staggers and numbers with count-ups), and alignment.
+
+Name: YearTimelineOverlay
+Description:
+A retro timeline composition simulating a 3D cylindrical year picker wheel scrolling through chronological years.
+It animates over a blurred background video with dark overlays, guided by an SVG grid background and a colored marker pin.
+Goal & Adaptability:
+Its goal is to visually transport the viewer back in time to a specific year in a dramatic retrospective format.
+It is highly adaptable, allowing custom start year, target year, scroll delays/durations, theme colors
+(background, grid, text, highlight, pin), and the underlying background video.
+
+Name: SocialMediaEmbed
+Description:
+A config-driven mockup generator that creates premium, embedded social media cards (Twitter/X, Instagram, and Reddit).
+It displays realistic profiles, date metadata, badges, and post contents over a custom grid/gradient backdrop.
+Goal & Adaptability:
+Its goal is to display quotes or viral social media posts side-by-side with comments/media in a premium layout.
+It is highly adaptable, allowing custom platforms, post contents (author handle, avatar, post text, metrics, media),
+theme layouts (dark/light mode, background colors, grid toggles), and entrance delays.
+
+Name: SingleMap
+Description:
+An SVG map presentation composition that dynamically highlights selected states or sub-regions (e.g. India).
+It features state-level boundaries measurement, SVG clip-paths to mask overlay images, and floating labels.
+Goal & Adaptability:
+Its goal is to illustrate demographic data, statistics, or case studies pertaining to specific geographic regions.
+It is highly adaptable, allowing custom country SVG maps, modes (full country or highlight state), state configurations
+(ID, name, image, metrics, colors), and step-by-step arrays of image overlays or number callouts.
+
+Name: TableMap
+Description:
+A comparative table chart where column headers display mini SVG maps of individual sub-regions (states).
+It compares different attributes across these regions in rows with staggered fade-in animations and yellow sweep highlights.
+Goal & Adaptability:
+Its goal is to present structured multi-region comparative tables in a clean, infographic layout.
+It is highly adaptable, allowing custom country SVG paths, state configurations (ID, display name, color),
+row values/highlights, design themes, and animation stagger offsets.
+
+Name: TimelineMap
+Description:
+A map-based chronological storytelling composition drawing connection lines sequentially between multiple map sub-regions.
+It features map state highlights, SVG clip-path masked image overlays within active states, and custom step actions.
+Goal & Adaptability:
+Its goal is to present historical journeys, product distribution expansions, or chronological narratives mapped across regions.
+It is highly adaptable, allowing custom country SVG map, event timeline array (stateIds, year, title, description,
+image, step-level options), design themes, and total duration.
+
+Name: DynamicComparison
+Description:
+A split-screen comparison layout comparing two columns (left and right sides) on a clean canvas.
+It supports scroll animations for long lists, multiple block types (Text, Image, Checklist), and staggered item entries.
+Goal & Adaptability:
+Its goal is to present comparisons, features lists, before/after reviews, or pros/cons sheets side-by-side.
+It is highly adaptable, allowing custom side attributes (names, icons, accent colors), block arrays, scroll timings,
+themes, and overall layout heights.
+
+Name: CinematicFocusShift
+Description:
+A cinematic visual graphic template featuring camera push-in and side-sliding focal transitions.
+It scales and slides a foreground main image while shifting focus blur/brightness to reveal side headlines.
+Goal & Adaptability:
+Its goal is to present product reveals, scenic reviews, or premium features in a cinematic slideshow format.
+It is highly adaptable, allowing custom backgrounds, main overlay images, bottom slide-up cards,
+text headlines (title, subtitle, visibility), scroll/timing durations, and overall FPS/buffer bounds.
+
+Name: ProductShowcase
+Description:
+An interactive features overview template positioning a product image center with curved dashed connector lines.
+It scales and centers the camera dynamically on active detail cards containing titles, descriptions, and media.
+Goal & Adaptability:
+Its goal is to showcase the specs, highlights, or individual key features of a physical item in a radial format.
+It is highly adaptable, allowing custom center images, background images, points array (angle, title, description,
+image/video, duration), number visibility toggles, and total final buffer frames.

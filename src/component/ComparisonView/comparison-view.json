@@ -1,0 +1,81 @@
+{
+  "composition": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "durationSeconds": 8
+  },
+  "theme": {
+    "backgroundColor": "#0f172a",
+    "backgroundGradient": "linear-gradient(170deg, #0f172a 0%, #1a1a2e 40%, #16213e 100%)",
+    "showGrid": true,
+    "gridColor": "#334155",
+    "gridOpacity": 0.05,
+    "cardBg": "rgba(30, 41, 59, 0.6)",
+    "cardBorder": "rgba(100, 116, 139, 0.15)",
+    "cardRadius": 24,
+    "vsColor": "#f59e0b",
+    "vsBg": "rgba(245, 158, 11, 0.15)",
+    "vsBorderColor": "rgba(245, 158, 11, 0.3)",
+    "winnerHighlight": "#22c55e",
+    "headerFontSize": 32,
+    "headerColor": "#ffffff",
+    "labelColor": "#94a3b8",
+    "valueColor": "#e2e8f0",
+    "labelFontSize": 22,
+    "valueFontSize": 28
+  },
+  "title": {
+    "text": "",
+    "fontSize": 40,
+    "color": "#ffffff",
+    "entranceDelay": 0
+  },
+  "left": {
+    "name": "iPhone 16 Pro",
+    "image": "",
+    "color": "#3b82f6"
+  },
+  "right": {
+    "name": "Samsung S24 Ultra",
+    "image": "",
+    "color": "#a855f7"
+  },
+  "rows": [
+    {
+      "label": "Display",
+      "leftValue": "6.3\" OLED",
+      "rightValue": "6.8\" AMOLED",
+      "winner": "right"
+    },
+    {
+      "label": "Camera",
+      "leftValue": "48 MP",
+      "rightValue": "200 MP",
+      "winner": "right"
+    },
+    {
+      "label": "Chip",
+      "leftValue": "A18 Pro",
+      "rightValue": "Snapdragon 8 Gen 3",
+      "winner": "left"
+    },
+    {
+      "label": "Battery",
+      "leftValue": "4685 mAh",
+      "rightValue": "5000 mAh",
+      "winner": "right"
+    },
+    {
+      "label": "Price",
+      "leftValue": "$999",
+      "rightValue": "$1,299",
+      "winner": "left"
+    }
+  ],
+  "animation": {
+    "columnEntranceFrames": 25,
+    "rowStaggerFrames": 12,
+    "vsDelay": 15
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "durationInSeconds": 10,
+  "title": {
+    "text": "",
+    "subtitle": "",
+    "show": false
+  },
+  "unit": "%",
+  "logo": {
+    "show": false,
+    "url": "",
+    "height": 90
+  },
+  "theme": {
+    "backgroundColor": "#130A14",
+    "backgroundGradient": "radial-gradient(circle 1000px at 50% 30%, #2D1426 0%, #1A0D18 55%, #0C050E 100%)",
+    "textColor": "#FFF7FC",
+    "mutedTextColor": "rgba(244, 215, 233, 0.5)",
+    "accentColor": "#F43F5E",
+    "gridColor": "rgba(244, 114, 182, 0.08)"
+  },
+  "animation": {
+    "labelsFadeIn": [15, 35],
+    "gridFadeIn": [5, 25]
+  },
+  "bars": [
+    {
+      "label": "Unreal 5",
+      "subtitle": "",
+      "value": 86,
+      "gradientFrom": "#F59E0B",
+      "gradientTo": "#B45309",
+      "startFrame": 15,
+      "highlight": true
+    },
+    {
+      "label": "Unity 6",
+      "subtitle": "",
+      "value": 68,
+      "gradientFrom": "#FB7185",
+      "gradientTo": "#E11D48",
+      "startFrame": 45
+    },
+    {
+      "label": "Godot 4",
+      "subtitle": "",
+      "value": 52,
+      "gradientFrom": "#2DD4BF",
+      "gradientTo": "#0D9488",
+      "startFrame": 75
+    },
+    {
+      "label": "CryEngine",
+      "subtitle": "",
+      "value": 34,
+      "gradientFrom": "#A855F7",
+      "gradientTo": "#6B21A8",
+      "startFrame": 105
+    }
+  ]
+}

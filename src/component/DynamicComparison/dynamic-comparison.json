@@ -1,0 +1,109 @@
+{
+  "fps": 30,
+  "theme": {
+    "backgroundColor": "#FAF9F6",
+    "textColor": "#0F172A",
+    "dividerColor": "rgba(15, 23, 42, 0.12)"
+  },
+  "scroll": {
+    "safeZoneHeight": 1200
+  },
+  "left": {
+    "name": "India",
+    "accentColor": "#F97316",
+    "blocks": [
+      {
+        "type": "checklist",
+        "startFrame": 20,
+        "items": [
+          {
+            "marker": "bullet",
+            "text": "1.44 Billion Population",
+            "description": "World's most populous nation with a young demographic.",
+            "markerColor": "#F97316"
+          },
+          {
+            "marker": "bullet",
+            "text": "7.2% Annual GDP Growth",
+            "description": "Fastest growing major global economy.",
+            "markerColor": "#F97316"
+          },
+          {
+            "marker": "bullet",
+            "text": "Digital Payments Network",
+            "description": "UPI processes over 13 Billion transactions monthly.",
+            "markerColor": "#F97316"
+          },
+          {
+            "marker": "bullet",
+            "text": "$3.75 Trillion Economy",
+            "description": "Projected to reach $7.5 Trillion by 2030.",
+            "markerColor": "#F97316"
+          },
+          {
+            "marker": "bullet",
+            "text": "Tech & Services Hub",
+            "description": "Global IT services and software leader.",
+            "markerColor": "#F97316"
+          }
+        ],
+        "theme": {
+          "textFontSize": 34,
+          "descriptionFontSize": 23,
+          "markerSize": 38,
+          "staggerFrames": 16,
+          "itemGap": 32
+        }
+      }
+    ]
+  },
+  "right": {
+    "name": "China",
+    "accentColor": "#E63946",
+    "blocks": [
+      {
+        "type": "checklist",
+        "startFrame": 130,
+        "items": [
+          {
+            "marker": "bullet",
+            "text": "1.41 Billion Population",
+            "description": "Second largest population with aging demographic.",
+            "markerColor": "#E63946"
+          },
+          {
+            "marker": "bullet",
+            "text": "5.0% Annual GDP Growth",
+            "description": "Transitioning to high-tech industrial economy.",
+            "markerColor": "#E63946"
+          },
+          {
+            "marker": "bullet",
+            "text": "Global Manufacturing Hub",
+            "description": "Accounts for 28% of global industrial production.",
+            "markerColor": "#E63946"
+          },
+          {
+            "marker": "bullet",
+            "text": "$17.8 Trillion Economy",
+            "description": "World's second largest economy.",
+            "markerColor": "#E63946"
+          },
+          {
+            "marker": "bullet",
+            "text": "High-Speed Infrastructure",
+            "description": "World's largest bullet train network at 45,000+ km.",
+            "markerColor": "#E63946"
+          }
+        ],
+        "theme": {
+          "textFontSize": 34,
+          "descriptionFontSize": 23,
+          "markerSize": 38,
+          "staggerFrames": 16,
+          "itemGap": 32
+        }
+      }
+    ]
+  }
+}

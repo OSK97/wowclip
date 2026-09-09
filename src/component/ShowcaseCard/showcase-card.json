@@ -1,0 +1,55 @@
+{
+  "composition": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "durationSeconds": 5
+  },
+  "background": {
+    "backgroundColor": "#f0f4ff",
+    "backgroundGradient": "radial-gradient(ellipse at 50% 30%, #ffffff 0%, #e8eeff 40%, #dbe4ff 70%, #c7d4f5 100%)",
+    "showGrid": true,
+    "gridColor": "rgba(59, 130, 246, 0.04)",
+    "gridSize": 50,
+    "gridOpacity": 1,
+    "showOrbs": true,
+    "orb1Color": "rgba(59, 130, 246, 0.08)",
+    "orb2Color": "rgba(99, 102, 241, 0.06)",
+    "orb3Color": "rgba(147, 197, 253, 0.1)"
+  },
+  "floating": {
+    "enable": true,
+    "floatAmplitudeY": 12,
+    "floatFrequencyY": 0.05,
+    "rotateAmplitude": 1.5,
+    "rotateFrequency": 0.03
+  },
+  "image": {
+    "src": "Components/iphone.png",
+    "heightPercent": 0.75,
+    "marginTop": 80,
+    "marginSide": 60,
+    "borderRadius": 24,
+    "objectFit": "contain",
+    "showShadow": true,
+    "shadowColor": "rgba(30, 64, 175, 0.18)",
+    "shadowBlur": 60,
+    "entranceType": "springUp",
+    "entranceDelay": 0
+  },
+  "text": {
+    "value": "iPhone 16 Pro Max",
+    "fontFamily": "Inter",
+    "fontSize": 64,
+    "fontWeight": 800,
+    "color": "#0f172a",
+    "textAlign": "center",
+    "letterSpacing": -1,
+    "lineHeight": 1.2,
+    "marginTop": 40,
+    "marginSide": 60,
+    "entranceType": "fadeUp",
+    "entranceDelay": 15,
+    "staggerFrames": 5
+  }
+}

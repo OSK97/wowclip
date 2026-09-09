@@ -1,0 +1,35 @@
+{
+  "durationInSeconds": 5.5,
+  "content": {
+    "showTopText": true,
+    "topText": "Reliance Industries Group",
+    "prefix": "₹",
+    "number": 20,
+    "suffix": " Lakh Cr",
+    "showBottomText": true,
+    "bottomText": "Historic Market Valuation"
+  },
+  "animation": {
+    "topText": {
+      "style": "word-by-word-slide-up",
+      "startFrame": 15,
+      "staggerFrames": 4
+    },
+    "number": {
+      "startFrame": 35,
+      "durationFrames": 45
+    },
+    "bottomText": {
+      "style": "word-by-word-slide-up",
+      "startFrame": 85,
+      "staggerFrames": 5
+    }
+  },
+  "theme": {
+    "backgroundColor": "#020814",
+    "backgroundGradient": "radial-gradient(circle at 50% 50%, #0A224E 0%, #030D21 60%, #01040A 100%)",
+    "textColor": "#F8FAFC",
+    "accentColor": "#FFB400",
+    "gridColor": "rgba(255, 180, 0, 0.08)"
+  }
+}

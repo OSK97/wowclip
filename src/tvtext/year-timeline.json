@@ -1,0 +1,16 @@
+{
+  "composition": {
+    "durationSeconds": 6,
+    "fps": 24
+  },
+  "startYear": 2008,
+  "targetYear": 2026,
+  "scrollDelay": 24,
+  "scrollDurationFrames": 96,
+  "theme": {
+    "pinColor": "#38BDF8",
+    "highlightColor": "#FFFFFF",
+    "textColor": "rgba(255, 255, 255, 0.35)",
+    "gridColor": "rgba(56, 189, 248, 0.08)"
+  }
+}

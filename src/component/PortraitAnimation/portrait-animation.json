@@ -1,0 +1,40 @@
+{
+  "composition": {
+    "durationSeconds": 6
+  },
+  "background": {
+    "backgroundColor": "#FFFFFF",
+    "backgroundGradient": "radial-gradient(ellipse 130% 90% at 50% 45%, #FFFFFF 0%, #F1F5F9 55%, #E2E8F0 100%)",
+    "showGrid": true,
+    "gridLineColor": "rgba(30, 64, 175, 0.05)",
+    "gridSize": 64,
+    "showSpotlight": true,
+    "spotlightColor": "rgba(37, 99, 235, 0.08)"
+  },
+  "floating": {
+    "enabled": true,
+    "floatAmplitudeY": 10,
+    "floatFrequencyY": 0.04,
+    "rotateAmplitude": 1.2,
+    "rotateFrequency": 0.025
+  },
+  "avatar": {
+    "imagePath": "Building1.png",
+    "circleSize": 500,
+    "circleBg": "radial-gradient(circle at 50% 30%, #1E3A8A 0%, #0F172A 58%, #020617 100%)",
+    "glowColor": "rgba(37, 99, 235, 0.35)",
+    "glowColorOuter": "rgba(37, 99, 235, 0)",
+    "borderColor": "#2563EB",
+    "borderWidth": 10,
+    "showOrbitRing": true,
+    "orbitRingColor": "rgba(37, 99, 235, 0.28)"
+  },
+  "text": {
+    "value": "Building Construction",
+    "subtitle": "Premium Commercial & Residential Real Estate",
+    "fontFamily": "Outfit",
+    "animationMode": "word-level",
+    "color": "#1E3A8A",
+    "subtitleColor": "#64748B"
+  }
+}

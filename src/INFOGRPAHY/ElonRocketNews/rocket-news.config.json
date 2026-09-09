@@ -1,0 +1,38 @@
+{
+  "logoUrl": "",
+  "publisher": "BHARAT NEWS",
+  "topic": "JUDICIARY",
+  "dateStr": "May 30, 2026",
+  "headline": "CJI Suryakant's Bold Statement to Youth",
+  "description": "CJI Suryakant gave a bold statement to the youth of India saying that corruption in the system is like cockroaches and parasites eating away at the foundations of our democracy. He urged the younger generation to rise up and crush these cockroaches and remove the parasites from the roots of governance.",
+  "upfrontImage": "Documnetry_Info_assets/modi.png",
+  "backgroundImage": "Documnetry_Info_assets/bjp.jpg",
+  "durationInFrames": 300,
+  "durationInSeconds": 10,
+  "timing": {
+    "newsAppearFrame": 60,
+    "photoShrinkDuration": 20,
+    "initialPhotoHeight": 65,
+    "targetPhotoHeight": 45
+  },
+  "script": {
+    "instructions": [
+      {
+        "target": "description",
+        "startFrame": 90,
+        "endFrame": 160,
+        "fromWord": 16,
+        "toWord": 29,
+        "cameraMode": "wide"
+      },
+      {
+        "target": "description",
+        "startFrame": 180,
+        "endFrame": 270,
+        "fromWord": 37,
+        "toWord": 45,
+        "cameraMode": "wide"
+      }
+    ]
+  }
+}

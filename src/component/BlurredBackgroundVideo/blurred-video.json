@@ -1,0 +1,16 @@
+{
+  "_capabilities": "This JSON file fully controls the BlurredBackgroundVideo animation. It dictates the background image, the cutout image, the text, and precisely when each element enters and exits the frame (based on 24 fps).",
+  "theme": {
+    "backgroundImage": "BlurredBackgroundVideo/ca46ecaa35b2c7e197e8af9bd5c124f4.jpg",
+    "cutoutImage": "Documnetry_Info_assets/building1.png"
+  },
+  "timing": {
+    "cutoutEnterFrame": 15,
+    "textEnterFrame": 50
+  },
+  "text": {
+    "line1": "NARENDRA",
+    "line2": "",
+    "line3": "MODI"
+  }
+}

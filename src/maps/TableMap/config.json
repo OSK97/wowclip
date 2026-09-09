@@ -1,0 +1,53 @@
+{
+  "country": "india",
+  "states": [
+    { "id": "INDIA", "name": "India", "color": "#10B981" },
+    { "id": "INGJ", "name": "Gujarat", "color": "#3B82F6" },
+    { "id": "INMH", "name": "Maharashtra", "color": "#F59E0B" }
+  ],
+  "rows": [
+    [
+      { "text": "$3.5T", "highlight": { "startFrame": 80, "durationFrames": 90, "color": "#10B981", "textColor": "#FFFFFF" } },
+      { "text": "$400B" },
+      { "text": "$420B" }
+    ],
+    [
+      { "text": "7.2%" },
+      { "text": "12%", "highlight": { "startFrame": 120, "durationFrames": 90, "color": "#3B82F6", "textColor": "#FFFFFF" } },
+      { "text": "15%" }
+    ],
+    [
+      { "text": "1.4B" },
+      { "text": "60M" },
+      { "text": "112M", "highlight": { "startFrame": 160, "durationFrames": 90, "color": "#F59E0B", "textColor": "#000000" } }
+    ],
+    [
+      { "text": "Agriculture", "highlight": { "startFrame": 200, "durationFrames": 90, "color": "#10B981", "textColor": "#FFFFFF" } },
+      { "text": "Manufacturing", "highlight": { "startFrame": 200, "durationFrames": 90, "color": "#3B82F6", "textColor": "#FFFFFF" } },
+      { "text": "Services", "highlight": { "startFrame": 200, "durationFrames": 90, "color": "#F59E0B" } }
+    ]
+  ],
+  "theme": {
+    "mapColor": "#94A3B8",
+    "backgroundColor": "#F8FAFC",
+    "backgroundGradient": "radial-gradient(circle at center, #FFFFFF 40%, #F1F5F9 100%)",
+    "textColor": "#0F172A",
+    "rowBorderColor": "rgba(15, 23, 42, 0.12)",
+    "highlightColor": "#FDE047",
+    "fontFamily": "Inter, system-ui, sans-serif",
+    "gridColor": "rgba(0,0,0,0.05)"
+  },
+  "layout": {
+    "width": 1000,
+    "headerHeight": 220,
+    "minRowHeight": 80,
+    "cellFontSize": 20,
+    "headerFontSize": 14,
+    "imageSize": 120
+  },
+  "animation": {
+    "entranceDurationFrames": 35,
+    "rowStaggerFrames": 12,
+    "cellStaggerFrames": 4
+  }
+}
