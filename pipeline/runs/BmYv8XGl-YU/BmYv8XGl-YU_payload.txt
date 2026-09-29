@@ -1,0 +1,256 @@
+DURATION 1956s
+
+HOW TO READ
+  L0001 = line id. Refer to clips by id, never by time.
+  The number after the id = how many seconds that line takes to say. A passage's length is the sum of the numbers on its lines, plus any [pause] printed between them. This is the only thing in the document that measures length, and it is exact -- never estimate a duration any other way.
+  A row with a BLANK number column is not speech. It carries an id but no words, so a clip can never begin or end on one.
+  (fast)(slow) = measured pace, against this video's own normal.
+  [pause 2.1s] = measured silence.
+  [applause (youtube)] = YouTube's own captions marked a sound here; no duration given.
+  [COMMENT] = a viewer comment about THIS exact moment, on its own indented line. Rare and strong.
+  [COMMENT summary] = the same, but the comment was too long to quote, so this is a machine summary of it, not the viewer's own words. Weigh it as testimony, never quote it.
+  +N more viewers marked this moment = N other people commented on this same line. The number is the signal.
+  >> inside a line = YouTube's caption marker for the OTHER PERSON STARTING TO TALK. A speaker change, not a comment, not a word. Never copy it into start_words or end_words.
+  [REPLAYED] = YouTube's replay data peaks somewhere near this line. It marks a neighbourhood, not a word.
+  THE WORDS ARE THE TRUTH. If any tag contradicts them, ignore the tag.
+
+
+TRANSCRIPT
+L0001    2.0s  Dr Mark
+L0002          [applause (youtube)]
+L0003    2.7s  (slow) Zuckerberg I love this
+L0004          [pause 1.4s]
+L0005    6.9s  (fast) place thank you all for coming out in the rain the pouring rain we're going to make this worth it for you
+L0006    3.4s  (slow) president fa Board of overseers
+L0007    7.3s  (slow) Faculty friends alumni proud parents members of the ad
+L0008          [pause 2.0s]
+L0009    4.9s  board and graduates of the greatest University in the
+L0010          [long gap 5.8s]
+L0011    7.7s  world I am honored to be here with you today because let's face it you accomplish something I never
+L0012    6.5s  could if I get through this speech today it'll be the first time I actually finish something here at
+L0013    2.7s  (slow) Harvard class of 2017
+L0014          [long gap 7.2s]
+L0015    8.3s  congratulations now I'm an unlikely speaker today not just because I dropped out but because we're technically in the same
+L0016    8.3s  generation we walk this yard less than a decade apart we studied the same ideas and slept through the same act1
+L0017    6.2s  lectures we may have taken different roads to get here especially if you came all the way from the
+L0018    8.2s  quad but today I want to share what I've learned about our generation and the world we're all building
+L0019    8.0s  together but first these last couple of days brought back a lot of good memories how many of you remember
+L0020    5.2s  (fast) exactly where you were and what you were doing when you got that email telling you you got into
+L0021          [applause (youtube)]
+L0022    4.9s  Harvard I was playing I was playing the video game
+L0023   10.6s  civilization and I ran downstairs and got my dad and for some reason his first reaction was to video me opening the email that could have been a really really sad
+L0024    7.6s  video but I swear getting to Harvard is the thing my parents are most proud of me
+L0025    8.4s  for my mom is nodding you all know what I'm talking about look guys it's tough to beat this you'll see when you get out
+L0026    5.4s  there how many of you remember your first lecture here at
+L0027          [pause 1.8s]
+L0028    7.2s  (slow) Harvard mine was computer science 121 with the incredible Harry Lewis Harry
+L0029          [applause (youtube)]
+L0030    6.2s  (fast) I was running late for class so I threw on a T-shirt and I didn't realize until afterwards that I put it on
+L0031    7.2s  (fast) inside out and backwards my tag was sticking out the front I couldn't figure out why no one in class would talk to
+L0032    9.8s  me except for this one guy KX Jin he just went with it we started doing our problem sets together and now he runs a big part of
+L0033    5.8s  Facebook and that class of 2017 is why you should be nice to people
+L0034          [long gap 4.6s]
+L0035    4.1s  but my best memory from Harvard is meeting
+L0036          [long gap 4.5s]
+L0037    4.2s  Priscilla I had just launched this prank website face
+L0038          [applause (youtube)]
+L0039    4.3s  Smash and the ad board wanted to see
+L0040    6.8s  me everyone thought I was going to get kicked out my parents drove up here to help me pack my Stu
+L0041   13.1s  my friends threw me a going away party who does that as luck would have it Priscilla was at that party with her friends and we met in line for the bathroom in the foo
+L0042   10.4s  (fast) Bell Tower and in what must be one of the all-time most romantic lines I turned to her and said I'm getting kicked out in 3 days so we need to go on a date
+L0043          [pause 1.2s]
+L0044    8.5s  quickly actually any of you graduating today can use that that line I'm getting kicked out today we need to go on a date
+L0045          [pause 1.8s]
+L0046   15.4s  fast I didn't end up getting kicked out I did that to myself Priscilla and I started dating and you know that movie made it seem like face SMH was so important to starting Facebook it wasn't
+L0047   11.8s  (fast) but without face Mash I never would have met Priscilla and Priscilla is the most important person in my life so you could still will say it was the most important thing I built in my time
+L0048          [applause (youtube)]
+L0049   11.5s  here we have all started lifelong friendships here and some of us even families that's why I'm so grateful to this place thanks Harvard
+L0050          [long gap 5.9s]
+L0051    2.9s  today I want to talk about
+L0052   10.8s  purpose but I'm not here to give you the standard commencement about finding your purpose we're Millennials we try to do that instinctively instead I'm
+L0053   12.5s  here to tell you that finding your purpose isn't enough the challenge for our generation is to create a world where everyone has a sense of
+L0054    7.9s  purpose one of my favorites stories is when JFK went to go visit the NASA Space Center and he saw a janitor holding
+L0055    7.3s  (fast) a broom and he asked him what he was doing and the janitor replied Mr President I'm helping put a man on the
+L0056   15.8s  moon purpose is that feeling that you are a part of something bigger than yourself that you are needed and that you have something better ahead to work for purpose is what creates true happiness
+L0057    6.8s  and you are graduating at a time when this is especially important when our parents graduated that sense of
+L0058   11.2s  (slow) purpose reliably came from your job your church your community but today technology and automation are eliminating many jobs
+L0059   13.4s  membership in a lot of communities has been declining and a lot of people are feeling disconnected and depressed and are trying to fill a void in their lives as I've traveled around I've sat with children in juvenile
+L0060   12.3s  (fast) detention and opioid addicts who have told me that maybe their lives would have turned out differently if they just had something to do an after school program or somewhere to go I've met Factory workers who know their
+L0061   16.0s  old jobs aren't coming back and are just trying to find their path ahead for our society to keep moving forward we have a generational challenge to not only create new jobs but Create A Renewed sense of purpose
+L0062          [pause 2.7s]
+L0063    5.4s  I remember that night I launched Facebook from that little dorm in Kirkland
+L0064          [pause 2.1s]
+L0065   13.8s  house I went to noes with my friend KX and I remember telling him clearly that I was excited to help connect the Harvard Community but one day someone would connect the whole world the
+L0066   10.3s  (fast) thing is it never even occurred to me that that someone might be us we were just college kids we didn't know anything about that there were all these great big technology companies with all these
+L0067   11.9s  resources and I just assumed one of them would do it but this idea was so clear to us that all people want to connect so we just kept working on it day after day after
+L0068   10.8s  (fast) day and I know that a lot of you are going to have your own stories just like this a change in the world that seems so clear that you are sure someone else is going
+L0069   14.1s  to do it but they're not you will but it's not enough to have that purpose yourself you also have to create a sense of purpose for others and I found that out the hard
+L0070   11.1s  (fast) way you see my Hope was never to build a company I wanted to have an impact and as all these people started joining us I just assumed that that's what they wanted to do too
+L0071   11.8s  so I never took the time to explain what it was that I hoped we'd build a couple years in some big companies wanted to buy us I didn't want to sell I wanted to see
+L0072   10.0s  (fast) if we could connect more people and we were building the first version of Newsfeed at the time and I thought if we could just launch this it could change how we all learn about the
+L0073    8.6s  world nearly everyone else wanted to sell without a sense of higher purpose this was their startup dream come
+L0074    7.5s  true and it tore our company apart after one particularly tense argument one of my close advis told me
+L0075   14.4s  if I didn't agree to sell the company right now I would regret that decision for the rest of my life relationships were so Fray that within a year or so every single person on our management team was
+L0076          [pause 1.4s]
+L0077    3.4s  gone that was my hardest time leading
+L0078    8.0s  [REPLAYED] Facebook I believed in what we were doing but I felt alone and worse it was my fault I
+L0079    8.8s  wondered if I was just wrong an impostor a a 22-year-old kid who had no idea how things actually
+L0080   12.0s  worked now years later I understand that is how things work when there's no sense of higher purpose so it's up to all of us to create it so we can all keep moving forward
+L0081    9.4s  together and today I want to talk about three ways that we can create a world where everyone has a sense of purpose by
+L0082   12.3s  taking on big meaningful projects together by redefining equality so everyone has the freedom to pursue their purpose and by building Community all across the
+L0083    4.1s  world so first let's take on big meaningful
+L0084    9.1s  (fast) projects our generation is going to have to deal with tens of millions of jobs replaced by automation like self-driving cars and trucks but we have the potential to do
+L0085   12.2s  so much more than that every generation has its defining Works more than 300,000 people work to put that man on the moon including that janitor millions of volunteers immunized children
+L0086   11.9s  around the world against polio and millions of more people built the Hoover Dam and other great projects and now it's Our Generations turn to do great things now I
+L0087    9.9s  (fast) know maybe you're thinking I don't know how to build a dam I don't know how to get a million people involved in anything well let me tell you a secret
+L0088   12.2s  [REPLAYED] no one does when they begin ideas don't come out fully formed they only become clear as you work on them you just have to get
+L0089    6.9s  started if I had to know everything about connecting people before I got started I never would have built
+L0090   14.6s  [REPLAYED] Facebook movies and pop culture just get this all wrong the idea of a single Eureka moment is a dangerous lie it makes us feel inadequate because we feel like we haven't had ours yet
+L0091   12.5s  [REPLAYED] and it prevents people with seeds of good ideas from ever getting started in the first place oh and you know what else movies get wrong about innovation no one writes math formulas on glass
+L0092    3.6s  okay all right that's not a thing
+L0093          [pause 3.9s]
+L0094    7.4s  (slow) okay it's really good to be idealistic but be prepared to be
+L0095   10.5s  misunderstood anyone working on a big vision is going to get called crazy even if you end up right anyone taking on a complex problem is going to get blamed for not
+L0096   13.0s  fully understanding it even though it's impossible to know everything up front anyone taking initiative will always get criticized for moving too fast because there's always someone who wants to slow you
+L0097   10.2s  down in our society we often don't take on big things because we're so afraid of making mistakes that we ignore all the things wrong today if we do
+L0098   11.0s  nothing the reality is anything we do today is going to have some issues in the future but that can't stop us from getting
+L0099   13.2s  [REPLAYED] started so what are we waiting for it is time for our generation defining great works how about stopping climate change before we destroy the planet and getting millions of people
+L0100    1.2s  involved
+L0101   14.5s  manufacturing and installing solar panels how about curing all diseases and getting people involved by asking volunteers to share their Health Data track their health data and share their genomes you know today our society
+L0102   12.2s  spends more than 50 times as much treating people who are sick as we invest in finding cures so people don't get sick in the first place it makes no sense we can fix this
+L0103    4.7s  (slow) how about modernizing democracy so everyone can vote
+L0104          [applause (youtube)]
+L0105    5.0s  (slow) online and how about personalizing education so everyone can
+L0106   15.8s  learn these achievements are all within our reach let's do them all in a way that gives everyone in our society a role let's do big things not just to create progress but to create purpose
+L0107          [long gap 7.1s]
+L0108    5.5s  (fast) so taking on big meaningful projects together is the first thing we can do to create a world where everyone has
+L0109   10.1s  a a sense of purpose the second is redefining our idea of equality so everyone has the freedom to pursue their
+L0110    8.1s  purpose now many of our parents had stable jobs throughout their careers but in our generation we're all a little Entre entrepreneurial whether we're starting
+L0111    8.9s  [REPLAYED] our own projects or finding our role in another one and you know that's great because our culture of Entrepreneurship is how we create so much
+L0112   13.3s  progress an entrepreneurial culture thrives when it is easy to try lots of new ideas Facebook wasn't the first thing I built I also built chat systems and games study tools
+L0113   13.9s  and music players and I'm not alone JK Rowling got rejected 12 times before she finally wrote and published Harry Potter even Beyonce had to make hundreds of songs to get
+L0114          [pause 3.0s]
+L0115    6.1s  (slow) Halo the greatest successes come from having the freedom to
+L0116          [pause 1.8s]
+L0117    7.4s  fail now today we have a level of wealth in equality that hurts
+L0118   10.9s  everyone when you can't when you don't have the freedom to take your idea and turn it into a historic Enterprise we all lose
+L0119    8.2s  and right now today our society is way over indexed on rewarding people when they're successful and we don't do nearly enough to make sure
+L0120    9.4s  that everyone can take lots of different shots now let's face it there is something wrong with our system when I can leave here
+L0121    8.2s  [REPLAYED] and make billions of dollars in 10 years while millions of students students can't even afford to pay off their loans let alone start a
+L0122          [long gap 6.0s]
+L0123   10.0s  [REPLAYED] business look I know a lot of entrepreneurs and I don't know a single person who gave up on starting a business because they were worried they might not make
+L0124    9.8s  enough money but I know too many people who haven't had the chance to pursue their dreams because they didn't have a cushion to fall back on if they failed
+L0125          [applause (youtube)]
+L0126    7.4s  [REPLAYED] we all know you don't get successful just by having a good idea or working hard you get Successful by being lucky
+L0127    8.6s  (fast) too if I had to support my family growing up instead of having the time to learn how of code if I didn't know that I was going to be fine if
+L0128   10.6s  Facebook didn't work out then I wouldn't be standing up here today and if we're honest we all know how much luck we we' had to get to this point in our
+L0129   10.6s  (slow) lives every generation expands its definition of equality previous generations fought for the vote and civil rights they
+L0130    9.2s  had the New Deal and great society and now it's time for our generation to define a new social
+L0131          [long gap 4.9s]
+L0132    8.4s  contract we should have a so society that measures progress not just by economic metrics like GDP but by how many of us have
+L0133    8.8s  a role we find meaningful we should explore ideas like Universal basic income to make sure that everyone has a cushion to try new
+L0134          [pause 2.8s]
+L0135    9.0s  (fast) ideas we're all going to change jobs and roles many times so we need affordable child care to get to work and healthc care that's not tied to just one employer
+L0136          [long gap 4.1s]
+L0137    6.5s  (fast) and we're all going to make mistakes so we need a society that's less focused on locking us up and stigmatizing us when
+L0138   10.0s  we do and as our technology keeps on evolving we need a society that is more focused on providing continuous education through our
+L0139          [pause 3.6s]
+L0140   12.9s  lives and yes giving everyone the freedom to pursue purpose isn't going to be free people like me should pay for it and a lot of you are going to do really well and you should
+L0141          [long gap 7.5s]
+L0142    7.8s  too that is why Priscilla and I started the Chan Zuckerberg initiative and committed our wealth to promoting equal
+L0143          [long gap 5.1s]
+L0144    9.8s  opportunity these are the values of our whole generation it was never a question of if we were going to do this the only question was
+L0145   11.9s  when Millennials are already one of the most charitable Generations in history in just one year more than three in four us Millennials donated to charity
+L0146   10.2s  and more than seven in 10 raised money for another one but it's not just about giving money you can also give time and I promise
+L0147    7.3s  (fast) you if you just take an hour or two a week that that's all it takes to give someone a hand and help them Reach their
+L0148   12.4s  potential now maybe you're thinking that's a lot of time I'm not sure if I have that much time I used to think that you know when Priscilla graduated from Harvard she became a teacher and
+L0149   13.0s  before she'd do education work with me she told me that I needed to get my own experience teaching a class at first I complained said you know I'm kind of busy I'm running this company
+L0150    1.4s  but she
+L0151    7.2s  insisted so I taught an after school program at the local Boys and Girls Club on
+L0152          [pause 1.8s]
+L0153   14.5s  entrepreneurship I taught those kids lessons on product development and marketing and they taught me what it was like growing up feeling targeted for your race and what it's like having a family member in
+L0154    4.2s  prison I shared stories of my time in school
+L0155    4.0s  (fast) and they shared their hope that one day they would get to go to college
+L0156   14.7s  too for five years I've had dinner with those students every month one of them even threw Priscilla and me our first baby shower and next year they're going to
+L0157          [pause 1.5s]
+L0158    5.9s  (slow) college every one of them first generation and their
+L0159    8.7s  families we can all make time to give someone a hand let's give everyone the freedom to pursue purpose not just because
+L0160    6.5s  (fast) it's the right thing to do but because when more people can turn their dreams into something great we are all better for
+L0161          [applause (youtube)]
+L0162    3.6s  (slow) it purpose doesn't only come from
+L0163   13.4s  work the third way we can create a sense of purpose for everyone is by building community and in our generation when we say purpose for everyone we mean everyone in the
+L0164    6.1s  world now quick show of hands how many of you here are from another
+L0165          [pause 1.5s]
+L0166    5.8s  country all right now keep your hands up how many of you are friends with one of these
+L0167    5.3s  folks now we're talking see we have we have grown up
+L0168    7.2s  connected in a recent survey of Millennials around the world asking what most defines our identity the
+L0169    9.5s  (slow) most popular answer wasn't nationality ethnicity or religion it was citizen of the world that's a big
+L0170   10.8s  deal every generation expands the circle of people we consider one of us and in our generation that now includes the whole
+L0171   11.7s  world we understand that the great Arc of human history bends towards people coming together in ever greater numbers from tribes to cities to Nations to achieve
+L0172   10.3s  things that we could not on our own we get that our greatest opportunities are now global we can be the generation that ends poverty that ends
+L0173    7.6s  disease and we get that our greatest challenges need Global responses too no country can fight climate change alone
+L0174   10.4s  or prevent pandemics progress now requires coming together not just as cities or nations but also as a global
+L0175    2.9s  Community but we live in an unstable
+L0176   12.4s  time there are people left behind by globalization across the whole world and it's tough to care about people in other places when we don't first feel good about our lives here at
+L0177    2.8s  (slow) home there's pressure to turn
+L0178    9.3s  inwards this is the struggle of our time the forces of Freedom openness and Global Community against the forces
+L0179   11.9s  (slow) of authoritarianism isolationism and nationalism forces for the flow of knowledge trade and immigration against those who would slow them
+L0180    6.0s  down this is not a battle of Nations it is a battle of
+L0181   14.8s  ideas there are people in every country for more Global Connection and there are good people against it and this isn't going to be decided at the UN either it's going to happen at the local level when enough of
+L0182    6.7s  us feel a sense of purpose and stability in our own lives that we can start to open up and
+L0183    9.4s  care about everyone else too and the best way to do that is to start building local communities right now
+L0184          [applause (youtube)]
+L0185    5.0s  we all get a lot of meaning from our communities who hears from Elliot
+L0186    2.3s  house how about
+L0187    6.7s  lol I know you guys found Community cuz you literally live right on top of each other and
+L0188          [music (youtube)]
+L0189    2.7s  Ma I'll just leave that
+L0190          [pause 1.4s]
+L0191    8.4s  there whether our commity communities or houses or sports teams churches or AC capella groups they give us that sense that we're a part of
+L0192   10.4s  something bigger that we are not alone they give us the strength to expand our Horizons and that's why it's so striking that over the
+L0193    8.4s  past few decades membership in all kinds of communities has declined by as much as one quarter that's a lot of people who now need
+L0194    9.7s  to find a sense of purpose somewhere else but I know that we can rebuild these communities and start new ones because many of you already
+L0195          [pause 1.2s]
+L0196    6.7s  (slow) are I met Agnes ago who's graduating today Agnes where are
+L0197          [pause 3.7s]
+L0198   13.1s  you Agnes spent her childhood navigating conflict zones with human trafficking in Uganda and now she's trained thousands of law enforcement officials to keep communities safe
+L0199          [long gap 7.9s]
+L0200    5.5s  I met Kayla Oakley and Niha Jane graduating today too Stand Up
+L0201   12.2s  Guys Kayla Nia started a nonprofit that connects people suffering from chronic illnesses with people in their communities who are willing to help out
+L0202          [applause (youtube)]
+L0203    6.2s  and I met David razu aznar who's graduating from the kenned school today David stand
+L0204          [pause 3.1s]
+L0205   11.8s  up David is a former city counselor who fought to make Mexico City the first Latin American city to pass marriage equality even before San Francisco
+L0206          [music (youtube)]
+L0207   13.4s  and this is my story too a student in a dorm connecting one community at a time and keeping at it until one day we can connect the whole
+L0208    2.9s  world change starts
+L0209   11.0s  local even Global change starts small with people like us in our generation the struggle of whether we connect more whether we achieve
+L0210   13.4s  (slow) our greatest opportunities comes down to this your ability to build communities and create a world where every single person has a sense of
+L0211          [long gap 8.5s]
+L0212    2.4s  purpose class of
+L0213    9.0s  2017 you are graduating into a world that needs purpose and it's up to you to create
+L0214    5.6s  (slow) it now maybe you're asking yourself can I really do
+L0215          [pause 1.8s]
+L0216    5.5s  this well remember when I told you about that class I taught at the Boys and Girls
+L0217    7.3s  [REPLAYED] Club one day after class I was talking to my students about going to college and one of my top students raised
+L0218    7.5s  his hand and said that he wasn't sure he could go to college because he's undocumented Ed he wasn't sure if they'd take
+L0219    9.0s  [REPLAYED] him last year I took him out to breakfast for his birthday and I wanted to get him a gift so I asked him what he wanted and
+L0220   10.1s  he just started talking about struggles that he saw other students in his class facing and finally said you know I'd really just like a book on social
+L0221    2.6s  (slow) justice I was blown
+L0222    8.6s  [REPLAYED] away here is a young guy who has every reason to be cynical he wasn't sure if the
+L0223    8.2s  country he calls home the only one he's known was going to deny him his dream of going to
+L0224    6.0s  college but he wasn't feeling sorry for himself he wasn't even thinking of
+L0225    6.4s  [REPLAYED] himself he has a greater sense of purpose and he's going to bring people along with him
+L0226          [pause 3.3s]
+L0227    6.2s  (fast) it says something about our situation today that I can't even say his name because I don't want to put him at
+L0228          [pause 1.4s]
+L0229   13.3s  [REPLAYED] risk but if a high school senior who doesn't know what the future holds for him can do his part to move the world forward then we owe it to the world to do our part too
+L0230          [long gap 26.5s]
+L0231    7.3s  so before you walk out those Gates one last time and as we sit here in front of Memorial
+L0232    4.8s  (slow) Church I'm reminded of a prayer Misha
+L0233    9.3s  [REPLAYED] that I say whenever I face a big challenge that I sing to my daughter thinking of her future when I tuck her in at
+L0234   14.2s  (slow) night and it goes May the source of strength who's blessed the ones before us help us find the courage to make our lives a
+L0235    9.9s  [REPLAYED] blessing I hope you find the courage to make your life a blessing congratulations class of 2017 good luck out there
+L0236    1.4s  thank you
+L0237          [long gap 5.8s]
+L0238    0.4s  than

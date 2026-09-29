@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "payload": "C:\\Users\\DP\\Desktop\\App\\website\\pipeline\\runs\\Q7bPssMKxYI\\Q7bPssMKxYI_payload.txt",
+    "model": "z-ai/glm-5.3-flash",
+    "effort": "high",
+    "clip_start_s": 0.0,
+    "duration_s": 510.0,
+    "lines": 55,
+    "categories": [
+      "motivational"
+    ],
+    "video": {
+      "video_id": "Q7bPssMKxYI",
+      "title": "Jim Rohn: Why Not You, Why Not Now",
+      "channel": "Brent Hosaka",
+      "duration_s": 510.0,
+      "views": "333108"
+    }
+  },
+  "by_category": {
+    "motivational": {
+      "video_read": "This is Jim Rohn on stage at a Herbalife 'Extravaganza', delivering his famous four-questions talk: why, why not, why not you, why not now. The motivational material lives exactly in those question builds — the 'why not you' passage is the most-commented moment in the video, and the audience quotes the 'why/how' and 'without a vision' lines verbatim. Herbalife product pitches thread through and contaminate several stretches (especially the 'why not now' build), which I have worked around rather than through.",
+      "coverage": 0.964,
+      "error": null,
+      "near_misses": [
+        {
+          "start_line": "L0001",
+          "end_line": "L0012",
+          "why_not": "The 'why pay the price, why work this hard' roll is genuinely strong but runs ~95 seconds to its landing ('you're the only one that can answer that question for yourself'), and its best quotable payoff is already captured in the L0014-L0016 clip."
+        },
+        {
+          "start_line": "L0036",
+          "end_line": "L0039",
+          "why_not": "'If a farm boy can wander out of Idaho... why not you' is a good reframe, but it leans on Extravaganza and 'Mar Hughes' references a stranger can't read, and it duplicates the stronger 'why not you' clip at L0049."
+        },
+        {
+          "start_line": "L0055",
+          "end_line": "L0059",
+          "why_not": "The 'why not now' question itself is one of the famous four, but the moment it opens it collapses into a Herbalife mountain-top recap ('Barcelona was special, Orlando was outrageous') — unusable around the question."
+        }
+      ],
+      "skipped": [
+        {
+          "from_line": "L0017",
+          "to_line": "L0019",
+          "what": "movie testimony ('we joined because we believed, we left because we were disillusioned') — context-dependent, no turn for the viewer"
+        },
+        {
+          "from_line": "L0020",
+          "to_line": "L0028",
+          "what": "dream-strategy setup that becomes a Herbalife product pitch ('herbal life has got the ability to make it all come true')"
+        },
+        {
+          "from_line": "L0032",
+          "to_line": "L0035",
+          "what": "Rohn's own goals dated to the year 2000 — someone else's résumé, dated and unusable"
+        },
+        {
+          "from_line": "L0041",
+          "to_line": "L0048",
+          "what": "warm 'I wish I could sit with each of you' passage — affection, not motivation"
+        },
+        {
+          "from_line": "L0052",
+          "to_line": "L0054",
+          "what": "'I'll walk with you as we take Herbal Life around the world' — sponsor pledge"
+        }
+      ],
+      "dropped": []
+    }
+  },
+  "clips": [
+    {
+      "category": "motivational",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "Why not you?",
+      "why": "The heart of the video and its most-marked moment (29 and 26 like comments on this exact second). Rohn turns a vague dream into a direct personal confrontation: 'you've got the brains, you can make decisions, you can change your life, you can build a financial wall around your family nothing can get through' — then lands 'why not you' twice. It removes the viewer's quiet excuse that they are somehow not the kind of person things happen to. Viewers literally wrote 'I will come back to this a lot' on this second. Note: L0049 opens mid-sentence ('do it from up here'); a cleaner edge is 'you've got the brains' at L0050, and the hook line 'my personal question to you is why not you' can be flashed from L0049.",
+      "category_hint": "SELF-BELIEF / QUESTION HOOK",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "4 viewer comments on L0049 including one at 29 likes and one at 26 likes",
+        "audience block: 'why not me? why not now?' quoted at 129 likes"
+      ],
+      "start_line": "L0049",
+      "end_line": "L0052",
+      "start_words": "do it from up here but I want you to take it personal",
+      "end_words": "I ask the question why not you but",
+      "start_s": 375.12,
+      "end_s": 414.92,
+      "duration_s": 39.8,
+      "source_start_s": 375.12,
+      "source_end_s": 414.92,
+      "one_liner": false,
+      "text": "do it from up here but I want you to take it personal and my personal question to you is why not you you've got the brains you can make decisions you can study the plan in you can change your life you can grow immensely in the next few years you can make your dreams come true you can build a financial wall around your family nothing can get through you can become healthy you can become powerful why not you and I'm here to say that I'm ready to pledge my support to make your personal dreams come true I ask the question why not you but",
+      "flags": [],
+      "id": "mot1"
+    },
+    {
+      "category": "motivational",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "If the why is powerful, the how is easy",
+      "why": "Two separate quotable lines delivered back to back: the mechanism ('if the why is powerful the how is easy') and the warning ('without a vision we die, without a vision we perish, without a dream we're nothing'). Both lines are quoted word-for-word in the audience's comments — one at 93 likes saying they have listened to this speech over 100 times. The first line hands the viewer a way to think about their own stuckness; the second makes the absence of a dream feel existential. Under 22 seconds total, and either line can be flashed at the head of the reel.",
+      "category_hint": "ONE-LINER / IDENTITY",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "audience comments quoting both lines verbatim: 'If why is powerful the how is easy' (6 likes), 'without a vision we die...' (93 likes)"
+      ],
+      "start_line": "L0014",
+      "end_line": "L0016",
+      "start_words": "why in leadership training here's what we learn",
+      "end_words": "without a dream we're nothing",
+      "start_s": 97.92,
+      "end_s": 120.04,
+      "duration_s": 22.12,
+      "source_start_s": 97.92,
+      "source_end_s": 120.04,
+      "one_liner": false,
+      "text": "why in leadership training here's what we learn if the why is powerful the how is easy but if the why isn't strong if your goals aren't powerful if the vision isn't clear the old Prophet said without a vision we die without a vision we perish without a dream we're nothing",
+      "flags": [],
+      "id": "mot2"
+    },
+    {
+      "category": "motivational",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "Why not see what kind of person you can become",
+      "why": "A permission roll: 'why not see how much you can earn, why not see how much you can learn, why not see what kind of person you can become.' It takes away the assumption that wanting more needs justification — the 'why not' is the whole argument. This is the second of Rohn's four questions and the audience's loudest comment theme ('why not me? why not now? the 4 most important questions I have ever been asked', 129 likes) lives here. Cutting note: L0029 opens with meta framing ('here's number two') and L0031 ends mid-phrase — the editor should trim to 'why not see how much you can earn... why not see how many people you can reach', pulling 'can reach' from the top of L0032.",
+      "category_hint": "PERMISSION / QUESTION HOOK",
+      "hook_strength": 4.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment on L0029 (14 likes)",
+        "audience block: 'why not now, why not me' theme (3 comments, one at 129 likes)"
+      ],
+      "start_line": "L0029",
+      "end_line": "L0031",
+      "start_words": "how now here's number two the first question",
+      "end_words": "why not see how many people you",
+      "start_s": 217.48,
+      "end_s": 247.32,
+      "duration_s": 29.84,
+      "source_start_s": 217.48,
+      "source_end_s": 247.32,
+      "one_liner": false,
+      "text": "how now here's number two the first question to ponder when you go home is why here's another good answer to why it's the second question why not why not see how much you can earn why not see how much you can learn why not see how many skills you can develop why not see what kind of person you can become why not see what kind of influence you can have why not see how many people you can rescue from Oblivion why not see how many people you",
+      "flags": [],
+      "id": "mot3"
+    },
+    {
+      "category": "motivational",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "Breathe into it your own personal spirit until it becomes a flame",
+      "why": "The 'why not now' payoff: 'take this dream and not let it die, take this dream and give it life, take this dream and breathe into it your own personal Spirit until finally it becomes a flame that burns around the whole world — let's go do it now.' Pure rally-cry rhythm with an instruction sized to tonight: start now. Returned despite real worries: the surrounding build (L0055-L0059) is Herbalife/Extravaganza recap the clip must avoid, and L0060 opens mid-thought — the second pass should cut in at 'take this dream and not let it die' mid-line. If that edge can't be made clean, this is droppable.",
+      "category_hint": "HUSTLE / RALLY",
+      "hook_strength": 4.0,
+      "self_contained": false,
+      "confidence": "LOW",
+      "signals_used": [
+        "comment marker on L0061"
+      ],
+      "start_line": "L0060",
+      "end_line": "L0061",
+      "start_words": "of your cooperation the way you have learned",
+      "end_words": "let's go do it now",
+      "start_s": 470.36,
+      "end_s": 498.04,
+      "duration_s": 27.68,
+      "source_start_s": 470.36,
+      "source_end_s": 498.04,
+      "one_liner": false,
+      "text": "of your cooperation the way you have learned and listened and worked hard to get it all I congratulate you for that but Mark brought us here and what a time now for us to take this dream and not let it die take this dream and give it life take this dream and breathe into it your own personal Spirit until finally it becomes a flame that burns around the whole world let's go do it now",
+      "flags": [
+        "finder marked it not self-contained"
+      ],
+      "id": "mot4"
+    }
+  ]
+}

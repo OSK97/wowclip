@@ -1,0 +1,53 @@
+{
+  "category": "motivational",
+  "clips": [],
+  "dropped": [],
+  "near_misses": [],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0010",
+      "what": "opening verse and chorus of the song, no spoken content"
+    },
+    {
+      "from_line": "L0011",
+      "to_line": "L0021",
+      "what": "second verse with caption gaps and pauses, lyrics only"
+    },
+    {
+      "from_line": "L0022",
+      "to_line": "L0034",
+      "what": "final chorus and outro, lyrics only"
+    }
+  ],
+  "video_read": "This is the music video for Rick Astley's 'Never Gonna Give You Up' — 214 seconds of song lyrics, transcribed by YouTube's automatic captions, with a comment section dominated by Rickroll meme culture. There is no spoken monologue, no speaker, no advice, and no moment anywhere in the transcript where a viewer's self-image is changed by what is said. The material I hunt for does not exist in this video.",
+  "coverage": 1.0,
+  "usage": {
+    "prompt_tokens": 16194,
+    "completion_tokens": 257,
+    "total_tokens": 16451,
+    "cost": 0.00254992,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 64,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00254992,
+      "upstream_inference_prompt_cost": 0.00242142,
+      "upstream_inference_completions_cost": 0.0001285
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 31,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 31
+  },
+  "error": null,
+  "seconds": 5.3,
+  "reasoning": "This is \"Never Gonna Give You Up\" — Rick Astley lyrics transcript. Not motivational content at all. The honest answer: empty clips array."
+}

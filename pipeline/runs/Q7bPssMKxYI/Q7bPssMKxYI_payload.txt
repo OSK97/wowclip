@@ -1,0 +1,133 @@
+DURATION 510s
+
+HOW TO READ
+  L0001 = line id. Refer to clips by id, never by time.
+  The number after the id = how many seconds that line takes to say. A passage's length is the sum of the numbers on its lines, plus any [pause] printed between them. This is the only thing in the document that measures length, and it is exact -- never estimate a duration any other way.
+  A row with a BLANK number column is not speech. It carries an id but no words, so a clip can never begin or end on one.
+  (fast)(slow) = measured pace, against this video's own normal.
+  [pause 2.1s] = measured silence.
+  [applause (youtube)] = YouTube's own captions marked a sound here; no duration given.
+  [COMMENT] = a viewer comment about THIS exact moment, on its own indented line. Rare and strong.
+  [COMMENT summary] = the same, but the comment was too long to quote, so this is a machine summary of it, not the viewer's own words. Weigh it as testimony, never quote it.
+  +N more viewers marked this moment = N other people commented on this same line. The number is the signal.
+  >> inside a line = YouTube's caption marker for the OTHER PERSON STARTING TO TALK. A speaker change, not a comment, not a word. Never copy it into start_words or end_words.
+  [REPLAYED] = YouTube's replay data peaks somewhere near this line. It marks a neighbourhood, not a word.
+  THE WORDS ARE THE TRUTH. If any tag contradicts them, ignore the tag.
+
+
+MOST-MARKED MOMENTS (line ids where viewer comments landed, busiest first)
+  L0049  4 viewer comments
+
+
+AUDIENCE (about the video overall, no fixed moment)
+  mood: Enthusiastic audience seeking inspiration and personal growth from Jim Rohn's speech
+  - Praising Jim Rohn's speaking style -- 12 comments, e.g. "Met him in the 90's at Extravaganza and in Dallas....such a great man of wisdom ..... :-)"
+  - Personal transformation promises -- 7 comments, e.g. "I promised myself I’d change my life around .. I’ll see you guys in a couple of years with an update"
+  - Herbalife mentions and criticism -- 7 comments, e.g. "Yuk Herbalife"
+  - Vision and dream motivational messages -- 5 comments, e.g. "I’ve listened to this speech over 100 times for the last 2 years, never gets old. It’s true, without a vision we die, without a vision we perish, without a drea"
+  - Rhetorical "why not now" questions -- 3 comments, e.g. "why ? why now ? why not me ? why not now ? the 4 most important quetions i have ever been asked in my life. - thank you god for giving me the chanse 2 hear this"
+  - Requests for the full speech link -- 2 comments, e.g. "Can you kindly share Link to this full talk."
+
+  loudest comments, verbatim:
+  "I promised myself I’d change my life around .. I’ll see you guys in a couple of years with an update" (467 likes)
+  "why ? why now ? why not me ? why not now ? the 4 most important quetions i have ever been asked in my life. - thank you god for giving me the chanse 2 hear this . <3 <3 <3" (129 likes)
+  "Met him in the 90's at Extravaganza and in Dallas....such a great man of wisdom ..... :-)" (112 likes)
+  "I’ve listened to this speech over 100 times for the last 2 years, never gets old. It’s true, without a vision we die, without a vision we perish, without a dream we are nothing! Have a vision for your life!" (93 likes)
+  "Jim Rohn. What an inspiring speaker!" (44 likes)
+  "Without a dream we are nothing!!🔝" (32 likes)
+  "I am going to be a completely deferent person in the next 365 days Tired of failing ,failing myself And ancestors I’m going back to this in a year" (17 likes)
+  "Legendary speech By Jim Rohn RIP" (19 likes)
+  "I promise,i will change my self.12/01/2026." (15 likes)
+  "I am currently working on myself everyday. I am in the middle of doubts, insecurity and struggle but I keep grinding. I'll come back in a year with the hope I didn't gave up." (14 likes)
+  "The Sinatra of speakers. Thank you Mr.Rohn." (13 likes)
+  "This man is JENIUS!" (13 likes)
+  "I will come back in 2026 may...life will be turned around forever ..I have to see what I can become how far I can go I will do more and more,be courageous,be confident, persistent" (10 likes)
+  "why not now.?,.what a question!!!" (11 likes)
+  "Can you kindly share Link to this full talk." (11 likes)
+  "From today inshaolloh i work on myself 1.09. 2025. And i back after one year and share what I achieve. ......................" (8 likes)
+  "I promise myself and the world, I'll better myself coming years by a thousand times. I'll bring belief and strength to do all that I can. Why ? Why me? Why not me?" (8 likes)
+  ""you have to stay here, till you go" thats deep" (8 likes)
+  "If only my actions were able to match Mr. Rohn's exceptional words 😎😎😎😎😎😎😎😎😎😎😎😎😎" (7 likes)
+  "Where can i find the full speech" (7 likes)
+  "Listen to this every morning, I love you Jim" (6 likes)
+  "Without dream we have nothing, we have to dare to see the dream and accomplished it in our life time. Really Impressive motivational thoughts." (6 likes)
+  ""If why is powerful the how is easy" Jim Rhon" (6 likes)
+  "Disliked????How? Why?" (5 likes)
+  "Yuk Herbalife" (5 likes)
+  "It's a really good, inspiring speech... I hate when he mentions Herbalife, haha. It makes me feel like they're selling a personal growth guide, but linking and attributing the result of your own will and determination to" (4 likes)
+  "I'm assuming this predates Sineks start with why.... I enjoy sinek but did he ever cite Rohn? Can't remember where sinek got his why inspiration from" (2 likes)
+  "Touch everybody in class hits hard" (1 likes)
+  "No doubt his speeches are really captivating and trascendental, but I wonder if Jim Rohn ever knew that herbal life was an evil pyramid scheme in the end" (0 likes)
+  "'If the why is Powerful, the How is easy'. I will be back in a few weeks to check on how far I can go with my list of 'Whys'." (0 likes)
+
+
+TRANSCRIPT
+L0001    5.6s  I want you to ponder these four questions here's the first one and that's
+L0002          [pause 1.3s]
+L0003   10.7s  (slow) why why pay the price why work this hard why go this far why try to learn this
+L0004    6.8s  much why try to do it all Why Try To See It All why try to have it
+L0005    8.8s  all why do it why learn it why study why put yourself out why try to take on this much
+L0006          [pause 1.9s]
+L0007    3.4s  (slow) responsibility why develop yourself to the
+L0008    3.8s  full Why Try to become all that you can possibly
+L0009   12.0s  become Why Try to earn as much as you can earn share as much as you can share develop every skill you possibly can see every human you possibly can go to every class you possibly
+L0010    8.1s  can touch everybody you possibly can why do that much why go that far why share that much
+L0011    8.2s  why give that much away why try to see everything why try to do everything why try to become
+L0012   11.1s  everything that's a good question why and you're the only one personally that can answer that question for yourself you've got to have your own list of wise here's what I want you
+L0013   13.2s  to do when you go home after you've left left this Extravaganza work on your list of wise one of the big thrusts for success is to come up with a strong enough
+       [COMMENT] "1:28-1:45" (0 likes)
+L0014    6.9s  why in leadership training here's what we learn if the why is powerful the how is
+L0015    3.0s  (slow) easy but if the why isn't
+L0016   11.5s  strong if your goals aren't powerful if the vision isn't clear the old Prophet said without a vision we die without a vision we perish without a dream we're nothing
+L0017   12.9s  (slow) from the movie The professionals I listened to Bill Heron give his testimony yesterday from the movie The Professional is said we joined because we believed
+L0018   15.3s  (slow) we stayed because we were committed we left because we were disillusioned but we came back because we were lost without a dream we are nothing
+L0019          [applause (youtube)]
+L0020    7.8s  I'm asking you to sit down with your family and develop a dream strategy I'm asking you to make a list of what what
+       [COMMENT] "2:39-3:07" (0 likes)
+L0021    6.0s  (fast) you want what kind of Health do you want what kind of skills do you want herbal life has got the ability to make it
+L0022    6.0s  (fast) all come true but you've got to decide what do you want what kind of income do you want what kind of gifts do
+L0023    6.0s  (fast) you wish to be bestow what kind of power would you like to have what kind of influence would you like to have I'm asking
+L0024    7.6s  you to go home and work on the why spend some time as you fly over the clouds and over the ocean back to
+L0025    7.0s  where you came from I'm asking you to have a vision but the time you've reached home of why you want Herbal Life to work
+L0026    5.3s  (fast) for you why you want this kind of income why you want this kind of recognition and these kinds of skills I'm asking you
+L0027    6.8s  to develop your own list of why because if you can come up with a strong enough list of why verbal life can furnish the
+L0028          [long gap 5.5s]
+L0029   11.5s  how now here's number two the first question to ponder when you go home is why here's another good answer to why it's the second question why not why not
+       [COMMENT] "3:41" (14 likes)
+L0030    8.5s  see how much you can earn why not see how much you can learn why not see how many skills you can develop why not see what kind of person you
+L0031    9.8s  can become why not see what kind of influence you can have why not see how many people you can rescue from Oblivion why not see how many people you
+L0032    8.9s  can reach I shared one of my goals with a group just last night here it is one of my goals to reach the peak of my skills by the year
+L0033    8.6s  2000 so I've got some work to do by the year 2000 turn of the century turn of the Millennium I want to reach the
+L0034    9.2s  peak of my skills by the year 2000 and then come The Next Century I want to utilize those skills in Touching every human I
+L0035    7.5s  can possibly touch for the rest of my life those are some of my goals I want you to establish some of your goals I
+L0036    9.4s  want you to give thoughtful consideration to your goals and why not if a farm boy can wander out of Idaho and finally arrive at
+L0037    7.2s  this Extravaganza why not you if Mar Hughes can walk away from the tough side of town and find a few people and make a
+L0038    8.4s  dream come true why not you if we've got good health for many why not the rest if it's happened for you why not others
+L0039   10.1s  and why not you I want you to take that personal why not why not you've got to stay here till you go I mean
+L0040    7.4s  what else are you going to do why not see how much you can do how far you can go now here's number three why not
+L0041    6.6s  you I wish I could say that to each of you individually but it would take a couple of lifetimes to
+L0042    6.2s  sit down and talk with each of you individually but I would rather do that I'd rather sit down and talk
+L0043    5.3s  (fast) with you and your family with a fire burning in the living room than to be standing on this platform that's
+L0044    7.2s  my true desire I'd love to talk to you and your children face to face that's what I'd really like to
+L0045          [long gap 5.9s]
+L0046    5.5s  (fast) do I'd love to spend a couple of days with each of you person personally and pour out my heart my
+L0047    7.7s  soul what's going on in my head what's going on with me see if we couldn't connect and find something valuable but
+L0048    5.7s  (fast) time doesn't permit for us to have those intimate conversations and get to know each other that well so I've got to
+L0049    8.2s  do it from up here but I want you to take it personal and my personal question to you is why not
+       [COMMENT] "6:20 - why not you?" (29 likes)
+       [COMMENT] "6:20 , I will listen it again and again until I will be satisfied with myself" (26 likes)
+       [COMMENT] "6:19" (0 likes)
+       [COMMENT] "6:19 - Why, Not, You? - I will come back to this a lot, you guys should do too." (0 likes)
+L0050   12.3s  you you've got the brains you can make decisions you can study the plan in you can change your life you can grow immensely in the next few years
+L0051    9.1s  you can make your dreams come true you can build a financial wall around your family nothing can get through you can become healthy you can become powerful why
+L0052   10.1s  not you and I'm here to say that I'm ready to pledge my support to make your personal dreams come true I ask the question why not you but
+L0053    8.3s  I'm not going to ask it and just walk away I'm going to ask it and walk with you in this journey as we take Herbal Life around the
+L0054          [applause (youtube)]
+L0055    3.0s  (slow) world and now here's my last
+L0056    8.4s  question my very last question on the questions to ponder is why not now there never was a better
+L0057    9.1s  (slow) time Mark has brought Herbal Life to an incredible Mountain Mountaintop he's brought Herbal Life with the help of
+L0058    7.9s  others who have brought it here it has been brought to a special moment uh Barcelona was special and
+L0059    9.0s  Orlando was outrageous but I'm telling you this Extravaganza has been the most awesome thing I have ever seen all
+L0060   12.3s  of your cooperation the way you have learned and listened and worked hard to get it all I congratulate you for that but Mark brought us here and what a time now for us to take this dream and
+L0061   15.4s  not let it die take this dream and give it life take this dream and breathe into it your own personal Spirit until finally it becomes a flame that burns around the whole world let's go do it now
+       [COMMENT] "8:10" (0 likes)

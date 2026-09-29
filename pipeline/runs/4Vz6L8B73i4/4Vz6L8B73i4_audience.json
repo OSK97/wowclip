@@ -1,0 +1,178 @@
+{
+  "category": "audience",
+  "clips": [
+    {
+      "category": "audience",
+      "rank": 1,
+      "title": "Your brain is designed to look for data that confirms your beliefs",
+      "why": "This is the audience's adopted line of the whole episode: it appears twice in the loudest comments (3,301 and 129 likes) as 'the best line', and a viewer placed a timestamped quote of it right on this spot (73 likes), with another viewer nearby saying it totally resonates. The run builds from 'opportunities are everywhere, you only see what the brain is primed to see' into the confirmation-bias law and lands on the actionable punch 'choose your beliefs, design your beliefs'. The clip is the echo in its natural setup.",
+      "category_hint": "quotable insight",
+      "hook_strength": 7,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0177 quoting the line ('Our brain is designed to gather the data, that confirms our beliefs' -20:00, 73 likes)",
+        "comment on L0185 ('20:46 totally resonate with this')",
+        "audience block echo: 'Best line: Our brains are designed to look for data that confirms your beliefs' with 3,301 and 129 likes"
+      ],
+      "start_line": "L0165",
+      "end_line": "L0184",
+      "start_words": "The opportunities are everywhere.",
+      "end_words": "choose your beliefs, design your beliefs",
+      "start_s": 1119.92,
+      "end_s": 1245.28,
+      "duration_s": 125.36,
+      "source_start_s": 1119.92,
+      "source_end_s": 1245.28,
+      "one_liner": false,
+      "text": "The opportunities are everywhere. The possibilities are all right in front of us, but people don't see them. You will only see what the brain is primed to see. You will see what it is that you truly your beliefs and the data behind your beliefs are priming you to attend to in the world. So when you do that, all of a sudden so many success stories, I know you've heard these two. People will say, \"Oh, and then I met this person randomly.\" magic right >> they opened the door I had oh one conversation it just idea came to me I then all random things they start talking about >> it's it's not that random you can make you can increase the likelihood the statistical likelihood of these things that feel random >> if you reset your DMN >> if you reset your DMN that's a beautiful way to put it re literally design use your DMN to design your beliefs about yourself design your DMN so that you can choose what are the stories I'm telling myself about myself what's possible and what I'm going to accomplish and who I am and that is going to influence your behavior because the brain is going to it's designed this way this is what I mean by biological laws >> this is everybody's brain yours mine everybody's our brains are designed they're designed to look for data that confirms your beliefs. >> Yeah, true. It happens with all the negative things as well. >> Bingo. Bingo. Which is why I'm like, if it's not helping you, get it out of there. Throw it away. Get it out. Like, you don't need it. >> Because people are like, \"Oh, I'm a victim. Everybody blah blah blah. Everybody hates me. I don't get what I want.\" And guess what? They always see they're always complaining, right? >> Yeah. this happened, then this other thing happened. No, no, no. What's happening is your beliefs because that's how the brain works. That's a biological",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "aud1"
+    },
+    {
+      "category": "audience",
+      "rank": 2,
+      "title": "The free chronotype test — 'we'll put out a link in the description'",
+      "why": "This is the single most-marked moment in the video by raw convergence: viewers stopped here in numbers to ask where the promised chronotype assessment link is (16 and 14 likes, plus a follow-up noting the link was missing). It is an ordinary exchange about a questionnaire, but the audience demonstrably converged on it, and the clip still makes sense alone — the guest offers her lab's chronotype test free to viewers. Returned because the audience decided this was the moment, not because the words are flashy.",
+      "category_hint": "practical takeaway",
+      "hook_strength": 4,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment on L1118 ('2:12:10 Where can i find the link', 14 likes)",
+        "two comments on L1121 ('2:12:24 where is the link?' 16 likes; follow-up about missing link)",
+        "MOST-MARKED MOMENTS list: L1121, 2+ viewer comments"
+      ],
+      "start_line": "L1114",
+      "end_line": "L1121",
+      "start_words": "Do you want to share your results?",
+      "end_words": "Yes. Let's look at it.",
+      "start_s": 7889.36,
+      "end_s": 7952.4,
+      "duration_s": 63.04,
+      "source_start_s": 7889.36,
+      "source_end_s": 7952.4,
+      "one_liner": false,
+      "text": "Do you want to share your results? >> Yeah. So, you gave me this whole uh questionnaire to fill. >> Mhm. to find out can we do something like so I filled that question and it took me like 3 4 minutes it didn't take me long can we do that for people as well can you give me some link so that a lot of people who want to find out what are they what's their natural type of sleeping and waking up and what is the hour where they feel the most energetic versus when they feel really sloppy if they want to find out can we have some link of this this test to something >> yes yeah we our lab has um it's it's www.mmyronotype.com and we can absolutely give give folks access to it so they don't have to pay for it but to get the assessment done the same assessment you did. >> Perfect. Done. So we're going to we're going to go through my results. >> Okay. >> And then we'll put out a link in the description for anyone who wants to actually go test it. >> Okay. So this is what the report was. >> Yes. Let's look at it.",
+      "flags": [],
+      "id": "aud2"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0475",
+      "end_line": "L0493",
+      "why_not": "The 'phone visible = you're dumber' UT Austin study; one 0-like comment only, and the line is better known from the cold-open trailer, so the evidence is thin compared to the two above."
+    },
+    {
+      "start_line": "L1444",
+      "end_line": "L1458",
+      "why_not": "The 'I am God, I create everything in my life' passage; a single 2-like bare timestamp comment is the only mark, not enough convergence for a third clip."
+    },
+    {
+      "start_line": "L0396",
+      "end_line": "L0402",
+      "why_not": "The 'that guy who meditates before watching porn' joke drew one 4-like comment — a real laugh but a punchline whose setup (the whole habit-loop whiteboard) sits far earlier."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0031",
+      "what": "cold-open montage, subscribe ask and Urban Platter sponsor read"
+    },
+    {
+      "from_line": "L0064",
+      "to_line": "L0160",
+      "what": "billionaire belief, main character energy and DMN storytelling — good material, no placed marks"
+    },
+    {
+      "from_line": "L0200",
+      "end": "L0276",
+      "what": "sleep identity-belief exercise and implementation intentions, no evidence"
+    },
+    {
+      "from_line": "L0280",
+      "to_line": "L0430",
+      "what": "habit-loop whiteboard and craving-as-feeling explanation, only scattered single 0–1 like comments"
+    },
+    {
+      "from_line": "L0438",
+      "to_line": "L0540",
+      "what": "digital hygiene, phone study and morning phone ritual, one 0-like comment"
+    },
+    {
+      "from_line": "L0552",
+      "to_line": "L0660",
+      "what": "multitasking 17.72 vs 41.35 experiment, no comments or replays"
+    },
+    {
+      "from_line": "L0663",
+      "to_line": "L0750",
+      "what": "be bored, shower thoughts and idea loading, only 0-like comments"
+    },
+    {
+      "from_line": "L0750",
+      "to_line": "L0870",
+      "what": "news rage bait, long vs short form brain, Netflix second-screen, no evidence"
+    },
+    {
+      "from_line": "L0871",
+      "to_line": "L0955",
+      "what": "loneliness, candy-vs-connection and oxytocin hypothesis, no placed marks"
+    },
+    {
+      "from_line": "L0958",
+      "to_line": "L1041",
+      "what": "brain city map walkthrough (city hall, watchtower, amygdala), no evidence"
+    },
+    {
+      "from_line": "L1042",
+      "to_line": "L1113",
+      "what": "5 a.m. club porn and chronotypes setup, no marks"
+    },
+    {
+      "from_line": "L1160",
+      "to_line": "L1415",
+      "what": "chronotype results, 3M burnout framework and 9-week digital detox study, no comments"
+    },
+    {
+      "from_line": "L1416",
+      "to_line": "L1493",
+      "what": "closing questions on powerlessness, 'I am God' and cost of ambition, plus outro"
+    }
+  ],
+  "video_read": "A three-hour Raj Shamani podcast with cognitive neuroscientist Dr Sahar Yousef about attention, habits, phone use and burnout. The audience is a note-taking, self-improvement crowd, and their reactions concentrate on quotable one-line laws rather than stories. The clearest convergence in the whole transcript is the 'brain looks for data that confirms your beliefs' passage; the only heavily marked spot is the promise of the free chronotype test link.",
+  "coverage": 0.869,
+  "usage": {
+    "prompt_tokens": 60717,
+    "completion_tokens": 4071,
+    "total_tokens": 64788,
+    "cost": 0.01114305,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.01114305,
+      "upstream_inference_prompt_cost": 0.00910755,
+      "upstream_inference_completions_cost": 0.0020355
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2476,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 2476
+  },
+  "error": null,
+  "seconds": 57.8,
+  "reasoning": "Let me read the evidence. MOST-MARKED MOMENTS: L1121 — 2 viewer comments. That's the chronotype assessment / link discussion: \"we'll put out a link in the description for anyone who wants to actually go test it.\" Comments: \"2:12:24 where is the link?\" (16 likes), \"Where can i find the link\" (14 likes), and one comment saying there is no such link. That's real convergence but it's people asking for a link — the moment itself is about the link promise. Hmm — the audience loved this moment because they want the chronotype test. Is this a clip? It's a mundane exchange about a link. The comments are precise and 30 people total, 16+14 likes. But the moment itself is Raj saying \"we'll put out a link\" — not great standalone content. Per instructions: audience reaction IS the signal even if ordinary. But is this a \"moment the audience loved\" or just logistical confusion? It's people asking \"where is the link\" — a reaction, but to the promise of something. As a clip, it's weak content. Still, the finder rules say: if the audience converged on it, it qualifies. But this convergence is about a missing link, not a moment worth cutting. Honestly the words \"we'll put out a link in the description\" is not a clip. I think this is a case where the comments point at a logistical complaint, not a favourite moment. I can mention it but the clip itself is unusable — it's about a link, not something watchable.\n\nOther evidence: audience block has heavy themes: \"Our brains are designed to look for data that confirms your beliefs\" — the best line, 3301 likes and again 129 likes (\"Best line: ...\"). There IS a comment on L0177: \"\"Our brain is designed to gather the data, that confirms our beliefs.\" -20:00\" (73 likes). That's a quote comment pointing at the exact line L0178: \"our brains are designed they're designed to look for data that confirms your beliefs.\" That's the audience's adopted line (echo — named in audience block twice with big like counts, plus a placed comment on L0177). THE ECHO shape — \"almost always the answer when it appears.\"\n\nSo clip 1: the belief/data section. Build outward: the comment on L0177 lands on L0178. Setup: L0156-L0157 about billionaire beliefs, priming, L0163-L0167 opportunities everywhere, \"You will only see what the brain is primed to see.\" Then L0177-L0184: brain designed to look for data that confirms your beliefs, \"choose your beliefs, design your beliefs.\" The echo is at L0178. Start the clip earlier for context — maybe L0163 (\"What's going to end up happening is you're going to notice opportunities\") or L0165 \"The opportunities are everywhere.\" Actually the tightest: start at L0159 priming or L0165. Let me pick start L0164/L0165 through L0185. The comment at L0185 \"20:46 totally resonate with this\" also lands here. So cluster: L0177 (73 likes), L0185 (resonate). Plus audience block echo with 3301 likes. Strong.\n\nClip: start L0165 \"The opportunities are everywhere.\" end L0185 or L0186. Actually end at \"choose your beliefs, design your beliefs\" — L0184 ends with \"So, choose your beliefs, design your beliefs. >> Yeah, this this is so\" — L0185 is Raj \"fascinating. It happens with me all the time\". End at L0184. Lines L0165–L0184 = 20 lines ≈ 160s? At 8s/line that's over 2.5 min? 20 lines × 8s = 160s = 2:40. Slightly over. Tighten: start L0170 or L0172 (\"if you reset your DMN...\"). Hmm. Let me count tighter: start L0163 \"What's going to end up happening is you're going to notice opportunities\" through L0184 = 22 lines, too long. Start at L0165: L0165–L0184 = 20 lines ≈ 160s. The system discards past 2.5 min (150s). So need ≤ ~18 lines. Start L0167 \"to in the world...\" — no, mid-sentence. Start L0169 \"People will say, 'Oh, and then I met this person randomly.'\" L0169–L0184 = 16 lines ≈ 128s. Good. But the echo is the belief line — the setup \"You will only see what the brain is primed to see\" (L0166-L0167) is great. Start L0164? L0164 is [pause 1.9s] — not a spoken line. L0165 starts \"(slow) The opportunities are everywhere.\" That's a fine opening hook actually. L0165–L0184 = 20 lines. Risky but 8s/line is rough; many lines are shorter. I'll start L0165, end L0184. Actually, better: the densest marks — L0177 comment points at L0178; L0185 comment at L0185. Keep L0165–L0184.\n\nSecond candidate: the phone/IQ section — \"If you let people have their phones out, the IQ of your employees is lower\" — that's the cold-open trailer line (L0001) and its real version at L0492-L0479. Comment on L0479 \"56:02 agree 💯\" (0 likes). Weak evidence. Audience block comment about phone (637 likes) is general, no location. So skip or near-miss.\n\nThe multitasking experiment L0552–L0584 — no comments, no replay. Skip.\n\nL0400 comment \"47:07 now i am gonna be that guy who do meditation before watching pron 🤣\" (4 likes) — funny but one comment, 4 likes.\n\nL1118-L1121: chronotype link comments — the most-marked moment. Should I return it? Rules: \"the words decide.\" The words: Raj asks for the link, guest says www.mychronotype.com, \"we'll put out a link in the description.\" Comments are people looking for the link. This is a moment people cared about (they want the test), but as a clip it's informational utility, not entertainment. The finder's job: \"the moment real people stopped and reacted to.\" 30 viewers marked this. Hmm. It is genuinely the most-marked moment. But the reaction is \"where is the link?\" — a complaint that the link is missing. Cutting a clip of \"we'll put out a link\" would be odd. Yet instructions insist: audience reaction IS the quality signal, \"not good enough\" is not a case against. And this has the highest convergence in the video. I'll return it as a second clip — the exchange about chronotypes and the test offer, L1114–L1121 or so. Start: L1114 \"Do you want to share your results?\" Actually better start L1104/L1105 where they discuss being PM shifted — the fun bit (\"5 a.m. club porn\" is earlier). The comments land on L1118-L1121 (the link). Tightest clip covering what they're pointing at: start L1114 (\"Do you want to share your results? >> Yeah. So, you gave me this whole uh questionnaire...\") through L1121. L1114–L1121 = 8 lines ≈ 64s. Good. But does it stand alone? Yes — they discuss the chronotype questionnaire and the link. Hmm, actually the real value is the chronotype concept itself. But comments point at the link. I'll return L1114–L1121, self_contained true, MEDIUM confidence.\n\nWait — is the link clip really a \"moment the audience loved\"? The comments are 16 and 14 likes asking where the link is. It's convergence of attention. I'll include it ranked 2, honestly framed: the audience converged on the free chronotype test offer. hook_strength low-ish (5).\n\nAlso L1451 \"I am God\" — no comment. L1458 comment \"2:50:50\" (2 likes) — points at the \"I am God / daydream\" passage? Comment at L1458 with timestamp 2:50:50, just \"2:50:50\" (2 likes). Weak. Near-miss.\n\nThird clip? The belief/data echo is the strongest. Two clips is enough. Maybe also the phone experiment? No comments there. Keep two.\n\nActually reconsider ranking: the echo clip (3301+129 likes in audience block + 73-like placed comment) is clearly #1. The link moment is #2.\n\nstart_words for clip 1: L0165 exact: \"(slow) The opportunities are everywhere.\" — copy: \"The opportunities are everywhere.\" Hmm, include \"(slow)\"? It's a tag, not words. Copy \"The opportunities are everywhere.\"\nend_words L0184: \"So, choose your beliefs, design your beliefs. >> Yeah, this this is so\" — end words: \"choose your beliefs, design your beliefs\".\n\nClip 2: start L1114: \"Do you want to share your results? >> Yeah. So, you gave me this whole uh\" — start_words \"Do you want to share your results\". end L1121: \">> Perfect. Done. So we're going to we're going\" — end_words: \"we're going to go through my results\" hmm L1121: \"to go through my results. >> Okay. >> And then we'll put out a link in the description for anyone who wants to actually go test it. >> Okay. So this is what the report was. >> Yes. Let's look at it.\" end_words: \"Yes. Let's look at it.\"\n\nnear_misses: L0492 phone IQ (only a 0-like comment, mostly echo of cold open); L1451 \"I am God\" passage (single 2-like timestamp comment); L0400 meditation before porn joke (one 4-like comment, punchline needs context).\n\nskipped: L0001–L0031 cold open montage + subscribe + sponsor; L0064–L0160 belief/DMN/priming without marks... actually covered. Ranges: L0200–L0276 sleep belief exercise; L0280–L0430 habit loop whiteboard; L0438–L0540 digital hygiene & phone study; L0552–L0660 multitasking experiment; L0663–L0750 boredom/shower ideas; L0750–L0825 news/long vs short form; L0826–L0870 TV history/Netflix; L0871–L0955 loneliness/oxytocin; L0958–L1041 brain city map; L1042–L1113 5am club; L1160–L1416 chronotype results/3M framework/9-week study; L1416–L1493 final questions (powerless, cost of ambition)."
+}

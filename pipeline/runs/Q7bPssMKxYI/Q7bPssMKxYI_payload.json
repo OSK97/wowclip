@@ -1,0 +1,1081 @@
+{
+  "meta": {
+    "duration_s": 510.0,
+    "transcript": "C:\\Users\\DP\\Desktop\\App\\website\\pipeline\\runs\\Q7bPssMKxYI\\Q7bPssMKxYI_final.json",
+    "clip_start_s": 0.0,
+    "video": {
+      "video_id": "Q7bPssMKxYI",
+      "title": "Jim Rohn: Why Not You, Why Not Now",
+      "channel": "Brent Hosaka",
+      "duration_s": 510.0,
+      "views": "333108"
+    },
+    "comments_placed": 8,
+    "replay_peaks": 0,
+    "comment_stats": {
+      "raw": 136,
+      "pages": 2,
+      "duplicates_folded": 1,
+      "promo_dropped": 2,
+      "chapter_indexes": 2,
+      "empty": 0,
+      "timestamped": 8,
+      "summarised": 0,
+      "general_seen": 123,
+      "general_kept": 42,
+      "top_liked_spared": 24,
+      "llm": {
+        "triage": {
+          "batches": 2,
+          "failed": 0,
+          "cost_usd": 0.00277
+        },
+        "themes": {
+          "cost_usd": 0.00215
+        },
+        "promo": {
+          "batches": 1,
+          "failed": 0,
+          "cost_usd": 0.00046
+        },
+        "summarise": {},
+        "cost_usd": 0.00538
+      }
+    }
+  },
+  "audience": {
+    "themes": {
+      "mood": "Enthusiastic audience seeking inspiration and personal growth from Jim Rohn's speech",
+      "themes": [
+        {
+          "what": "Praising Jim Rohn's speaking style",
+          "n": 12,
+          "quote": "Met him in the 90's at Extravaganza and in Dallas....such a great man of wisdom ..... :-)",
+          "likes": 112
+        },
+        {
+          "what": "Personal transformation promises",
+          "n": 7,
+          "quote": "I promised myself I’d change my life around .. I’ll see you guys in a couple of years with an update",
+          "likes": 467
+        },
+        {
+          "what": "Herbalife mentions and criticism",
+          "n": 7,
+          "quote": "Yuk Herbalife",
+          "likes": 5
+        },
+        {
+          "what": "Vision and dream motivational messages",
+          "n": 5,
+          "quote": "I’ve listened to this speech over 100 times for the last 2 years, never gets old. It’s true, without a vision we die, without a vision we perish, without a dream we are nothing! Have a vision for your",
+          "likes": 93
+        },
+        {
+          "what": "Rhetorical \"why not now\" questions",
+          "n": 3,
+          "quote": "why ? why now ? why not me ? why not now ? the 4 most important quetions i have ever been asked in my life. - thank you god for giving me the chanse 2 hear this . <3 <3 <3",
+          "likes": 129
+        },
+        {
+          "what": "Requests for the full speech link",
+          "n": 2,
+          "quote": "Can you kindly share Link to this full talk.",
+          "likes": 11
+        }
+      ]
+    },
+    "general": [
+      {
+        "text": "I promised myself I’d change my life around .. I’ll see you guys in a couple of years with an update",
+        "likes": 467,
+        "replies": 121,
+        "dupes": 0,
+        "id": 8
+      },
+      {
+        "text": "why ? why now ? why not me ? why not now ? the 4 most important quetions i have ever been asked in my life. - thank you god for giving me the chanse 2 hear this . <3 <3 <3",
+        "likes": 129,
+        "replies": 3,
+        "dupes": 0,
+        "id": 10
+      },
+      {
+        "text": "Met him in the 90's at Extravaganza and in Dallas....such a great man of wisdom ..... :-)",
+        "likes": 112,
+        "replies": 10,
+        "dupes": 0,
+        "id": 12
+      },
+      {
+        "text": "I’ve listened to this speech over 100 times for the last 2 years, never gets old. It’s true, without a vision we die, without a vision we perish, without a dream we are nothing! Have a vision for your life!",
+        "likes": 93,
+        "replies": 3,
+        "dupes": 0,
+        "id": 9
+      },
+      {
+        "text": "Jim Rohn. What an inspiring speaker!",
+        "likes": 44,
+        "replies": 1,
+        "dupes": 0,
+        "id": 17
+      },
+      {
+        "text": "Without a dream we are nothing!!🔝",
+        "likes": 32,
+        "replies": 0,
+        "dupes": 0,
+        "id": 16
+      },
+      {
+        "text": "I am going to be a completely deferent person in the next 365 days Tired of failing ,failing myself And ancestors I’m going back to this in a year",
+        "likes": 17,
+        "replies": 6,
+        "dupes": 0,
+        "id": 82
+      },
+      {
+        "text": "Legendary speech By Jim Rohn RIP",
+        "likes": 19,
+        "replies": 0,
+        "dupes": 0,
+        "id": 20
+      },
+      {
+        "text": "I promise,i will change my self.12/01/2026.",
+        "likes": 15,
+        "replies": 5,
+        "dupes": 0,
+        "id": 29
+      },
+      {
+        "text": "I am currently working on myself everyday. I am in the middle of doubts, insecurity and struggle but I keep grinding. I'll come back in a year with the hope I didn't gave up.",
+        "likes": 14,
+        "replies": 4,
+        "dupes": 0,
+        "id": 59
+      },
+      {
+        "text": "The Sinatra of speakers. Thank you Mr.Rohn.",
+        "likes": 13,
+        "replies": 0,
+        "dupes": 0,
+        "id": 32
+      },
+      {
+        "text": "This man is JENIUS!",
+        "likes": 13,
+        "replies": 0,
+        "dupes": 0,
+        "id": 19
+      },
+      {
+        "text": "I will come back in 2026 may...life will be turned around forever ..I have to see what I can become how far I can go I will do more and more,be courageous,be confident, persistent",
+        "likes": 10,
+        "replies": 3,
+        "dupes": 0,
+        "id": 66
+      },
+      {
+        "text": "why not now.?,.what a question!!!",
+        "likes": 11,
+        "replies": 1,
+        "dupes": 0,
+        "id": 42
+      },
+      {
+        "text": "Can you kindly share Link to this full talk.",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 84
+      },
+      {
+        "text": "From today inshaolloh i work on myself 1.09. 2025. And i back after one year and share what I achieve. ......................",
+        "likes": 8,
+        "replies": 1,
+        "dupes": 0,
+        "id": 43
+      },
+      {
+        "text": "I promise myself and the world, I'll better myself coming years by a thousand times. I'll bring belief and strength to do all that I can. Why ? Why me? Why not me?",
+        "likes": 8,
+        "replies": 0,
+        "dupes": 0,
+        "id": 25
+      },
+      {
+        "text": "\"you have to stay here, till you go\" thats deep",
+        "likes": 8,
+        "replies": 0,
+        "dupes": 0,
+        "id": 15
+      },
+      {
+        "text": "If only my actions were able to match Mr. Rohn's exceptional words 😎😎😎😎😎😎😎😎😎😎😎😎😎",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 57
+      },
+      {
+        "text": "Where can i find the full speech",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 112
+      },
+      {
+        "text": "Listen to this every morning, I love you Jim",
+        "likes": 6,
+        "replies": 1,
+        "dupes": 0,
+        "id": 45
+      },
+      {
+        "text": "Without dream we have nothing, we have to dare to see the dream and accomplished it in our life time. Really Impressive motivational thoughts.",
+        "likes": 6,
+        "replies": 0,
+        "dupes": 0,
+        "id": 75
+      },
+      {
+        "text": "\"If why is powerful the how is easy\" Jim Rhon",
+        "likes": 6,
+        "replies": 0,
+        "dupes": 0,
+        "id": 18
+      },
+      {
+        "text": "Disliked????How? Why?",
+        "likes": 5,
+        "replies": 2,
+        "dupes": 0,
+        "id": 120
+      },
+      {
+        "text": "Yuk Herbalife",
+        "likes": 5,
+        "replies": 2,
+        "dupes": 0,
+        "id": 128
+      },
+      {
+        "text": "It's a really good, inspiring speech... I hate when he mentions Herbalife, haha. It makes me feel like they're selling a personal growth guide, but linking and attributing the result of your own will and determination to grow to a product... it reminds me of something. Jim's speech and oration are admirable tho... no kiding",
+        "likes": 4,
+        "replies": 0,
+        "dupes": 0,
+        "id": 37
+      },
+      {
+        "text": "I'm assuming this predates Sineks start with why.... I enjoy sinek but did he ever cite Rohn? Can't remember where sinek got his why inspiration from",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 122
+      },
+      {
+        "text": "Touch everybody in class hits hard",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 26
+      },
+      {
+        "text": "No doubt his speeches are really captivating and trascendental, but I wonder if Jim Rohn ever knew that herbal life was an evil pyramid scheme in the end",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 106
+      },
+      {
+        "text": "'If the why is Powerful, the How is easy'. I will be back in a few weeks to check on how far I can go with my list of 'Whys'.",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 72
+      },
+      {
+        "text": "Was such a GREAT speech just for it to be overshadowed by the herbalife propaganda😭💔",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 50
+      },
+      {
+        "text": "The fact he dropped this jewel in an Herbalife Extravaganza 💎",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 27
+      },
+      {
+        "text": "Make your why so powerful that your how becomes easy",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 58
+      },
+      {
+        "text": "Jim Rohn: Why Not You, Why Not Now",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 68
+      },
+      {
+        "text": "Did he just say the MLM herbalife?",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 116
+      },
+      {
+        "text": "I'm not crying you're crying 😭😭😭",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 73
+      },
+      {
+        "text": "What the meaning of Herbalife?",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 117
+      },
+      {
+        "text": "Dan gheesling brought me here",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 70
+      },
+      {
+        "text": "The legendary Jim Rohn",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 41
+      },
+      {
+        "text": "This man was a saint.",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 34
+      },
+      {
+        "text": "I still love this man",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 49
+      },
+      {
+        "text": "Exactly dad exactly",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 97
+      }
+    ]
+  },
+  "baselines": {
+    "SPK1": {
+      "wpm_hi": 226.07091953526518,
+      "wpm_lo": 129.45989175266305,
+      "wpm_mid": 172.63617422363316,
+      "lines": 55
+    }
+  },
+  "rows": [
+    {
+      "kind": "line",
+      "start": 1.079,
+      "end": 6.72,
+      "tags": [],
+      "text": "I want you to ponder these four questions here's the first one and that's",
+      "reactions": [],
+      "id": "L0001",
+      "seconds": 5.6
+    },
+    {
+      "kind": "event",
+      "start": 6.72,
+      "end": 8.04,
+      "text": "[pause 1.3s]",
+      "id": "L0002"
+    },
+    {
+      "kind": "line",
+      "start": 8.04,
+      "end": 18.72,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "why why pay the price why work this hard why go this far why try to learn this",
+      "reactions": [],
+      "id": "L0003",
+      "seconds": 10.7
+    },
+    {
+      "kind": "line",
+      "start": 19.16,
+      "end": 25.92,
+      "tags": [],
+      "text": "much why try to do it all Why Try To See It All why try to have it",
+      "reactions": [],
+      "id": "L0004",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 26.119,
+      "end": 34.919,
+      "tags": [],
+      "text": "all why do it why learn it why study why put yourself out why try to take on this much",
+      "reactions": [],
+      "id": "L0005",
+      "seconds": 8.8
+    },
+    {
+      "kind": "event",
+      "start": 34.919,
+      "end": 36.8,
+      "text": "[pause 1.9s]",
+      "id": "L0006"
+    },
+    {
+      "kind": "line",
+      "start": 36.8,
+      "end": 40.24,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "responsibility why develop yourself to the",
+      "reactions": [],
+      "id": "L0007",
+      "seconds": 3.4
+    },
+    {
+      "kind": "line",
+      "start": 40.719,
+      "end": 44.56,
+      "tags": [],
+      "text": "full Why Try to become all that you can possibly",
+      "reactions": [],
+      "id": "L0008",
+      "seconds": 3.8
+    },
+    {
+      "kind": "line",
+      "start": 44.8,
+      "end": 56.76,
+      "tags": [],
+      "text": "become Why Try to earn as much as you can earn share as much as you can share develop every skill you possibly can see every human you possibly can go to every class you possibly",
+      "reactions": [],
+      "id": "L0009",
+      "seconds": 12.0
+    },
+    {
+      "kind": "line",
+      "start": 56.76,
+      "end": 64.839,
+      "tags": [],
+      "text": "can touch everybody you possibly can why do that much why go that far why share that much",
+      "reactions": [],
+      "id": "L0010",
+      "seconds": 8.1
+    },
+    {
+      "kind": "line",
+      "start": 64.839,
+      "end": 72.999,
+      "tags": [],
+      "text": "why give that much away why try to see everything why try to do everything why try to become",
+      "reactions": [],
+      "id": "L0011",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 73.52,
+      "end": 84.6,
+      "tags": [],
+      "text": "everything that's a good question why and you're the only one personally that can answer that question for yourself you've got to have your own list of wise here's what I want you",
+      "reactions": [],
+      "id": "L0012",
+      "seconds": 11.1
+    },
+    {
+      "kind": "line",
+      "start": 84.6,
+      "end": 97.76,
+      "tags": [],
+      "text": "to do when you go home after you've left left this Extravaganza work on your list of wise one of the big thrusts for success is to come up with a strong enough",
+      "reactions": [],
+      "id": "L0013",
+      "seconds": 13.2,
+      "comments": [
+        {
+          "text": "1:28-1:45",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 97.92,
+      "end": 104.8,
+      "tags": [],
+      "text": "why in leadership training here's what we learn if the why is powerful the how is",
+      "reactions": [],
+      "id": "L0014",
+      "seconds": 6.9
+    },
+    {
+      "kind": "line",
+      "start": 105.28,
+      "end": 108.24,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "easy but if the why isn't",
+      "reactions": [],
+      "id": "L0015",
+      "seconds": 3.0
+    },
+    {
+      "kind": "line",
+      "start": 108.52,
+      "end": 120.04,
+      "tags": [],
+      "text": "strong if your goals aren't powerful if the vision isn't clear the old Prophet said without a vision we die without a vision we perish without a dream we're nothing",
+      "reactions": [],
+      "id": "L0016",
+      "seconds": 11.5
+    },
+    {
+      "kind": "line",
+      "start": 121.119,
+      "end": 134.04,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "from the movie The professionals I listened to Bill Heron give his testimony yesterday from the movie The Professional is said we joined because we believed",
+      "reactions": [],
+      "id": "L0017",
+      "seconds": 12.9
+    },
+    {
+      "kind": "line",
+      "start": 134.04,
+      "end": 149.32,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "we stayed because we were committed we left because we were disillusioned but we came back because we were lost without a dream we are nothing",
+      "reactions": [],
+      "id": "L0018",
+      "seconds": 15.3
+    },
+    {
+      "kind": "event",
+      "start": 156.05,
+      "end": 157.25,
+      "text": "[applause (youtube)]",
+      "id": "L0019"
+    },
+    {
+      "kind": "line",
+      "start": 159.519,
+      "end": 167.28,
+      "tags": [],
+      "text": "I'm asking you to sit down with your family and develop a dream strategy I'm asking you to make a list of what what",
+      "reactions": [],
+      "id": "L0020",
+      "seconds": 7.8,
+      "comments": [
+        {
+          "text": "2:39-3:07",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 167.28,
+      "end": 173.319,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "you want what kind of Health do you want what kind of skills do you want herbal life has got the ability to make it",
+      "reactions": [],
+      "id": "L0021",
+      "seconds": 6.0
+    },
+    {
+      "kind": "line",
+      "start": 173.319,
+      "end": 179.28,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "all come true but you've got to decide what do you want what kind of income do you want what kind of gifts do",
+      "reactions": [],
+      "id": "L0022",
+      "seconds": 6.0
+    },
+    {
+      "kind": "line",
+      "start": 179.28,
+      "end": 185.319,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "you wish to be bestow what kind of power would you like to have what kind of influence would you like to have I'm asking",
+      "reactions": [],
+      "id": "L0023",
+      "seconds": 6.0
+    },
+    {
+      "kind": "line",
+      "start": 185.319,
+      "end": 192.92,
+      "tags": [],
+      "text": "you to go home and work on the why spend some time as you fly over the clouds and over the ocean back to",
+      "reactions": [],
+      "id": "L0024",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 192.92,
+      "end": 199.959,
+      "tags": [],
+      "text": "where you came from I'm asking you to have a vision but the time you've reached home of why you want Herbal Life to work",
+      "reactions": [],
+      "id": "L0025",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 199.959,
+      "end": 205.239,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "for you why you want this kind of income why you want this kind of recognition and these kinds of skills I'm asking you",
+      "reactions": [],
+      "id": "L0026",
+      "seconds": 5.3
+    },
+    {
+      "kind": "line",
+      "start": 205.239,
+      "end": 211.999,
+      "tags": [],
+      "text": "to develop your own list of why because if you can come up with a strong enough list of why verbal life can furnish the",
+      "reactions": [],
+      "id": "L0027",
+      "seconds": 6.8
+    },
+    {
+      "kind": "event",
+      "start": 211.999,
+      "end": 217.48,
+      "text": "[long gap 5.5s]",
+      "id": "L0028"
+    },
+    {
+      "kind": "line",
+      "start": 217.48,
+      "end": 228.959,
+      "tags": [],
+      "text": "how now here's number two the first question to ponder when you go home is why here's another good answer to why it's the second question why not why not",
+      "reactions": [],
+      "id": "L0029",
+      "seconds": 11.5,
+      "comments": [
+        {
+          "text": "3:41",
+          "likes": 14,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 228.959,
+      "end": 237.48,
+      "tags": [],
+      "text": "see how much you can earn why not see how much you can learn why not see how many skills you can develop why not see what kind of person you",
+      "reactions": [],
+      "id": "L0030",
+      "seconds": 8.5
+    },
+    {
+      "kind": "line",
+      "start": 237.48,
+      "end": 247.319,
+      "tags": [],
+      "text": "can become why not see what kind of influence you can have why not see how many people you can rescue from Oblivion why not see how many people you",
+      "reactions": [],
+      "id": "L0031",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 247.319,
+      "end": 256.2,
+      "tags": [],
+      "text": "can reach I shared one of my goals with a group just last night here it is one of my goals to reach the peak of my skills by the year",
+      "reactions": [],
+      "id": "L0032",
+      "seconds": 8.9
+    },
+    {
+      "kind": "line",
+      "start": 257.0,
+      "end": 265.56,
+      "tags": [],
+      "text": "2000 so I've got some work to do by the year 2000 turn of the century turn of the Millennium I want to reach the",
+      "reactions": [],
+      "id": "L0033",
+      "seconds": 8.6
+    },
+    {
+      "kind": "line",
+      "start": 265.56,
+      "end": 274.72,
+      "tags": [],
+      "text": "peak of my skills by the year 2000 and then come The Next Century I want to utilize those skills in Touching every human I",
+      "reactions": [],
+      "id": "L0034",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 274.72,
+      "end": 282.24,
+      "tags": [],
+      "text": "can possibly touch for the rest of my life those are some of my goals I want you to establish some of your goals I",
+      "reactions": [],
+      "id": "L0035",
+      "seconds": 7.5
+    },
+    {
+      "kind": "line",
+      "start": 282.24,
+      "end": 291.68,
+      "tags": [],
+      "text": "want you to give thoughtful consideration to your goals and why not if a farm boy can wander out of Idaho and finally arrive at",
+      "reactions": [],
+      "id": "L0036",
+      "seconds": 9.4
+    },
+    {
+      "kind": "line",
+      "start": 291.68,
+      "end": 298.919,
+      "tags": [],
+      "text": "this Extravaganza why not you if Mar Hughes can walk away from the tough side of town and find a few people and make a",
+      "reactions": [],
+      "id": "L0037",
+      "seconds": 7.2
+    },
+    {
+      "kind": "line",
+      "start": 298.919,
+      "end": 307.28,
+      "tags": [],
+      "text": "dream come true why not you if we've got good health for many why not the rest if it's happened for you why not others",
+      "reactions": [],
+      "id": "L0038",
+      "seconds": 8.4
+    },
+    {
+      "kind": "line",
+      "start": 307.28,
+      "end": 317.36,
+      "tags": [],
+      "text": "and why not you I want you to take that personal why not why not you've got to stay here till you go I mean",
+      "reactions": [],
+      "id": "L0039",
+      "seconds": 10.1
+    },
+    {
+      "kind": "line",
+      "start": 317.36,
+      "end": 324.72,
+      "tags": [],
+      "text": "what else are you going to do why not see how much you can do how far you can go now here's number three why not",
+      "reactions": [],
+      "id": "L0040",
+      "seconds": 7.4
+    },
+    {
+      "kind": "line",
+      "start": 325.039,
+      "end": 331.6,
+      "tags": [],
+      "text": "you I wish I could say that to each of you individually but it would take a couple of lifetimes to",
+      "reactions": [],
+      "id": "L0041",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 331.6,
+      "end": 337.84,
+      "tags": [],
+      "text": "sit down and talk with each of you individually but I would rather do that I'd rather sit down and talk",
+      "reactions": [],
+      "id": "L0042",
+      "seconds": 6.2
+    },
+    {
+      "kind": "line",
+      "start": 337.84,
+      "end": 343.12,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "with you and your family with a fire burning in the living room than to be standing on this platform that's",
+      "reactions": [],
+      "id": "L0043",
+      "seconds": 5.3
+    },
+    {
+      "kind": "line",
+      "start": 343.12,
+      "end": 350.32,
+      "tags": [],
+      "text": "my true desire I'd love to talk to you and your children face to face that's what I'd really like to",
+      "reactions": [],
+      "id": "L0044",
+      "seconds": 7.2
+    },
+    {
+      "kind": "event",
+      "start": 350.32,
+      "end": 356.24,
+      "text": "[long gap 5.9s]",
+      "id": "L0045"
+    },
+    {
+      "kind": "line",
+      "start": 356.24,
+      "end": 361.72,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "do I'd love to spend a couple of days with each of you person personally and pour out my heart my",
+      "reactions": [],
+      "id": "L0046",
+      "seconds": 5.5
+    },
+    {
+      "kind": "line",
+      "start": 361.72,
+      "end": 369.44,
+      "tags": [],
+      "text": "soul what's going on in my head what's going on with me see if we couldn't connect and find something valuable but",
+      "reactions": [],
+      "id": "L0047",
+      "seconds": 7.7
+    },
+    {
+      "kind": "line",
+      "start": 369.44,
+      "end": 375.12,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "time doesn't permit for us to have those intimate conversations and get to know each other that well so I've got to",
+      "reactions": [],
+      "id": "L0048",
+      "seconds": 5.7
+    },
+    {
+      "kind": "line",
+      "start": 375.12,
+      "end": 383.28,
+      "tags": [],
+      "text": "do it from up here but I want you to take it personal and my personal question to you is why not",
+      "reactions": [],
+      "id": "L0049",
+      "seconds": 8.2,
+      "comments": [
+        {
+          "text": "6:20 - why not you?",
+          "likes": 29,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "6:20 , I will listen it again and again until I will be satisfied with myself",
+          "likes": 26,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "6:19",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "6:19 - Why, Not, You? - I will come back to this a lot, you guys should do too.",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 383.479,
+      "end": 395.759,
+      "tags": [],
+      "text": "you you've got the brains you can make decisions you can study the plan in you can change your life you can grow immensely in the next few years",
+      "reactions": [],
+      "id": "L0050",
+      "seconds": 12.3
+    },
+    {
+      "kind": "line",
+      "start": 395.759,
+      "end": 404.84,
+      "tags": [],
+      "text": "you can make your dreams come true you can build a financial wall around your family nothing can get through you can become healthy you can become powerful why",
+      "reactions": [],
+      "id": "L0051",
+      "seconds": 9.1
+    },
+    {
+      "kind": "line",
+      "start": 404.84,
+      "end": 414.919,
+      "tags": [],
+      "text": "not you and I'm here to say that I'm ready to pledge my support to make your personal dreams come true I ask the question why not you but",
+      "reactions": [],
+      "id": "L0052",
+      "seconds": 10.1
+    },
+    {
+      "kind": "line",
+      "start": 414.919,
+      "end": 423.2,
+      "tags": [],
+      "text": "I'm not going to ask it and just walk away I'm going to ask it and walk with you in this journey as we take Herbal Life around the",
+      "reactions": [],
+      "id": "L0053",
+      "seconds": 8.3
+    },
+    {
+      "kind": "event",
+      "start": 425.95,
+      "end": 427.15,
+      "text": "[applause (youtube)]",
+      "id": "L0054"
+    },
+    {
+      "kind": "line",
+      "start": 432.759,
+      "end": 435.799,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "world and now here's my last",
+      "reactions": [],
+      "id": "L0055",
+      "seconds": 3.0
+    },
+    {
+      "kind": "line",
+      "start": 435.96,
+      "end": 444.4,
+      "tags": [],
+      "text": "question my very last question on the questions to ponder is why not now there never was a better",
+      "reactions": [],
+      "id": "L0056",
+      "seconds": 8.4
+    },
+    {
+      "kind": "line",
+      "start": 444.4,
+      "end": 453.479,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "time Mark has brought Herbal Life to an incredible Mountain Mountaintop he's brought Herbal Life with the help of",
+      "reactions": [],
+      "id": "L0057",
+      "seconds": 9.1
+    },
+    {
+      "kind": "line",
+      "start": 453.479,
+      "end": 461.4,
+      "tags": [],
+      "text": "others who have brought it here it has been brought to a special moment uh Barcelona was special and",
+      "reactions": [],
+      "id": "L0058",
+      "seconds": 7.9
+    },
+    {
+      "kind": "line",
+      "start": 461.4,
+      "end": 470.36,
+      "tags": [],
+      "text": "Orlando was outrageous but I'm telling you this Extravaganza has been the most awesome thing I have ever seen all",
+      "reactions": [],
+      "id": "L0059",
+      "seconds": 9.0
+    },
+    {
+      "kind": "line",
+      "start": 470.36,
+      "end": 482.68,
+      "tags": [],
+      "text": "of your cooperation the way you have learned and listened and worked hard to get it all I congratulate you for that but Mark brought us here and what a time now for us to take this dream and",
+      "reactions": [],
+      "id": "L0060",
+      "seconds": 12.3
+    },
+    {
+      "kind": "line",
+      "start": 482.68,
+      "end": 498.039,
+      "tags": [],
+      "text": "not let it die take this dream and give it life take this dream and breathe into it your own personal Spirit until finally it becomes a flame that burns around the whole world let's go do it now",
+      "reactions": [],
+      "id": "L0061",
+      "seconds": 15.4,
+      "comments": [
+        {
+          "text": "8:10",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2232 @@
+{
+  "meta": {
+    "video_id": "4Vz6L8B73i4",
+    "video": {
+      "video_id": "4Vz6L8B73i4",
+      "title": "Neuroscientist's Guide To 10X Your Focus & Memory | Dr Sahar Yousef | FO559 Raj Shamani",
+      "channel": "Raj Shamani",
+      "duration_s": 10506.0,
+      "views": "10162804"
+    },
+    "categories": [
+      "audience",
+      "emotional",
+      "entertainment",
+      "general",
+      "motivational"
+    ],
+    "readings": {
+      "audience": {
+        "video_read": "A three-hour Raj Shamani podcast with cognitive neuroscientist Dr Sahar Yousef about attention, habits, phone use and burnout. The audience is a note-taking, self-improvement crowd, and their reactions concentrate on quotable one-line laws rather than stories. The clearest convergence in the whole transcript is the 'brain looks for data that confirms your beliefs' passage; the only heavily marked spot is the promise of the free chronotype test link.",
+        "coverage": 0.869,
+        "near_misses": [
+          {
+            "start_line": "L0475",
+            "end_line": "L0493",
+            "why_not": "The 'phone visible = you're dumber' UT Austin study; one 0-like comment only, and the line is better known from the cold-open trailer, so the evidence is thin compared to the two above."
+          },
+          {
+            "start_line": "L1444",
+            "end_line": "L1458",
+            "why_not": "The 'I am God, I create everything in my life' passage; a single 2-like bare timestamp comment is the only mark, not enough convergence for a third clip."
+          },
+          {
+            "start_line": "L0396",
+            "end_line": "L0402",
+            "why_not": "The 'that guy who meditates before watching porn' joke drew one 4-like comment — a real laugh but a punchline whose setup (the whole habit-loop whiteboard) sits far earlier."
+          }
+        ],
+        "skipped": [
+          {
+            "from_line": "L0001",
+            "to_line": "L0031",
+            "what": "cold-open montage, subscribe ask and Urban Platter sponsor read"
+          },
+          {
+            "from_line": "L0064",
+            "to_line": "L0160",
+            "what": "billionaire belief, main character energy and DMN storytelling — good material, no placed marks"
+          },
+          {
+            "from_line": "L0200",
+            "end": "L0276",
+            "what": "sleep identity-belief exercise and implementation intentions, no evidence"
+          },
+          {
+            "from_line": "L0280",
+            "to_line": "L0430",
+            "what": "habit-loop whiteboard and craving-as-feeling explanation, only scattered single 0–1 like comments"
+          },
+          {
+            "from_line": "L0438",
+            "to_line": "L0540",
+            "what": "digital hygiene, phone study and morning phone ritual, one 0-like comment"
+          },
+          {
+            "from_line": "L0552",
+            "to_line": "L0660",
+            "what": "multitasking 17.72 vs 41.35 experiment, no comments or replays"
+          },
+          {
+            "from_line": "L0663",
+            "to_line": "L0750",
+            "what": "be bored, shower thoughts and idea loading, only 0-like comments"
+          },
+          {
+            "from_line": "L0750",
+            "to_line": "L0870",
+            "what": "news rage bait, long vs short form brain, Netflix second-screen, no evidence"
+          },
+          {
+            "from_line": "L0871",
+            "to_line": "L0955",
+            "what": "loneliness, candy-vs-connection and oxytocin hypothesis, no placed marks"
+          },
+          {
+            "from_line": "L0958",
+            "to_line": "L1041",
+            "what": "brain city map walkthrough (city hall, watchtower, amygdala), no evidence"
+          },
+          {
+            "from_line": "L1042",
+            "to_line": "L1113",
+            "what": "5 a.m. club porn and chronotypes setup, no marks"
+          },
+          {
+            "from_line": "L1160",
+            "to_line": "L1415",
+            "what": "chronotype results, 3M burnout framework and 9-week digital detox study, no comments"
+          },
+          {
+            "from_line": "L1416",
+            "to_line": "L1493",
+            "what": "closing questions on powerlessness, 'I am God' and cost of ambition, plus outro"
+          }
+        ]
+      },
+      "emotional": {
+        "video_read": "A three-hour Raj Shamani podcast with a cognitive neuroscientist about attention, habits, phones and burnout. Almost the whole video is instructional — studies, frameworks, whiteboard demos — which belongs to other finders. The emotional material lives in two places: the passage about scrolling as fake connection in the loneliness section, and the closing personal questions where the guest confesses her addiction, the cost of her ambition, and the powerless-to-powerful reframe.",
+        "coverage": 0.991,
+        "near_misses": [
+          {
+            "start_line": "L1419",
+            "end_line": "L1429",
+            "why_not": "The 'cruel joke from the universe' confession is genuinely moving, but the adjacent reframe clip covers the same beat more completely and lands harder."
+          },
+          {
+            "start_line": "L1233",
+            "end_line": "L1248",
+            "why_not": "'Stress doesn't kill. Never completing the stress cycle kills' is striking, but it stays a health finding — belongs to general."
+          },
+          {
+            "start_line": "L0951",
+            "end_line": "L0956",
+            "why_not": "'I even studied addiction and I still became addicted' is a good humility beat, but it is a smaller version of the closing confession."
+          },
+          {
+            "start_line": "L0817",
+            "end_line": "L0823",
+            "why_not": "The 'remember three reels ago?' dare is clever and self-aware, but it lands as a smart point, not a quiet one."
+          },
+          {
+            "start_line": "L1450",
+            "end_line": "L1458",
+            "why_not": "'I am God, I create everything in my life' has the deep register but stays in manifestation territory without naming anything specific in the viewer's life."
+          }
+        ],
+        "skipped": [
+          {
+            "from_line": "L0001",
+            "to_line": "L0032",
+            "what": "cold-open montage and sponsor read"
+          },
+          {
+            "from_line": "L0033",
+            "to_line": "L0090",
+            "what": "guest introduction and becoming-superhuman framing"
+          },
+          {
+            "from_line": "L0090",
+            "to_line": "L0185",
+            "what": "billionaire belief and DMN storytelling — motivational register"
+          },
+          {
+            "from_line": "L0186",
+            "to_line": "L0280",
+            "what": "main character energy exercise and sleep beliefs"
+          },
+          {
+            "from_line": "L0280",
+            "to_line": "L0435",
+            "what": "habit loop, craving, whiteboard pruning — instructional"
+          },
+          {
+            "from_line": "L0436",
+            "to_line": "L0540",
+            "what": "phone visibility study and digital hygiene"
+          },
+          {
+            "from_line": "L0540",
+            "to_line": "L0660",
+            "what": "multitasking test demo and task switching"
+          },
+          {
+            "from_line": "L0660",
+            "to_line": "L0700",
+            "what": "be bored, DMN and shower thoughts"
+          },
+          {
+            "from_line": "L0700",
+            "to_line": "L0817",
+            "what": "content diet, long vs short form, news anxiety"
+          },
+          {
+            "from_line": "L0817",
+            "to_line": "L0950",
+            "what": "loneliness section — clip taken from the candy passage, rest is chemistry explanation"
+          },
+          {
+            "from_line": "L0957",
+            "to_line": "L1215",
+            "what": "brain city map, chronotypes, 5am club porn"
+          },
+          {
+            "from_line": "L1215",
+            "to_line": "L1315",
+            "what": "burnout and 3M breaks framework"
+          },
+          {
+            "from_line": "L1315",
+            "to_line": "L1417",
+            "what": "9-week digital detox study results"
+          },
+          {
+            "from_line": "L1484",
+            "to_line": "L1493",
+            "what": "thank-yous and outro"
+          }
+        ]
+      },
+      "entertainment": {
+        "video_read": "",
+        "coverage": 0.032,
+        "near_misses": [],
+        "skipped": []
+      },
+      "general": {
+        "video_read": "A ~3-hour English-language Raj Shamani podcast with a UC Berkeley cognitive neuroscientist about attention, phones, habits, boredom, burnout and sleep. The best material is a long, even run of counter-intuitive, testable claims about everyday behaviour — a visible phone lowers measured IQ, scrolling doesn't count as a break, boredom is where ideas come from, stress cycles never closing is what kills — with the most striking science clustered in the middle two hours and the most personal material (her own addiction) at the very end.",
+        "coverage": 0.791,
+        "near_misses": [
+          {
+            "start_line": "L0094",
+            "end_line": "L0104",
+            "why_not": "Billionaire's brain: 'brick wall to the average person, that person sees a door' — well-put but lands in generic self-help territory without the neuroscience beneath it."
+          },
+          {
+            "start_line": "L0631",
+            "end_line": "L0635",
+            "why_not": "Stanford study: people confident they're great multitaskers tested worse — a lovely irony, but it needs the paper demo just before it to fully land."
+          },
+          {
+            "start_line": "L0776",
+            "end_line": "L0785",
+            "why_not": "'The world's gonna go on whether you're looking at it or not. You're not that important' — strong line, but it duplicates the phone/news territory already covered by stronger clips."
+          },
+          {
+            "start_line": "L0723",
+            "end_line": "L0740",
+            "why_not": "Shower-thought protocol (load the data, walk away, change variables) — genuinely useful but a mechanism walkthrough; the takeaway sentence alone is thin."
+          },
+          {
+            "start_line": "L1251",
+            "end_line": "L1258",
+            "why_not": "The 22-year-old who arrived clinically burned out one quarter into his first job — funny and telling, but it needs the stress-cycle frame from a later stretch to mean anything."
+          }
+        ],
+        "skipped": [
+          {
+            "from_line": "L0001",
+            "to_line": "L0031",
+            "what": "cold-open montage, subscribe appeal and sponsor read"
+          },
+          {
+            "from_line": "L0032",
+            "to_line": "L0093",
+            "what": "guest introduction, 'becoming superhuman lab' framing, biological-laws setup"
+          },
+          {
+            "from_line": "L0105",
+            "to_line": "L0176",
+            "what": "main character energy, redirection technique, DMN and write-your-story exercise"
+          },
+          {
+            "from_line": "L0186",
+            "to_line": "L0289",
+            "what": "Raj's sleep beliefs live exercise, identity-based belief template, implementation intentions"
+          },
+          {
+            "from_line": "L0333",
+            "to_line": "L0361",
+            "what": "cognitive pause and identify-the-feeling walkthrough"
+          },
+          {
+            "from_line": "L0504",
+            "to_line": "L0551",
+            "what": "phone-before-bed dare, CEO digital hygiene anecdotes"
+          },
+          {
+            "from_line": "L0552",
+            "to_line": "L0630",
+            "what": "the multitasking paper-timing demo — mostly physical, partially harvested for the loop clip's territory"
+          },
+          {
+            "from_line": "L0680",
+            "to_line": "L0752",
+            "what": "DMN vs CEN walkthrough, think week, shower-thought mechanism"
+          },
+          {
+            "from_line": "L0753",
+            "to_line": "L0816",
+            "what": "news rage-bait discussion, content diet, long-form empathy study"
+          },
+          {
+            "from_line": "L0911",
+            "to_line": "L0957",
+            "what": "dopamine/oxytocin/serotonin chemistry walkthrough"
+          },
+          {
+            "from_line": "L0958",
+            "to_line": "L1040",
+            "what": "brain-as-city map — whiteboard visual, words alone don't carry it"
+          },
+          {
+            "from_line": "L1080",
+            "to_line": "L1242",
+            "what": "chronotype walkthrough, Nobel Prize, PM-shifted day design"
+          },
+          {
+            "from_line": "L1261",
+            "to_line": "L1371",
+            "what": "3M break framework, psychological detachment, Berkeley class setup"
+          },
+          {
+            "from_line": "L1441",
+            "to_line": "L1493",
+            "what": "'I am God' answer, cost-of-ambition close, outro"
+          }
+        ]
+      },
+      "motivational": {
+        "video_read": "A ~3-hour Raj Shamani interview with cognitive neuroscientist Dr. Sahar (the 'Becoming Superhuman' lab) about attention, beliefs, habits, scrolling and burnout. The genuinely motivational material is concentrated in the early belief/identity stretch (billionaire belief, 'tell your brain to shut up', write the story down), the mid-video reality checks aimed directly at the short-form scroller, and her personal powerless-to-powerful confession near the end. Large parts of the middle are mechanism walkthroughs and protocols — correct and useful, but they change nothing about who the viewer is.",
+        "coverage": 0.964,
+        "near_misses": [
+          {
+            "start_line": "L1226",
+            "end_line": "L1246",
+            "why_not": "'Stress doesn't kill. Never completing the stress cycle kills.' is a top-tier punchline, but it depends on the stress-cycle definition given earlier — the build needed to make it land pushes the clip past two minutes of mechanism."
+          },
+          {
+            "start_line": "L0669",
+            "end_line": "L0693",
+            "why_not": "'Be bored and do nothing and you get ideas' is a great counterintuitive hook, but the payoff dissolves into a DMN mechanism walkthrough instead of landing on the viewer."
+          },
+          {
+            "start_line": "L1444",
+            "end_line": "L1458",
+            "why_not": "'I remind myself that I am God... go into a daydream where you are the most powerful person in the world' is strong, but the slow spiritual build only works with the powerless setup from the previous moment."
+          },
+          {
+            "start_line": "L0633",
+            "end_line": "L0635",
+            "why_not": "The Stanford study — confident multitaskers tested worse — is a funny, quotable fact, but as a standalone it's trivia with no turn in the viewer."
+          },
+          {
+            "start_line": "L0290",
+            "end_line": "L0296",
+            "why_not": "'The craving you think is for binge watching is actually a feeling... something you want to numb from' names the private experience beautifully, but the turn ('understand the emotion, control the behavior') sits 100 lines away."
+          }
+        ],
+        "skipped": [
+          {
+            "from_line": "L0001",
+            "to_line": "L0032",
+            "what": "cold-open montage (all of it reappears later in the real conversation) and the Urban Platter sponsor read"
+          },
+          {
+            "from_line": "L0033",
+            "to_line": "L0093",
+            "what": "who she is, biological laws framing, setup for the billionaire-brain question"
+          },
+          {
+            "from_line": "L0137",
+            "to_line": "L0176",
+            "what": "DMN / priming mechanism walkthrough of the story-writing method"
+          },
+          {
+            "from_line": "L0195",
+            "to_line": "L0276",
+            "what": "live sleep-belief exercise with Raj and implementation intentions — practical protocol, admin not motivation"
+          },
+          {
+            "from_line": "L0277",
+            "to_line": "L0430",
+            "what": "whiteboard habit loop, breaking bad habits, emotional regulation — good teaching, mechanism-heavy"
+          },
+          {
+            "from_line": "L0437",
+            "to_line": "L0548",
+            "what": "digital hygiene, UT Austin phone study — overlaps the cold open, informational"
+          },
+          {
+            "from_line": "L0549",
+            "to_line": "L0660",
+            "what": "the live multitasking timer demo and task-switching costs — a demo for the editor, not a self-contained moment"
+          },
+          {
+            "from_line": "L0661",
+            "to_line": "L0816",
+            "what": "idea generation, boredom, distraction economy, shower thoughts, long-form vs short-form science"
+          },
+          {
+            "from_line": "L0826",
+            "to_line": "L0898",
+            "what": "her childhood TV story, Netflix second-screen, loneliness as a biological need"
+          },
+          {
+            "from_line": "L0911",
+            "to_line": "L1041",
+            "what": "dopamine/oxytocin chemistry and the brain-city-map tour"
+          },
+          {
+            "from_line": "L1042",
+            "to_line": "L1220",
+            "what": "5am club myth, chronotypes and Raj's test results — practical, aimed at scheduling"
+          },
+          {
+            "from_line": "L1221",
+            "to_line": "L1315",
+            "what": "burnout, stress cycles, 3M break framework — the 'never completing the stress cycle' line lives here but needs too much build"
+          },
+          {
+            "from_line": "L1316",
+            "to_line": "L1415",
+            "what": "the Berkeley 9-week digital detox study and its results"
+          },
+          {
+            "from_line": "L1459",
+            "to_line": "L1493",
+            "what": "cost-of-ambition confession (pain-heavy, for the emotional finder) and outro"
+          }
+        ]
+      }
+    },
+    "dropped_in_select": [],
+    "timings": {
+      "comments": 116.0,
+      "payload": 0.9,
+      "finders": 144.12,
+      "select": 79.04,
+      "cut": 359.46
+    },
+    "costs": {
+      "llm_inr": 16.439200000000003,
+      "youtube_api_units": 7,
+      "total_inr": 16.4392
+    },
+    "seconds": 700.74
+  },
+  "clips": [
+    {
+      "title": "A brick wall to you is a door to them",
+      "description": "The speaker names the one trait separating the billionaires he has met from people who struggle: belief — \"they don't think there are limits... when something looks like a brick wall to the average person, that person sees a door.\" It closes on the slow, deliberate \"Truly, they believe it.\", which bookends the opening claim.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start forward off 'some of these amazing people that I've met' (a mid-sentence continuation of the previous line's 'but...') to the clean sentence start 'I'll tell you something', which is where the claim begins. Kept the proposed end on 'Truly, they believe it.' — it completes the thought and echoes the opening; L0106 onwards is a new topic.",
+      "segments": [
+        {
+          "start_s": 645.12,
+          "end_s": 693.1,
+          "duration_s": 47.98,
+          "start_words": "I'll tell you something that is wildly different",
+          "end_words": "Truly, they believe it.",
+          "start_line": "L0094",
+          "end_line": "L0104",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "I'll tell you something that is wildly different from a lot of folks that I see who struggle. And that is belief. Belief about how the world works. Belief about who it is that they are. These people, these the the billionaire's brain, they don't think there are limits. They really don't. These people don't think there are any obstacles in their way. When something looks like a brick wall to the average person, that person sees a door. They know that they can open and create doors anywhere. They believe it. Truly, they believe it.",
+          "source_start_s": 645.12,
+          "source_end_s": 693.1
+        }
+      ],
+      "start_s": 645.12,
+      "end_s": 693.1,
+      "duration_s": 47.98,
+      "transcript": "I'll tell you something that is wildly different from a lot of folks that I see who struggle. And that is belief. Belief about how the world works. Belief about who it is that they are. These people, these the the billionaire's brain, they don't think there are limits. They really don't. These people don't think there are any obstacles in their way. When something looks like a brick wall to the average person, that person sees a door. They know that they can open and create doors anywhere. They believe it. Truly, they believe it.",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot2",
+          "title": "A brick wall to you is a door to them",
+          "why": "She has stood next to billionaires and names the one difference the broke viewer can actually take: belief. 'When something looks like a brick wall to the average person, that person sees a door' is the quotable spine, and the slow, deliberate delivery (measured (slow) tags, pauses) gives it the weight of testimony rather than hype. Viewers marked this exact moment in the comments.",
+          "confidence": "HIGH",
+          "hook_strength": 6,
+          "signals_used": [
+            "comments on L0098, L0100, L0102 ('my fav line', 'Billionaires don't think there are limits')"
+          ],
+          "start_line": "L0094",
+          "end_line": "L0104"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 645.12,
+      "source_end_s": 693.1,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 3,
+          "top_comment": "11:09 Billionaires don't think that there are limit of destroying nature they can destroy nature which is gonna affec lives ecosystem human as well",
+          "top_likes": 23,
+          "text": "3 viewer comments point at this exact moment, the top one with 23 likes"
+        },
+        {
+          "kind": "pause",
+          "seconds": 2.0,
+          "text": "a 2.0s pause lands inside this clip"
+        },
+        {
+          "kind": "reaction",
+          "what": "snorts",
+          "text": "YouTube's captions mark snorts inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=645s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=645&end=694",
+      "rank": 1,
+      "id": "clip1",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "3 viewer comments point at this exact moment, the top one with 23 likes",
+            "quote": "11:09 Billionaires don't think that there are limit of destroying nature they can destroy nature which is gonna affec lives ecosystem human as well",
+            "likes": 23
+          },
+          {
+            "kind": "pause",
+            "text": "a 2.0s pause lands inside this clip"
+          },
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark snorts inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "She has stood next to billionaires and names the one difference the broke viewer can actually take: belief. 'When something looks like a brick wall to the average person, that person sees a door' is the quotable spine, and the slow, deliberate delivery (measured (slow) tags, pauses) gives it the weight of testimony rather than hype. Viewers marked this exact moment in the comments.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start forward off 'some of these amazing people that I've met' (a mid-sentence continuation of the previous line's 'but...') to the clean sentence start 'I'll tell you something', which is where the claim begins. Kept the proposed end on 'Truly, they believe it.' — it completes the thought and echoes the opening; L0106 onwards is a new topic.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "The free chronotype test — \"we'll put out a link in the description\"",
+      "description": "The host asks the guest to share his results, which leads to him asking if viewers can take the same questionnaire; the scientist shares her lab's test (www.mmyronotype.com) free of charge, and the host promises to put the link in the description. This is exactly the exchange viewers flooded the comments about, asking where the link is.",
+      "category": "audience",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposed start on the host's question — the guest's questionnaire answer needs it. Trimmed the tail: ended on the link promise ('...to actually go test it.') rather than 'Yes. Let's look at it.', which opens the next report-review segment the comments weren't pointing at.",
+      "segments": [
+        {
+          "start_s": 7889.24,
+          "end_s": 7947.52,
+          "duration_s": 58.28,
+          "start_words": "Do you want to share your results?",
+          "end_words": "to actually go test it.",
+          "start_line": "L1114",
+          "end_line": "L1121",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "Do you want to share your results? >> Yeah. So, you gave me this whole uh questionnaire to fill. >> Mhm. to find out can we do something like so I filled that question and it took me like 3 4 minutes it didn't take me long can we do that for people as well can you give me some link so that a lot of people who want to find out what are they what's their natural type of sleeping and waking up and what is the hour where they feel the most energetic versus when they feel really sloppy if they want to find out can we have some link of this this test to something >> yes yeah we our lab has um it's it's www.mmyronotype.com and we can absolutely give give folks access to it so they don't have to pay for it but to get the assessment done the same assessment you did. >> Perfect. Done. So we're going to we're going to go through my results. >> Okay. >> And then we'll put out a link in the description for anyone who wants to actually go test it.",
+          "source_start_s": 7889.24,
+          "source_end_s": 7947.52
+        }
+      ],
+      "start_s": 7889.24,
+      "end_s": 7947.52,
+      "duration_s": 58.28,
+      "transcript": "Do you want to share your results? >> Yeah. So, you gave me this whole uh questionnaire to fill. >> Mhm. to find out can we do something like so I filled that question and it took me like 3 4 minutes it didn't take me long can we do that for people as well can you give me some link so that a lot of people who want to find out what are they what's their natural type of sleeping and waking up and what is the hour where they feel the most energetic versus when they feel really sloppy if they want to find out can we have some link of this this test to something >> yes yeah we our lab has um it's it's www.mmyronotype.com and we can absolutely give give folks access to it so they don't have to pay for it but to get the assessment done the same assessment you did. >> Perfect. Done. So we're going to we're going to go through my results. >> Okay. >> And then we'll put out a link in the description for anyone who wants to actually go test it.",
+      "nominated_by": [
+        "audience"
+      ],
+      "step1": [
+        {
+          "category": "audience",
+          "id": "aud2",
+          "title": "The free chronotype test — 'we'll put out a link in the description'",
+          "why": "This is the single most-marked moment in the video by raw convergence: viewers stopped here in numbers to ask where the promised chronotype assessment link is (16 and 14 likes, plus a follow-up noting the link was missing). It is an ordinary exchange about a questionnaire, but the audience demonstrably converged on it, and the clip still makes sense alone — the guest offers her lab's chronotype test free to viewers. Returned because the audience decided this was the moment, not because the words are flashy.",
+          "confidence": "MEDIUM",
+          "hook_strength": 4,
+          "signals_used": [
+            "comment on L1118 ('2:12:10 Where can i find the link', 14 likes)",
+            "two comments on L1121 ('2:12:24 where is the link?' 16 likes; follow-up about missing link)",
+            "MOST-MARKED MOMENTS list: L1121, 2+ viewer comments"
+          ],
+          "start_line": "L1114",
+          "end_line": "L1121"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 7889.24,
+      "source_end_s": 7947.52,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 3,
+          "top_comment": "2:12:24 where is the link?",
+          "top_likes": 16,
+          "text": "3 viewer comments point at this exact moment, the top one with 16 likes"
+        },
+        {
+          "kind": "pause",
+          "seconds": 1.4,
+          "text": "a 1.4s pause lands inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)"
+          ],
+          "text": "delivery shifts here: (fast)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=7889s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=7889&end=7948",
+      "rank": 2,
+      "id": "clip2",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "3 viewer comments point at this exact moment, the top one with 16 likes",
+            "quote": "2:12:24 where is the link?",
+            "likes": 16
+          },
+          {
+            "kind": "pause",
+            "text": "a 1.4s pause lands inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast)"
+          }
+        ],
+        "reading": "This is the single most-marked moment in the video by raw convergence: viewers stopped here in numbers to ask where the promised chronotype assessment link is (16 and 14 likes, plus a follow-up noting the link was missing). It is an ordinary exchange about a questionnaire, but the audience demonstrably converged on it, and the clip still makes sense alone — the guest offers her lab's chronotype test free to viewers. Returned because the audience decided this was the moment, not because the words are flashy.",
+        "found_by": [
+          "audience"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposed start on the host's question — the guest's questionnaire answer needs it. Trimmed the tail: ended on the link promise ('...to actually go test it.') rather than 'Yes. Let's look at it.', which opens the next report-review segment the comments weren't pointing at.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "Our brains are designed to look for data that confirms your beliefs",
+      "description": "The episode's most-quoted line lands in full — \"our brains are designed to look for data that confirms your beliefs\" — then gets proven on the complainer's life: the victim loop is just the brain doing its job. It closes on the instruction that turns the mechanism into power: \"choose your beliefs, design your beliefs.\"",
+      "category": "audience",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start off the mid-sentence host fragment 'is everybody's brain' to the true sentence start 'our brains are designed', which is also the verbatim quoted line; kept the end on the punch, stopping before the host's next reaction. The 125s proposal buried the line in priming setup; this is the tight version that still contains the whole of what the audience quoted.",
+      "segments": [
+        {
+          "start_s": 1203.04,
+          "end_s": 1254.56,
+          "duration_s": 51.52,
+          "start_words": "our brains are designed",
+          "end_words": "choose your beliefs, design your beliefs",
+          "start_line": "L0178",
+          "end_line": "L0185",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "our brains are designed they're designed to look for data that confirms your beliefs. >> Yeah, true. It happens with all the negative things as well. >> Bingo. Bingo. Which is why I'm like, if it's not helping you, get it out of there. Throw it away. Get it out. Like, you don't need it. >> Because people are like, \"Oh, I'm a victim. Everybody blah blah blah. Everybody hates me. I don't get what I want.\" And guess what? They always see they're always complaining, right? >> Yeah. this happened, then this other thing happened. No, no, no. What's happening is your beliefs because that's how the brain works. That's a biological law. The brain is going to find and look for data to confirm its own beliefs. So, choose your beliefs, design your beliefs.",
+          "source_start_s": 1203.04,
+          "source_end_s": 1254.56
+        }
+      ],
+      "start_s": 1203.04,
+      "end_s": 1254.56,
+      "duration_s": 51.52,
+      "transcript": "our brains are designed they're designed to look for data that confirms your beliefs. >> Yeah, true. It happens with all the negative things as well. >> Bingo. Bingo. Which is why I'm like, if it's not helping you, get it out of there. Throw it away. Get it out. Like, you don't need it. >> Because people are like, \"Oh, I'm a victim. Everybody blah blah blah. Everybody hates me. I don't get what I want.\" And guess what? They always see they're always complaining, right? >> Yeah. this happened, then this other thing happened. No, no, no. What's happening is your beliefs because that's how the brain works. That's a biological law. The brain is going to find and look for data to confirm its own beliefs. So, choose your beliefs, design your beliefs.",
+      "nominated_by": [
+        "audience",
+        "general",
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "audience",
+          "id": "aud1",
+          "title": "Your brain is designed to look for data that confirms your beliefs",
+          "why": "This is the audience's adopted line of the whole episode: it appears twice in the loudest comments (3,301 and 129 likes) as 'the best line', and a viewer placed a timestamped quote of it right on this spot (73 likes), with another viewer nearby saying it totally resonates. The run builds from 'opportunities are everywhere, you only see what the brain is primed to see' into the confirmation-bias law and lands on the actionable punch 'choose your beliefs, design your beliefs'. The clip is the echo in its natural setup.",
+          "confidence": "HIGH",
+          "hook_strength": 7,
+          "signals_used": [
+            "comment on L0177 quoting the line ('Our brain is designed to gather the data, that confirms our beliefs' -20:00, 73 likes)",
+            "comment on L0185 ('20:46 totally resonate with this')",
+            "audience block echo: 'Best line: Our brains are designed to look for data that confirms your beliefs' with 3,301 and 129 likes"
+          ],
+          "start_line": "L0165",
+          "end_line": "L0184"
+        },
+        {
+          "category": "general",
+          "id": "gen3",
+          "title": "Your brain is designed to look for data that confirms your beliefs",
+          "why": "This exact line is the most-quoted moment of the whole episode in the audience comments (3301 likes on the standalone quote), and it earns it: it lands on the victim-mindset viewer hardest, because the brain that keeps proving 'everyone hates me, nothing works out' is just doing its job. The close — choose your beliefs, design them — turns a mechanism into an instruction. Short, complete, infinitely shareable.",
+          "confidence": "HIGH",
+          "hook_strength": 6,
+          "signals_used": [
+            "comment on L0177 (73 likes) quoting this exact line",
+            "audience loudest comment names this line"
+          ],
+          "start_line": "L0178",
+          "end_line": "L0185"
+        },
+        {
+          "category": "motivational",
+          "id": "mot3",
+          "title": "Your brain finds proof of whatever you believe — so choose",
+          "why": "A hidden mechanism stated plainly that reorganises how the viewer reads their own life: the brain is built to gather data that confirms your beliefs, so the victim loop is self-manufactured — and the exit is to design the belief instead. This is the single most-quoted line of the entire episode in the audience comments (the 'best line' comment with 3301 likes is verbatim this idea), which is the strongest confirmation available.",
+          "confidence": "HIGH",
+          "hook_strength": 6,
+          "signals_used": [
+            "comment on L0177 quoting the line (73 likes)",
+            "audience block: 'The best line: Our brains are designed to look for data that confirms your beliefs.' (3301 likes)"
+          ],
+          "start_line": "L0178",
+          "end_line": "L0185"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 1203.04,
+      "source_end_s": 1254.56,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 1,
+          "top_comment": "20:46 totally resonate with this",
+          "top_likes": 0,
+          "text": "1 viewer comment point at this exact moment, the top one with 0 likes"
+        },
+        {
+          "kind": "pause",
+          "seconds": 2.4,
+          "text": "a 2.4s pause lands inside this clip"
+        },
+        {
+          "kind": "reaction",
+          "what": "snorts",
+          "text": "YouTube's captions mark snorts inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)",
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (fast) (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=1203s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=1203&end=1255",
+      "rank": 3,
+      "id": "clip3",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "1 viewer comment point at this exact moment, the top one with 0 likes",
+            "quote": "20:46 totally resonate with this",
+            "likes": 0
+          },
+          {
+            "kind": "pause",
+            "text": "a 2.4s pause lands inside this clip"
+          },
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark snorts inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast) (slow)"
+          }
+        ],
+        "reading": "This is the audience's adopted line of the whole episode: it appears twice in the loudest comments (3,301 and 129 likes) as 'the best line', and a viewer placed a timestamped quote of it right on this spot (73 likes), with another viewer nearby saying it totally resonates. The run builds from 'opportunities are everywhere, you only see what the brain is primed to see' into the confirmation-bias law and lands on the actionable punch 'choose your beliefs, design your beliefs'. The clip is the echo in its natural setup.",
+        "found_by": [
+          "audience",
+          "general",
+          "motivational"
+        ],
+        "agreement": 3,
+        "boundary": "Moved the start off the mid-sentence host fragment 'is everybody's brain' to the true sentence start 'our brains are designed', which is also the verbatim quoted line; kept the end on the punch, stopping before the host's next reaction. The 125s proposal buried the line in priming setup; this is the tight version that still contains the whole of what the audience quoted.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "You have to tell your brain to shut up",
+      "description": "A brain-training expert names the victim story word for word — \"I'm a victim. I come from nothing. I'm not going to make it\" — then gives the full protocol: tell your brain to shut up, redirect, repeat the new story daily (\"anything is possible because nothing is real\"), and closes on the line that removes every excuse: write the story down, you don't have to believe it in the beginning.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposal. L0122 is the earliest clean start — \"that story\" resolves one line later when the victim story is quoted verbatim, so no earlier setup is needed. L0134 ends on a complete actionable thought; extending to \"write from that person's perspective\" (L0137) adds 25s of rambling past the landing. Two tighter sub-clips exist if a second cut is wanted: the standalone \"tell your brain to shut up\" beat (L0122–L0124) and the \"anything is possible because nothing is real\" quote (L0128–L0129).",
+      "segments": [
+        {
+          "start_s": 787.0,
+          "end_s": 880.76,
+          "duration_s": 93.76,
+          "start_words": "Every single time inside of your mind",
+          "end_words": "don't have to believe it in the beginning",
+          "start_line": "L0122",
+          "end_line": "L0134",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "Every single time inside of your mind, your brain starts telling you that story. I'm a victim. I come from nothing. Look at my background. I'm not going to make it. You have to tell your brain to shut up. Zip it. Be like, \"Uh-uh. Don't do that.\" And then you have I call that by the way that's called redirection redirection. It's attentional redirection in the brain. So if your attention is somewhere like oh I'm a victim. Oh I'm the oh it's not going to work out. Oh what if I fail? Oh redirect. You say uh I'm not going to move my attention. I'm moving my attention. I'm redirecting it back to what's the story you want. And you then you repeat it. And you got to get obsessive about this. Like every day you repeat the story, who am I? What's possible? One of my favorite quotes is anything is possible because nothing is real. All of this is man-made. All of this is made up. We can make anything happen. But then if someone was never believed in themselves ever, they've never thought that they can ever become better, achieve their goals, have a dreamy life, become financially free, billionaire, millionaire, whatever, etc., etc., right? If someone never believed, how can someone build a main character energy? >> Write the story down. Take a piece of paper and you don't have to believe it in the beginning.",
+          "source_start_s": 787.0,
+          "source_end_s": 880.76
+        }
+      ],
+      "start_s": 787.0,
+      "end_s": 880.76,
+      "duration_s": 93.76,
+      "transcript": "Every single time inside of your mind, your brain starts telling you that story. I'm a victim. I come from nothing. Look at my background. I'm not going to make it. You have to tell your brain to shut up. Zip it. Be like, \"Uh-uh. Don't do that.\" And then you have I call that by the way that's called redirection redirection. It's attentional redirection in the brain. So if your attention is somewhere like oh I'm a victim. Oh I'm the oh it's not going to work out. Oh what if I fail? Oh redirect. You say uh I'm not going to move my attention. I'm moving my attention. I'm redirecting it back to what's the story you want. And you then you repeat it. And you got to get obsessive about this. Like every day you repeat the story, who am I? What's possible? One of my favorite quotes is anything is possible because nothing is real. All of this is man-made. All of this is made up. We can make anything happen. But then if someone was never believed in themselves ever, they've never thought that they can ever become better, achieve their goals, have a dreamy life, become financially free, billionaire, millionaire, whatever, etc., etc., right? If someone never believed, how can someone build a main character energy? >> Write the story down. Take a piece of paper and you don't have to believe it in the beginning.",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot1",
+          "title": "You have to tell your brain to shut up",
+          "why": "The full identity arc in under two minutes: the victim story named word for word ('I'm a victim. I come from nothing. I'm not going to make it'), the aggressive instruction to kill it, the daily repetition of 'who am I, what's possible', 'anything is possible because nothing is real', and then the landing that removes the last excuse — write the story down, you don't have to believe it in the beginning. This is the exact vein the 2am viewer came for, and it ends on something they can do tonight.",
+          "confidence": "HIGH",
+          "hook_strength": 8,
+          "signals_used": [],
+          "start_line": "L0122",
+          "end_line": "L0134"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 787.0,
+      "source_end_s": 880.76,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 1,
+          "top_comment": "So proud of you guys are representing Indian caliber to such a huge scale. Love you guys. Just an video/audio editing suggestion. At 13:22 if I am not wrong you guys added a slap sound to amplify the ",
+          "top_likes": 0,
+          "text": "1 viewer comment point at this exact moment, the top one with 0 likes"
+        },
+        {
+          "kind": "pause",
+          "seconds": 2.6,
+          "text": "a 2.6s pause lands inside this clip"
+        },
+        {
+          "kind": "reaction",
+          "what": "snorts",
+          "text": "YouTube's captions mark snorts inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=787s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=787&end=881",
+      "rank": 4,
+      "id": "clip4",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "1 viewer comment point at this exact moment, the top one with 0 likes",
+            "quote": "So proud of you guys are representing Indian caliber to such a huge scale. Love you guys. Just an video/audio editing suggestion. At 13:22 if I am not wrong you guys added a slap sound to amplify the ",
+            "likes": 0
+          },
+          {
+            "kind": "pause",
+            "text": "a 2.6s pause lands inside this clip"
+          },
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark snorts inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "The full identity arc in under two minutes: the victim story named word for word ('I'm a victim. I come from nothing. I'm not going to make it'), the aggressive instruction to kill it, the daily repetition of 'who am I, what's possible', 'anything is possible because nothing is real', and then the landing that removes the last excuse — write the story down, you don't have to believe it in the beginning. This is the exact vein the 2am viewer came for, and it ends on something they can do tonight.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposal. L0122 is the earliest clean start — \"that story\" resolves one line later when the victim story is quoted verbatim, so no earlier setup is needed. L0134 ends on a complete actionable thought; extending to \"write from that person's perspective\" (L0137) adds 25s of rambling past the landing. Two tighter sub-clips exist if a second cut is wanted: the standalone \"tell your brain to shut up\" beat (L0122–L0124) and the \"anything is possible because nothing is real\" quote (L0128–L0129).",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "Your phone, face down and switched off, is making you dumber",
+      "description": "A UT Austin study where the phone is dead and unused in every condition — yet merely having it visible, face down off to the side, significantly dropped scores on attention and fluid intelligence: \"That means you're dumber.\" The clip closes on the repeated, disbelieving \"even though it's dead,\" which kills the viewer's obvious objection in the speaker's own words.",
+      "category": "general",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposed open — it names the study and the dead-phone detail immediately, so a stranger is never lost. Cut the tail hard: the 182s proposal toured two separate claims, and this clip ends claim one on the triple \"even though it's dead\" just before the topic shift at L0482. The \"lowering the IQ of your whole team\" recommendation (L0487–L0493) is a second clip sitting in this window.",
+      "segments": [
+        {
+          "start_s": 3311.84,
+          "end_s": 3374.16,
+          "duration_s": 62.32,
+          "start_words": "In this study, and remember the phone",
+          "end_words": "Even though it's dead. Even though it's dead.",
+          "start_line": "L0473",
+          "end_line": "L0480",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": ">> In this study, and remember the phone is dead. >> Yeah. Yeah. Technically, nothing changes in all three scenarios. The phone's dead. You're not using it. >> Exactly. M >> it's like having this eraser nearby, right? It's just an object. >> In this study, we were able to see, and by the way, this is one of the most shocking studies I think I have seen in the last number of years on this topic. >> Okay? >> When the phone was visible to you in your visual field, dead but face down off to the side, scores were significantly decreased across the board. like my attention decreased. >> Yes, it's the same you, right? Same Raj, same brain, different capability. And think about it's attention span. Raj, it was also general fluid intelligence. That means you're dumber. Literally, if the phone is visible, I'm not >> even though it's dead. >> Even though it's dead.",
+          "source_start_s": 3311.84,
+          "source_end_s": 3374.16
+        }
+      ],
+      "start_s": 3311.84,
+      "end_s": 3374.16,
+      "duration_s": 62.32,
+      "transcript": ">> In this study, and remember the phone is dead. >> Yeah. Yeah. Technically, nothing changes in all three scenarios. The phone's dead. You're not using it. >> Exactly. M >> it's like having this eraser nearby, right? It's just an object. >> In this study, we were able to see, and by the way, this is one of the most shocking studies I think I have seen in the last number of years on this topic. >> Okay? >> When the phone was visible to you in your visual field, dead but face down off to the side, scores were significantly decreased across the board. like my attention decreased. >> Yes, it's the same you, right? Same Raj, same brain, different capability. And think about it's attention span. Raj, it was also general fluid intelligence. That means you're dumber. Literally, if the phone is visible, I'm not >> even though it's dead. >> Even though it's dead.",
+      "nominated_by": [
+        "general"
+      ],
+      "step1": [
+        {
+          "category": "general",
+          "id": "gen1",
+          "title": "Your phone, face down and switched off, is making you dumber",
+          "why": "A UT Austin study where the phone is completely dead in all three conditions, and merely having it visible in your visual field significantly drops scores on fluid intelligence — 'that means you're dumber.' Then the turn: a phone on the table in a meeting literally lowers the IQ of the whole team. Every viewer owns a phone and has never heard this; the dead-phone detail kills the obvious objection before it's raised. Screenshot material.",
+          "confidence": "HIGH",
+          "hook_strength": 7,
+          "signals_used": [
+            "comment on L0479 'agree 100'"
+          ],
+          "start_line": "L0473",
+          "end_line": "L0492"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 3311.84,
+      "source_end_s": 3374.16,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 1,
+          "top_comment": "56:02 agree 💯",
+          "top_likes": 0,
+          "text": "1 viewer comment point at this exact moment, the top one with 0 likes"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=3311s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=3311&end=3375",
+      "rank": 5,
+      "id": "clip5",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "1 viewer comment point at this exact moment, the top one with 0 likes",
+            "quote": "56:02 agree 💯",
+            "likes": 0
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "A UT Austin study where the phone is completely dead in all three conditions, and merely having it visible in your visual field significantly drops scores on fluid intelligence — 'that means you're dumber.' Then the turn: a phone on the table in a meeting literally lowers the IQ of the whole team. Every viewer owns a phone and has never heard this; the dead-phone detail kills the obvious objection before it's raised. Screenshot material.",
+        "found_by": [
+          "general"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposed open — it names the study and the dead-phone detail immediately, so a stranger is never lost. Cut the tail hard: the 182s proposal toured two separate claims, and this clip ends claim one on the triple \"even though it's dead\" just before the topic shift at L0482. The \"lowering the IQ of your whole team\" recommendation (L0487–L0493) is a second clip sitting in this window.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "Want incredible ideas? Be bored and do nothing.",
+      "description": "The guest asks how anyone becomes a person who gets incredible ideas all the time, and the answer is the one instruction nobody wants: \"Be bored. Be bored and do nothing.\" The clip then explains why — mind-wandering activates the DMN, the brain's storytelling machine — and lands on \"So that's your idea machine,\" turning guilt about doing nothing into a method.",
+      "category": "general",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start forward past the host's trailing sentence (\"One day after another...\") to open cleanly on the guest's question; kept the proposed end on \"So that's your idea machine\" — the complete landing line before the conversation pivots to the CEN.",
+      "segments": [
+        {
+          "start_s": 4722.8,
+          "end_s": 4786.36,
+          "duration_s": 63.56,
+          "start_words": "So, what should I do?",
+          "end_words": "So that's your idea machine.",
+          "start_line": "L0669",
+          "end_line": "L0679",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": ">> So, what should I do? How how can someone become a person who gets incredible ideas all the time? >> Okay, you ready? This is my number one recommendation. You might not like it or you might be surprised. >> Okay. >> Be bored. be bored and do nothing >> and you get ideas like that. >> And you get ideas. Let me explain. Ideas, new ideas often come when we are mind wandering. That goes back to the neural network that I talked about earlier, the DMN, the default mode network. That's what that when that is active your brain is creating. Remember in the beginning I said it's the storyteller in the brain. It's the storytelling machine. It's the area of the brain and the a areas of the brain that are all about narration and ideas. So that's your idea machine.",
+          "source_start_s": 4722.8,
+          "source_end_s": 4786.36
+        }
+      ],
+      "start_s": 4722.8,
+      "end_s": 4786.36,
+      "duration_s": 63.56,
+      "transcript": ">> So, what should I do? How how can someone become a person who gets incredible ideas all the time? >> Okay, you ready? This is my number one recommendation. You might not like it or you might be surprised. >> Okay. >> Be bored. be bored and do nothing >> and you get ideas like that. >> And you get ideas. Let me explain. Ideas, new ideas often come when we are mind wandering. That goes back to the neural network that I talked about earlier, the DMN, the default mode network. That's what that when that is active your brain is creating. Remember in the beginning I said it's the storyteller in the brain. It's the storytelling machine. It's the area of the brain and the a areas of the brain that are all about narration and ideas. So that's your idea machine.",
+      "nominated_by": [
+        "general"
+      ],
+      "step1": [
+        {
+          "category": "general",
+          "id": "gen4",
+          "title": "Want incredible ideas? Be bored and do nothing.",
+          "why": "The question everyone wants answered, answered with the one instruction nobody wants: be bored. The DMN-as-storyteller explanation makes boredom productive instead of guilty — the default network is the idea machine, and you've been suppressing it with scrolling for years. Counter-intuitive, actionable tonight, and it flips the viewer's shame about doing nothing into a method.",
+          "confidence": "HIGH",
+          "hook_strength": 7,
+          "signals_used": [],
+          "start_line": "L0669",
+          "end_line": "L0679"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 4722.8,
+      "source_end_s": 4786.36,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 1,
+          "top_comment": "1:19:01made me go \"what the ..\"",
+          "top_likes": 0,
+          "text": "1 viewer comment point at this exact moment, the top one with 0 likes"
+        },
+        {
+          "kind": "pause",
+          "seconds": 1.8,
+          "text": "a 1.8s pause lands inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=4722s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=4722&end=4787",
+      "rank": 6,
+      "id": "clip6",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "1 viewer comment point at this exact moment, the top one with 0 likes",
+            "quote": "1:19:01made me go \"what the ..\"",
+            "likes": 0
+          },
+          {
+            "kind": "pause",
+            "text": "a 1.8s pause lands inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "The question everyone wants answered, answered with the one instruction nobody wants: be bored. The DMN-as-storyteller explanation makes boredom productive instead of guilty — the default network is the idea machine, and you've been suppressing it with scrolling for years. Counter-intuitive, actionable tonight, and it flips the viewer's shame about doing nothing into a method.",
+        "found_by": [
+          "general"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start forward past the host's trailing sentence (\"One day after another...\") to open cleanly on the guest's question; kept the proposed end on \"So that's your idea machine\" — the complete landing line before the conversation pivots to the CEN.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "\"If I'm ever feeling powerless, I remind myself that I am God\"",
+      "description": "Asked for her personal framework for becoming powerful, she answers calmly and on the record that reality is a construct of her own mind — \"I remind myself that I am God. I am all powerful. I create everything in my life\" — then lands the payoff: daydream yourself as the most powerful person in the world and you will genuinely start to feel powerful again. The quiet-part-out-loud clip; the question opens it and the practical instruction closes it.",
+      "category": "entertainment",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposed start on the host's question (the answer is unintelligible without it). Corrected the end: the proposed closing words actually sit in L1458, so the clip runs to \"feel more powerful again\" there — the framework's payoff — stopping just before the host's next question at L1459.",
+      "segments": [
+        {
+          "start_s": 10153.48,
+          "end_s": 10259.24,
+          "duration_s": 105.76,
+          "start_words": "So now when you feel powerless again",
+          "end_words": "start to feel more powerful again",
+          "start_line": "L1442",
+          "end_line": "L1458",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "So now when you feel powerless again, what's your personal framework to become powerful? >> Well, this one is going to maybe sound even a little bit spiritual. I have a few beliefs. One of my beliefs is that the universe and the world is not how it seems. that a great amount of my reality is a construct of my own mind, which means I can influence the world and my life through what's happening in here. So, I protect this thing. I protect it by not letting bad stuff in. I audit what it's doing and what it's thinking. And if I'm ever feeling powerless, I remind myself that I am God. I am all powerful. I create everything in my life because you can. You truly can. You can create your own reality, your consciousness. Like literally truly my conscious experience. If I close my eyes right now, and so do you. You can dream a reality inside of your mind. Now you might say, \"But but that's not real. It's in your mind.\" But when something is truly real in your mind, it's real for you. So much research has also shown us that when you rehearse something and you visualize it, you daydream, you daydream about it, that the brain can barely tell the difference between daydreaming about X and actually doing X. >> True. >> So if you're ever feeling powerless, you go into a daydream where you are the most powerful person in the world. Go into that daydream because then all of a sudden you're going to start to feel more powerful again.",
+          "source_start_s": 10153.48,
+          "source_end_s": 10259.24
+        }
+      ],
+      "start_s": 10153.48,
+      "end_s": 10259.24,
+      "duration_s": 105.76,
+      "transcript": "So now when you feel powerless again, what's your personal framework to become powerful? >> Well, this one is going to maybe sound even a little bit spiritual. I have a few beliefs. One of my beliefs is that the universe and the world is not how it seems. that a great amount of my reality is a construct of my own mind, which means I can influence the world and my life through what's happening in here. So, I protect this thing. I protect it by not letting bad stuff in. I audit what it's doing and what it's thinking. And if I'm ever feeling powerless, I remind myself that I am God. I am all powerful. I create everything in my life because you can. You truly can. You can create your own reality, your consciousness. Like literally truly my conscious experience. If I close my eyes right now, and so do you. You can dream a reality inside of your mind. Now you might say, \"But but that's not real. It's in your mind.\" But when something is truly real in your mind, it's real for you. So much research has also shown us that when you rehearse something and you visualize it, you daydream, you daydream about it, that the brain can barely tell the difference between daydreaming about X and actually doing X. >> True. >> So if you're ever feeling powerless, you go into a daydream where you are the most powerful person in the world. Go into that daydream because then all of a sudden you're going to start to feel more powerful again.",
+      "nominated_by": [
+        "entertainment"
+      ],
+      "step1": [
+        {
+          "category": "entertainment",
+          "id": "ent1",
+          "title": "\"If I'm ever feeling powerless, I remind myself that I am God\"",
+          "why": "A soft closing question gets an answer nobody sees coming: 'I remind myself that I am God. I am all powerful. I create everything in my life.' Said calmly, on the record, with a follow-through about daydreaming that almost justifies it. This is the quiet-part-out-loud clip — screenshots and comment-section arguments guaranteed.",
+          "confidence": "HIGH",
+          "hook_strength": 5,
+          "signals_used": [
+            "comment on L1458"
+          ],
+          "start_line": "L1442",
+          "end_line": "L1457"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 10153.48,
+      "source_end_s": 10259.24,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 1,
+          "top_comment": "2:50:50",
+          "top_likes": 2,
+          "text": "1 viewer comment point at this exact moment, the top one with 2 likes"
+        },
+        {
+          "kind": "pause",
+          "seconds": 2.0,
+          "text": "a 2.0s pause lands inside this clip"
+        },
+        {
+          "kind": "reaction",
+          "what": "snorts",
+          "text": "YouTube's captions mark snorts inside this clip"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=10153s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=10153&end=10260",
+      "rank": 7,
+      "id": "clip7",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "1 viewer comment point at this exact moment, the top one with 2 likes",
+            "quote": "2:50:50",
+            "likes": 2
+          },
+          {
+            "kind": "pause",
+            "text": "a 2.0s pause lands inside this clip"
+          },
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark snorts inside this clip"
+          }
+        ],
+        "reading": "A soft closing question gets an answer nobody sees coming: 'I remind myself that I am God. I am all powerful. I create everything in my life.' Said calmly, on the record, with a follow-through about daydreaming that almost justifies it. This is the quiet-part-out-loud clip — screenshots and comment-section arguments guaranteed.",
+        "found_by": [
+          "entertainment"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposed start on the host's question (the answer is unintelligible without it). Corrected the end: the proposed closing words actually sit in L1458, so the clip runs to \"feel more powerful again\" there — the framework's payoff — stopping just before the host's next question at L1459.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "You're hungry for something real, but you eat candy instead",
+      "description": "A guest walks the viewer through their own loop: you open Instagram looking for connection, find strangers instead, and scroll — which is like eating candy when you're hungry, feels good in the moment and leaves you hungrier. It lands on the quiet verdict, repeated: \"It never satisfies that need.\"",
+      "category": "emotional",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the emotional finder's proposal. L0900 opens a clean, self-explaining sentence naming Instagram for a stranger; L0910's repeated closing line is the landing and L0911 pivots to a new dopamine topic, so stopping there is correct. No unexplained references, so no earlier line is needed.",
+      "segments": [
+        {
+          "start_s": 6435.36,
+          "end_s": 6515.76,
+          "duration_s": 80.4,
+          "start_words": "When you open up Instagram",
+          "end_words": "It never satisfies that need",
+          "start_line": "L0900",
+          "end_line": "L0910",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "When you open up Instagram, it used to be when they first started, you would see the pictures and videos that your friends would post. >> Yeah. >> It's not like that anymore. >> True. >> It's other people you don't know. It's other people you don't know. So, you are seeking social connection and then you get you go on to short form media and then you start scrolling. >> So, you're distracted. Sure, you're distracted, but it feels kind of good in the moment, doesn't it? >> Yeah. Distraction feels good. So, it's like eating candy when you're hungry. So, you're hungry. You're hungry for something real. Really? Food, but you eat candy instead. What happens when you eat candy when you're hungry? >> In 1 hour, >> you feel more hungry. >> Yeah. You're you're hungry again because then you never filled yourself with nutrition, >> with the food your body needs. So you were, let's say, you were seeking social connection. It's like hunger. So, but instead of really seeking true connection, you instead went to short form media and you're scrolling. It's like candy. So, you're just going to be even hungrier in another hour. So, you're even So, then you were maybe a little lonely before. Now, you're even more lonely because it's never satisfying that need. It never satisfies that need.",
+          "source_start_s": 6435.36,
+          "source_end_s": 6515.76
+        }
+      ],
+      "start_s": 6435.36,
+      "end_s": 6515.76,
+      "duration_s": 80.4,
+      "transcript": "When you open up Instagram, it used to be when they first started, you would see the pictures and videos that your friends would post. >> Yeah. >> It's not like that anymore. >> True. >> It's other people you don't know. It's other people you don't know. So, you are seeking social connection and then you get you go on to short form media and then you start scrolling. >> So, you're distracted. Sure, you're distracted, but it feels kind of good in the moment, doesn't it? >> Yeah. Distraction feels good. So, it's like eating candy when you're hungry. So, you're hungry. You're hungry for something real. Really? Food, but you eat candy instead. What happens when you eat candy when you're hungry? >> In 1 hour, >> you feel more hungry. >> Yeah. You're you're hungry again because then you never filled yourself with nutrition, >> with the food your body needs. So you were, let's say, you were seeking social connection. It's like hunger. So, but instead of really seeking true connection, you instead went to short form media and you're scrolling. It's like candy. So, you're just going to be even hungrier in another hour. So, you're even So, then you were maybe a little lonely before. Now, you're even more lonely because it's never satisfying that need. It never satisfies that need.",
+      "nominated_by": [
+        "emotional",
+        "general",
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "general",
+          "id": "gen7",
+          "title": "Scrolling when lonely is eating candy when hungry",
+          "why": "Explains the loneliness epidemic in one analogy nobody can forget: connection is hunger, the feed is candy — it tastes good, and an hour later you're hungrier than when you started. 'Social media is not social anymore' sets it up plainly for a stranger. This is the clip people send privately to the friend who's always on their phone.",
+          "confidence": "HIGH",
+          "hook_strength": 7,
+          "signals_used": [],
+          "start_line": "L0899",
+          "end_line": "L0910"
+        },
+        {
+          "category": "emotional",
+          "id": "emo2",
+          "title": "You're hungry for something real, but you eat candy instead",
+          "why": "Names the exact loop the viewer is performing while watching: you crave connection, you open Instagram, it's strangers now, you scroll, it feels good like candy when you're hungry — and an hour later you're hungrier. The candy detail carries the whole thing, and it ends without rescue. The viewer recognises themselves mid-scroll.",
+          "confidence": "HIGH",
+          "hook_strength": 6,
+          "signals_used": [],
+          "start_line": "L0900",
+          "end_line": "L0910"
+        },
+        {
+          "category": "motivational",
+          "id": "mot6",
+          "title": "Scrolling when you're lonely is eating candy when you're hungry",
+          "why": "Names the exact 2am experience — you opened Instagram looking for connection and got strangers instead — and explains why the loneliness got worse, not better, with the candy-when-hungry image that sticks. The hit is recognition: something they have lived a hundred times and never heard said out loud, plus the implicit instruction that only a real person fills that need.",
+          "confidence": "MEDIUM",
+          "hook_strength": 5,
+          "signals_used": [],
+          "start_line": "L0900",
+          "end_line": "L0910"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 6435.36,
+      "source_end_s": 6515.76,
+      "evidence": [
+        {
+          "kind": "pause",
+          "seconds": 1.4,
+          "text": "a 1.4s pause lands inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=6435s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=6435&end=6516",
+      "rank": 8,
+      "id": "clip8",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "pause",
+            "text": "a 1.4s pause lands inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "Explains the loneliness epidemic in one analogy nobody can forget: connection is hunger, the feed is candy — it tastes good, and an hour later you're hungrier than when you started. 'Social media is not social anymore' sets it up plainly for a stranger. This is the clip people send privately to the friend who's always on their phone.",
+        "found_by": [
+          "emotional",
+          "general",
+          "motivational"
+        ],
+        "agreement": 3,
+        "boundary": "Kept the emotional finder's proposal. L0900 opens a clean, self-explaining sentence naming Instagram for a stranger; L0910's repeated closing line is the landing and L0911 pivots to a new dopamine topic, so stopping there is correct. No unexplained references, so no earlier line is needed.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "From the most powerless moment came the most powerful feelings of my life",
+      "description": "Asked point-blank what she was addicted to, the scientist lists it all — smoking, drinking, scrolling, sugar — hesitates, then turns the word 'powerless' inside out: from the most powerless moment of her life came 'the most powerful feelings I've ever had in my entire life.' The clip ends where the reframe completes: 'So it was an opportunity.'",
+      "category": "emotional",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start back one line to the host's question at the end of L1429 so the confession plays as an answer, not a non-sequitur; end kept at 'So it was an opportunity', which is where the thought lands, before the host's next question.",
+      "segments": [
+        {
+          "start_s": 10100.0,
+          "end_s": 10152.49,
+          "duration_s": 52.49,
+          "start_words": "What were you addicted to?",
+          "end_words": "So it was an opportunity.",
+          "start_line": "L1429",
+          "end_line": "L1440",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "What were you addicted to? >> I've been addicted to a great number of things in my life. I have been addicted to uh I've I've smoked, I've drank, I've done uh scrolling, uh sugar, you name it. Um it it has been my life's most You know what's interesting? I love the word you used, powerless. From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had in my entire life. I feel unstoppable and so powerful because of overcoming addiction. So it was an opportunity.",
+          "source_start_s": 10100.0,
+          "source_end_s": 10152.49
+        }
+      ],
+      "start_s": 10100.0,
+      "end_s": 10152.49,
+      "duration_s": 52.49,
+      "transcript": "What were you addicted to? >> I've been addicted to a great number of things in my life. I have been addicted to uh I've I've smoked, I've drank, I've done uh scrolling, uh sugar, you name it. Um it it has been my life's most You know what's interesting? I love the word you used, powerless. From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had in my entire life. I feel unstoppable and so powerful because of overcoming addiction. So it was an opportunity.",
+      "nominated_by": [
+        "emotional",
+        "general",
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "emotional",
+          "id": "emo1",
+          "title": "From the most powerless moment came the most powerful feelings",
+          "why": "She lists her addictions plainly — smoking, drinking, scrolling, sugar — then turns the word 'powerless' inside out: 'From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had in my entire life.' A reframe that costs something, said by someone who studied the science and got trapped anyway. Anyone mid-argument with their own habit at 2am sits still for this.",
+          "confidence": "HIGH",
+          "hook_strength": 7,
+          "signals_used": [
+            "pause before L1432",
+            "comment near L1458"
+          ],
+          "start_line": "L1430",
+          "end_line": "L1440"
+        },
+        {
+          "category": "general",
+          "id": "gen12",
+          "title": "From the most powerless moment came the most powerful feelings of her life",
+          "why": "The closing-turn confession: the scientist who studies addiction lists everything she's been addicted to — smoking, drinking, scrolling, sugar — and says the powerlessness felt like a cruel joke from the universe, until overcoming it made her feel unstoppable. Quietly delivered, no performance, and it reframes addiction for anyone currently inside one. This is where the episode's expertise becomes human.",
+          "confidence": "HIGH",
+          "hook_strength": 7,
+          "signals_used": [],
+          "start_line": "L1430",
+          "end_line": "L1440"
+        },
+        {
+          "category": "motivational",
+          "id": "mot4",
+          "title": "From my most powerless moment came the most powerful feelings of my life",
+          "why": "A scientist who studies addiction for a living admitting she was addicted, and inverting it: the powerlessness itself became the source of feeling unstoppable. It reframes the viewer's lowest point as raw material rather than a verdict — pain with a real turn, and it ends on 'it was an opportunity', which is the direction that makes people get up.",
+          "confidence": "HIGH",
+          "hook_strength": 8,
+          "signals_used": [],
+          "start_line": "L1435",
+          "end_line": "L1440"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 10100.0,
+      "source_end_s": 10152.49,
+      "evidence": [
+        {
+          "kind": "pause",
+          "seconds": 1.4,
+          "text": "a 1.4s pause lands inside this clip"
+        },
+        {
+          "kind": "reaction",
+          "what": "snorts",
+          "text": "YouTube's captions mark snorts inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=10100s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=10100&end=10153",
+      "rank": 9,
+      "id": "clip9",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "pause",
+            "text": "a 1.4s pause lands inside this clip"
+          },
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark snorts inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "She lists her addictions plainly — smoking, drinking, scrolling, sugar — then turns the word 'powerless' inside out: 'From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had in my entire life.' A reframe that costs something, said by someone who studied the science and got trapped anyway. Anyone mid-argument with their own habit at 2am sits still for this.",
+        "found_by": [
+          "emotional",
+          "general",
+          "motivational"
+        ],
+        "agreement": 3,
+        "boundary": "Moved the start back one line to the host's question at the end of L1429 so the confession plays as an answer, not a non-sequitur; end kept at 'So it was an opportunity', which is where the thought lands, before the host's next question.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "I dare you: try to remember three reels ago",
+      "description": "Mid-scroll, she dares the viewer watching in short form to recall three reels ago — then explains why they can't: scrolling is 'just like crack', pure novelty, and 'if there's no memory, there's no learning.' Her host lands the button: 'Here, you have an opportunity to learn.'",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start forward off 'Now we go to this side here' (a visual transition/throat-clearing) so the clip opens directly on the dare's setup; kept the close one line past the quotable 'no memory, no learning' to include the host's button line, which completes the thought before the pause and topic change.",
+      "segments": [
+        {
+          "start_s": 5844.64,
+          "end_s": 5907.29,
+          "duration_s": 62.65,
+          "start_words": "By the way, in case in case someone",
+          "end_words": "Here, you have an opportunity to learn",
+          "start_line": "L0817",
+          "end_line": "L0824",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "By the way, in case in case someone right now is watching this in a short, >> okay, that's fine. I dare you for just the next second, try to remember three reels ago. If you're scrolling right now, if you're scrolling right now, I What was the three reels ago? What did you see? If you can't remember, I don't want you to feel shame. You're not alone. I can't remember either. And it's because short form scrolling is designed for you to just it's just like crack. You're just going to move from one thing to the other. It's just full novelty. So, there's no memory. So, you have less memory, which by the way, what's another word for memory? learning. >> Mhm. >> People think they're like exposing themselves to like new ideas and you can't freaking remember it. What's your It's not You're not absorbing any of it. There's no me. If there's no memory, there's no learning. >> Here, you have an opportunity to learn.",
+          "source_start_s": 5844.64,
+          "source_end_s": 5907.29
+        }
+      ],
+      "start_s": 5844.64,
+      "end_s": 5907.29,
+      "duration_s": 62.65,
+      "transcript": "By the way, in case in case someone right now is watching this in a short, >> okay, that's fine. I dare you for just the next second, try to remember three reels ago. If you're scrolling right now, if you're scrolling right now, I What was the three reels ago? What did you see? If you can't remember, I don't want you to feel shame. You're not alone. I can't remember either. And it's because short form scrolling is designed for you to just it's just like crack. You're just going to move from one thing to the other. It's just full novelty. So, there's no memory. So, you have less memory, which by the way, what's another word for memory? learning. >> Mhm. >> People think they're like exposing themselves to like new ideas and you can't freaking remember it. What's your It's not You're not absorbing any of it. There's no me. If there's no memory, there's no learning. >> Here, you have an opportunity to learn.",
+      "nominated_by": [
+        "general",
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "general",
+          "id": "gen5",
+          "title": "I dare you: try to remember three reels ago",
+          "why": "Directly addresses the person most likely to be watching this as a short and dares them to run the test on themselves in real time — and they will fail. 'No memory, no learning' reframes hours of daily scrolling as consuming nothing. The fourth-wall dare is the hook; the memory=learning equation is what they repeat to somebody tomorrow.",
+          "confidence": "HIGH",
+          "hook_strength": 8,
+          "signals_used": [],
+          "start_line": "L0817",
+          "end_line": "L0823"
+        },
+        {
+          "category": "motivational",
+          "id": "mot5",
+          "title": "I dare you: try to remember three reels ago",
+          "why": "She addresses the short-form viewer directly, mid-scroll, and dares them to recall three reels ago — a challenge the viewer fails in real time while watching. The meta-irony (this clip would itself be a short) plus 'if there's no memory, there's no learning' makes it screenshot-and-share material, and it closes by handing them the alternative. Rarely does a clip grab the thumb by the collar like this.",
+          "confidence": "HIGH",
+          "hook_strength": 9,
+          "signals_used": [],
+          "start_line": "L0817",
+          "end_line": "L0824"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 5844.64,
+      "source_end_s": 5907.29,
+      "evidence": [
+        {
+          "kind": "pause",
+          "seconds": 1.9,
+          "text": "a 1.9s pause lands inside this clip"
+        },
+        {
+          "kind": "reaction",
+          "what": "laughter",
+          "text": "YouTube's captions mark laughter inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=5844s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=5844&end=5908",
+      "rank": 10,
+      "id": "clip10",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "pause",
+            "text": "a 1.9s pause lands inside this clip"
+          },
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark laughter inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "Directly addresses the person most likely to be watching this as a short and dares them to run the test on themselves in real time — and they will fail. 'No memory, no learning' reframes hours of daily scrolling as consuming nothing. The fourth-wall dare is the hook; the memory=learning equation is what they repeat to somebody tomorrow.",
+        "found_by": [
+          "general",
+          "motivational"
+        ],
+        "agreement": 2,
+        "boundary": "Moved the start forward off 'Now we go to this side here' (a visual transition/throat-clearing) so the clip opens directly on the dare's setup; kept the close one line past the quotable 'no memory, no learning' to include the host's button line, which completes the thought before the pause and topic change.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "I call it 5 a.m. club porn",
+      "description": "She explains the label '5 a.m. club porn': the blogs, the 4:30 alarm, 25 push-ups, cayenne lemon water, cold plunge, sauna — all theatre if you're not getting seven hours of sleep. It lands on the takedown: the CEO's 5 a.m. start isn't why he's successful, some CEOs do their best work from 8 p.m. to midnight, and it matters which time it is for you.",
+      "category": "entertainment",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start off the host's question (L1063) onto the guest's own hook line: taking the question would drag in ~30s of her hedging (L1065–L1068), and removing it would need a two-segment assembly the rules don't allow. Her first line restates the hook ('I call it 5 a.m. club porn because…'), so the clip is self-explaining from word one. Kept the end at the thesis landing 'It matters which time it is for you', stopping before the trailing 'And each person is a little bit different' and the Nobel segue.",
+      "segments": [
+        {
+          "start_s": 7583.76,
+          "end_s": 7666.36,
+          "duration_s": 82.6,
+          "start_words": "I call it 5 a.m. club porn",
+          "end_words": "It matters which time it is for you",
+          "start_line": "L1069",
+          "end_line": "L1078",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "I call it 5 a.m. club porn because there's so many blogs and books and other podcasts, tweets. Uh you see all of these different like just articles and all of this content about people. It's like if you want to be the most successful version of yourself, you need to wake up at 4:30 in the morning and then you need to do 25 push-ups and then you need to drink a tall glass of lemon water with cayenne in it and then you need to do a cold plunge and then you need to do this and then you need to what a sauna then this and that and it's like oh my god what are we doing? Like if listen, if you are not getting at least 7 hours of high quality sleep, what's the point of you waking up at 5, right? Because of this like idea that we're all like addicted to that like see it's like I call it porn because it seems like such a great idea, but it's not. It's only a good idea like if you've got all the other things like lined up truly like it's this thing that people are obsessed with. So, they're talking about it and writing about it, and it's like, look, this one CEO woke up at 5:00 and he does all this before 7:00 a.m. and that's why he's successful. And it's just not true. That's not why he's successful. It's one of his strategies. But some other CEOs do some of their best work from 8:00 p.m. to midnight. It doesn't matter which time it is. It matters which time it is for you.",
+          "source_start_s": 7583.76,
+          "source_end_s": 7666.36
+        }
+      ],
+      "start_s": 7583.76,
+      "end_s": 7666.36,
+      "duration_s": 82.6,
+      "transcript": "I call it 5 a.m. club porn because there's so many blogs and books and other podcasts, tweets. Uh you see all of these different like just articles and all of this content about people. It's like if you want to be the most successful version of yourself, you need to wake up at 4:30 in the morning and then you need to do 25 push-ups and then you need to drink a tall glass of lemon water with cayenne in it and then you need to do a cold plunge and then you need to do this and then you need to what a sauna then this and that and it's like oh my god what are we doing? Like if listen, if you are not getting at least 7 hours of high quality sleep, what's the point of you waking up at 5, right? Because of this like idea that we're all like addicted to that like see it's like I call it porn because it seems like such a great idea, but it's not. It's only a good idea like if you've got all the other things like lined up truly like it's this thing that people are obsessed with. So, they're talking about it and writing about it, and it's like, look, this one CEO woke up at 5:00 and he does all this before 7:00 a.m. and that's why he's successful. And it's just not true. That's not why he's successful. It's one of his strategies. But some other CEOs do some of their best work from 8:00 p.m. to midnight. It doesn't matter which time it is. It matters which time it is for you.",
+      "nominated_by": [
+        "entertainment",
+        "general"
+      ],
+      "step1": [
+        {
+          "category": "entertainment",
+          "id": "ent2",
+          "title": "\"Why do you call it 5 a.m. club porn?\"",
+          "why": "Raj asks why she used the word 'porn' and she unloads on hustle culture: 25 push-ups, lemon water with cayenne, cold plunge, sauna — 'oh my god what are we doing?' The word 'porn' is an instant stop-scroll hook, and the rant takes apart the wake-up-at-5 mythology line by line, landing on 'it's just not true. That's not why he's successful.'",
+          "confidence": "HIGH",
+          "hook_strength": 8,
+          "signals_used": [],
+          "start_line": "L1063",
+          "end_line": "L1078"
+        },
+        {
+          "category": "general",
+          "id": "gen8",
+          "title": "She calls the 5 a.m. club '5 a.m. club porn'",
+          "why": "Attacks a belief the productivity audience was raised on, with a deliberately inflammatory word and real reasoning behind it: lemon water, cold plunges and a 4:30 alarm are theatre if you're not getting seven hours of sleep, and some CEOs do their best work from 8 p.m. to midnight. Half the comments will defend the 5 a.m. club — which is exactly the point.",
+          "confidence": "HIGH",
+          "hook_strength": 8,
+          "signals_used": [],
+          "start_line": "L1069",
+          "end_line": "L1078"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 7583.76,
+      "source_end_s": 7666.36,
+      "evidence": [
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)"
+          ],
+          "text": "delivery shifts here: (fast)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=7583s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=7583&end=7667",
+      "rank": 11,
+      "id": "clip11",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast)"
+          }
+        ],
+        "reading": "Raj asks why she used the word 'porn' and she unloads on hustle culture: 25 push-ups, lemon water with cayenne, cold plunge, sauna — 'oh my god what are we doing?' The word 'porn' is an instant stop-scroll hook, and the rant takes apart the wake-up-at-5 mythology line by line, landing on 'it's just not true. That's not why he's successful.'",
+        "found_by": [
+          "entertainment",
+          "general"
+        ],
+        "agreement": 2,
+        "boundary": "Moved the start off the host's question (L1063) onto the guest's own hook line: taking the question would drag in ~30s of her hedging (L1065–L1068), and removing it would need a two-segment assembly the rules don't allow. Her first line restates the hook ('I call it 5 a.m. club porn because…'), so the clip is self-explaining from word one. Kept the end at the thesis landing 'It matters which time it is for you', stopping before the trailing 'And each person is a little bit different' and the Nobel segue.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "The binge-scroll loop that ends in overwhelm, shame — and becomes addiction",
+      "description": "A step-by-step walkthrough of a real Tuesday night: a work deadline, 45 minutes of binge watching, the phone goes down — the deadline hasn't moved, so now there's overwhelm AND shame, and the brain wants to scroll again. Every lap darkens the neural path 'like the roots of a tree', and a behavior done a million times, he concludes, 'that's the same thing as addiction. It's the same thing as a habit.'",
+      "category": "general",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposal (long but irreducible): the tree-trunk payoff ('every time you do this... this path') depends on the walkthrough, so no tighter cut keeps it; L0315's 'felt that way' self-glosses by 'let me distract myself' within the first sentence, so I did not pull back to the mechanism at L0312.",
+      "segments": [
+        {
+          "start_s": 2194.48,
+          "end_s": 2320.48,
+          "duration_s": 126.0,
+          "start_words": "So whatever it is that you did",
+          "end_words": "It's the same thing as a habit",
+          "start_line": "L0315",
+          "end_line": "L0332",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": ">> So whatever it is that you did, let's say you did binge watching one time when you felt that way. You're like, \"Let me distract myself, you know, >> go somewhere else. We don't need to think that. We don't need to feel that.\" So then you start binge watching and what's going to happen in the beginning? In the beginning you're distracted, right? So it feels good. >> Yeah. >> Okay. So what you ended up doing is you ended up doing the actual binge watching. So you scrolled and then what happens uh uh at the at the very end. Let's say now you're done scrolling and you put the phone away. This is a bit of a trick question because let's say you were overwhelmed about a work deadline >> and then you started binge watching for >> 45 minutes >> in the evening instead of working on the thing that's overwhelming you. So then you did the binge watching and then afterwards you put the phone down. Did you deal with the thing that you were actually stressed about? >> No, I get guilty. >> Yeah. So now you have this, you have the overwhelm and you have shame. >> Yeah. So the person is super sad now. We're we're just super sad. So now that you have overwhelm and shame, you know that's even worse than before. No. >> Yeah. >> So guess what I want to do again? >> Watch again. >> Go around the circle again. So okay, let's say you've done this one night. But come on, let's be honest. I've done this even like at least 100 times. Do you know what I mean? >> Here's the answer to your your original question. Every single time you do this, you go through this path. Every time you traverse this road and you do it again and again and again, do you see what's happening here? We're making it darker. No, >> we're making it maybe even bigger, >> stronger, deeper. This neural network starts to become like a tree trunk, like the roots of a tree. That is how a behavior. If you do it one time, that's fine. You do it 100 times, 1,000 times, a million times, that's a behavior that you do a lot, that's the same thing as addiction. It's the same thing as a habit.",
+          "source_start_s": 2194.48,
+          "source_end_s": 2320.48
+        }
+      ],
+      "start_s": 2194.48,
+      "end_s": 2320.48,
+      "duration_s": 126.0,
+      "transcript": ">> So whatever it is that you did, let's say you did binge watching one time when you felt that way. You're like, \"Let me distract myself, you know, >> go somewhere else. We don't need to think that. We don't need to feel that.\" So then you start binge watching and what's going to happen in the beginning? In the beginning you're distracted, right? So it feels good. >> Yeah. >> Okay. So what you ended up doing is you ended up doing the actual binge watching. So you scrolled and then what happens uh uh at the at the very end. Let's say now you're done scrolling and you put the phone away. This is a bit of a trick question because let's say you were overwhelmed about a work deadline >> and then you started binge watching for >> 45 minutes >> in the evening instead of working on the thing that's overwhelming you. So then you did the binge watching and then afterwards you put the phone down. Did you deal with the thing that you were actually stressed about? >> No, I get guilty. >> Yeah. So now you have this, you have the overwhelm and you have shame. >> Yeah. So the person is super sad now. We're we're just super sad. So now that you have overwhelm and shame, you know that's even worse than before. No. >> Yeah. >> So guess what I want to do again? >> Watch again. >> Go around the circle again. So okay, let's say you've done this one night. But come on, let's be honest. I've done this even like at least 100 times. Do you know what I mean? >> Here's the answer to your your original question. Every single time you do this, you go through this path. Every time you traverse this road and you do it again and again and again, do you see what's happening here? We're making it darker. No, >> we're making it maybe even bigger, >> stronger, deeper. This neural network starts to become like a tree trunk, like the roots of a tree. That is how a behavior. If you do it one time, that's fine. You do it 100 times, 1,000 times, a million times, that's a behavior that you do a lot, that's the same thing as addiction. It's the same thing as a habit.",
+      "nominated_by": [
+        "general"
+      ],
+      "step1": [
+        {
+          "category": "general",
+          "id": "gen9",
+          "title": "The binge-watching loop that ends in overwhelm AND shame",
+          "why": "Walks the viewer through their own Tuesday night: stressed about a deadline, scrolled for 45 minutes, put the phone down — did the deadline go away? No. Now there's overwhelm plus shame, so the brain wants to scroll again. The tree-trunk image of a neural path strengthening with every lap makes 'I did that too' physical, and the habit-is-addiction collapse at the end removes the moral load.",
+          "confidence": "HIGH",
+          "hook_strength": 5,
+          "signals_used": [
+            "comment on L0312 praising this explanation"
+          ],
+          "start_line": "L0315",
+          "end_line": "L0332"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 2194.48,
+      "source_end_s": 2320.48,
+      "evidence": [
+        {
+          "kind": "reaction",
+          "what": "snorts",
+          "text": "YouTube's captions mark snorts inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)",
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (fast) (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=2194s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=2194&end=2321",
+      "rank": 12,
+      "id": "clip12",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark snorts inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast) (slow)"
+          }
+        ],
+        "reading": "Walks the viewer through their own Tuesday night: stressed about a deadline, scrolled for 45 minutes, put the phone down — did the deadline go away? No. Now there's overwhelm plus shame, so the brain wants to scroll again. The tree-trunk image of a neural path strengthening with every lap makes 'I did that too' physical, and the habit-is-addiction collapse at the end removes the moral load.",
+        "found_by": [
+          "general"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposal (long but irreducible): the tree-trunk payoff ('every time you do this... this path') depends on the walkthrough, so no tighter cut keeps it; L0315's 'felt that way' self-glosses by 'let me distract myself' within the first sentence, so I did not pull back to the mechanism at L0312.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "A 2024 Nature study measured every kind of break — scrolling scored the same as no break at all",
+      "description": "You're exhausted mid-afternoon and reach for your phone — a 2024 Nature paper actually measured that 'break'. The clip walks through the three break types tested (no break, nature walk, scrolling) and lands on the verdict: scrolling replenished about as much as never stopping at all.",
+      "category": "general",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Tightened the finder's ~100s tour to its strongest single claim: scenario -> study -> options -> result, ending on the reveal. The chemistry-riff bridge and the Olympic-athlete/'let me open TikTok' payoff (L0369-L0374) are a strong, genuinely separate second clip sitting in the same window.",
+      "segments": [
+        {
+          "start_s": 2525.16,
+          "end_s": 2581.76,
+          "duration_s": 56.6,
+          "start_words": "But if you're tired in the middle",
+          "end_words": "the same as not taking a break",
+          "start_line": "L0362",
+          "end_line": "L0368",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": ">> But if you're tired in the middle of the day, you're like halfway in the middle of the day and you're like, I'm just exhausted and I need a break. >> Yeah. >> This is not a break. There was, by the way, a paper published in Nature. >> What is it? the world's like premier science journal 2024 that actually measured the effectiveness of different kinds of breaks. >> Okay. >> One option was no break at all. You do no break. Raj, keep working. Tired. So what? >> Keep going. Hustle. Come on. You're young. You got it. Let's go. >> The next option was you take a break uh and you look outside or you go take a walk outside in nature. >> Okay. So you're exposed to something natural. Okay. The next break was scrolling. >> Yeah. >> Can you imagine what the results were? >> It showed that scrolling is pretty much the same as not taking a break.",
+          "source_start_s": 2525.16,
+          "source_end_s": 2581.76
+        }
+      ],
+      "start_s": 2525.16,
+      "end_s": 2581.76,
+      "duration_s": 56.6,
+      "transcript": ">> But if you're tired in the middle of the day, you're like halfway in the middle of the day and you're like, I'm just exhausted and I need a break. >> Yeah. >> This is not a break. There was, by the way, a paper published in Nature. >> What is it? the world's like premier science journal 2024 that actually measured the effectiveness of different kinds of breaks. >> Okay. >> One option was no break at all. You do no break. Raj, keep working. Tired. So what? >> Keep going. Hustle. Come on. You're young. You got it. Let's go. >> The next option was you take a break uh and you look outside or you go take a walk outside in nature. >> Okay. So you're exposed to something natural. Okay. The next break was scrolling. >> Yeah. >> Can you imagine what the results were? >> It showed that scrolling is pretty much the same as not taking a break.",
+      "nominated_by": [
+        "general"
+      ],
+      "step1": [
+        {
+          "category": "general",
+          "id": "gen6",
+          "title": "A 2024 Nature study found scrolling is not a break",
+          "why": "Takes the single most common thing people do when exhausted — 'let me just check my phone for five minutes' — and shows the premier science journal measured it: scrolling replenishes about as much as not stopping at all. The Olympic-athlete frame at the end makes it an accusation rather than trivia. Enormous 'wait, what' value because every viewer did this today.",
+          "confidence": "HIGH",
+          "hook_strength": 5,
+          "signals_used": [],
+          "start_line": "L0362",
+          "end_line": "L0373"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 2525.16,
+      "source_end_s": 2581.76,
+      "evidence": [
+        {
+          "kind": "reaction",
+          "what": "laughter",
+          "text": "YouTube's captions mark laughter inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)",
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (fast) (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=2525s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=2525&end=2582",
+      "rank": 13,
+      "id": "clip13",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark laughter inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast) (slow)"
+          }
+        ],
+        "reading": "Takes the single most common thing people do when exhausted — 'let me just check my phone for five minutes' — and shows the premier science journal measured it: scrolling replenishes about as much as not stopping at all. The Olympic-athlete frame at the end makes it an accusation rather than trivia. Enormous 'wait, what' value because every viewer did this today.",
+        "found_by": [
+          "general"
+        ],
+        "agreement": 1,
+        "boundary": "Tightened the finder's ~100s tour to its strongest single claim: scenario -> study -> options -> result, ending on the reveal. The chemistry-riff bridge and the Olympic-athlete/'let me open TikTok' payoff (L0369-L0374) are a strong, genuinely separate second clip sitting in the same window.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "Phone on the table: people judge you less trustworthy, less capable, less intelligent",
+      "description": "The guest pivots from 'phones make everybody dumber' to the social cost: studies show someone who puts their phone on the table at a first meeting is judged less trustworthy, less capable and less intelligent — because the phone quietly says 'somebody more important than you might call me.' It lands on the parallel close: it's lowering the quality of the conversation, and of the connection.",
+      "category": "general",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start back to the top of L0493 so 'And if you care about this' has its referent (the phone) and the clip opens on a full sentence rather than 'And'. Kept the proposed close at 'It's lowering the quality of the connection' — the thought's natural landing; the dating exchange after it is a separate beat.",
+      "segments": [
+        {
+          "start_s": 3488.88,
+          "end_s": 3548.73,
+          "duration_s": 59.85,
+          "start_words": "You're making everybody dumber just by having phone",
+          "end_words": "It's lowering the quality of the connection",
+          "start_line": "L0493",
+          "end_line": "L0503",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": ">> You're making everybody dumber just by having phone here. >> Just by having the phone there. And if you care about this, people like you less. There's been lots of really interesting studies that people who hold their phone or put their phone out on the table when they're talking to people and they first meet you, you seem less trustworthy, um, less capable, less intelligent, all of these different things. Why would that be? It's because I'm really saying, listen, you're not so important that I'm going to give up the opportunity >> to put my attention somewhere else. somebody more important than you might call me. So, I'm going to keep it here in my hand, you know, cuz that's wherever it is. Usually, it's pee in people's hands or like, you know, some I'll like sometimes put it under my arm and carry it that way, you know, whatever. But it's on the table. Two people who have a coffee chat, right? They put it on the table and they sit down and they have their coffee. But it's literally lowering the quality of the conversation. It's lowering the quality of the connection.",
+          "source_start_s": 3488.88,
+          "source_end_s": 3548.73
+        }
+      ],
+      "start_s": 3488.88,
+      "end_s": 3548.73,
+      "duration_s": 59.85,
+      "transcript": ">> You're making everybody dumber just by having phone here. >> Just by having the phone there. And if you care about this, people like you less. There's been lots of really interesting studies that people who hold their phone or put their phone out on the table when they're talking to people and they first meet you, you seem less trustworthy, um, less capable, less intelligent, all of these different things. Why would that be? It's because I'm really saying, listen, you're not so important that I'm going to give up the opportunity >> to put my attention somewhere else. somebody more important than you might call me. So, I'm going to keep it here in my hand, you know, cuz that's wherever it is. Usually, it's pee in people's hands or like, you know, some I'll like sometimes put it under my arm and carry it that way, you know, whatever. But it's on the table. Two people who have a coffee chat, right? They put it on the table and they sit down and they have their coffee. But it's literally lowering the quality of the conversation. It's lowering the quality of the connection.",
+      "nominated_by": [
+        "general"
+      ],
+      "step1": [
+        {
+          "category": "general",
+          "id": "gen10",
+          "title": "Phone on the table at coffee: you seem less trustworthy, less intelligent",
+          "why": "The social cost of the same habit, and the reading of it is brutal: a phone on the table announces 'you're not so important that I won't take a call from someone better.' Studies say you're judged less trustworthy, less capable, less intelligent — and everyone watching has done this on a date or a coffee chat this week. The dating sting at the end makes it personal.",
+          "confidence": "HIGH",
+          "hook_strength": 6,
+          "signals_used": [
+            "appears in the cold open, confirming its weight"
+          ],
+          "start_line": "L0493",
+          "end_line": "L0503"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 3488.88,
+      "source_end_s": 3548.73,
+      "evidence": [
+        {
+          "kind": "reaction",
+          "what": "snorts",
+          "text": "YouTube's captions mark snorts inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)",
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (fast) (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=3488s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=3488&end=3549",
+      "rank": 14,
+      "id": "clip14",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark snorts inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast) (slow)"
+          }
+        ],
+        "reading": "The social cost of the same habit, and the reading of it is brutal: a phone on the table announces 'you're not so important that I won't take a call from someone better.' Studies say you're judged less trustworthy, less capable, less intelligent — and everyone watching has done this on a date or a coffee chat this week. The dating sting at the end makes it personal.",
+        "found_by": [
+          "general"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start back to the top of L0493 so 'And if you care about this' has its referent (the phone) and the clip opens on a full sentence rather than 'And'. Kept the proposed close at 'It's lowering the quality of the connection' — the thought's natural landing; the dating exchange after it is a separate beat.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "The world's gonna go on whether you're looking at it or not. You're not that important.",
+      "description": "She explains that foggy, overwhelmed CEOs get cut off from the news entirely, and delivers the reason with zero heat: \"the world's gonna go on whether you're looking at it or not. You're not that important.\" The clip resolves on the rehab line — cut off until \"you can hear yourself again\" — so the cold line lands as part of a complete prescription, not a stray insult.",
+      "category": "entertainment",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start back one line to the claim \"What you can do, though, is you can cut yourself off from things\" — without it, \"cleansing of their content\" is ambiguous to a stranger. Kept the finder's end: L0783 is the thought's completion, and L0785 begins a new topic.",
+      "segments": [
+        {
+          "start_s": 5505.36,
+          "end_s": 5573.71,
+          "duration_s": 68.35,
+          "start_words": "What you can do, though, is",
+          "end_words": "you can hear yourself again",
+          "start_line": "L0775",
+          "end_line": "L0783",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "What you can do, though, is you can cut yourself off from things. Mhm. >> You know, I've met many really um high-powered executives that have had to do some pretty serious cleansing of their content because, you know, and some of them, if they're really in a dark place and their minds are just so foggy and so busy, we have to cut them off completely from the news for a little while. And you know what I tell them? the world's gonna go to whether you're looking at it or not. You're not that important. Like you're not involved in global news. I know you're, you know, fancy CEO running a company, but like >> Yeah. >> You're not like deciding on what's happening with the war. >> Yeah. >> Do you know what I mean? So instead of you every single day, 15 times a day checking all of the different updates that are coming in and it's completely fogging up your mind, it's now you can't anymore. At least until you re it's like rehabilitation until you rehab yourself back to you can hear yourself again.",
+          "source_start_s": 5505.36,
+          "source_end_s": 5573.71
+        }
+      ],
+      "start_s": 5505.36,
+      "end_s": 5573.71,
+      "duration_s": 68.35,
+      "transcript": "What you can do, though, is you can cut yourself off from things. Mhm. >> You know, I've met many really um high-powered executives that have had to do some pretty serious cleansing of their content because, you know, and some of them, if they're really in a dark place and their minds are just so foggy and so busy, we have to cut them off completely from the news for a little while. And you know what I tell them? the world's gonna go to whether you're looking at it or not. You're not that important. Like you're not involved in global news. I know you're, you know, fancy CEO running a company, but like >> Yeah. >> You're not like deciding on what's happening with the war. >> Yeah. >> Do you know what I mean? So instead of you every single day, 15 times a day checking all of the different updates that are coming in and it's completely fogging up your mind, it's now you can't anymore. At least until you re it's like rehabilitation until you rehab yourself back to you can hear yourself again.",
+      "nominated_by": [
+        "entertainment"
+      ],
+      "step1": [
+        {
+          "category": "entertainment",
+          "id": "ent3",
+          "title": "\"The world's gonna go on whether you're looking at it or not. You're not that important.\"",
+          "why": "She describes cutting CEOs off from the news entirely, then delivers the reason with zero heat: 'You're not involved in global news... you're not deciding what's happening with the war.' Devastating content, dead calm — the cold-reply shape that gets quote-tweeted at everyone doom-scrolling.",
+          "confidence": "HIGH",
+          "hook_strength": 4,
+          "signals_used": [],
+          "start_line": "L0776",
+          "end_line": "L0783"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 5505.36,
+      "source_end_s": 5573.71,
+      "evidence": [
+        {
+          "kind": "reaction",
+          "what": "clears throat",
+          "text": "YouTube's captions mark clears throat inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=5505s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=5505&end=5574",
+      "rank": 15,
+      "id": "clip15",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark clears throat inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "She describes cutting CEOs off from the news entirely, then delivers the reason with zero heat: 'You're not involved in global news... you're not deciding what's happening with the war.' Devastating content, dead calm — the cold-reply shape that gets quote-tweeted at everyone doom-scrolling.",
+        "found_by": [
+          "entertainment"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start back one line to the claim \"What you can do, though, is you can cut yourself off from things\" — without it, \"cleansing of their content\" is ambiguous to a stranger. Kept the finder's end: L0783 is the thought's completion, and L0785 begins a new topic.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "Stress doesn't kill. Never completing the stress cycle kills.",
+      "description": "A clip that reframes burnout: we're designed for stress to rise and fall, but the modern day never comes down — and when the stress cycle never completes, your adrenals eventually quit on you: \"I'm done giving you cortisol.\"",
+      "category": "general",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposed boundaries: the open is the speaker's own framing question with 'the stress cycle' named seconds later, and 'I'm done giving you cortisol' is the payoff — stopped before the next topic opens at L1250.",
+      "segments": [
+        {
+          "start_s": 8763.12,
+          "end_s": 8805.53,
+          "duration_s": 42.41,
+          "start_words": "when does it ending? It just keeps going",
+          "end_words": "I'm done. I'm done giving you cortisol",
+          "start_line": "L1244",
+          "end_line": "L1248",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "when does it ending? It just keeps going and going and going. When are you completing the stress cycle? Remember what we said before. We're designed for stress cycles. Stress goes up, stress comes down. Stress goes up, stress comes down. >> It's not coming down. >> It's never coming down. Stress doesn't kill. Never completing the stress cycle kills. So if you never complete these stress cycles, it just keeps going up up up and then you just pass out and go to sleep and then you wake up the next morning and you just keep doing this and you're on this roller coaster ride with yourself. Eventually, yes, you'll experience burnout. Your adrenals like will finally give out and you'll be like, \"Okay, I'm done. I'm done giving you cortisol.\"",
+          "source_start_s": 8763.12,
+          "source_end_s": 8805.53
+        }
+      ],
+      "start_s": 8763.12,
+      "end_s": 8805.53,
+      "duration_s": 42.41,
+      "transcript": "when does it ending? It just keeps going and going and going. When are you completing the stress cycle? Remember what we said before. We're designed for stress cycles. Stress goes up, stress comes down. Stress goes up, stress comes down. >> It's not coming down. >> It's never coming down. Stress doesn't kill. Never completing the stress cycle kills. So if you never complete these stress cycles, it just keeps going up up up and then you just pass out and go to sleep and then you wake up the next morning and you just keep doing this and you're on this roller coaster ride with yourself. Eventually, yes, you'll experience burnout. Your adrenals like will finally give out and you'll be like, \"Okay, I'm done. I'm done giving you cortisol.\"",
+      "nominated_by": [
+        "general"
+      ],
+      "step1": [
+        {
+          "category": "general",
+          "id": "gen2",
+          "title": "Stress doesn't kill. Never completing the stress cycle kills.",
+          "why": "Rewrites the thing half the workforce feels daily. Humans are built for stress rising AND falling; modern life is one unbroken rise from alarm-scroll to last email. The line 'stress doesn't kill — never completing the stress cycle kills' is the kind of sentence that gets screenshotted and argued with, and the adrenal burnout ending gives it a consequence.",
+          "confidence": "HIGH",
+          "hook_strength": 6,
+          "signals_used": [],
+          "start_line": "L1244",
+          "end_line": "L1248"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 8763.12,
+      "source_end_s": 8805.53,
+      "evidence": [
+        {
+          "kind": "pause",
+          "seconds": 2.6,
+          "text": "a 2.6s pause lands inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)",
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (fast) (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=8763s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=8763&end=8806",
+      "rank": 16,
+      "id": "clip16",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "pause",
+            "text": "a 2.6s pause lands inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast) (slow)"
+          }
+        ],
+        "reading": "Rewrites the thing half the workforce feels daily. Humans are built for stress rising AND falling; modern life is one unbroken rise from alarm-scroll to last email. The line 'stress doesn't kill — never completing the stress cycle kills' is the kind of sentence that gets screenshotted and argued with, and the adrenal burnout ending gives it a consequence.",
+        "found_by": [
+          "general"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposed boundaries: the open is the speaker's own framing question with 'the stress cycle' named seconds later, and 'I'm done giving you cortisol' is the payoff — stopped before the next topic opens at L1250.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "450 students, 9 weeks of just scrolling less — \"significantly less lonely, less depressed, less anxious\"",
+      "description": "The host asks what the results were, and the guest walks through the whole answer: 450 students going through phone withdrawal together — tears, connection, play — the crucial clarification that they still had their phones and just scrolled less, then the nine-week scores: less lonely, depressed and anxious, attention spans and complex working memory up. It lands on \"I didn't realize we were going to see this many benefits so fast.\"",
+      "category": "general",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start back from L1372 to the host's question mid-L1371 (\"But what were the results like\") so the withdrawal story doesn't open as an answer with no question. Kept the proposed end: \"so fast\" is where the thought lands. The midterms caveat from L1386 onward is a separate beat and could be its own clip.",
+      "segments": [
+        {
+          "start_s": 9691.84,
+          "end_s": 9803.2,
+          "duration_s": 111.36,
+          "start_words": "But what were the results",
+          "end_words": "this many benefits so fast",
+          "start_line": "L1371",
+          "end_line": "L1385",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": ">> But what were the results like what what happened then? Like you at the beginning of the class you got their attention and like you tested bunch of things >> then you did all of this made it fun. >> Yes. >> What happened then? >> It was also hard. They a lot of tears by the way had a lot of students crying. It was really difficult because it's it's an addiction. Everyone is going through withdrawal together. If I have 450 people, we are all experiencing withdrawal together at the same time. We're just trying to make it better by injecting connection and play. We I forced everybody for the final project. You have to pick up a hobby and work on it throughout the semester, you know. So, this was this was what we did. >> And for 9 weeks, they were not allowed to touch their phones. >> No, no, no, no. They all had their phones. M >> they just scrolled a little bit less. Specifically, also short form media. That was what I said. Social media and the scrolling. We're going to doom scroll a little less. Watch a movie. Watch long YouTube videos. Watch other stuff, >> you know. >> And and by the way, they still scrolled. They just scrolled a little less. >> So if someone was doing for 2 hours, they did it for like 30 minutes. >> Exactly. Some of them were doing it for 6 hours and then they brought it down to like two. >> Okay. >> Awesome. >> Okay. Then what happened >> after 9 weeks? Scores showed significantly less lonely, significantly less depressed, significantly less anxious. Their attention spans went up significantly. Their complex working memory, which is a proxy for general fluid intelligence, significantly increased. It's it's almost unbelievable when I look at the results myself. I didn't think it was going to be this good. To be honest with you, I knew I knew my intuition told me as a scientist who's been working with people about this topic for a long time that we were going to see some benefits. I didn't realize we were going to see this many benefits so fast.",
+          "source_start_s": 9691.84,
+          "source_end_s": 9803.2
+        }
+      ],
+      "start_s": 9691.84,
+      "end_s": 9803.2,
+      "duration_s": 111.36,
+      "transcript": ">> But what were the results like what what happened then? Like you at the beginning of the class you got their attention and like you tested bunch of things >> then you did all of this made it fun. >> Yes. >> What happened then? >> It was also hard. They a lot of tears by the way had a lot of students crying. It was really difficult because it's it's an addiction. Everyone is going through withdrawal together. If I have 450 people, we are all experiencing withdrawal together at the same time. We're just trying to make it better by injecting connection and play. We I forced everybody for the final project. You have to pick up a hobby and work on it throughout the semester, you know. So, this was this was what we did. >> And for 9 weeks, they were not allowed to touch their phones. >> No, no, no, no. They all had their phones. M >> they just scrolled a little bit less. Specifically, also short form media. That was what I said. Social media and the scrolling. We're going to doom scroll a little less. Watch a movie. Watch long YouTube videos. Watch other stuff, >> you know. >> And and by the way, they still scrolled. They just scrolled a little less. >> So if someone was doing for 2 hours, they did it for like 30 minutes. >> Exactly. Some of them were doing it for 6 hours and then they brought it down to like two. >> Okay. >> Awesome. >> Okay. Then what happened >> after 9 weeks? Scores showed significantly less lonely, significantly less depressed, significantly less anxious. Their attention spans went up significantly. Their complex working memory, which is a proxy for general fluid intelligence, significantly increased. It's it's almost unbelievable when I look at the results myself. I didn't think it was going to be this good. To be honest with you, I knew I knew my intuition told me as a scientist who's been working with people about this topic for a long time that we were going to see some benefits. I didn't realize we were going to see this many benefits so fast.",
+      "nominated_by": [
+        "general"
+      ],
+      "step1": [
+        {
+          "category": "general",
+          "id": "gen11",
+          "title": "Nine weeks, 450 students, a digital detox — and the scores moved",
+          "why": "News-shaped: an unpublished Berkeley study where 450 students went through withdrawal together — tears, therapist brought in — and after nine weeks of simply scrolling less: significantly less lonely, less depressed, less anxious, attention spans and working memory measurably up, tested during midterms. 'You can undo it' is the hopeful payoff the phone-horror clips all point toward.",
+          "confidence": "MEDIUM",
+          "hook_strength": 6,
+          "signals_used": [],
+          "start_line": "L1372",
+          "end_line": "L1385"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 9691.84,
+      "source_end_s": 9803.2,
+      "evidence": [
+        {
+          "kind": "reaction",
+          "what": "snorts",
+          "text": "YouTube's captions mark snorts inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)",
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (fast) (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=9691s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=9691&end=9804",
+      "rank": 17,
+      "id": "clip17",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "reaction",
+            "text": "YouTube's captions mark snorts inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast) (slow)"
+          }
+        ],
+        "reading": "News-shaped: an unpublished Berkeley study where 450 students went through withdrawal together — tears, therapist brought in — and after nine weeks of simply scrolling less: significantly less lonely, less depressed, less anxious, attention spans and working memory measurably up, tested during midterms. 'You can undo it' is the hopeful payoff the phone-horror clips all point toward.",
+        "found_by": [
+          "general"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start back from L1372 to the host's question mid-L1371 (\"But what were the results like\") so the withdrawal story doesn't open as an answer with no question. Kept the proposed end: \"so fast\" is where the thought lands. The midterms caveat from L1386 onward is a separate beat and could be its own clip.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "\"I've nearly lost my life in the pursuit of my goals\" — and I can't say I regret it",
+      "description": "She answers the cost-of-ambition question by witnessing it plainly: friendships given up, very important relationships lost to hyperfocus on work, addictions, nearly losing her life — and then refuses regret: \"I'm happy with where I'm at today.\" Anyone who has traded people for work recognises the bill.",
+      "category": "emotional",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start forward from the nominated L1464: 'the cost' and 'this question' point back at the host's question, and L1468–72 (travel, scrolling, social media) dilutes the escalation. L1473's confession is self-explaining, so no question is needed. Kept the nominated close at the regret-refusal landing; the redemption arc from 'I learned and now I can teach' is a separate second beat.",
+      "segments": [
+        {
+          "start_s": 10338.44,
+          "end_s": 10387.6,
+          "duration_s": 49.16,
+          "start_words": "I have um given up friendships",
+          "end_words": "I'm happy with where I'm at today",
+          "start_line": "L1473",
+          "end_line": "L1479",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "I have um given up friendships. I've lost friendships. I've lost a lot of very important relationships in my life because of my hyperfocus on prioritizing work. Um addictions, as I've mentioned before, that all comes out of this relentless ambition and relentless drive towards performance. And um yeah, I've I've nearly lost my life and given my life. I will say that in the pursuit of my goals and that amount of sacrifice, I can't say I regret it because even though regretful things have happened because of it, I'm happy with where I'm at today.",
+          "source_start_s": 10338.44,
+          "source_end_s": 10387.6
+        }
+      ],
+      "start_s": 10338.44,
+      "end_s": 10387.6,
+      "duration_s": 49.16,
+      "transcript": "I have um given up friendships. I've lost friendships. I've lost a lot of very important relationships in my life because of my hyperfocus on prioritizing work. Um addictions, as I've mentioned before, that all comes out of this relentless ambition and relentless drive towards performance. And um yeah, I've I've nearly lost my life and given my life. I will say that in the pursuit of my goals and that amount of sacrifice, I can't say I regret it because even though regretful things have happened because of it, I'm happy with where I'm at today.",
+      "nominated_by": [
+        "emotional"
+      ],
+      "step1": [
+        {
+          "category": "emotional",
+          "id": "emo3",
+          "title": "My family and friends know the cost because they see it",
+          "why": "The cost-of-ambition answer, witnessed rather than dramatised: lost friendships, lost important relationships, 'I've nearly lost my life' — and she refuses both regret and apology. It doesn't instruct anyone to grind or to slow down; it just stands there, and anyone who has traded people for work recognises the bill.",
+          "confidence": "MEDIUM",
+          "hook_strength": 6,
+          "signals_used": [],
+          "start_line": "L1464",
+          "end_line": "L1479"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 10338.44,
+      "source_end_s": 10387.6,
+      "evidence": [
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4Vz6L8B73i4&t=10338s",
+      "embed_url": "https://www.youtube.com/embed/4Vz6L8B73i4?start=10338&end=10388",
+      "rank": 18,
+      "id": "clip18",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "The cost-of-ambition answer, witnessed rather than dramatised: lost friendships, lost important relationships, 'I've nearly lost my life' — and she refuses both regret and apology. It doesn't instruct anyone to grind or to slow down; it just stands there, and anyone who has traded people for work recognises the bill.",
+        "found_by": [
+          "emotional"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start forward from the nominated L1464: 'the cost' and 'this question' point back at the host's question, and L1468–72 (travel, scrolling, social media) dilutes the escalation. L1473's confession is self-explaining, so no question is needed. Kept the nominated close at the regret-refusal landing; the redemption arc from 'I learned and now I can teach' is a separate second beat.",
+        "has_audience": false
+      }
+    }
+  ]
+}

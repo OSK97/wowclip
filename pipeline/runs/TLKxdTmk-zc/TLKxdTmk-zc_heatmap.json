@@ -1,0 +1,15 @@
+{
+  "points": 100,
+  "peaks": [
+    {
+      "start": 0,
+      "end": 6,
+      "score": 1.0
+    },
+    {
+      "start": 351,
+      "end": 357,
+      "score": 0.67
+    }
+  ]
+}

@@ -1,0 +1,1764 @@
+{
+  "meta": {
+    "video_id": "dQw4w9WgXcQ",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "length_s": 214.0,
+    "clip_start_s": 0.0,
+    "clip_end_s": null,
+    "source": "youtube",
+    "track": {
+      "code": "en-orig",
+      "kind": "auto",
+      "translated": false,
+      "why": "Using YouTube's own speech recognition in en, untranslated. Ignored 939 machine-translated variants of it."
+    },
+    "language": "en",
+    "words": 289,
+    "word_level_ratio": 0.993,
+    "seconds": 18.59
+  },
+  "words": [
+    {
+      "word": "[Music]",
+      "start": 0.32,
+      "source": "asr",
+      "kind": "tag",
+      "tag": "music",
+      "end": 1.52
+    },
+    {
+      "word": "We're",
+      "start": 18.8,
+      "source": "asr",
+      "end": 19.039
+    },
+    {
+      "word": "no",
+      "start": 19.039,
+      "source": "asr",
+      "end": 19.359
+    },
+    {
+      "word": "strangers",
+      "start": 19.359,
+      "source": "asr",
+      "end": 19.84
+    },
+    {
+      "word": "to",
+      "start": 19.84,
+      "source": "asr",
+      "end": 21.04
+    },
+    {
+      "word": "love.",
+      "start": 21.8,
+      "source": "asr",
+      "end": 22.8
+    },
+    {
+      "word": "You",
+      "start": 22.8,
+      "source": "asr",
+      "end": 23.039
+    },
+    {
+      "word": "know",
+      "start": 23.039,
+      "source": "asr",
+      "end": 23.279
+    },
+    {
+      "word": "the",
+      "start": 23.279,
+      "source": "asr",
+      "end": 23.6
+    },
+    {
+      "word": "rules",
+      "start": 23.6,
+      "source": "asr",
+      "end": 24.32
+    },
+    {
+      "word": "and",
+      "start": 24.32,
+      "source": "asr",
+      "end": 24.64
+    },
+    {
+      "word": "so",
+      "start": 24.64,
+      "source": "asr",
+      "end": 25.199
+    },
+    {
+      "word": "do",
+      "start": 25.199,
+      "source": "asr",
+      "end": 25.96
+    },
+    {
+      "word": "I.",
+      "start": 25.96,
+      "source": "asr",
+      "end": 27.039
+    },
+    {
+      "word": "I",
+      "start": 27.039,
+      "source": "asr",
+      "end": 27.279
+    },
+    {
+      "word": "feel",
+      "start": 27.279,
+      "source": "asr",
+      "end": 27.68
+    },
+    {
+      "word": "commitments",
+      "start": 27.68,
+      "source": "asr",
+      "end": 28.4
+    },
+    {
+      "word": "from what",
+      "start": 28.4,
+      "source": "asr",
+      "end": 28.64
+    },
+    {
+      "word": "I'm",
+      "start": 28.64,
+      "source": "asr",
+      "end": 29.119
+    },
+    {
+      "word": "thinking",
+      "start": 29.119,
+      "source": "asr",
+      "end": 30.279
+    },
+    {
+      "word": "of.",
+      "start": 30.279,
+      "source": "asr",
+      "end": 31.279
+    },
+    {
+      "word": "You",
+      "start": 31.279,
+      "source": "asr",
+      "end": 31.599
+    },
+    {
+      "word": "wouldn't",
+      "start": 31.599,
+      "source": "asr",
+      "end": 32.079
+    },
+    {
+      "word": "get",
+      "start": 32.079,
+      "source": "asr",
+      "end": 32.32
+    },
+    {
+      "word": "this",
+      "start": 32.32,
+      "source": "asr",
+      "end": 32.48
+    },
+    {
+      "word": "from",
+      "start": 32.48,
+      "source": "asr",
+      "end": 33.2
+    },
+    {
+      "word": "any",
+      "start": 33.2,
+      "source": "asr",
+      "end": 33.68
+    },
+    {
+      "word": "other",
+      "start": 33.68,
+      "source": "asr",
+      "end": 34.36
+    },
+    {
+      "word": "guy.",
+      "start": 34.36,
+      "source": "asr",
+      "end": 35.48
+    },
+    {
+      "word": "I",
+      "start": 35.48,
+      "source": "asr",
+      "end": 36.48
+    },
+    {
+      "word": "just",
+      "start": 36.48,
+      "source": "asr",
+      "end": 36.8
+    },
+    {
+      "word": "want",
+      "start": 36.8,
+      "source": "asr",
+      "end": 37.04
+    },
+    {
+      "word": "to",
+      "start": 37.04,
+      "source": "asr",
+      "end": 37.28
+    },
+    {
+      "word": "tell",
+      "start": 37.28,
+      "source": "asr",
+      "end": 37.52
+    },
+    {
+      "word": "you",
+      "start": 37.52,
+      "source": "asr",
+      "end": 37.84
+    },
+    {
+      "word": "how",
+      "start": 37.84,
+      "source": "asr",
+      "end": 38.16
+    },
+    {
+      "word": "I'm",
+      "start": 38.16,
+      "source": "asr",
+      "end": 39.36
+    },
+    {
+      "word": "feeling.",
+      "start": 39.559,
+      "source": "asr",
+      "end": 40.559
+    },
+    {
+      "word": "Got",
+      "start": 40.559,
+      "source": "asr",
+      "end": 40.719
+    },
+    {
+      "word": "to",
+      "start": 40.719,
+      "source": "asr",
+      "end": 40.96
+    },
+    {
+      "word": "make",
+      "start": 40.96,
+      "source": "asr",
+      "end": 41.28
+    },
+    {
+      "word": "you",
+      "start": 41.28,
+      "source": "asr",
+      "end": 42.12
+    },
+    {
+      "word": "understand.",
+      "start": 42.12,
+      "source": "asr",
+      "end": 43.12
+    },
+    {
+      "word": "Never",
+      "start": 43.12,
+      "source": "asr",
+      "end": 43.44
+    },
+    {
+      "word": "going",
+      "start": 43.44,
+      "source": "asr",
+      "end": 43.52
+    },
+    {
+      "word": "to",
+      "start": 43.52,
+      "source": "asr",
+      "end": 43.76
+    },
+    {
+      "word": "give",
+      "start": 43.76,
+      "source": "asr",
+      "end": 44.079
+    },
+    {
+      "word": "you",
+      "start": 44.079,
+      "source": "asr",
+      "end": 44.48
+    },
+    {
+      "word": "up.",
+      "start": 44.48,
+      "source": "asr",
+      "end": 45.36
+    },
+    {
+      "word": "I'm",
+      "start": 45.36,
+      "source": "asr",
+      "end": 45.52
+    },
+    {
+      "word": "going",
+      "start": 45.52,
+      "source": "asr",
+      "end": 45.6
+    },
+    {
+      "word": "to",
+      "start": 45.6,
+      "source": "asr",
+      "end": 45.84
+    },
+    {
+      "word": "let",
+      "start": 45.84,
+      "source": "asr",
+      "end": 46.16
+    },
+    {
+      "word": "you",
+      "start": 46.16,
+      "source": "asr",
+      "end": 46.559
+    },
+    {
+      "word": "down.",
+      "start": 46.559,
+      "source": "asr",
+      "end": 47.52
+    },
+    {
+      "word": "I'm",
+      "start": 47.52,
+      "source": "asr",
+      "end": 47.6
+    },
+    {
+      "word": "going",
+      "start": 47.6,
+      "source": "asr",
+      "end": 47.76
+    },
+    {
+      "word": "to",
+      "start": 47.76,
+      "source": "asr",
+      "end": 47.92
+    },
+    {
+      "word": "run",
+      "start": 47.92,
+      "source": "asr",
+      "end": 48.48
+    },
+    {
+      "word": "around",
+      "start": 48.48,
+      "source": "asr",
+      "end": 49.2
+    },
+    {
+      "word": "and",
+      "start": 49.2,
+      "source": "asr",
+      "end": 49.84
+    },
+    {
+      "word": "desert",
+      "start": 49.84,
+      "source": "asr",
+      "end": 50.68
+    },
+    {
+      "word": "you.",
+      "start": 50.68,
+      "source": "asr",
+      "end": 51.68
+    },
+    {
+      "word": "I'm",
+      "start": 51.68,
+      "source": "asr",
+      "end": 51.84
+    },
+    {
+      "word": "going",
+      "start": 51.84,
+      "source": "asr",
+      "end": 51.92
+    },
+    {
+      "word": "to",
+      "start": 51.92,
+      "source": "asr",
+      "end": 52.16
+    },
+    {
+      "word": "make",
+      "start": 52.16,
+      "source": "asr",
+      "end": 53.32
+    },
+    {
+      "word": "you",
+      "start": 53.32,
+      "source": "asr",
+      "end": 54.32
+    },
+    {
+      "word": "say",
+      "start": 54.32,
+      "source": "asr",
+      "end": 54.719
+    },
+    {
+      "word": "goodbye.",
+      "start": 54.719,
+      "source": "asr",
+      "end": 55.919
+    },
+    {
+      "word": "Tell",
+      "start": 56.399,
+      "source": "asr",
+      "end": 56.879
+    },
+    {
+      "word": "a",
+      "start": 56.879,
+      "source": "asr",
+      "end": 57.32
+    },
+    {
+      "word": "lie",
+      "start": 57.32,
+      "source": "asr",
+      "end": 58.32
+    },
+    {
+      "word": "and",
+      "start": 58.32,
+      "source": "asr",
+      "end": 58.48
+    },
+    {
+      "word": "hurt",
+      "start": 58.48,
+      "source": "asr",
+      "end": 59.68
+    },
+    {
+      "word": "you.",
+      "start": 59.879,
+      "source": "asr",
+      "end": 60.879
+    },
+    {
+      "word": "We've",
+      "start": 60.879,
+      "source": "asr",
+      "end": 61.039
+    },
+    {
+      "word": "known",
+      "start": 61.039,
+      "source": "asr",
+      "end": 61.359
+    },
+    {
+      "word": "each",
+      "start": 61.359,
+      "source": "asr",
+      "end": 61.879
+    },
+    {
+      "word": "other",
+      "start": 61.879,
+      "source": "asr",
+      "end": 62.879
+    },
+    {
+      "word": "for",
+      "start": 62.879,
+      "source": "asr",
+      "end": 63.199
+    },
+    {
+      "word": "so",
+      "start": 63.199,
+      "source": "asr",
+      "end": 64.04
+    },
+    {
+      "word": "long.",
+      "start": 64.04,
+      "source": "asr",
+      "end": 65.04
+    },
+    {
+      "word": "Your",
+      "start": 65.04,
+      "source": "asr",
+      "end": 65.28
+    },
+    {
+      "word": "heart's",
+      "start": 65.28,
+      "source": "asr",
+      "end": 65.6
+    },
+    {
+      "word": "been",
+      "start": 65.6,
+      "source": "asr",
+      "end": 65.92
+    },
+    {
+      "word": "aching,",
+      "start": 65.92,
+      "source": "asr",
+      "end": 66.24
+    },
+    {
+      "word": "but",
+      "start": 66.24,
+      "source": "asr",
+      "end": 67.2
+    },
+    {
+      "word": "you're",
+      "start": 67.2,
+      "source": "asr",
+      "end": 67.36
+    },
+    {
+      "word": "too",
+      "start": 67.36,
+      "source": "asr",
+      "end": 67.68
+    },
+    {
+      "word": "shy",
+      "start": 67.68,
+      "source": "asr",
+      "end": 68.24
+    },
+    {
+      "word": "to",
+      "start": 68.24,
+      "source": "asr",
+      "end": 68.84
+    },
+    {
+      "word": "say",
+      "start": 68.84,
+      "source": "asr",
+      "end": 69.84
+    },
+    {
+      "word": "we",
+      "start": 69.84,
+      "source": "asr",
+      "end": 70.08
+    },
+    {
+      "word": "don't",
+      "start": 70.08,
+      "source": "asr",
+      "end": 70.32
+    },
+    {
+      "word": "know",
+      "start": 70.32,
+      "source": "asr",
+      "end": 70.56
+    },
+    {
+      "word": "what's",
+      "start": 70.56,
+      "source": "asr",
+      "end": 70.88
+    },
+    {
+      "word": "been",
+      "start": 70.88,
+      "source": "asr",
+      "end": 71.439
+    },
+    {
+      "word": "going",
+      "start": 71.439,
+      "source": "asr",
+      "end": 72.6
+    },
+    {
+      "word": "on.",
+      "start": 72.6,
+      "source": "asr",
+      "end": 73.6
+    },
+    {
+      "word": "We",
+      "start": 73.6,
+      "source": "asr",
+      "end": 73.76
+    },
+    {
+      "word": "know",
+      "start": 73.76,
+      "source": "asr",
+      "end": 74.0
+    },
+    {
+      "word": "the",
+      "start": 74.0,
+      "source": "asr",
+      "end": 74.32
+    },
+    {
+      "word": "game",
+      "start": 74.32,
+      "source": "asr",
+      "end": 74.64
+    },
+    {
+      "word": "and",
+      "start": 74.64,
+      "source": "asr",
+      "end": 74.88
+    },
+    {
+      "word": "we're",
+      "start": 74.88,
+      "source": "asr",
+      "end": 75.68
+    },
+    {
+      "word": "going",
+      "start": 75.68,
+      "source": "asr",
+      "end": 75.92
+    },
+    {
+      "word": "to",
+      "start": 75.92,
+      "source": "asr",
+      "end": 77.12
+    },
+    {
+      "word": "play.",
+      "start": 77.799,
+      "source": "asr",
+      "end": 78.799
+    },
+    {
+      "word": "If",
+      "start": 78.799,
+      "source": "asr",
+      "end": 79.04
+    },
+    {
+      "word": "you",
+      "start": 79.04,
+      "source": "asr",
+      "end": 79.439
+    },
+    {
+      "word": "ask",
+      "start": 79.439,
+      "source": "asr",
+      "end": 79.759
+    },
+    {
+      "word": "me",
+      "start": 79.759,
+      "source": "asr",
+      "end": 80.159
+    },
+    {
+      "word": "how",
+      "start": 80.159,
+      "source": "asr",
+      "end": 80.4
+    },
+    {
+      "word": "I'm",
+      "start": 80.4,
+      "source": "asr",
+      "end": 81.479
+    },
+    {
+      "word": "feeling,",
+      "start": 81.479,
+      "source": "asr",
+      "end": 82.479
+    },
+    {
+      "word": "don't",
+      "start": 82.479,
+      "source": "asr",
+      "end": 82.72
+    },
+    {
+      "word": "tell",
+      "start": 82.72,
+      "source": "asr",
+      "end": 82.96
+    },
+    {
+      "word": "me",
+      "start": 82.96,
+      "source": "asr",
+      "end": 83.28
+    },
+    {
+      "word": "your",
+      "start": 83.28,
+      "source": "asr",
+      "end": 83.52
+    },
+    {
+      "word": "truth.",
+      "start": 83.52,
+      "source": "asr",
+      "end": 84.4
+    },
+    {
+      "word": "to",
+      "start": 84.4,
+      "source": "asr",
+      "end": 84.56
+    },
+    {
+      "word": "see.",
+      "start": 84.56,
+      "source": "asr",
+      "end": 85.52
+    },
+    {
+      "word": "I",
+      "start": 85.52,
+      "source": "asr",
+      "end": 85.68
+    },
+    {
+      "word": "will",
+      "start": 85.68,
+      "source": "asr",
+      "end": 86.0
+    },
+    {
+      "word": "give",
+      "start": 86.0,
+      "source": "asr",
+      "end": 87.2
+    },
+    {
+      "word": "you",
+      "start": 89.88,
+      "source": "asr",
+      "end": 91.08
+    },
+    {
+      "word": "around",
+      "start": 91.72,
+      "source": "asr",
+      "end": 92.92
+    },
+    {
+      "word": "you.",
+      "start": 95.0,
+      "source": "asr",
+      "end": 96.0
+    },
+    {
+      "word": "I",
+      "start": 96.0,
+      "source": "asr",
+      "end": 96.159
+    },
+    {
+      "word": "will",
+      "start": 96.159,
+      "source": "asr",
+      "end": 96.479
+    },
+    {
+      "word": "say",
+      "start": 96.479,
+      "source": "asr",
+      "end": 97.679
+    },
+    {
+      "word": "goodbye",
+      "start": 99.56,
+      "source": "asr",
+      "end": 100.56
+    },
+    {
+      "word": "and",
+      "start": 100.56,
+      "source": "asr",
+      "end": 100.72
+    },
+    {
+      "word": "hurt",
+      "start": 100.72,
+      "source": "asr",
+      "end": 101.4
+    },
+    {
+      "word": "you.",
+      "start": 101.4,
+      "source": "asr",
+      "end": 102.4
+    },
+    {
+      "word": "I",
+      "start": 102.4,
+      "source": "asr",
+      "end": 102.56
+    },
+    {
+      "word": "will",
+      "start": 102.56,
+      "source": "asr",
+      "end": 102.88
+    },
+    {
+      "word": "give",
+      "start": 102.88,
+      "source": "asr",
+      "end": 103.99
+    },
+    {
+      "word": "[Music]",
+      "start": 103.99,
+      "source": "asr",
+      "kind": "tag",
+      "tag": "music",
+      "end": 105.19
+    },
+    {
+      "word": "you",
+      "start": 106.759,
+      "source": "asr",
+      "end": 107.959
+    },
+    {
+      "word": "around",
+      "start": 108.6,
+      "source": "asr",
+      "end": 109.6
+    },
+    {
+      "word": "you.",
+      "start": 109.6,
+      "source": "asr",
+      "end": 110.8
+    },
+    {
+      "word": "I",
+      "start": 110.88,
+      "source": "asr",
+      "end": 111.04
+    },
+    {
+      "word": "will",
+      "start": 111.04,
+      "source": "asr",
+      "end": 111.28
+    },
+    {
+      "word": "leave",
+      "start": 111.28,
+      "source": "asr",
+      "end": 111.96
+    },
+    {
+      "word": "you.",
+      "start": 111.96,
+      "source": "asr",
+      "end": 112.96
+    },
+    {
+      "word": "I",
+      "start": 112.96,
+      "source": "asr",
+      "end": 113.119
+    },
+    {
+      "word": "will",
+      "start": 113.119,
+      "source": "asr",
+      "end": 113.36
+    },
+    {
+      "word": "say",
+      "start": 113.36,
+      "source": "asr",
+      "end": 114.56
+    },
+    {
+      "word": "goodbye",
+      "start": 116.439,
+      "source": "asr",
+      "end": 117.439
+    },
+    {
+      "word": "and",
+      "start": 117.439,
+      "source": "asr",
+      "end": 117.68
+    },
+    {
+      "word": "hurt",
+      "start": 117.68,
+      "source": "asr",
+      "end": 118.079
+    },
+    {
+      "word": "you.",
+      "start": 118.079,
+      "source": "asr",
+      "end": 119.279
+    },
+    {
+      "word": "Never",
+      "start": 128.319,
+      "source": "asr",
+      "end": 128.64
+    },
+    {
+      "word": "going",
+      "start": 128.64,
+      "source": "asr",
+      "end": 128.8
+    },
+    {
+      "word": "to",
+      "start": 128.8,
+      "source": "asr",
+      "end": 128.959
+    },
+    {
+      "word": "give.",
+      "start": 128.959,
+      "source": "asr",
+      "end": 129.2
+    },
+    {
+      "word": "Never",
+      "start": 129.2,
+      "source": "asr",
+      "end": 129.44
+    },
+    {
+      "word": "going",
+      "start": 129.44,
+      "source": "asr",
+      "end": 129.599
+    },
+    {
+      "word": "to",
+      "start": 129.599,
+      "source": "asr",
+      "end": 129.759
+    },
+    {
+      "word": "give.",
+      "start": 129.759,
+      "source": "asr",
+      "end": 130.959
+    },
+    {
+      "word": "Never",
+      "start": 132.56,
+      "source": "asr",
+      "end": 132.879
+    },
+    {
+      "word": "going",
+      "start": 132.879,
+      "source": "asr",
+      "end": 133.04
+    },
+    {
+      "word": "to",
+      "start": 133.04,
+      "source": "asr",
+      "end": 133.12
+    },
+    {
+      "word": "give.",
+      "start": 133.12,
+      "source": "asr",
+      "end": 133.44
+    },
+    {
+      "word": "Never",
+      "start": 133.44,
+      "source": "asr",
+      "end": 133.68
+    },
+    {
+      "word": "going",
+      "start": 133.68,
+      "source": "asr",
+      "end": 133.84
+    },
+    {
+      "word": "to",
+      "start": 133.84,
+      "source": "asr",
+      "end": 134.0
+    },
+    {
+      "word": "give.",
+      "start": 134.0,
+      "source": "asr",
+      "end": 135.2
+    },
+    {
+      "word": "We've",
+      "start": 136.8,
+      "source": "asr",
+      "end": 137.12
+    },
+    {
+      "word": "known",
+      "start": 137.12,
+      "source": "asr",
+      "end": 137.44
+    },
+    {
+      "word": "each",
+      "start": 137.44,
+      "source": "asr",
+      "end": 137.879
+    },
+    {
+      "word": "other",
+      "start": 137.879,
+      "source": "asr",
+      "end": 138.879
+    },
+    {
+      "word": "for",
+      "start": 138.879,
+      "source": "asr",
+      "end": 139.2
+    },
+    {
+      "word": "so",
+      "start": 139.2,
+      "source": "asr",
+      "end": 139.44
+    },
+    {
+      "word": "long.",
+      "start": 139.44,
+      "source": "asr",
+      "end": 140.64
+    },
+    {
+      "word": "Your",
+      "start": 141.04,
+      "source": "asr",
+      "end": 141.28
+    },
+    {
+      "word": "heart's",
+      "start": 141.28,
+      "source": "asr",
+      "end": 141.599
+    },
+    {
+      "word": "been",
+      "start": 141.599,
+      "source": "asr",
+      "end": 141.92
+    },
+    {
+      "word": "aching,",
+      "start": 141.92,
+      "source": "asr",
+      "end": 142.4
+    },
+    {
+      "word": "but",
+      "start": 142.4,
+      "source": "asr",
+      "end": 143.12
+    },
+    {
+      "word": "you're",
+      "start": 143.12,
+      "source": "asr",
+      "end": 143.44
+    },
+    {
+      "word": "too",
+      "start": 143.44,
+      "source": "asr",
+      "end": 143.68
+    },
+    {
+      "word": "shy",
+      "start": 143.68,
+      "source": "asr",
+      "end": 144.239
+    },
+    {
+      "word": "to",
+      "start": 144.239,
+      "source": "asr",
+      "end": 144.48
+    },
+    {
+      "word": "say",
+      "start": 144.48,
+      "source": "asr",
+      "end": 144.84
+    },
+    {
+      "word": "it.",
+      "start": 144.84,
+      "source": "asr",
+      "end": 145.84
+    },
+    {
+      "word": "We",
+      "start": 145.84,
+      "source": "asr",
+      "end": 146.08
+    },
+    {
+      "word": "both",
+      "start": 146.08,
+      "source": "asr",
+      "end": 146.319
+    },
+    {
+      "word": "know",
+      "start": 146.319,
+      "source": "asr",
+      "end": 146.56
+    },
+    {
+      "word": "what's",
+      "start": 146.56,
+      "source": "asr",
+      "end": 146.879
+    },
+    {
+      "word": "been",
+      "start": 146.879,
+      "source": "asr",
+      "end": 147.52
+    },
+    {
+      "word": "going",
+      "start": 147.52,
+      "source": "asr",
+      "end": 148.52
+    },
+    {
+      "word": "on.",
+      "start": 148.52,
+      "source": "asr",
+      "end": 149.52
+    },
+    {
+      "word": "We",
+      "start": 149.52,
+      "source": "asr",
+      "end": 149.76
+    },
+    {
+      "word": "know",
+      "start": 149.76,
+      "source": "asr",
+      "end": 150.0
+    },
+    {
+      "word": "the",
+      "start": 150.0,
+      "source": "asr",
+      "end": 150.319
+    },
+    {
+      "word": "game",
+      "start": 150.319,
+      "source": "asr",
+      "end": 150.56
+    },
+    {
+      "word": "and",
+      "start": 150.56,
+      "source": "asr",
+      "end": 150.8
+    },
+    {
+      "word": "we're",
+      "start": 150.8,
+      "source": "asr",
+      "end": 151.68
+    },
+    {
+      "word": "going",
+      "start": 151.68,
+      "source": "asr",
+      "end": 151.92
+    },
+    {
+      "word": "to",
+      "start": 151.92,
+      "source": "asr",
+      "end": 152.239
+    },
+    {
+      "word": "play",
+      "start": 152.239,
+      "source": "asr",
+      "end": 152.72
+    },
+    {
+      "word": "it.",
+      "start": 152.72,
+      "source": "asr",
+      "end": 153.8
+    },
+    {
+      "word": "I",
+      "start": 153.8,
+      "source": "asr",
+      "end": 154.8
+    },
+    {
+      "word": "just",
+      "start": 154.8,
+      "source": "asr",
+      "end": 155.12
+    },
+    {
+      "word": "want",
+      "start": 155.12,
+      "source": "asr",
+      "end": 155.28
+    },
+    {
+      "word": "to",
+      "start": 155.28,
+      "source": "asr",
+      "end": 155.599
+    },
+    {
+      "word": "tell",
+      "start": 155.599,
+      "source": "asr",
+      "end": 155.76
+    },
+    {
+      "word": "you",
+      "start": 155.76,
+      "source": "asr",
+      "end": 156.16
+    },
+    {
+      "word": "how",
+      "start": 156.16,
+      "source": "asr",
+      "end": 156.4
+    },
+    {
+      "word": "I'm",
+      "start": 156.4,
+      "source": "asr",
+      "end": 157.6
+    },
+    {
+      "word": "feeling.",
+      "start": 157.8,
+      "source": "asr",
+      "end": 158.8
+    },
+    {
+      "word": "Got",
+      "start": 158.8,
+      "source": "asr",
+      "end": 159.04
+    },
+    {
+      "word": "to",
+      "start": 159.04,
+      "source": "asr",
+      "end": 159.28
+    },
+    {
+      "word": "make",
+      "start": 159.28,
+      "source": "asr",
+      "end": 159.519
+    },
+    {
+      "word": "you",
+      "start": 159.519,
+      "source": "asr",
+      "end": 160.36
+    },
+    {
+      "word": "understand.",
+      "start": 160.36,
+      "source": "asr",
+      "end": 161.36
+    },
+    {
+      "word": "Never",
+      "start": 161.36,
+      "source": "asr",
+      "end": 161.68
+    },
+    {
+      "word": "going",
+      "start": 161.68,
+      "source": "asr",
+      "end": 161.84
+    },
+    {
+      "word": "to",
+      "start": 161.84,
+      "source": "asr",
+      "end": 162.0
+    },
+    {
+      "word": "give",
+      "start": 162.0,
+      "source": "asr",
+      "end": 162.319
+    },
+    {
+      "word": "you",
+      "start": 162.319,
+      "source": "asr",
+      "end": 162.8
+    },
+    {
+      "word": "up.",
+      "start": 162.8,
+      "source": "asr",
+      "end": 163.519
+    },
+    {
+      "word": "Never",
+      "start": 163.519,
+      "source": "asr",
+      "end": 163.76
+    },
+    {
+      "word": "going",
+      "start": 163.76,
+      "source": "asr",
+      "end": 163.92
+    },
+    {
+      "word": "to",
+      "start": 163.92,
+      "source": "asr",
+      "end": 164.08
+    },
+    {
+      "word": "let",
+      "start": 164.08,
+      "source": "asr",
+      "end": 164.4
+    },
+    {
+      "word": "you",
+      "start": 164.4,
+      "source": "asr",
+      "end": 164.8
+    },
+    {
+      "word": "down.",
+      "start": 164.8,
+      "source": "asr",
+      "end": 165.68
+    },
+    {
+      "word": "Never",
+      "start": 165.68,
+      "source": "asr",
+      "end": 165.92
+    },
+    {
+      "word": "going",
+      "start": 165.92,
+      "source": "asr",
+      "end": 166.0
+    },
+    {
+      "word": "to",
+      "start": 166.0,
+      "source": "asr",
+      "end": 166.239
+    },
+    {
+      "word": "run",
+      "start": 166.239,
+      "source": "asr",
+      "end": 166.8
+    },
+    {
+      "word": "around",
+      "start": 166.8,
+      "source": "asr",
+      "end": 167.519
+    },
+    {
+      "word": "and",
+      "start": 167.519,
+      "source": "asr",
+      "end": 168.08
+    },
+    {
+      "word": "desert",
+      "start": 168.08,
+      "source": "asr",
+      "end": 168.72
+    },
+    {
+      "word": "you.",
+      "start": 168.72,
+      "source": "asr",
+      "end": 169.28
+    },
+    {
+      "word": "Heat.",
+      "start": 169.28,
+      "source": "asr",
+      "end": 170.48
+    },
+    {
+      "word": "[Music]",
+      "start": 172.33,
+      "source": "asr",
+      "kind": "tag",
+      "tag": "music",
+      "end": 173.53
+    },
+    {
+      "word": "Heat.",
+      "start": 178.76,
+      "source": "asr",
+      "end": 179.76
+    },
+    {
+      "word": "Heat. Heat.",
+      "start": 179.76,
+      "source": "asr",
+      "end": 180.96
+    },
+    {
+      "word": "[Music]",
+      "start": 183.39,
+      "source": "asr",
+      "kind": "tag",
+      "tag": "music",
+      "end": 184.59
+    },
+    {
+      "word": "Never",
+      "start": 191.04,
+      "source": "asr",
+      "end": 191.28
+    },
+    {
+      "word": "going",
+      "start": 191.28,
+      "source": "asr",
+      "end": 191.36
+    },
+    {
+      "word": "to",
+      "start": 191.36,
+      "source": "asr",
+      "end": 191.519
+    },
+    {
+      "word": "tell",
+      "start": 191.519,
+      "source": "asr",
+      "end": 192.0
+    },
+    {
+      "word": "a",
+      "start": 192.0,
+      "source": "asr",
+      "end": 192.44
+    },
+    {
+      "word": "lie",
+      "start": 192.44,
+      "source": "asr",
+      "end": 193.44
+    },
+    {
+      "word": "and",
+      "start": 193.44,
+      "source": "asr",
+      "end": 193.68
+    },
+    {
+      "word": "hurt",
+      "start": 193.68,
+      "source": "asr",
+      "end": 194.2
+    },
+    {
+      "word": "you.",
+      "start": 194.2,
+      "source": "asr",
+      "end": 195.2
+    },
+    {
+      "word": "Never",
+      "start": 195.2,
+      "source": "asr",
+      "end": 195.519
+    },
+    {
+      "word": "going",
+      "start": 195.519,
+      "source": "asr",
+      "end": 195.599
+    },
+    {
+      "word": "to",
+      "start": 195.599,
+      "source": "asr",
+      "end": 195.84
+    },
+    {
+      "word": "give",
+      "start": 195.84,
+      "source": "asr",
+      "end": 196.159
+    },
+    {
+      "word": "you",
+      "start": 196.159,
+      "source": "asr",
+      "end": 196.56
+    },
+    {
+      "word": "up.",
+      "start": 196.56,
+      "source": "asr",
+      "end": 197.28
+    },
+    {
+      "word": "Never",
+      "start": 197.28,
+      "source": "asr",
+      "end": 197.599
+    },
+    {
+      "word": "going",
+      "start": 197.599,
+      "source": "asr",
+      "end": 197.76
+    },
+    {
+      "word": "to",
+      "start": 197.76,
+      "source": "asr",
+      "end": 197.92
+    },
+    {
+      "word": "let",
+      "start": 197.92,
+      "source": "asr",
+      "end": 198.239
+    },
+    {
+      "word": "you",
+      "start": 198.239,
+      "source": "asr",
+      "end": 198.56
+    },
+    {
+      "word": "down.",
+      "start": 198.56,
+      "source": "asr",
+      "end": 199.44
+    },
+    {
+      "word": "Never",
+      "start": 199.44,
+      "source": "asr",
+      "end": 199.68
+    },
+    {
+      "word": "going",
+      "start": 199.68,
+      "source": "asr",
+      "end": 199.84
+    },
+    {
+      "word": "to",
+      "start": 199.84,
+      "source": "asr",
+      "end": 200.08
+    },
+    {
+      "word": "run",
+      "start": 200.08,
+      "source": "asr",
+      "end": 200.64
+    },
+    {
+      "word": "around",
+      "start": 200.64,
+      "source": "asr",
+      "end": 201.28
+    },
+    {
+      "word": "and",
+      "start": 201.28,
+      "source": "asr",
+      "end": 201.92
+    },
+    {
+      "word": "desert",
+      "start": 201.92,
+      "source": "asr",
+      "end": 202.68
+    },
+    {
+      "word": "you.",
+      "start": 202.68,
+      "source": "asr",
+      "end": 203.68
+    },
+    {
+      "word": "Never",
+      "start": 203.68,
+      "source": "asr",
+      "end": 203.92
+    },
+    {
+      "word": "going",
+      "start": 203.92,
+      "source": "asr",
+      "end": 204.08
+    },
+    {
+      "word": "to",
+      "start": 204.08,
+      "source": "asr",
+      "end": 204.239
+    },
+    {
+      "word": "make",
+      "start": 204.239,
+      "source": "asr",
+      "end": 204.56
+    },
+    {
+      "word": "you",
+      "start": 204.56,
+      "source": "asr",
+      "end": 204.959
+    },
+    {
+      "word": "cry.",
+      "start": 204.959,
+      "source": "asr",
+      "end": 205.76
+    },
+    {
+      "word": "Never",
+      "start": 205.76,
+      "source": "asr",
+      "end": 206.0
+    },
+    {
+      "word": "going",
+      "start": 206.0,
+      "source": "asr",
+      "end": 206.159
+    },
+    {
+      "word": "to",
+      "start": 206.159,
+      "source": "asr",
+      "end": 206.4
+    },
+    {
+      "word": "say",
+      "start": 206.4,
+      "source": "asr",
+      "end": 206.84
+    },
+    {
+      "word": "goodbye.",
+      "start": 206.84,
+      "source": "asr",
+      "end": 207.84
+    },
+    {
+      "word": "Never",
+      "start": 207.84,
+      "source": "asr",
+      "end": 208.159
+    },
+    {
+      "word": "going",
+      "start": 208.159,
+      "source": "asr",
+      "end": 208.239
+    },
+    {
+      "word": "to",
+      "start": 208.239,
+      "source": "asr",
+      "end": 208.56
+    },
+    {
+      "word": "say",
+      "start": 208.56,
+      "source": "asr",
+      "end": 208.879
+    },
+    {
+      "word": "goodbye.",
+      "start": 208.879,
+      "source": "asr",
+      "end": 209.279
+    }
+  ]
+}

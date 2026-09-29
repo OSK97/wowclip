@@ -1,0 +1,434 @@
+{
+  "category": "general",
+  "clips": [
+    {
+      "category": "general",
+      "rank": 1,
+      "title": "Your phone, face down and switched off, is making you dumber",
+      "why": "A UT Austin study where the phone is completely dead in all three conditions, and merely having it visible in your visual field significantly drops scores on fluid intelligence — 'that means you're dumber.' Then the turn: a phone on the table in a meeting literally lowers the IQ of the whole team. Every viewer owns a phone and has never heard this; the dead-phone detail kills the obvious objection before it's raised. Screenshot material.",
+      "category_hint": "SHOCK FACT / HOW A SYSTEM WORKS",
+      "hook_strength": 7,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0479 'agree 100'"
+      ],
+      "start_line": "L0473",
+      "end_line": "L0492",
+      "start_words": "In this study, and remember the phone is dead",
+      "end_words": "the IQ of your team is lower",
+      "start_s": 3306.96,
+      "end_s": 3488.8,
+      "duration_s": 181.84,
+      "source_start_s": 3306.96,
+      "source_end_s": 3488.8,
+      "one_liner": false,
+      "text": "you're doing all of these assessments. >> Okay. >> Okay. >> Yeah. Okay. >> In this study, and remember the phone is dead. >> Yeah. Yeah. Technically, nothing changes in all three scenarios. The phone's dead. You're not using it. >> Exactly. M >> it's like having this eraser nearby, right? It's just an object. >> In this study, we were able to see, and by the way, this is one of the most shocking studies I think I have seen in the last number of years on this topic. >> Okay? >> When the phone was visible to you in your visual field, dead but face down off to the side, scores were significantly decreased across the board. like my attention decreased. >> Yes, it's the same you, right? Same Raj, same brain, different capability. And think about it's attention span. Raj, it was also general fluid intelligence. That means you're dumber. Literally, if the phone is visible, I'm not >> even though it's dead. >> Even though it's dead. Even though it's dead. This is the scary reality of how attention works in the brain. Remember the stories we tell, right? The brain is all about storytelling and narration. All the memories you have using that thing, all of the memories you have, binge watching, talking to friends, making plans, good news, bad news, drama, all these things are happening in the phone, right? For me, like I don't know if you use like Apple Pay, but I'm also like tapping. It's like my payment system. It's like >> everything. >> It's everything. Everything is in the phone. Memories. I have pictures, you know, of my dog. Like all this stuff is on there that I love, right? It's all there. >> And you know that. Your brain knows that. So if you can see it, it's always [snorts (youtube)] going to be thinking, \"Oh, I'm remembering all those amazing things and I want to play.\" Like right now since the time we've spoken about phone, I've been anticipating >> really >> like a notification will come right >> but it's dead. It's dead. So here's my recommendation. You should have like a parking lot, a box, something there where you hide your phone. Just put it away so that you don't see it. Bam. Gone. Out of sight, out of mind. We don't need it. Right? And this is listen, I'm not saying all the time, but when you want when you want 100% of your intelligence for me, right, I run a business, right? I I do research, I do all these different things. When it's game time, again, remember, treat yourself like an Olympic athlete. If it's game time, it's go time, you're making a big important decision, you're sitting down with your team and you're having a brainstorm, get the phones out of the room because you're literally lowering the IQ of your whole team. If you let people have their phones out, the IQ of your employees, the IQ of your team is lower.",
+      "flags": [],
+      "id": "gen1"
+    },
+    {
+      "category": "general",
+      "rank": 2,
+      "title": "Stress doesn't kill. Never completing the stress cycle kills.",
+      "why": "Rewrites the thing half the workforce feels daily. Humans are built for stress rising AND falling; modern life is one unbroken rise from alarm-scroll to last email. The line 'stress doesn't kill — never completing the stress cycle kills' is the kind of sentence that gets screenshotted and argued with, and the adrenal burnout ending gives it a consequence.",
+      "category_hint": "BODY AND BRAIN / MENTAL HEALTH",
+      "hook_strength": 6,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L1244",
+      "end_line": "L1248",
+      "start_words": "when does it ending? It just keeps going",
+      "end_words": "I'm done. I'm done giving you cortisol",
+      "start_s": 8763.12,
+      "end_s": 8805.28,
+      "duration_s": 42.16,
+      "source_start_s": 8763.12,
+      "source_end_s": 8805.28,
+      "one_liner": false,
+      "text": "when does it ending? It just keeps going and going and going. When are you completing the stress cycle? Remember what we said before. We're designed for stress cycles. Stress goes up, stress comes down. Stress goes up, stress comes down. >> It's not coming down. >> It's never coming down. Stress doesn't kill. Never completing the stress cycle kills. So if you never complete these stress cycles, it just keeps going up up up and then you just pass out and go to sleep and then you wake up the next morning and you just keep doing this and you're on this roller coaster ride with yourself. Eventually, yes, you'll experience burnout. Your adrenals like will finally give out and you'll be like, \"Okay, I'm done. I'm done giving you cortisol.\"",
+      "flags": [],
+      "id": "gen2"
+    },
+    {
+      "category": "general",
+      "rank": 3,
+      "title": "Your brain is designed to look for data that confirms your beliefs",
+      "why": "This exact line is the most-quoted moment of the whole episode in the audience comments (3301 likes on the standalone quote), and it earns it: it lands on the victim-mindset viewer hardest, because the brain that keeps proving 'everyone hates me, nothing works out' is just doing its job. The close — choose your beliefs, design them — turns a mechanism into an instruction. Short, complete, infinitely shareable.",
+      "category_hint": "HIDDEN WHY / MENTAL HEALTH",
+      "hook_strength": 6,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0177 (73 likes) quoting this exact line",
+        "audience loudest comment names this line"
+      ],
+      "start_line": "L0178",
+      "end_line": "L0185",
+      "start_words": "is everybody's brain yours mine everybody's",
+      "end_words": "choose your beliefs, design your beliefs",
+      "start_s": 1200.16,
+      "end_s": 1255.68,
+      "duration_s": 55.52,
+      "source_start_s": 1200.16,
+      "source_end_s": 1255.68,
+      "one_liner": false,
+      "text": "is everybody's brain yours mine everybody's our brains are designed they're designed to look for data that confirms your beliefs. >> Yeah, true. It happens with all the negative things as well. >> Bingo. Bingo. Which is why I'm like, if it's not helping you, get it out of there. Throw it away. Get it out. Like, you don't need it. >> Because people are like, \"Oh, I'm a victim. Everybody blah blah blah. Everybody hates me. I don't get what I want.\" And guess what? They always see they're always complaining, right? >> Yeah. this happened, then this other thing happened. No, no, no. What's happening is your beliefs because that's how the brain works. That's a biological law. The brain is going to find and look for data to confirm its own beliefs. So, choose your beliefs, design your beliefs. >> Yeah, this this is so",
+      "flags": [],
+      "id": "gen3"
+    },
+    {
+      "category": "general",
+      "rank": 4,
+      "title": "Want incredible ideas? Be bored and do nothing.",
+      "why": "The question everyone wants answered, answered with the one instruction nobody wants: be bored. The DMN-as-storyteller explanation makes boredom productive instead of guilty — the default network is the idea machine, and you've been suppressing it with scrolling for years. Counter-intuitive, actionable tonight, and it flips the viewer's shame about doing nothing into a method.",
+      "category_hint": "COUNTER-INTUITIVE / PRACTICAL TACTIC",
+      "hook_strength": 7,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0669",
+      "end_line": "L0679",
+      "start_words": "How how can someone become a person who gets incredible ideas",
+      "end_words": "So that's your idea machine",
+      "start_s": 4719.44,
+      "end_s": 4786.24,
+      "duration_s": 66.8,
+      "source_start_s": 4719.44,
+      "source_end_s": 4786.24,
+      "one_liner": false,
+      "text": "One day after another and then finally you're going to hit. >> So, what should I do? How how can someone become a person who gets incredible ideas all the time? >> Okay, you ready? This is my number one recommendation. You might not like it or you might be surprised. >> Okay. >> Be bored. be bored and do nothing >> and you get ideas like that. >> And you get ideas. Let me explain. Ideas, new ideas often come when we are mind wandering. That goes back to the neural network that I talked about earlier, the DMN, the default mode network. That's what that when that is active your brain is creating. Remember in the beginning I said it's the storyteller in the brain. It's the storytelling machine. It's the area of the brain and the a areas of the brain that are all about narration and ideas. So that's your idea machine.",
+      "flags": [],
+      "id": "gen4"
+    },
+    {
+      "category": "general",
+      "rank": 5,
+      "title": "I dare you: try to remember three reels ago",
+      "why": "Directly addresses the person most likely to be watching this as a short and dares them to run the test on themselves in real time — and they will fail. 'No memory, no learning' reframes hours of daily scrolling as consuming nothing. The fourth-wall dare is the hook; the memory=learning equation is what they repeat to somebody tomorrow.",
+      "category_hint": "THOUGHT EXPERIMENT / SOCIETAL MIRROR",
+      "hook_strength": 8,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0817",
+      "end_line": "L0823",
+      "start_words": "Now we go to this side here. By the way, in case in case someone",
+      "end_words": "If there's no memory, there's no learning",
+      "start_s": 5841.76,
+      "end_s": 5903.76,
+      "duration_s": 62.0,
+      "source_start_s": 5841.76,
+      "source_end_s": 5903.76,
+      "one_liner": false,
+      "text": ">> Now we go to this side here. By the way, in case in case someone right now is watching this in a short, >> okay, that's fine. I dare you for just the next second, try to remember three reels ago. If you're scrolling right now, if you're scrolling right now, I What was the three reels ago? What did you see? If you can't remember, I don't want you to feel shame. You're not alone. I can't remember either. And it's because short form scrolling is designed for you to just it's just like crack. You're just going to move from one thing to the other. It's just full novelty. So, there's no memory. So, you have less memory, which by the way, what's another word for memory? learning. >> Mhm. >> People think they're like exposing themselves to like new ideas and you can't freaking remember it. What's your It's not You're not absorbing any of it. There's no me. If there's no memory, there's no learning.",
+      "flags": [],
+      "id": "gen5"
+    },
+    {
+      "category": "general",
+      "rank": 6,
+      "title": "A 2024 Nature study found scrolling is not a break",
+      "why": "Takes the single most common thing people do when exhausted — 'let me just check my phone for five minutes' — and shows the premier science journal measured it: scrolling replenishes about as much as not stopping at all. The Olympic-athlete frame at the end makes it an accusation rather than trivia. Enormous 'wait, what' value because every viewer did this today.",
+      "category_hint": "SHOCK FACT / BODY AND BRAIN",
+      "hook_strength": 5,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0362",
+      "end_line": "L0373",
+      "start_words": "But if you're tired in the middle of the day",
+      "end_words": "It doesn't replenish and increase your energy",
+      "start_s": 2525.28,
+      "end_s": 2625.76,
+      "duration_s": 100.48,
+      "source_start_s": 2525.28,
+      "source_end_s": 2625.76,
+      "one_liner": false,
+      "text": ">> But if you're tired in the middle of the day, you're like halfway in the middle of the day and you're like, I'm just exhausted and I need a break. >> Yeah. >> This is not a break. There was, by the way, a paper published in Nature. >> What is it? the world's like premier science journal 2024 that actually measured the effectiveness of different kinds of breaks. >> Okay. >> One option was no break at all. You do no break. Raj, keep working. Tired. So what? >> Keep going. Hustle. Come on. You're young. You got it. Let's go. >> The next option was you take a break uh and you look outside or you go take a walk outside in nature. >> Okay. So you're exposed to something natural. Okay. The next break was scrolling. >> Yeah. >> Can you imagine what the results were? >> It showed that scrolling is pretty much the same as not taking a break. So instead of actually letting this brain rest and make energy for you, because again this is all chemistry up in here. This is like again biological laws. You need to learn that if this system is tired in and listen I'm a high performance like I'm all about productivity and performance. So if let's say for example treat yourself like an Olympic athlete. >> If an athlete is telling you I'm exhausted right then you say okay okay get off the field go sit and rest drink some water get a snack you know we tell them to like stretch you know get ready. Why? Because I need you to go back out there and keep training. >> Yeah. If they say I'm tired, like let me open Tik Tok. That's we already know. We science has already shown that that's not",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "gen6"
+    },
+    {
+      "category": "general",
+      "rank": 7,
+      "title": "Scrolling when lonely is eating candy when hungry",
+      "why": "Explains the loneliness epidemic in one analogy nobody can forget: connection is hunger, the feed is candy — it tastes good, and an hour later you're hungrier than when you started. 'Social media is not social anymore' sets it up plainly for a stranger. This is the clip people send privately to the friend who's always on their phone.",
+      "category_hint": "ANALOGY / MENTAL HEALTH",
+      "hook_strength": 7,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0899",
+      "end_line": "L0910",
+      "start_words": "If you get on social media, listen, let's be honest",
+      "end_words": "It never satisfies that need",
+      "start_s": 6426.56,
+      "end_s": 6515.76,
+      "duration_s": 89.2,
+      "source_start_s": 6426.56,
+      "source_end_s": 6515.76,
+      "one_liner": false,
+      "text": "I want to know what other people are doing.\" If you get on social media, listen, let's be honest, social media is not social anymore, right? When you open up Instagram, it used to be when they first started, you would see the pictures and videos that your friends would post. >> Yeah. >> It's not like that anymore. >> True. >> It's other people you don't know. It's other people you don't know. So, you are seeking social connection and then you get you go on to short form media and then you start scrolling. >> So, you're distracted. Sure, you're distracted, but it feels kind of good in the moment, doesn't it? >> Yeah. Distraction feels good. So, it's like eating candy when you're hungry. So, you're hungry. You're hungry for something real. Really? Food, but you eat candy instead. What happens when you eat candy when you're hungry? >> In 1 hour, >> you feel more hungry. >> Yeah. You're you're hungry again because then you never filled yourself with nutrition, >> with the food your body needs. So you were, let's say, you were seeking social connection. It's like hunger. So, but instead of really seeking true connection, you instead went to short form media and you're scrolling. It's like candy. So, you're just going to be even hungrier in another hour. So, you're even So, then you were maybe a little lonely before. Now, you're even more lonely because it's never satisfying that need. It never satisfies that need.",
+      "flags": [],
+      "id": "gen7"
+    },
+    {
+      "category": "general",
+      "rank": 8,
+      "title": "She calls the 5 a.m. club '5 a.m. club porn'",
+      "why": "Attacks a belief the productivity audience was raised on, with a deliberately inflammatory word and real reasoning behind it: lemon water, cold plunges and a 4:30 alarm are theatre if you're not getting seven hours of sleep, and some CEOs do their best work from 8 p.m. to midnight. Half the comments will defend the 5 a.m. club — which is exactly the point.",
+      "category_hint": "HOT TAKE / COUNTER-INTUITIVE",
+      "hook_strength": 8,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L1069",
+      "end_line": "L1078",
+      "start_words": "I call it 5 a.m. club porn because there's so many blogs",
+      "end_words": "It matters which time it is for you",
+      "start_s": 7581.52,
+      "end_s": 7666.24,
+      "duration_s": 84.72,
+      "source_start_s": 7581.52,
+      "source_end_s": 7666.24,
+      "one_liner": false,
+      "text": "important thing is to listen to your body. I call it 5 a.m. club porn because there's so many blogs and books and other podcasts, tweets. Uh you see all of these different like just articles and all of this content about people. It's like if you want to be the most successful version of yourself, you need to wake up at 4:30 in the morning and then you need to do 25 push-ups and then you need to drink a tall glass of lemon water with cayenne in it and then you need to do a cold plunge and then you need to do this and then you need to what a sauna then this and that and it's like oh my god what are we doing? Like if listen, if you are not getting at least 7 hours of high quality sleep, what's the point of you waking up at 5, right? Because of this like idea that we're all like addicted to that like see it's like I call it porn because it seems like such a great idea, but it's not. It's only a good idea like if you've got all the other things like lined up truly like it's this thing that people are obsessed with. So, they're talking about it and writing about it, and it's like, look, this one CEO woke up at 5:00 and he does all this before 7:00 a.m. and that's why he's successful. And it's just not true. That's not why he's successful. It's one of his strategies. But some other CEOs do some of their best work from 8:00 p.m. to midnight. It doesn't matter which time it is. It matters which time it is for you.",
+      "flags": [],
+      "id": "gen8"
+    },
+    {
+      "category": "general",
+      "rank": 9,
+      "title": "The binge-watching loop that ends in overwhelm AND shame",
+      "why": "Walks the viewer through their own Tuesday night: stressed about a deadline, scrolled for 45 minutes, put the phone down — did the deadline go away? No. Now there's overwhelm plus shame, so the brain wants to scroll again. The tree-trunk image of a neural path strengthening with every lap makes 'I did that too' physical, and the habit-is-addiction collapse at the end removes the moral load.",
+      "category_hint": "I DID THAT TOO / HOW A SYSTEM WORKS",
+      "hook_strength": 5,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0312 praising this explanation"
+      ],
+      "start_line": "L0315",
+      "end_line": "L0332",
+      "start_words": "So whatever it is that you did, let's say you did binge",
+      "end_words": "that's the same thing as addiction. It's the same thing as a habit",
+      "start_s": 2191.12,
+      "end_s": 2320.48,
+      "duration_s": 129.36,
+      "source_start_s": 2191.12,
+      "source_end_s": 2320.48,
+      "one_liner": false,
+      "text": "It doesn't want to let you sit in that in that bad feeling. >> So whatever it is that you did, let's say you did binge watching one time when you felt that way. You're like, \"Let me distract myself, you know, >> go somewhere else. We don't need to think that. We don't need to feel that.\" So then you start binge watching and what's going to happen in the beginning? In the beginning you're distracted, right? So it feels good. >> Yeah. >> Okay. So what you ended up doing is you ended up doing the actual binge watching. So you scrolled and then what happens uh uh at the at the very end. Let's say now you're done scrolling and you put the phone away. This is a bit of a trick question because let's say you were overwhelmed about a work deadline >> and then you started binge watching for >> 45 minutes >> in the evening instead of working on the thing that's overwhelming you. So then you did the binge watching and then afterwards you put the phone down. Did you deal with the thing that you were actually stressed about? >> No, I get guilty. >> Yeah. So now you have this, you have the overwhelm and you have shame. >> Yeah. So the person is super sad now. We're we're just super sad. So now that you have overwhelm and shame, you know that's even worse than before. No. >> Yeah. >> So guess what I want to do again? >> Watch again. >> Go around the circle again. So okay, let's say you've done this one night. But come on, let's be honest. I've done this even like at least 100 times. Do you know what I mean? >> Here's the answer to your your original question. Every single time you do this, you go through this path. Every time you traverse this road and you do it again and again and again, do you see what's happening here? We're making it darker. No, >> we're making it maybe even bigger, >> stronger, deeper. This neural network starts to become like a tree trunk, like the roots of a tree. That is how a behavior. If you do it one time, that's fine. You do it 100 times, 1,000 times, a million times, that's a behavior that you do a lot, that's the same thing as addiction. It's the same thing as a habit.",
+      "flags": [],
+      "id": "gen9"
+    },
+    {
+      "category": "general",
+      "rank": 10,
+      "title": "Phone on the table at coffee: you seem less trustworthy, less intelligent",
+      "why": "The social cost of the same habit, and the reading of it is brutal: a phone on the table announces 'you're not so important that I won't take a call from someone better.' Studies say you're judged less trustworthy, less capable, less intelligent — and everyone watching has done this on a date or a coffee chat this week. The dating sting at the end makes it personal.",
+      "category_hint": "SOCIETAL MIRROR / RELATIONSHIPS",
+      "hook_strength": 6,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "appears in the cold open, confirming its weight"
+      ],
+      "start_line": "L0493",
+      "end_line": "L0503",
+      "start_words": "And if you care about this, people like you less",
+      "end_words": "It's lowering the quality of the connection",
+      "start_s": 3488.96,
+      "end_s": 3548.48,
+      "duration_s": 59.52,
+      "source_start_s": 3488.96,
+      "source_end_s": 3548.48,
+      "one_liner": false,
+      "text": ">> You're making everybody dumber just by having phone here. >> Just by having the phone there. And if you care about this, people like you less. There's been lots of really interesting studies that people who hold their phone or put their phone out on the table when they're talking to people and they first meet you, you seem less trustworthy, um, less capable, less intelligent, all of these different things. Why would that be? It's because I'm really saying, listen, you're not so important that I'm going to give up the opportunity >> to put my attention somewhere else. somebody more important than you might call me. So, I'm going to keep it here in my hand, you know, cuz that's wherever it is. Usually, it's pee in people's hands or like, you know, some I'll like sometimes put it under my arm and carry it that way, you know, whatever. But it's on the table. Two people who have a coffee chat, right? They put it on the table and they sit down and they have their coffee. But it's literally lowering the quality of the conversation. It's lowering the quality of the connection.",
+      "flags": [],
+      "id": "gen10"
+    },
+    {
+      "category": "general",
+      "rank": 11,
+      "title": "Nine weeks, 450 students, a digital detox — and the scores moved",
+      "why": "News-shaped: an unpublished Berkeley study where 450 students went through withdrawal together — tears, therapist brought in — and after nine weeks of simply scrolling less: significantly less lonely, less depressed, less anxious, attention spans and working memory measurably up, tested during midterms. 'You can undo it' is the hopeful payoff the phone-horror clips all point toward.",
+      "category_hint": "NEWS AND DEVELOPMENTS / MENTAL HEALTH",
+      "hook_strength": 6,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [],
+      "start_line": "L1372",
+      "end_line": "L1385",
+      "start_words": "It was also hard. They a lot of tears",
+      "end_words": "I didn't realize we were going to see this many benefits so fast",
+      "start_s": 9701.52,
+      "end_s": 9803.04,
+      "duration_s": 101.52,
+      "source_start_s": 9701.52,
+      "source_end_s": 9803.04,
+      "one_liner": false,
+      "text": "you did all of this made it fun. >> Yes. >> What happened then? >> It was also hard. They a lot of tears by the way had a lot of students crying. It was really difficult because it's it's an addiction. Everyone is going through withdrawal together. If I have 450 people, we are all experiencing withdrawal together at the same time. We're just trying to make it better by injecting connection and play. We I forced everybody for the final project. You have to pick up a hobby and work on it throughout the semester, you know. So, this was this was what we did. >> And for 9 weeks, they were not allowed to touch their phones. >> No, no, no, no. They all had their phones. M >> they just scrolled a little bit less. Specifically, also short form media. That was what I said. Social media and the scrolling. We're going to doom scroll a little less. Watch a movie. Watch long YouTube videos. Watch other stuff, >> you know. >> And and by the way, they still scrolled. They just scrolled a little less. >> So if someone was doing for 2 hours, they did it for like 30 minutes. >> Exactly. Some of them were doing it for 6 hours and then they brought it down to like two. >> Okay. >> Awesome. >> Okay. Then what happened >> after 9 weeks? Scores showed significantly less lonely, significantly less depressed, significantly less anxious. Their attention spans went up significantly. Their complex working memory, which is a proxy for general fluid intelligence, significantly increased. It's it's almost unbelievable when I look at the results myself. I didn't think it was going to be this good. To be honest [laughter (youtube)] with you, I knew I knew my intuition told me as a scientist who's been working with people about this topic for a long time that we were going to see some benefits. I didn't realize we were going to see this many benefits so fast.",
+      "flags": [],
+      "id": "gen11"
+    },
+    {
+      "category": "general",
+      "rank": 12,
+      "title": "From the most powerless moment came the most powerful feelings of her life",
+      "why": "The closing-turn confession: the scientist who studies addiction lists everything she's been addicted to — smoking, drinking, scrolling, sugar — and says the powerlessness felt like a cruel joke from the universe, until overcoming it made her feel unstoppable. Quietly delivered, no performance, and it reframes addiction for anyone currently inside one. This is where the episode's expertise becomes human.",
+      "category_hint": "TABOO AND UNSPOKEN / RELATIONSHIPS",
+      "hook_strength": 7,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L1430",
+      "end_line": "L1440",
+      "start_words": "I've been addicted to a great number of things in my life",
+      "end_words": "So it was an opportunity",
+      "start_s": 10103.2,
+      "end_s": 10152.24,
+      "duration_s": 49.04,
+      "source_start_s": 10103.2,
+      "source_end_s": 10152.24,
+      "one_liner": false,
+      "text": ">> I've been addicted to a great number of things in my life. I have been addicted to uh I've I've smoked, I've drank, I've done uh scrolling, uh sugar, you name it. Um it it has been my life's most You know what's interesting? I love the word you used, powerless. From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had in my entire life. I feel unstoppable and so powerful because of overcoming addiction. So it was an opportunity.",
+      "flags": [],
+      "id": "gen12"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0094",
+      "end_line": "L0104",
+      "why_not": "Billionaire's brain: 'brick wall to the average person, that person sees a door' — well-put but lands in generic self-help territory without the neuroscience beneath it."
+    },
+    {
+      "start_line": "L0631",
+      "end_line": "L0635",
+      "why_not": "Stanford study: people confident they're great multitaskers tested worse — a lovely irony, but it needs the paper demo just before it to fully land."
+    },
+    {
+      "start_line": "L0776",
+      "end_line": "L0785",
+      "why_not": "'The world's gonna go on whether you're looking at it or not. You're not that important' — strong line, but it duplicates the phone/news territory already covered by stronger clips."
+    },
+    {
+      "start_line": "L0723",
+      "end_line": "L0740",
+      "why_not": "Shower-thought protocol (load the data, walk away, change variables) — genuinely useful but a mechanism walkthrough; the takeaway sentence alone is thin."
+    },
+    {
+      "start_line": "L1251",
+      "end_line": "L1258",
+      "why_not": "The 22-year-old who arrived clinically burned out one quarter into his first job — funny and telling, but it needs the stress-cycle frame from a later stretch to mean anything."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0031",
+      "what": "cold-open montage, subscribe appeal and sponsor read"
+    },
+    {
+      "from_line": "L0032",
+      "to_line": "L0093",
+      "what": "guest introduction, 'becoming superhuman lab' framing, biological-laws setup"
+    },
+    {
+      "from_line": "L0105",
+      "to_line": "L0176",
+      "what": "main character energy, redirection technique, DMN and write-your-story exercise"
+    },
+    {
+      "from_line": "L0186",
+      "to_line": "L0289",
+      "what": "Raj's sleep beliefs live exercise, identity-based belief template, implementation intentions"
+    },
+    {
+      "from_line": "L0333",
+      "to_line": "L0361",
+      "what": "cognitive pause and identify-the-feeling walkthrough"
+    },
+    {
+      "from_line": "L0504",
+      "to_line": "L0551",
+      "what": "phone-before-bed dare, CEO digital hygiene anecdotes"
+    },
+    {
+      "from_line": "L0552",
+      "to_line": "L0630",
+      "what": "the multitasking paper-timing demo — mostly physical, partially harvested for the loop clip's territory"
+    },
+    {
+      "from_line": "L0680",
+      "to_line": "L0752",
+      "what": "DMN vs CEN walkthrough, think week, shower-thought mechanism"
+    },
+    {
+      "from_line": "L0753",
+      "to_line": "L0816",
+      "what": "news rage-bait discussion, content diet, long-form empathy study"
+    },
+    {
+      "from_line": "L0911",
+      "to_line": "L0957",
+      "what": "dopamine/oxytocin/serotonin chemistry walkthrough"
+    },
+    {
+      "from_line": "L0958",
+      "to_line": "L1040",
+      "what": "brain-as-city map — whiteboard visual, words alone don't carry it"
+    },
+    {
+      "from_line": "L1080",
+      "to_line": "L1242",
+      "what": "chronotype walkthrough, Nobel Prize, PM-shifted day design"
+    },
+    {
+      "from_line": "L1261",
+      "to_line": "L1371",
+      "what": "3M break framework, psychological detachment, Berkeley class setup"
+    },
+    {
+      "from_line": "L1441",
+      "to_line": "L1493",
+      "what": "'I am God' answer, cost-of-ambition close, outro"
+    }
+  ],
+  "video_read": "A ~3-hour English-language Raj Shamani podcast with a UC Berkeley cognitive neuroscientist about attention, phones, habits, boredom, burnout and sleep. The best material is a long, even run of counter-intuitive, testable claims about everyday behaviour — a visible phone lowers measured IQ, scrolling doesn't count as a break, boredom is where ideas come from, stress cycles never closing is what kills — with the most striking science clustered in the middle two hours and the most personal material (her own addiction) at the very end.",
+  "coverage": 0.791,
+  "usage": {
+    "prompt_tokens": 63728,
+    "completion_tokens": 11791,
+    "total_tokens": 75519,
+    "cost": 0.0154547,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0154547,
+      "upstream_inference_prompt_cost": 0.0095592,
+      "upstream_inference_completions_cost": 0.0058955
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 8171,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 8171
+  },
+  "error": null,
+  "seconds": 137.3,
+  "reasoning": "Let me read this transcript carefully. It's a Raj Shamani podcast with a cognitive neuroscientist (Dr. Sahar Yousef, likely — \"becoming superhuman lab\", UC Berkeley). About 3 hours. Topics: attention, phone and IQ, multitasking test, belief/DMN, habits/addiction loop, digital hygiene, phone study UT Austin, multitasking paper test, boredom and ideas, shower thoughts, long form vs short form, loneliness hypothesis, brain city map, chronotypes/5am club, burnout/stress cycles/3M framework, 9-week digital detox study, powerless/addiction story, cost of ambition.\n\nCandidate clips:\n\n1. Phone visible = lower IQ (L0443–L0493). \"When the phone was visible to you... scores significantly decreased... That means you're dumber.\" Strong shock fact, applies to viewer's life. Start maybe L0473 or L0475 (\"In this study... one of the most shocking studies\"). End at L0480 or L0493 (extend to team IQ lowering: \"If you let people have their phones out, the IQ of your employees is lower\"). That final line is the hook that opens the video too. Take L0475–L0493. About 19 lines ≈ 150s. Fine.\n\nActually, better to start at L0473-0476 where the claim lands: \"In this study... when the phone was visible to you, dead but face down off to the side, scores were significantly decreased across the board.\" End at L0480 \"Even though it's dead.\" Or extend through L0493 for the \"lowering the IQ of your whole team\" turn. I'll take L0475–L0493.\n\n2. The multitasking paper test (L0552–L0581 or condensed). The 17.72 → 41.35 demo. It's partly visual/physical but the words carry it: \"You went from 17.72 to 41.35. More than double.\" Actually the setup (writing while alternating) is described in words well enough. Take L0552–L0581? That's 30 lines, ~240s — too long. Condense: the demo needs the instructions to land. Could take L0553–L0560 + jump... can't jump. Hmm. Alternative: take the punchline version: L0579–L0602? \"So you went from 17.72 to 41.35. More than double...\" then \"How many brains do you have? One... You have one 100.\" That works: the times have context \"you went from\" — a stranger might not know what task, but the point \"every time you switch your attention there's a payment\" lands. Maybe L0589–L0594: \"So you're saying nobody can be a good multitasker? No... How many brains do you have? One. ... You don't have two 100s. You have one 100.\" That's tight and standalone. Take L0589–L0595.\n\nAlso Stanford study: people who think they're good multitaskers are worse (L0631–L0635). Nice small clip. L0631–L0635.\n\n3. \"Be bored and do nothing and you get ideas\" (L0669–L0692). The boredom→DMN→ideas explanation. Take L0663–L0672 or L0669–L0679. \"How can someone become a person who gets incredible ideas all the time? Be bored.\" Strong. Take L0669–L0686? That's 18 lines. Maybe L0669–L0679 (11 lines ~90s). Ends \"So that's your idea machine.\" Actually the payoff \"You have to let those ideas come to you by cultivating the space for them\" is at L0692. Hmm. Take L0663–L0676: fishing line, \"for every one good idea they had a million ideas\", \"Be bored... and you get ideas. Let me explain.\" That's a good arc ending on \"and you get ideas.\" Take L0663–L0676 (14 lines).\n\n4. The craving/feeling loop: \"The craving is not for binge watching... it's a craving to satisfy some feeling\" (L0290–L0304). Strong reframing: habit = addiction = behavior you do a lot. Take L0290–L0310 or the core L0290–L0297. Also \"removing a behavior is insanely difficult\" and the tree trunk explanation. The loop explanation L0313–L0334 (binge watching → overwhelm + shame → again). That's a great \"I did that too\" mechanism. Take L0315–L0334: \"let's say you did binge watching one time when you felt that way... you have overwhelm and shame... guess what I want to do again?\" That's very relatable. 20 lines, ~160s. Okay.\n\nMaybe better to take the earlier \"craving is a feeling\" bit separately: L0287–L0297. Actually combining: L0287–L0334 is too long. Two clips? One: \"Your craving isn't for the phone\" L0287–L0297 (craving is a feeling — overwhelm, stress). Second: the loop L0315–L0332. Maybe just return one — the loop, since it completes. Actually the \"craving is not for binge watching, it's to satisfy some feeling... numb from\" is the sharpest line. Take L0290–L0303 (craving → feeling → habit = addiction demystified). End at L0310 \"They're the same thing.\" Hmm, L0290–L0310 is 21 lines. Trim: L0290–L0297 is the core claim but incomplete feeling. I'll take L0290–L0310.\n\nActually let me think about which are the strongest overall and limit to ~8-10.\n\n5. Shower thoughts / problem solving: load up data, walk away, new variables (L0717–L0740). Good practical tactic, gets saved. Take L0723–L0740: \"So this is how you do it... Load it all up. Then walk away.\" Nice. ~18 lines. Trim: L0723–L0738.\n\n6. News media threat/anxiety (L0755–L0770): \"bad news, rage bait, it works... the more you induce threat... that's why news is all negative.\" Decent societal mirror. Also \"the world's gonna go to [hell] whether you're looking at it or not. You're not that important\" (L0779–L0783). That's a great line for executives checking news 15 times a day. Take L0776–L0785? \"I've met many really high-powered executives... we have to cut them off completely from the news... the world's gonna go to whether you're looking at it or not. You're not that important.\" Strong hot take. Take L0776–L0785 (10 lines).\n\n7. Long form vs short form: \"try to remember three reels ago\" (L0817–L0823). \"If you can't remember three reels ago... there's no memory, there's no learning.\" Great direct address. Take L0817–L0823 (7 lines). Very shareable.\n\n8. Loneliness: connection is a need like food/water; truck drivers' brains degrade (L0886–L0892). \"Human beings are pack animals... human connection is a need like food or water. You'll get sick if you don't get it.\" Then the candy analogy: scrolling when lonely is like eating candy when hungry — hungrier after (L0904–L0910). Strong. Take L0886–L0892, or the candy bit L0904–L0910. The candy analogy is the memorable one: \"you were seeking social connection... went to short form media... it's like candy... you're even more lonely.\" Take L0904–L0910 (7 lines). Actually combine: L0899–L0910 (12 lines): \"social media is not social anymore... you're seeking connection... scrolling is like candy when you're hungry... even more lonely.\" Good.\n\n9. 5am club is BS / chronotypes (L1063–L1079): \"I call it 5 a.m. club porn... if you're not getting 7 hours of sleep, what's the point of waking up at 5?\" Counter-intuitive, splits comments. Take L1069–L1079 (11 lines). Strong. Nobel Prize chronotypes L1080–L1090 adds weight. Maybe L1069–L1079 is enough.\n\n10. Stress cycles: \"Stress doesn't kill. Never completing the stress cycle kills.\" (L1244–L1248). That's a screenshot line. Take L1244–L1249. Very strong. Hook: \"It's not coming down... Stress doesn't kill. Never completing the stress cycle kills.\" Start L1243 or L1245. Take L1243–L1249 (7 lines).\n\n11. 3M framework / psychological detachment (L1261–L1310). Practical, gets saved. \"Complete psychological detachment — mental equivalent of off the grid.\" Take L1269–L1276 or so. Maybe skip to keep count reasonable, or include. The 22-year-old \"burned out\" anecdote (L1251–L1258) is funny and relatable. Hmm.\n\n12. The 9-week digital detox results (L1378–L1385): \"significantly less lonely, less depressed, less anxious, attention spans went up, working memory increased.\" News-like, strong. Take L1378–L1385 (8 lines).\n\n13. Addiction confession: \"I've been addicted to a great number of things... from the most powerless moment came the most powerful feelings\" (L1429–L1440). Emotional, moving. \"I feel unstoppable and so powerful because of overcoming addiction.\" Take L1429–L1440. Good.\n\n14. \"I am God\" belief (L1448–L1458). Bold. Maybe too spiritual/controversial but it's a hot take with reasoning. Skip probably.\n\n15. Belief/DMN: \"our brains are designed to look for data that confirms your beliefs\" (L0178) — the most-liked comment line (3301 likes in audience block). Take L0177–L0185: \"this is everybody's brain... our brains are designed to look for data that confirms your beliefs... choose your beliefs, design your beliefs.\" That's the audience's favorite line per comments. Definitely include. Take L0177–L0185.\n\n16. Billionaire's brain: \"When something looks like a brick wall to the average person, that person sees a door\" (L0094–L0104). Motivational but well-put. Maybe. The most-marked moment was L1121 (link comments — not a clip). Comment at L0100 (23 likes) is a criticism. \"Billionaires don't think there are limits... brick wall → door\" — decent motivational clip. Could include. I have a lot already.\n\n17. Phone on table makes you seem less trustworthy (L0493–L0503). Good addition to clip 1 or separate. The video's cold open uses it. Separate clip: L0493–L0503: \"people who put their phone out on the table when they first meet you — you seem less trustworthy, less capable, less intelligent... you're saying you're not so important that I'll give up the opportunity for someone more important to call.\" Strong social mirror. Take L0493–L0503.\n\nAlso the morning phone / first thing in the morning your brain is delicate (L0531–L0539): \"When you allow the rest of the world to tell you who you are... you're losing the amazing idea your brain would have given you.\" Decent. Maybe skip.\n\nCount so far potential: phone IQ, phone trust, belief confirmation, craving loop, multitask one-100, Stanford multitaskers, be bored, shower thoughts, news/not important, three reels ago, loneliness candy, 5am club, stress cycle, detox results, addiction/powerless. That's 15 — too many. Trim to strongest ~10.\n\nRank by strength:\n\n1. Phone visible = dumber (shock fact, universal) — HIGH.\n2. Stress doesn't kill; never completing the stress cycle kills — screenshot line. HIGH.\n3. Brains designed to look for data that confirms beliefs (audience favorite, 3301 likes) — HIGH.\n4. Be bored → ideas — counterintuitive. HIGH.\n5. Three reels ago — direct address, clever. HIGH.\n6. Loneliness candy analogy — reframe. HIGH.\n7. 5am club porn — hot take, splits comments. HIGH.\n8. Phone on table = less trustworthy — social. \n9. Craving is a feeling / habit=addiction loop — reframe.\n10. Addiction → powerless to powerful — emotional story.\n\nThat's 10. Maybe drop one or two. The Stanford multitasker bit and one-100: could merge into one clip L0631–L0646? Actually \"people who say they're great multitaskers are worse\" (L0631–L0635) is a great irony. But I have enough. Also the detox results — \"news and developments\" shape, quite strong. Hmm.\n\nLet me pick final 10:\n\n1. L0475–L0493 phone IQ. Start: \"When the phone was visible to you...\" Actually L0475 begins \"In this study, and by the way, this is one of the most shocking studies...\" good opening. End L0493 \"the IQ of your team is lower.\" Wait L0492 is \"If you let people have their phones out, the IQ of your employees, the IQ of your team is lower.\" L0493: \"You're making everybody dumber just by having phone here. Just by having the phone there. And if you care about this, people like you less.\" Then it transitions into the trust thing. End at L0493 to include \"people like you less\" — that flows into the trust clip. Hmm, overlapping. End clip 1 at L0492, start clip 2 at L0493. Fine.\n\n2. L0493–L0503 phone trust. Start \"And if you care about this, people like you less.\" Ends \"It's lowering the quality of the connection.\"\n\n3. L0177–L0185 belief confirmation. Start L0177 \"this is everybody's brain yours mine everybody's our brains are designed...\" L0177 begins \"because the brain is going to it's designed this way this is what I mean by biological laws\" — okay. End L0185 \"So, choose your beliefs, design your beliefs.\" Good arc. Start maybe L0178. L0178: \"(slow) is everybody's brain yours mine everybody's our brains are designed they're designed to look for data that confirms your beliefs.\" Start at L0178.\n\n4. L0669–L0676 be bored. Start \"So, what should I do? How how can someone become a person who gets incredible ideas all the time?\" L0669. End L0676 \"and you get ideas. Let me explain.\" Hmm — ending at \"Let me explain\" cuts off the explanation. Extend to L0686: \"when you daydream, that's when a bunch of ideas can finally come and float to the surface.\" L0669–L0686 is 18 lines ~145s. Acceptable. Or end L0679 \"So that's your idea machine.\" L0669–L0679 = 11 lines. The DMN explanation L0677–L0679 is dense but fine. I'll do L0669–L0679.\n\nActually the \"for every one good idea, a million ideas\" fishing bit L0663–L0668 is great too. Combine L0663–L0679? 17 lines. Hmm. Keep L0669–L0679, cleaner.\n\n5. L0817–L0823 three reels ago. Start L0817 \"Now we go to this side here. By the way, in case in case someone right now is watching this (slow) in a short\" — good. End L0823 \"If there's no memory, there's no learning.\" \n\n6. L0899–L0910 loneliness candy. Start L0899 \"If you say, 'Oh, I want to know what other people are doing.' If you get on social media, listen, let's be honest, social media is not social anymore, right?\" Good. End L0910 \"It never satisfies that need.\" \n\n7. L1069–L1079 5am club. Start L1069 \"I call it 5 a.m. club porn because there's so many blogs and books...\" End L1079 \"And each person is a little bit different.\" Or end L1078 \"It matters which time it is for you.\" L1078 ends \"...It doesn't matter which time it is. It matters which time it is for you.\" Good ending. L1069–L1078.\n\n8. L1243–L1249 stress cycle. Start L1243 \"and then more emails and then more calls...\" hmm. Better start L1244 \"when does it ending? It just keeps going...\" L1244: \"when does it ending? It just keeps going and going and going. When are you completing the stress cycle? Remember what we said before. We're designed for stress cycles.\" L1245: \"It's not coming down. It's never coming down. Stress doesn't kill. (slow) Never completing the stress cycle kills.\" Start L1244, end L1249 \"you'll be like, 'Okay, I'm done. I'm done giving you cortisol.'\" Actually end at L1248 for the full burnout consequence: L1248 \"Eventually, yes, you'll experience burnout. Your adrenals like will finally give out...\" Take L1244–L1248.\n\n9. L0290–L0310 craving/feeling/habit=addiction. Start L0290 \"Usually the craving is something else.\" Hmm L0289-0290: \"what that let's say ends up getting connected to... So it starts with a craving. The craving is not by the way usually to binge watch. Usually the craving is something else.\" Start L0290. End L0310 \"They're the same thing. They're the same thing.\" Hmm, L0309-0310: \"Addiction just means habit. That's it. ... So, what is a habit? What is also an addiction? It's also the same thing as just a behavior that you do over and over.\" Take L0290–L0310. ~21 lines, 170s. A bit long but earns it. Actually maybe trim to L0290–L0297 (craving is a feeling) + that's incomplete. Or L0301–L0310: \"There's a few different things you can do... the word habit... it's pretty much the same thing as addiction... people addicted to exercise... Addiction just means habit.\" Hmm. I'll take L0290–L0310 and let the second pass trim.\n\nActually, reconsider: is this one of the strongest 10? The \"habit = addiction\" demystification is good but the loop explanation later (L0315–L0332, binge → guilt → again) is more visceral. Maybe swap: take L0315–L0332: \"So then you start binge watching and what's going to happen... Did you deal with the thing you were actually stressed about? No... now you have overwhelm and shame... Guess what I want to do again? Watch again... We're making it darker... bigger, stronger, deeper... like the roots of a tree.\" That's the \"I did that too\" clip. Take L0315–L0332 (18 lines). Ends \"that's the same thing as addiction. It's the same thing as a habit.\" Strong. I'll use this instead, and mention craving-is-a-feeling as near miss or fold start at L0292? L0292: \"The craving you think is actually for binge watching, but it's it's a craving to binge watch in order to satisfy some feeling.\" Hmm. I'll take the loop clip L0315–L0332.\n\n10. L1429–L1440 addiction/powerless. Start L1429 \"Be careful about what you expose your mind to. What were you addicted to?\" That's the host's question — fine, gives context. Start L1430: \"I've been addicted to a great number of things in my life.\" End L1440 \"So it was an opportunity.\" Actually L1435–L1440: \"From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had... I feel unstoppable and so powerful because of overcoming addiction. So it was an opportunity.\" Take L1430–L1440.\n\nAlso consider detox results L1378–L1385 — \"significantly less lonely, depressed, anxious, attention spans up.\" It's a development with consequence. Could swap in for something. I have 10; maybe add as 11? Instructions: around ten for a long video normal. 10506s ≈ 2.9 hours. Up to ~12 fine if strong. I'll add the detox results as it's genuinely striking (unpublished data, \"you're the first to hear\"). Take L1378–L1385. Actually start L1377? L1378: \"(slow) Scores showed significantly less lonely, significantly less depressed, significantly less anxious.\" Needs the setup \"after 9 weeks\" — L1377 mentions \"they still scrolled... 6 hours down to two.\" L1378 begins \"Scores showed significantly less lonely...\" A stranger needs to know scores of what. Include L1372–L1385? That's 14 lines with the withdrawal/tears bit — actually that makes it better: \"a lot of tears... everyone going through withdrawal together... after 9 weeks: significantly less lonely...\" Take L1372–L1385.\n\nAlso near misses: \n- Billionaire brick wall/door L0094–L0104 (motivational, decent).\n- Stanford multitasker irony L0631–L0635.\n- \"You're not that important\" news L0776–L0785.\n- Shower thoughts L0723–L0740.\n- Main character energy / write the story L0133–L0137.\n- \"I am God\" L1449–L1458.\n- Burnout 22-year-old anecdote L1251–L1258.\n\nSkipped ranges:\n- L0001–L0031 cold open montage + subscribe/sponsor.\n- L0032–L0093 intro, who she is, biological laws framing.\n- L0110–L0176 main character energy, DMN, write the story (motivational, partly usable but weaker).\n- L0186–L0232 Raj's sleep belief exercise, identity-based beliefs template.\n- L0233–L0289 implementation intentions, habit mechanics.\n- L0350–L0430 cognitive pause, replacement behavior, Nature breaks study (good but covered by other picks; actually the \"scrolling is not a break\" Nature study L0363–L0373 is quite strong... hmm. \"There was a paper published in Nature 2024 that measured effectiveness of different breaks... scrolling is pretty much the same as not taking a break.\" That's a shock fact. Should I include? It's good — saveable. Maybe as clip. I'm at 11 already. I could swap the phone-trust one... no, both good. Add as 12th? Limit ~10-12. Let me count my final list:\n\n1. Phone visible = dumber (L0475–L0492)\n2. Phone on table = less trustworthy (L0493–L0503)\n3. Beliefs confirm data (L0178–L0185)\n4. Multitask loop / overwhelm+shame (L0315–L0332)\n5. Be bored (L0669–L0679)\n6. Three reels ago (L0817–L0823)\n7. Scrolling is not a break — Nature study (L0363–L0374)\n8. Loneliness candy (L0899–L0910)\n9. 5am club porn (L1069–L1078)\n10. Stress cycle kills (L1244–L1248)\n11. Detox results (L1372–L1385)\n12. Powerless → powerful addiction (L1430–L1440)\n\nThat's 12. Reasonable for 3 hours. All genuinely strong. Check the Nature one bounds: L0363: \"This is not a break. There was, by the way, a paper published in Nature.\" L0364: \"the world's like premier science journal 2024 that actually measured the effectiveness of different kinds of breaks.\" Through L0368 \"It showed that scrolling is pretty much the same as not taking a break.\" Then L0369–L0373 Olympic athlete / TikTok not a break. End at L0368 or L0373. L0373: \"If they say I'm tired, like let me open Tik Tok. That's we already know... that's not a break. It doesn't replenish and increase your energy.\" End L0373. Start L0362: \"But if you're tired in the middle of the day, you're like halfway in the middle of the day and you're like, I'm just exhausted and I need a break.\" That gives context. L0362–L0373 (12 lines).\n\nCheck self-containment:\n1. L0475: \"In this study, and by the way, this is one of the most shocking studies...\" — \"this study\" referenced; preceding lines set up three scenarios. A stranger hearing \"when the phone was visible to you, dead but face down off to the side, scores were significantly decreased\" — understandable? Mostly. The second pass can pull hook. Maybe start at L0471-473 for scenario three. L0473: \"In this study, and remember the phone is dead. Technically, nothing changes in all three scenarios.\" Hmm. I'll start L0473: \"In this study, and remember the phone is dead...\" gives the crucial \"dead\" context. End L0492.\n\n2. L0493–L0503: starts \"And if you care about this, people like you less.\" — the \"this\" is phone on table; context comes immediately at L0494 \"people who hold their phone or put their phone out on the table when they're talking to people.\" Fine.\n\n3. L0178–L0185: starts \"is everybody's brain yours mine everybody's our brains are designed...\" fine. The [COMMENT] about the quote is at L0177. End L0185 \"So, choose your beliefs, design your beliefs.\"\n\n4. L0315–L0332: starts \"So whatever it is that you did, let's say you did binge watching one time when you felt that way.\" OK standalone-ish. End L0332 \"(fast) that's a behavior that you do a lot, that's the same thing as addiction. It's the same thing as a habit.\" Good.\n\n5. L0669–L0679.\n\n6. L0817–L0823.\n\n7. L0362–L0373.\n\n8. L0899–L0910.\n\n9. L1069–L1078.\n\n10. L1244–L1248.\n\n11. L1372–L1385. Start L1372 \"It was also hard. They a lot of tears by the way had a lot of students crying.\" Hmm needs \"they\" = students in the class. L1371 is host's question. Start L1373: \"it's an addiction. Everyone is going through withdrawal together.\" Actually L1372–L1373 both describe. Keep L1372 start; \"It was also hard. They a lot of tears...\" — the \"they\" is slightly dangling but the next line \"it's an addiction, everyone going through withdrawal together\" clarifies. Fine.\n\n12. L1430–L1440.\n\nRank order — put strongest first:\n1. Phone dumber (highest shock + universal)\n2. Stress cycle kills\n3. Beliefs confirm data (audience favorite)\n4. Be bored\n5. Three reels ago\n6. Scrolling not a break\n7. Loneliness candy\n8. 5am club\n9. Multitask shame loop\n10. Phone trust\n11. Detox results\n12. Powerless→powerful\n\nHook strengths: phone dumber — the clip opens with \"In this study...\" (5); but second pass can lift \"you're dumber\" hook. Score ~7. Stress cycle opens \"when does it ending? it just keeps going\" ~6; hook line \"stress doesn't kill\" is mid. Beliefs opens \"is everybody's brain yours mine\" ~6. Be bored opens with question \"How can someone become a person who gets incredible ideas all the time?\" ~7. Three reels ago opens \"in case someone is watching this in a short, I dare you to remember three reels ago\" ~8 — great hook. Scrolling not a break opens \"if you're tired in the middle of the day...\" ~5. Candy opens \"let's be honest, social media is not social anymore\" ~7. 5am club opens \"I call it 5 a.m. club porn\" ~8. Loop opens \"let's say you did binge watching one time\" ~5. Phone trust ~6. Detox opens \"It was also hard. There were a lot of tears\" ~6. Powerless opens \"I've been addicted to a great number of things in my life\" ~7.\n\nsignals_used: comment on L0177 (73 likes for the belief quote) for clip 3; audience block \"best line\" for beliefs; comments L1121/L1120 about link — not used. For phone study L0479 comment \"agree 💯\". Detox: none. Note the audience loudest comment \"Our brains are designed to look for data that confirms your beliefs\" 3301 likes — signals_used: \"audience loudest comment names this exact line\".\n\nnear_misses:\n- L0094–L0104 billionaire brick wall/door: motivational, well-put but generic self-help territory.\n- L0631–L0635 Stanford multitasker irony: great line but needs the demo before it to land fully.\n- L0776–L0785 \"you're not that important\" news cutoff: strong, overlaps with phone/news material already taken.\n- L0723–L0740 shower-thought protocol: good tactic but a walkthrough; the claim is thin without the mechanism.\n- L1251–L1258 22-year-old burnout anecdote: funny but needs the stress-cycle frame.\n\nskipped ranges:\n- L0001–L0031 cold open montage, subscribe + sponsor read.\n- L0032–L0093 intro, her background, biological-laws framing.\n- L0105–L0176 main character energy, redirection, DMN storytelling, write-your-story exercise.\n- L0186–L0289 Raj's sleep beliefs, identity-based belief template, implementation intentions.\n- L0333–L0361 cognitive pause / identify the feeling walkthrough.\n- L0440–L0474 UT Austin study setup (used later portion instead).\n- L0504–L0551 phone-before-bed dare, digital hygiene of CEOs.\n- L0552–L0630 multitasking paper test demo (visual, partially used).\n- L0680–L0752 DMN/CEN walkthrough, shower thoughts, think week.\n- L0753–L0816 news threat, content diet, long-form empathy.\n- L0911–L0957 dopamine/oxytocin chemistry walkthrough.\n- L0958–L1040 brain city map walkthrough (visual).\n- L1041–L1068 5am setup, sleep foundation.\n- L1080–L1160 chronotype walkthrough, Nobel Prize.\n- L1161–L1242 PM-shifted day design.\n- L1259–L1311 3M framework / psychological detachment.\n- L1312–L1371 Berkeley class setup.\n- L1386–L1428 study caveats, content diet close.\n- L1441–L1493 \"I am God\" answer, cost of ambition, outro.\n\nTrim skipped to ~10-15 coarse ranges. Fine.\n\nvideo_read: \"A ~3-hour Hindi/English... actually it's English. Raj Shamani podcast with cognitive neuroscientist Dr Sahar Yousef on attention, phones, habits, burnout and sleep. The strongest material is a run of clean, counter-intuitive science claims about everyday behaviour — phone visibility lowering IQ, scrolling not counting as a break, boredom producing ideas, stress cycles — spread evenly through the middle two hours.\"\n\nNow write JSON. Ensure start_words/end_words copied exactly.\n\nClip 1: L0473 start_words: \"In this study, and remember the phone is dead\" — L0473 text: \">> In this study, and remember the phone is dead. >> Yeah. Yeah. Technically, nothing changes\" — start_words \"In this study, and remember the phone is dead\". End L0492: \"If you let people have their phones out, the IQ of your employees, the IQ of your team is lower.\" end_words \"the IQ of your team is lower\".\n\nClip 2 stress: L1244 start_words \"when does it ending? It just keeps going\" end L1248 end_words \"I'm done giving you cortisol.\" — L1248: \"keep doing this and you're on this roller coaster ride with yourself. Eventually, yes, you'll experience burnout. Your adrenals like will finally give out and you'll be like, \"Okay, I'm done. I'm done giving you cortisol.\"\" end_words \"I'm done. I'm done giving you cortisol\".\n\nClip 3 beliefs: L0178 start_words \"is everybody's brain yours mine everybody's\" end L0185 \"So, choose your beliefs, design your beliefs.\" end_words \"choose your beliefs, design your beliefs\".\n\nClip 4 be bored: L0669 start: \"So, what should I do? How how can someone become a person who gets incredible ideas all the time?\" start_words \"How how can someone become a person who gets incredible ideas\". End L0679: \"the area of the brain and the a areas of the brain that are all about narration and ideas. So that's your idea machine.\" end_words \"So that's your idea machine\".\n\nClip 5 three reels: L0817 start_words \"Now we go to this side here\" end L0823 end_words \"If there's no memory, there's no learning\".\n\nClip 6 scrolling not a break: L0362 start_words \"But if you're tired in the middle of the day\" end L0373 end_words \"It doesn't replenish and increase your energy\".\n\nClip 7 candy: L0899 start_words \"If you get on social media, listen, let's be honest\" end L0910 end_words \"It never satisfies that need\".\n\nClip 8 5am: L1069 start_words \"I call it 5 a.m. club porn because there's so many blogs\" end L1078 end_words \"It matters which time it is for you\".\n\nClip 9 loop: L0315 start_words \"So whatever it is that you did, let's say you did binge\" end L0332 end_words \"that's the same thing as addiction. It's the same thing as a habit\" — L0332: \"(fast) that's a behavior that you do a lot, that's the same thing as addiction. It's the same thing as a habit.\" end_words \"that's the same thing as addiction. It's the same thing as a habit\".\n\nClip 10 phone trust: L0493 start_words \"And if you care about this, people like you less\" end L0503 end_words \"It's lowering the quality of the connection\".\n\nClip 11 detox: L1372 start_words \"It was also hard. They a lot of tears\" end L1385 end_words \"I didn't realize we were going to see this many benefits so fast\".\n\nClip 12 powerless: L1430 start_words \"I've been addicted to a great number of things in my life\" end L1440 end_words \"So it was an opportunity\".\n\nConfidence HIGH for most; maybe MEDIUM for loop clip and detox. Fine."
+}

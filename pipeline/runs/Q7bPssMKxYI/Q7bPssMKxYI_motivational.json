@@ -1,0 +1,193 @@
+{
+  "category": "motivational",
+  "clips": [
+    {
+      "category": "motivational",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "Why not you?",
+      "why": "The heart of the video and its most-marked moment (29 and 26 like comments on this exact second). Rohn turns a vague dream into a direct personal confrontation: 'you've got the brains, you can make decisions, you can change your life, you can build a financial wall around your family nothing can get through' — then lands 'why not you' twice. It removes the viewer's quiet excuse that they are somehow not the kind of person things happen to. Viewers literally wrote 'I will come back to this a lot' on this second. Note: L0049 opens mid-sentence ('do it from up here'); a cleaner edge is 'you've got the brains' at L0050, and the hook line 'my personal question to you is why not you' can be flashed from L0049.",
+      "category_hint": "SELF-BELIEF / QUESTION HOOK",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "4 viewer comments on L0049 including one at 29 likes and one at 26 likes",
+        "audience block: 'why not me? why not now?' quoted at 129 likes"
+      ],
+      "start_line": "L0049",
+      "end_line": "L0052",
+      "start_words": "do it from up here but I want you to take it personal",
+      "end_words": "I ask the question why not you but",
+      "start_s": 375.12,
+      "end_s": 414.92,
+      "duration_s": 39.8,
+      "source_start_s": 375.12,
+      "source_end_s": 414.92,
+      "one_liner": false,
+      "text": "do it from up here but I want you to take it personal and my personal question to you is why not you you've got the brains you can make decisions you can study the plan in you can change your life you can grow immensely in the next few years you can make your dreams come true you can build a financial wall around your family nothing can get through you can become healthy you can become powerful why not you and I'm here to say that I'm ready to pledge my support to make your personal dreams come true I ask the question why not you but",
+      "flags": [],
+      "id": "mot1"
+    },
+    {
+      "category": "motivational",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "If the why is powerful, the how is easy",
+      "why": "Two separate quotable lines delivered back to back: the mechanism ('if the why is powerful the how is easy') and the warning ('without a vision we die, without a vision we perish, without a dream we're nothing'). Both lines are quoted word-for-word in the audience's comments — one at 93 likes saying they have listened to this speech over 100 times. The first line hands the viewer a way to think about their own stuckness; the second makes the absence of a dream feel existential. Under 22 seconds total, and either line can be flashed at the head of the reel.",
+      "category_hint": "ONE-LINER / IDENTITY",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "audience comments quoting both lines verbatim: 'If why is powerful the how is easy' (6 likes), 'without a vision we die...' (93 likes)"
+      ],
+      "start_line": "L0014",
+      "end_line": "L0016",
+      "start_words": "why in leadership training here's what we learn",
+      "end_words": "without a dream we're nothing",
+      "start_s": 97.92,
+      "end_s": 120.04,
+      "duration_s": 22.12,
+      "source_start_s": 97.92,
+      "source_end_s": 120.04,
+      "one_liner": false,
+      "text": "why in leadership training here's what we learn if the why is powerful the how is easy but if the why isn't strong if your goals aren't powerful if the vision isn't clear the old Prophet said without a vision we die without a vision we perish without a dream we're nothing",
+      "flags": [],
+      "id": "mot2"
+    },
+    {
+      "category": "motivational",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "Why not see what kind of person you can become",
+      "why": "A permission roll: 'why not see how much you can earn, why not see how much you can learn, why not see what kind of person you can become.' It takes away the assumption that wanting more needs justification — the 'why not' is the whole argument. This is the second of Rohn's four questions and the audience's loudest comment theme ('why not me? why not now? the 4 most important questions I have ever been asked', 129 likes) lives here. Cutting note: L0029 opens with meta framing ('here's number two') and L0031 ends mid-phrase — the editor should trim to 'why not see how much you can earn... why not see how many people you can reach', pulling 'can reach' from the top of L0032.",
+      "category_hint": "PERMISSION / QUESTION HOOK",
+      "hook_strength": 4.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment on L0029 (14 likes)",
+        "audience block: 'why not now, why not me' theme (3 comments, one at 129 likes)"
+      ],
+      "start_line": "L0029",
+      "end_line": "L0031",
+      "start_words": "how now here's number two the first question",
+      "end_words": "why not see how many people you",
+      "start_s": 217.48,
+      "end_s": 247.32,
+      "duration_s": 29.84,
+      "source_start_s": 217.48,
+      "source_end_s": 247.32,
+      "one_liner": false,
+      "text": "how now here's number two the first question to ponder when you go home is why here's another good answer to why it's the second question why not why not see how much you can earn why not see how much you can learn why not see how many skills you can develop why not see what kind of person you can become why not see what kind of influence you can have why not see how many people you can rescue from Oblivion why not see how many people you",
+      "flags": [],
+      "id": "mot3"
+    },
+    {
+      "category": "motivational",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "Breathe into it your own personal spirit until it becomes a flame",
+      "why": "The 'why not now' payoff: 'take this dream and not let it die, take this dream and give it life, take this dream and breathe into it your own personal Spirit until finally it becomes a flame that burns around the whole world — let's go do it now.' Pure rally-cry rhythm with an instruction sized to tonight: start now. Returned despite real worries: the surrounding build (L0055-L0059) is Herbalife/Extravaganza recap the clip must avoid, and L0060 opens mid-thought — the second pass should cut in at 'take this dream and not let it die' mid-line. If that edge can't be made clean, this is droppable.",
+      "category_hint": "HUSTLE / RALLY",
+      "hook_strength": 4.0,
+      "self_contained": false,
+      "confidence": "LOW",
+      "signals_used": [
+        "comment marker on L0061"
+      ],
+      "start_line": "L0060",
+      "end_line": "L0061",
+      "start_words": "of your cooperation the way you have learned",
+      "end_words": "let's go do it now",
+      "start_s": 470.36,
+      "end_s": 498.04,
+      "duration_s": 27.68,
+      "source_start_s": 470.36,
+      "source_end_s": 498.04,
+      "one_liner": false,
+      "text": "of your cooperation the way you have learned and listened and worked hard to get it all I congratulate you for that but Mark brought us here and what a time now for us to take this dream and not let it die take this dream and give it life take this dream and breathe into it your own personal Spirit until finally it becomes a flame that burns around the whole world let's go do it now",
+      "flags": [
+        "finder marked it not self-contained"
+      ],
+      "id": "mot4"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0001",
+      "end_line": "L0012",
+      "why_not": "The 'why pay the price, why work this hard' roll is genuinely strong but runs ~95 seconds to its landing ('you're the only one that can answer that question for yourself'), and its best quotable payoff is already captured in the L0014-L0016 clip."
+    },
+    {
+      "start_line": "L0036",
+      "end_line": "L0039",
+      "why_not": "'If a farm boy can wander out of Idaho... why not you' is a good reframe, but it leans on Extravaganza and 'Mar Hughes' references a stranger can't read, and it duplicates the stronger 'why not you' clip at L0049."
+    },
+    {
+      "start_line": "L0055",
+      "end_line": "L0059",
+      "why_not": "The 'why not now' question itself is one of the famous four, but the moment it opens it collapses into a Herbalife mountain-top recap ('Barcelona was special, Orlando was outrageous') — unusable around the question."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0017",
+      "to_line": "L0019",
+      "what": "movie testimony ('we joined because we believed, we left because we were disillusioned') — context-dependent, no turn for the viewer"
+    },
+    {
+      "from_line": "L0020",
+      "to_line": "L0028",
+      "what": "dream-strategy setup that becomes a Herbalife product pitch ('herbal life has got the ability to make it all come true')"
+    },
+    {
+      "from_line": "L0032",
+      "to_line": "L0035",
+      "what": "Rohn's own goals dated to the year 2000 — someone else's résumé, dated and unusable"
+    },
+    {
+      "from_line": "L0041",
+      "to_line": "L0048",
+      "what": "warm 'I wish I could sit with each of you' passage — affection, not motivation"
+    },
+    {
+      "from_line": "L0052",
+      "to_line": "L0054",
+      "what": "'I'll walk with you as we take Herbal Life around the world' — sponsor pledge"
+    }
+  ],
+  "video_read": "This is Jim Rohn on stage at a Herbalife 'Extravaganza', delivering his famous four-questions talk: why, why not, why not you, why not now. The motivational material lives exactly in those question builds — the 'why not you' passage is the most-commented moment in the video, and the audience quotes the 'why/how' and 'without a vision' lines verbatim. Herbalife product pitches thread through and contaminate several stretches (especially the 'why not now' build), which I have worked around rather than through.",
+  "coverage": 0.964,
+  "usage": {
+    "prompt_tokens": 20148,
+    "completion_tokens": 7500,
+    "total_tokens": 27648,
+    "cost": 0.0067722,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0067722,
+      "upstream_inference_prompt_cost": 0.0030222,
+      "upstream_inference_completions_cost": 0.00375
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 5633,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 5633
+  },
+  "error": null,
+  "seconds": 149.0,
+  "coverage_note": null,
+  "reasoning": "Let me read this transcript. It's Jim Rohn's speech — the famous \"four questions\" talk: why, why not, why not you, why not now. It's a Herbalife event, but the core motivational content is strong and heavily commented on by the audience.\n\nKey moments:\n\n1. L0001–L0016: The \"why\" question build — \"why pay the price, why work this hard...\" ending in \"if the why is powerful the how is easy\" (L0014) and \"without a vision we die, without a vision we perish, without a dream we're nothing\" (L0016). This is the quoted-in-comments material: \"If why is powerful the how is easy\" (6 likes), \"without a vision we die...\" (93 likes). Strong. The \"why\" build runs L0001–L0014/15. The \"without a vision\" line is quotable.\n\n2. L0029–L0039: \"why not\" — \"why not see how much you can earn... why not see what kind of person you can become...\" The audience block shows \"why not now, why not me\" comments (129 likes, 11 likes). Also \"if a farm boy can wander out of Idaho... why not you\". L0029 has a comment with 14 likes (\"3:41\").\n\n3. L0048–L0052: \"why not you\" — the most-marked moment (L0049, 4 comments, one 29 likes, one 26 likes). \"you've got the brains you can make decisions... you can make your dreams come true... why not you\". This is the peak. L0049–L0052.\n\n4. L0055–L0061: \"why not now\" — \"there never was a better time\" — but this drifts into Herbalife/Extravaganza specifics (\"Mark has brought Herbalife to an incredible mountaintop, Barcelona was special, Orlando was outrageous\"). The last lines L0060–L0061 have the dream-flame imagery: \"take this dream and breathe into it your own personal Spirit until finally it becomes a flame that burns around the whole world let's go do it now\" — that's a strong landing, but the build is Herbalife-specific. Could take L0056 + jump? Can't jump. L0055–L0061 includes \"Mark has brought Herbalife\" — context-heavy. The flame line alone L0060–L0061? \"of your cooperation the way you have learned...\" starts mid-thought. Hmm. Maybe L0061 alone isn't self-contained. Actually \"take this dream and not let it die take this dream and give it life take this dream and breathe into it your own personal Spirit until finally it becomes a flame that burns around the whole world let's go do it now\" — that portion within L0060–L0061 is quotable but the start of L0060 is \"of your cooperation...\" mid-thought. Second pass can cut precise edges though — start_words should be first words of start line. Hmm, the instructions say start_words are first few words of L0142. The second pass sets exact edges. So I can return L0060–L0061 and note it. Or skip the \"why not now\" as too Herbalife-tied. The flame passage is genuinely strong rhythm-wise. I'll include it as a lower-confidence clip or near miss. The \"why not now\" itself (L0055–L0056) \"there never was a better time\" — then goes Herbalife. Weak. I think the \"why not now\" question itself is one of the four famous questions and audience quoted it (\"why not now.?,.what a question!!!\" 11 likes). But the clip content after is Herbalife pitch. Maybe near-miss it.\n\nHerbalife concern: L0021 \"herbal life has got the ability to make it all come true\" — that's a product pitch inside the \"why\" list. The \"why not you\" stretch L0052–L0053 ends with \"I'm here to say that I'm ready to pledge my support to make your personal dreams come true... as we take Herbal Life around the world\" — Herbalife again. Better to end at L0051 or L0052 before Herbalife. L0049–L0051: \"but I want you to take it personal and my personal question to you is why not you you've got the brains you can make decisions you can study the plan in you can change your life you can grow immensely in the next few years you can make your dreams come true you can build a financial wall around your family nothing can get through you can become healthy you can become powerful why not you\" — wait, \"why not you\" appears at end of L0051. Actually L0052 starts \"not you and I'm here to say...\" Hmm, L0051 ends \"...you can become powerful why\" and L0052 begins \"not you\". So end at L0052's \"not you\"? That cuts mid-phrase. The landing \"why not you\" spans L0051–L0052. End at L0052? Then Herbalife comes right after in L0052-53. Tricky. Second pass can cut within a line? They cut on words; end_words = last few words of end line. If end line is L0052, end_words would be \"...I'm not going to ask it and just walk away...\" no wait L0052 full text: \"not you and I'm here to say that I'm ready to pledge my support to make your personal dreams come true I ask the question why not you but\". End at L0052 includes \"I ask the question why not you\" — a repetition of the landing, good. But also \"I'm ready to pledge my support to make your personal dreams come true\" — that's fine, supportive, not Herbalife. Herbalife comes at L0053. So L0049–L0052 works. Length: 8.2+12.3+9.1+10.1 = 39.7s. Good.\n\nActually maybe start earlier: L0048 \"time doesn't permit for us to have those intimate conversations... so I've got to do it from up here\" — that's setup giving the \"I want you to take it personal\" weight. L0048–L0052 = 45.4s. Or start L0049. The most-marked is L0049. Start L0049: \"do it from up here but I want you to take it personal...\" hmm L0049 starts \"do it from up here but I want you to take it personal and my personal question to you is why not\". Actually L0049 text: \"do it from up here but I want you to take it personal and my personal question to you is why not\" — wait no. Let me re-read. L0048: \"time doesn't permit for us to have those intimate conversations and get to know each other that well so I've got to\" and L0049: \"do it from up here but I want you to take it personal and my personal question to you is why not\". So L0049 starts mid-sentence \"do it from up here\". Starting at L0049 gives \"do it from up here but I want you to take it personal and my personal question to you is why not / you you've got the brains...\" — acceptable as opening, actually decent. But cleaner: start L0050 \"you you've got the brains you can make decisions...\" — that's a strong cold open actually! \"You've got the brains, you can make decisions, you can change your life, you can grow immensely in the next few years, you can make your dreams come true, you can build a financial wall around your family nothing can get through, you can become healthy, you can become powerful — why not you?\" That's the reel. L0050–L0052, length 12.3+9.1+10.1 = 31.5s. Strong. The comment magnet is L0049 though. Hmm. But the editor can pull the hook from anywhere; \"why not you\" sits at end of L0051/beginning L0052. I'll start at L0050 and let the second pass decide; or include L0049 for the \"my personal question to you is why not you\" framing. L0049 includes \"but I want you to take it personal and my personal question to you is why not\" — which flows into L0050 \"you you've got the brains\". Actually \"why not / you\" — L0049 ends \"why not\" and L0050 starts \"you you've got the brains\". So L0049–L0052 reads: \"...my personal question to you is why not you. You've got the brains...\" That's a natural build. 8.2+12.3+9.1+10.1 = 39.7s. I'll do L0049–L0052. Start words \"do it from up here\" — mid-sentence, slightly awkward but tolerable. Alternatively start L0048. I'll go L0049 and note.\n\n2. Clip: the \"why\" build L0001–L0016. Length: 5.6+1.3+10.7+6.8+8.8+1.9+3.4+3.8+12+8.1+8.2+11.1+13.2+6.9+3+11.5 = ~116s. Too long. Trim: the \"why why pay the price\" roll L0003–L0014 ending \"if the why is powerful the how is easy\". L0003–L0015: 10.7+6.8+8.8+1.9+3.4+3.8+12+8.1+8.2+11.1+13.2+6.9+3 = ~98s. Still long. Hmm, L0012–L0015: \"everything that's a good question why and you're the only one personally that can answer that question for yourself you've got to have your own list of wise here's what I want you / to do when you go home after you've left left this Extravaganza work on your list of wise one of the big thrusts for success is to come up with a strong enough / why in leadership training here's what we learn if the why is powerful the how is / easy\" — 11.1+13.2+6.9+3 = 34.2s. Contains the quotable \"if the why is powerful the how is easy\" — but needs the \"why\" list before? Not necessarily; \"you're the only one personally that can answer that question for yourself\" — \"that question\" refers back. Hmm, self-contained issue.\n\nAlternative: L0014–L0016: \"why in leadership training here's what we learn if the why is powerful the how is / easy but if the why isn't / strong if your goals aren't powerful if the vision isn't clear the old Prophet said without a vision we die without a vision we perish without a dream we're nothing\" — 6.9+3+11.5 = 21.4s. The most quotable stretch: \"If the why is powerful, the how is easy. Without a vision we die, without a vision we perish, without a dream we're nothing.\" Both lines are quoted verbatim in comments (6 likes, 93 likes). Starts mid-sentence \"why in leadership training\" — a bit rough but the second pass can trim to \"here's what we learn: if the why is powerful the how is easy\". Actually a cleaner start: L0013 ends with \"...come up with a strong enough\" and L0014 starts \"why in leadership training\". Starting at L0014, first words \"why in leadership training\" — odd but a stranger hears \"in leadership training here's what we learn: if the why is powerful the how is easy\" — fine. This is a strong one-liner-ish clip. HIGH confidence. signals: audience comments quoting both lines.\n\nCould extend to include \"but if the why isn't strong...\" — that's L0015–L0016, yes included. Good: \"if the why is powerful the how is easy, but if the why isn't strong, if your goals aren't powerful, if the vision isn't clear — without a vision we die, without a vision we perish, without a dream we're nothing.\" Excellent reel. 21s.\n\n3. Clip: \"why not\" L0029–L0031 or L0029–L0039. The \"why not\" roll: \"here's another good answer to why it's the second question why not why not / see how much you can earn why not see how much you can learn why not see how many skills you can develop why not see what kind of person you / can become why not see what kind of influence you can have why not see how many people you can rescue from Oblivion why not see how many people you / can reach\" — L0029–L0031: 11.5+8.5+9.8 = 29.8s. Then L0032–L0035 is his own goals (dated, \"by the year 2000\"). L0036–L0039: \"why not if a farm boy can wander out of Idaho and finally arrive at this Extravaganza why not you...\" — has Extravaganza reference but readable. The comment \"3:41\" 14 likes on L0029. And audience \"why not me, why not now, the 4 most important questions\". \n\nMaybe two separate: (a) the \"why not\" list L0029–L0031; (b) \"why not you\" farm boy L0036–L0039: 9.4+7.2+8.4+10.1 = 35.1s. Hmm, the farm boy bit references Extravaganza and Mar Hughes — context heavy but understandable (\"if a farm boy can wander out of Idaho... why not you\"). Actually it lands on \"you've got to stay here till you go I mean what else are you going to do why not see how much you can do how far you can go\" — \"you've got to stay here till you go\" was quoted in comments (8 likes, \"thats deep\"). Interesting.\n\nI think the strongest \"why not\" clip is L0029–L0031 — the permission/inversion: \"why not see how much you can earn, why not see how much you can learn, why not see what kind of person you can become.\" Actually that's basically a permission-granting roll. Combined with the \"why not you\" clip later, there's overlap (\"why not you\" is question 3). Hmm.\n\nLet me structure final picks:\n\nClip 1 (rank 1): \"Why not you\" — L0049–L0052 (or L0050–L0052). Most-marked moment, 4 comments, top comment 29 likes. This is the heart.\n\nClip 2 (rank 2): \"If the why is powerful, the how is easy / without a vision we die\" — L0014–L0016. Double quotable, both quoted in comments.\n\nClip 3 (rank 3): \"Why not\" permission roll — L0029–L0031. \"why not see how much you can earn... why not see what kind of person you can become.\" Opens \"now here's number two the first question to ponder when you go home is why here's another good answer to why it's the second question why not why not\" — hmm, start of L0029 is meta (\"here's number two\"). Second pass can cut to \"why not see how much you can earn\". Maybe start at L0029 and note. Or is this redundant with clip 1? It's a different landing: this one is permission to want more, clip 1 is \"you specifically are capable\". Per the \"one stretch holds several moments\" instruction, return both. Actually, hmm — clip 3 and clip 1 do feel like versions. But they have different payoffs. The \"why not\" roll lands on \"why not see what kind of person you can become\" — permission to become. I'll include it, MEDIUM confidence.\n\nClip 4? \"Why not now\" — the flame passage L0060–L0061. \"take this dream and not let it die take this dream and give it life take this dream and breathe into it your own personal Spirit until finally it becomes a flame that burns around the whole world let's go do it now\" — that's rousing rhythm. But starts mid-thought (\"of your cooperation...\"). The build (L0055–L0059) is Herbalife/Extravaganza. Self-contained? Marginal. The final rally \"let's go do it now\" is a call to action. I could return L0060–L0061 with LOW/MEDIUM confidence noting the rough start. Actually the words within L0060: \"but Mark brought us here and what a time now for us to take this dream and not let it die...\" — \"Mark brought us here\" is context. The second pass with 30s room on both sides can't fix Herbalife earlier. Hmm. The flame imagery itself starting at \"take this dream and not let it die\" is strong. I'll return it as a MEDIUM clip with the caveat — a rally cry, \"why not now\" energy. Length 12.3+15.4 = 27.7s.\n\nActually, also consider \"why not now\" question itself L0055–L0056: \"and now here's my last / question my very last question on the questions to ponder is why not now there never was a better time\" — \"there never was a better time\" is a good line but then Herbalife. Skip; near-miss.\n\nNear misses:\n- L0001–L0012 \"why why pay the price\" build — the roll of \"why\" questions; strong but long and lands on \"you're the only one who can answer\" — actually that landing is decent. L0003–L0012. Why not include as clip? \"Why pay the price, why work this hard, why go this far... you're the only one personally that can answer that question for yourself, you've got to have your own list of whys.\" That's a real moment — hands the viewer the instruction \"work on your own list of whys\". Length L0003–L0013: ~98s, too long. L0001–L0005 alone: the question roll, 32s, but no landing. Hmm. L0003–L0005 is pure build without payoff. The payoff \"if the why is powerful the how is easy\" is in clip 2. So near-miss: the \"why\" roll L0001–L0013 — long build, lands in clip 2's quotable instead; if a fourth clip is wanted, the farm-boy \"why not you\" L0036–L0039.\n- L0020–L0027: \"sit down with your family and develop a dream strategy... herbal life has got the ability\" — Herbalife product pitch, skip.\n- L0032–L0035: his own 2000 goals — dated, someone else's CV-ish.\n\nSkipped list:\n- L0001–L0013: \"why\" question roll — long build, its payoff is taken as clip 2.\n- L0017–L0019: movie testimony \"we joined because we believed...\" — actually \"we stayed because we were committed we left because we were disillusioned but we came back because we were lost without a dream we are nothing\" — hmm that's kind of striking but context-dependent (movie reference, Bill Heron testimony). Skip.\n- L0020–L0028: Herbalife pitch (\"herbal life has got the ability to make it all come true\").\n- L0032–L0035: personal goals dated to year 2000.\n- L0041–L0048: \"I wish I could sit with each of you\" — warm but not a clip.\n- L0052–L0054: pledge/Herbalife walk-with-you.\n- L0055–L0059: Herbalife Extravaganza recap.\n\nHook strengths:\n- Clip 1 (why not you): opens \"do it from up here but I want you to take it personal and my personal question to you is why not you\" — decent hook, ~6. If starting L0050: \"you've got the brains\" — strong, 8. I'll set start L0049, hook 6? The instructions: hook only about first three seconds. \"do it from up here\" is weak. But I chose L0049 for the framing. Alternatively start L0050 \"you you've got the brains you can make decisions\" — very strong hook. The \"why not\" question setup in L0049 is nice but the punchline \"why not you\" appears at L0051–52 anyway. I'll go L0050–L0052, hook 8, and note in why that the editor may prepend the \"why not you\" question from L0049. Hmm, but the most-marked comment is on L0049. Signals: comments on L0049. If I start at L0050, the clip's first seconds are \"you you've got the brains\" — great. But then the \"why not you\" question setup is lost; the landing \"why not you\" still at end. I think L0050–L0052 is the better reel. But losing L0049 means losing the most-commented line... the comment was about \"why not you?\" which is the concept, present in the clip. I'll start at L0049 actually to keep \"my personal question to you is why not you\" — no wait, L0049 ends with \"why not\" and L0050 begins \"you you've got the brains\". The phrase \"why not you\" completes across the boundary. So starting at L0049 gives: \"...my personal question to you is why not you. You've got the brains...\" — that's a good open, \"my personal question to you is\" is actually a decent hook. Hook 7. And it covers the commented line. Length 39.7s. OK: L0049–L0052, hook 7.\n\n- Clip 2 (why powerful/how easy + vision): hook — opens \"why in leadership training here's what we learn\" — meh, 4. But editor can flash \"without a vision we die\" at head. hook 5.\n\n- Clip 3 (why not roll): opens \"now here's number two...\" meta, weak — 4. Editor can trim.\n\n- Clip 4 (dream flame): opens \"of your cooperation the way you have learned...\" rough — 4. Confidence LOW/MEDIUM, note Herbalife build.\n\nRank order: 1) why not you, 2) why powerful/how easy + without a vision, 3) why not roll, 4) dream flame.\n\nLet me double check line ids and words:\n- L0049 first words: \"do it from up here\" — exact. L0052 last words: \"...I ask the question why not you but\" — hmm ends with \"but\". End_words: \"I ask the question why not you\". The \"but\" trails into L0053 \"I'm not going to ask it and just walk away\" — actually \"I ask the question why not you but I'm not going to ask it and just walk away\" — that's a nice line too. Ending at L0052 with \"but\" hanging — the second pass can cut before \"but\". End_words copy last few words of L0052: \"I ask the question why not you but\". Fine, copy exactly.\n\nWait — should I extend to L0053? \"I'm not going to ask it and just walk away I'm going to ask it and walk with you in this journey as we take Herbal Life around the\" — Herbalife. No, stop at L0052.\n\n- Clip 2: L0014 first words \"why in leadership training\" — copy exactly. L0016 last words \"without a dream we're nothing\". Good.\n- Clip 3: L0029 first words \"how now here's number two\" — hmm actually L0029: \"how now here's number two the first question to ponder when you go home is why here's another good answer to why it's the second question why not why not\". First words \"how now here's number two\". Copy exactly. L0031 last words \"why not see how many people you\". Ugh, L0031 ends mid-phrase \"why not see how many people you / can reach\" (L0032). L0032: \"can reach I shared one of my goals...\" — ending at L0031 cuts \"can reach\". Second pass handles it, or end at L0032? L0032 includes his 2000 goal — bad. End at L0031, second pass trims. Note in why.\n- Clip 4: L0060 first words \"of your cooperation\". L0061 last words \"let's go do it now\".\n\nvideo_read: Jim Rohn stage speech at a Herbalife \"Extravaganza\", built around four questions — why, why not, why not you, why not now. The motivational material is the question builds; Herbalife pitches thread through and break some stretches. Confidence on picks.\n\nCategories: self-belief / question hook.\n\nWrite JSON."
+}

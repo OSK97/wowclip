@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "video_id": "dQw4w9WgXcQ",
+    "video": {
+      "video_id": "dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "channel": "Rick Astley",
+      "duration_s": 214.0,
+      "views": "1817520631"
+    },
+    "categories": [
+      "motivational"
+    ],
+    "readings": {
+      "motivational": {
+        "video_read": "This is the music video for Rick Astley's 'Never Gonna Give You Up' — 214 seconds of song lyrics, transcribed by YouTube's automatic captions, with a comment section dominated by Rickroll meme culture. There is no spoken monologue, no speaker, no advice, and no moment anywhere in the transcript where a viewer's self-image is changed by what is said. The material I hunt for does not exist in this video.",
+        "coverage": 1.0,
+        "near_misses": [],
+        "skipped": [
+          {
+            "from_line": "L0001",
+            "to_line": "L0010",
+            "what": "opening verse and chorus of the song, no spoken content"
+          },
+          {
+            "from_line": "L0011",
+            "to_line": "L0021",
+            "what": "second verse with caption gaps and pauses, lyrics only"
+          },
+          {
+            "from_line": "L0022",
+            "to_line": "L0034",
+            "what": "final chorus and outro, lyrics only"
+          }
+        ]
+      }
+    },
+    "dropped_in_select": [],
+    "timings": {
+      "comments": 38.13,
+      "payload": 1.87,
+      "finders": 5.41
+    },
+    "costs": {
+      "llm_inr": 4.0569999999999995,
+      "youtube_api_units": 11,
+      "total_inr": 4.057
+    },
+    "seconds": 46.04
+  },
+  "clips": []
+}

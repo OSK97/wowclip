@@ -1,0 +1,235 @@
+{
+  "category": "motivational",
+  "clips": [
+    {
+      "category": "motivational",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "No one knows how when they begin — ideas don't come out fully formed",
+      "why": "Removes the exact excuse the scared 22-year-old is holding: 'I haven't had my big idea yet, I don't know enough to start.' A billionaire saying 'let me tell you a secret, no one does when they begin' and 'if I had to know everything first I never would have built Facebook' takes that excuse away and leaves something startable tonight. Three separate replay peaks sit on these lines — viewers rewound here.",
+      "category_hint": "excuse removed / get started",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "REPLAYED on L0088",
+        "REPLAYED on L0090"
+      ],
+      "start_line": "L0087",
+      "end_line": "L0090",
+      "start_words": "know maybe you're thinking I don't know how to build a dam",
+      "end_words": "I never would have built Facebook",
+      "start_s": 679.6,
+      "end_s": 724.08,
+      "duration_s": 44.48,
+      "source_start_s": 679.6,
+      "source_end_s": 724.08,
+      "one_liner": false,
+      "text": "know maybe you're thinking I don't know how to build a dam I don't know how to get a million people involved in anything well let me tell you a secret no one does when they begin ideas don't come out fully formed they only become clear as you work on them you just have to get started if I had to know everything about connecting people before I got started I never would have built Facebook movies and pop culture just get this all wrong the idea of a single Eureka moment is a dangerous lie it makes us feel inadequate because we feel like we haven't had ours yet",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "mot1"
+    },
+    {
+      "category": "motivational",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "The single Eureka moment is a dangerous lie",
+      "why": "A separate landing from the same roll, and it deserves its own reel: the idea of the eureka moment 'makes us feel inadequate because we feel like we haven't had ours yet, and it prevents people with seeds of good ideas from ever getting started.' That names a private feeling — everyone around you seems to have had their moment and you haven't — and dissolves it. Twenty-seven seconds, complete on its own, with its own replay peak.",
+      "category_hint": "reframe / one-liner",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "REPLAYED on L0090",
+        "REPLAYED on L0091"
+      ],
+      "start_line": "L0090",
+      "end_line": "L0091",
+      "start_words": "Movies and pop culture just get this all wrong",
+      "end_words": "from ever getting started in the first place",
+      "start_s": 709.52,
+      "end_s": 736.6,
+      "duration_s": 27.08,
+      "source_start_s": 709.52,
+      "source_end_s": 736.6,
+      "one_liner": false,
+      "text": "Facebook movies and pop culture just get this all wrong the idea of a single Eureka moment is a dangerous lie it makes us feel inadequate because we feel like we haven't had ours yet and it prevents people with seeds of good ideas from ever getting started in the first place oh and you know what else movies get wrong about innovation no one writes math formulas on glass",
+      "flags": [],
+      "id": "mot2"
+    },
+    {
+      "category": "motivational",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "You're sure someone else is going to do it — but they're not. You will.",
+      "why": "The build is short and the payoff is a direct hit on the viewer's passivity: 'it never even occurred to me that that someone might be us, we were just college kids... I just assumed one of them would do it.' Then the turn to camera — a change in the world that seems so clear that you're sure someone else will do it, 'but they're not, you will.' Kills the 'someone smarter is already on it' excuse with a story that proves it.",
+      "category_hint": "excuse removed / self-belief",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0063",
+      "end_line": "L0069",
+      "start_words": "I remember that night I launched Facebook from that little dorm",
+      "end_words": "but they're not you will",
+      "start_s": 452.52,
+      "end_s": 520.84,
+      "duration_s": 68.32,
+      "source_start_s": 452.52,
+      "source_end_s": 520.84,
+      "one_liner": false,
+      "text": "I remember that night I launched Facebook from that little dorm in Kirkland house I went to noes with my friend KX and I remember telling him clearly that I was excited to help connect the Harvard Community but one day someone would connect the whole world the thing is it never even occurred to me that that someone might be us we were just college kids we didn't know anything about that there were all these great big technology companies with all these resources and I just assumed one of them would do it but this idea was so clear to us that all people want to connect so we just kept working on it day after day after day and I know that a lot of you are going to have your own stories just like this a change in the world that seems so clear that you are sure someone else is going to do it but they're not you will but it's not enough to have that purpose yourself you also have to create a sense of purpose for others and I found that out the hard",
+      "flags": [],
+      "id": "mot3"
+    },
+    {
+      "category": "motivational",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "Can I really do this? The student who had every reason to be cynical",
+      "why": "Opens on the exact question the viewer is asking — 'maybe you're asking yourself, can I really do this?' — and answers it with a story: an undocumented teenager who may be denied his dream, who instead of feeling sorry for himself asks for a book on social justice for his birthday. 'He has every reason to be cynical... but he wasn't feeling sorry for himself.' The landing hands the courage back to the viewer. Six replay peaks mark this story. It runs long (~100s) but the build is doing real work and every beat earns its place; a later pass can narrow it.",
+      "category_hint": "story that detonates / self-belief",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "REPLAYED on L0217",
+        "REPLAYED on L0219",
+        "REPLAYED on L0222",
+        "REPLAYED on L0225",
+        "REPLAYED on L0229"
+      ],
+      "start_line": "L0214",
+      "end_line": "L0229",
+      "start_words": "it now maybe you're asking yourself can I really do",
+      "end_words": "we owe it to the world to do our part too",
+      "start_s": 1713.2,
+      "end_s": 1819.2,
+      "duration_s": 106.0,
+      "source_start_s": 1713.2,
+      "source_end_s": 1819.2,
+      "one_liner": false,
+      "text": "it now maybe you're asking yourself can I really do this well remember when I told you about that class I taught at the Boys and Girls Club one day after class I was talking to my students about going to college and one of my top students raised his hand and said that he wasn't sure he could go to college because he's undocumented Ed he wasn't sure if they'd take him last year I took him out to breakfast for his birthday and I wanted to get him a gift so I asked him what he wanted and he just started talking about struggles that he saw other students in his class facing and finally said you know I'd really just like a book on social justice I was blown away here is a young guy who has every reason to be cynical he wasn't sure if the country he calls home the only one he's known was going to deny him his dream of going to college but he wasn't feeling sorry for himself he wasn't even thinking of himself he has a greater sense of purpose and he's going to bring people along with him it says something about our situation today that I can't even say his name because I don't want to put him at risk but if a high school senior who doesn't know what the future holds for him can do his part to move the world forward then we owe it to the world to do our part too",
+      "flags": [],
+      "id": "mot4"
+    },
+    {
+      "category": "motivational",
+      "rank": 5,
+      "finder_rank": 5.0,
+      "title": "Be prepared to be misunderstood",
+      "why": "Names an experience the ambitious viewer has already lived and never had explained: called crazy for a big vision, blamed for not understanding the problem, criticized for moving too fast. The rhythm of 'anyone who... is going to...' makes it feel like a law of nature rather than comfort, and the close — 'that can't stop us from getting started' — converts it into fuel.",
+      "category_hint": "reframe / loneliness as strength",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [],
+      "start_line": "L0094",
+      "end_line": "L0098",
+      "start_words": "okay it's really good to be idealistic but be prepared to be",
+      "end_words": "but that can't stop us from getting started",
+      "start_s": 744.28,
+      "end_s": 797.84,
+      "duration_s": 53.56,
+      "source_start_s": 744.28,
+      "source_end_s": 797.84,
+      "one_liner": false,
+      "text": "okay it's really good to be idealistic but be prepared to be misunderstood anyone working on a big vision is going to get called crazy even if you end up right anyone taking on a complex problem is going to get blamed for not fully understanding it even though it's impossible to know everything up front anyone taking initiative will always get criticized for moving too fast because there's always someone who wants to slow you down in our society we often don't take on big things because we're so afraid of making mistakes that we ignore all the things wrong today if we do nothing the reality is anything we do today is going to have some issues in the future but that can't stop us from getting",
+      "flags": [],
+      "id": "mot5"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0123",
+      "end_line": "L0128",
+      "why_not": "'I know too many people who didn't have a cushion to fall back on' is honest and names a real humiliation, but the message is 'success needs luck and money' — it removes self-blame yet leaves the viewer with no handhold. Direction check is shaky for this category."
+    },
+    {
+      "start_line": "L0074",
+      "end_line": "L0080",
+      "why_not": "The impostor confession — 'I wondered if I was just wrong, an impostor, a 22-year-old kid' — lands hard, but the resolution ('that is how things work when there's no sense of higher purpose') is about company-building, and the pain-to-turn ratio is off for a standalone reel."
+    },
+    {
+      "start_line": "L0232",
+      "end_line": "L0235",
+      "why_not": "The prayer he sings to his daughter and 'I hope you find the courage to make your life a blessing' is genuinely moving and heavily replayed, but it is comfort and blessing rather than a change in how the viewer sees themselves — likely the emotional finder's material."
+    },
+    {
+      "start_line": "L0052",
+      "end_line": "L0056",
+      "why_not": "The JFK janitor story and 'purpose is being part of something bigger than yourself' is well-made commencement material but the viewer's brain has filtered this sentence shape a thousand times."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0050",
+      "what": "cold open, applause, jokes about dropping out, the Facemash/Priscilla meet-cute — charming, not motivation"
+    },
+    {
+      "from_line": "L0081",
+      "to_line": "L0086",
+      "what": "the 'three ways' roadmap and moon-shot history — list structure, no personal hit"
+    },
+    {
+      "from_line": "L0099",
+      "to_line": "L0106",
+      "what": "climate, solar panels, curing disease, modernizing democracy — a project wish-list"
+    },
+    {
+      "from_line": "L0117",
+      "to_line": "L0147",
+      "what": "wealth inequality, student loans, UBI, child care, charity stats — policy aimed at society, not at the viewer"
+    },
+    {
+      "from_line": "L0148",
+      "to_line": "L0161",
+      "what": "the after-school entrepreneurship class and monthly dinners — warm giving-back anecdote, no turn for the viewer"
+    },
+    {
+      "from_line": "L0162",
+      "to_line": "L0184",
+      "what": "global community, citizen of the world, the struggle of our time — geopolitics, not personal"
+    },
+    {
+      "from_line": "L0185",
+      "to_line": "L0213",
+      "what": "shout-outs to graduating students (Agnes, Kayla, David) and local-community argument — needs the room's context"
+    }
+  ],
+  "video_read": "Mark Zuckerberg's 2017 Harvard commencement address. Most of it is commencement furniture — jokes, thank-yous, policy lists about UBI and climate — but there are three or four stretches where he speaks directly to the person who hasn't started yet: the fear of not knowing enough, the 'someone else will do it' excuse, being called crazy for ambition, and a story about a student with every reason to quit. That's where the material for the 2am scroller lives.",
+  "coverage": 0.888,
+  "usage": {
+    "prompt_tokens": 24023,
+    "completion_tokens": 6566,
+    "total_tokens": 30589,
+    "cost": 0.00687877,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 64,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00687877,
+      "upstream_inference_prompt_cost": 0.00359577,
+      "upstream_inference_completions_cost": 0.003283
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4546,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 4546
+  },
+  "error": null,
+  "seconds": 129.7,
+  "coverage_note": null,
+  "reasoning": "Let me read this transcript. It's Mark Zuckerberg's Harvard 2017 commencement speech. I'm looking for motivational moments for the 2am viewer.\n\nCandidates:\n\n1. L0087–L0090: \"I know maybe you're thinking I don't know how to build a dam... well let me tell you a secret no one does when they begin. Ideas don't come out fully formed, they only become clear as you work on them. You just have to get started. If I had to know everything about connecting people before I got started I never would have built Facebook. Movies and pop culture just get this all wrong. The idea of a single Eureka moment is a dangerous lie. It makes us feel inadequate because we feel like we haven't had ours yet, and it prevents people with seeds of good ideas from ever getting started in the first place.\"\n\nThis is strong: removes the excuse \"I need to know everything first / I haven't had my eureka moment.\" Three REPLAYED tags on L0088, L0090, L0091. Very strong. Start around L0087, end L0091. Length: 9.9+12.2+6.9+14.6+12.5 = ~56s. Could tighten: L0088–L0091 (~46s). The moment is roughly L0087 to L0091. Note the \"no one writes math formulas on glass\" joke is a nice ending beat but not needed. Could end at L0091. The punchline: \"a dangerous lie... makes us feel inadequate... prevents people with seeds of good ideas from ever getting started.\"\n\nMaybe return two clips here? One: \"no one knows how when they begin / ideas don't come out fully formed / you just have to get started\" (L0087–L0090). Two: \"the eureka moment is a dangerous lie\" (L0090–L0091). They overlap. Per instructions, separate clips are fine. Actually the eureka line could be the hook flashed at the head. But the instructions say the same sentence reached by the same build returned twice with boundaries moved is one clip. These are slightly different landings: \"you just have to get started\" vs \"eureka is a dangerous lie.\" Hmm. I think one clip L0087–L0091 covers it, but the note about one stretch holding several moments... The eureka line needs the build \"movies and pop culture get this all wrong\" which is in L0090. L0090–L0091 alone: \"Movies and pop culture just get this all wrong. The idea of a single Eureka moment is a dangerous lie it makes us feel inadequate because we feel like we haven't had ours yet and it prevents people with seeds of good ideas from ever getting started in the first place.\" That stands alone well actually — ~27s. And L0087–L0089: \"no one does when they begin, ideas don't come out fully formed, they only become clear as you work on them, you just have to get started, if I had to know everything about connecting people before I got started I never would have built Facebook\" — ~44s, stands alone too. I'll return both, ranked.\n\nActually, maybe combine as one main clip L0087–L0091 and then a separate shorter one for the eureka line. The measured guidance: published reels were often separate. I'll return two: one starting L0087 ending L0090 (\"get started / never would have built Facebook\"), and one L0090–L0091 (eureka lie). Overlapping is fine.\n\nHmm, but the ending at L0090 \"I never would have built Facebook\" is a decent landing. And eureka clip ends at L0091 \"getting started in the first place\" — great landing.\n\n2. L0066–L0069: \"it never even occurred to me that that someone might be us... we were just college kids... I just assumed one of them would do it... a change in the world that seems so clear that you are sure someone else is going to do it but they're not you will.\" That's a good reframe — \"someone else will do it\" excuse removed. Start L0066 \"thing is it never even occurred to me...\" Needs context? Starting at L0066: \"The thing is it never even occurred to me that that someone might be us we were just college kids\" — \"that someone\" refers back to \"someone would connect the whole world\" in L0065. So start at L0065? L0065: \"house I went to noes with my friend KX and I remember telling him clearly that I was excited to help connect the Harvard Community but one day someone would connect the whole world\" — start there. Then L0066–L0069 ending \"but they're not you will.\" Length: 13.8+10.3+11.9+10.8+14.1 = ~61s. Slightly long but the build matters. Could trim start to L0065. Actually maybe end at L0069's \"but they're not you will\" — that's the landing. The rest of L0069 \"but it's not enough to have that purpose yourself...\" moves on. Good.\n\n3. L0213–L0229: the undocumented student story. \"You are graduating into a world that needs purpose and it's up to you to create it. Now maybe you're asking yourself can I really do this? Well remember when I told you about that class I taught at the Boys and Girls Club...\" The story: a top student unsure he can go to college because undocumented, asks for a book on social justice for his birthday. \"Here is a young guy who has every reason to be cynical... but he wasn't feeling sorry for himself... he has a greater sense of purpose.\" Ends L0229: \"if a high school senior who doesn't know what the future holds for him can do his part to move the world forward then we owe it to the world to do our part too.\" Lots of REPLAYED tags. Length: L0213–L0229 = 9.0+5.6+5.5+7.3+7.5+9.0+10.1+2.6+8.6+8.2+6.0+6.4+6.2+13.3 ≈ 105s — too long? The instruction says length never grounds for discarding; return it and note. But I could tighten: start L0216 \"this well remember when I told you about that class...\" Hmm, \"can I really do this\" question sets it up. L0214–L0229. The landing is strong. Also \"it says something about our situation today that I can't even say his name\" is powerful. Maybe trim to L0217–L0229? But \"remember when I told you about that class\" references earlier — self_contained issue. Actually the story itself restates everything: \"one day after class I was talking to my students about going to college\" — a stranger can follow \"my students\" fine. Starting at L0216 \"this well remember when I told you about that class I taught at the Boys and Girls Club\" is fine — \"that class I taught at the Boys and Girls Club\" is self-describing. Actually L0216 starts \"this well remember when...\" mid-phrase (\"can I really do this well\"). Better start L0214 \"now maybe you're asking yourself can I really do this\" — strong hook for the 2am viewer. That's good: the viewer IS asking that. L0214–L0229, ~103s. Long, but the story detonates. Or trim ending: L0225 \"he has a greater sense of purpose and he's going to bring people along with him\" is a landing too, but \"we owe it to the world to do our part too\" is the turn to the viewer. Keep to L0229.\n\nAlternatively, trim the middle: L0214–L0218 + jump isn't possible. I'll return the whole thing and note length, or start at L0216. I'll go L0214–L0229 with MEDIUM confidence on length, note it.\n\n4. L0123–L0128: \"I don't know a single person who gave up on starting a business because they were worried they might not make enough money but I know too many people who haven't had the chance to pursue their dreams because they didn't have a cushion to fall back on if they failed... you don't get successful just by having a good idea or working hard, you get successful by being lucky too. If I had to support my family growing up... then I wouldn't be standing up here today.\" This is a real but different message — about luck and systemic inequality. Does it hit the 2am viewer? It's honest and could land (\"I wouldn't be standing up here today\" — the billionaire admitting luck). It's somewhat policy-flavored. The line \"I know too many people who haven't had the chance to pursue their dreams because they didn't have a cushion\" names a real humiliation. Hmm, borderline. It's honest, comforting in a way (it's not your fault), but doesn't build — actually it could remove self-blame, which is a real hit. But direction: does it leave them larger? It says \"you need luck and a cushion\" — that's a bit deflating as motivation, though honest. I'll put in near_misses or skip. I think it's a genuine candidate but weak for this category. Near-miss.\n\n5. L0094–L0098: \"it's really good to be idealistic but be prepared to be misunderstood. Anyone working on a big vision is going to get called crazy even if you end up right...\" That's good — permission/reframe for being criticized. L0094–L0097 (~41s): \"be prepared to be misunderstood, anyone working on a big vision is going to get called crazy even if you end up right, anyone taking on a complex problem is going to get blamed for not fully understanding it even though it's impossible to know everything up front, anyone taking initiative will always get criticized for moving too fast because there's always someone who wants to slow you down.\" That's example-18-shaped: names an experience the viewer has had (being called crazy for ambition). Decent clip. I'd return it, maybe MEDIUM. Length ~41s.\n\n6. L0178–L0180: \"the struggle of our time... battle of ideas\" — political, not personal. Skip.\n\n7. L0052–L0056: purpose / JFK janitor story. \"Finding your purpose isn't enough... the janitor replied Mr President I'm helping put a man on the moon. Purpose is that feeling that you are part of something bigger than yourself.\" Nice but somewhat generic-commencement. Probably skip or near-miss.\n\n8. L0231–L0235: the prayer, \"May the source of strength... help us find the courage to make our lives a blessing.\" Spiritual, moving, but flat prayer reading. It's actually his delivery — slow tags, REPLAYED on L0233, L0235. \"I hope you find the courage to make your life a blessing\" — that's a landing. Hmm, spiritual category: \"only with fire, or with deep conviction.\" The setup \"I'm reminded of a prayer that I say whenever I face a big challenge that I sing to my daughter\" is personal. Could be a clip but it's gentle. Near-miss maybe. Actually it's the emotional closer; other finders may take it. I'll leave it as near-miss.\n\n9. L0077–L0080: \"that was my hardest time leading Facebook. I believed in what we were doing but I felt alone and worse it was my fault. I wondered if I was just wrong, an impostor, a 22-year-old kid who had no idea how things actually worked. Now years later I understand that is how things work when there's no sense of higher purpose...\" The impostor line is great — private humiliation named by a billionaire. But the resolution (\"that is how things work when there's no sense of higher purpose\") is weaker. The clip could be L0077–L0080 ending at \"impostor, a 22-year-old kid who had no idea how things actually worked\" — but that ends on pain without turn. Extend to L0080: \"now years later I understand that is how things work\" — vague. Hmm. Actually the earlier build L0071–L0079 (company torn apart, everyone wanted to sell, advisor threat, management gone) is a story that detonates... but the payoff is about purpose-at-work, aimed at company builders. For the 2am viewer, \"I felt alone and worse it was my fault, I wondered if I was an impostor, a 22-year-old kid\" — that lands on the audience. The turn is thin though. Near-miss.\n\nRanking my picks:\n1. Eureka lie / ideas don't come fully formed (L0087–L0091) — strongest, triple REPLAYED.\n2. \"You just have to get started\" as separate short clip? Or combine. Let me decide: I'll return one clip L0087–L0090 (\"no one knows how when they begin → never would have built Facebook\") and one L0090–L0091 (eureka lie). Actually L0090 contains both \"never would have built Facebook... movies get this all wrong... eureka is a dangerous lie\" — one line holds both. Overlapping on L0090. Fine.\n\nHmm, alternatively just one clip L0087–L0091. The instruction says never fold two landings into one clip. Landing A: \"you just have to get started / never would have built Facebook\" (L0088–L0089). Landing B: \"eureka moment is a dangerous lie... prevents people from getting started\" (L0090–L0091). Two clips. I'll do both.\n\n3. \"Someone else is going to do it — but they're not, you will\" (L0065–L0069).\n4. Undocumented student story (L0214–L0229).\n5. Be prepared to be misunderstood (L0094–L0097).\n\nThat's five. All real. Check self-containment:\n\nClip 1 (L0087–L0090): starts \"I know maybe you're thinking I don't know how to build a dam I don't know how to get a million people involved in anything well let me tell you a secret no one does when they begin\" — self-contained, the dam reference is generic (\"build a dam\" understandable). Ends L0090 \"I never would have built Facebook.\" Good.\n\nClip 2 (L0090–L0091): starts \"Movies and pop culture just get this all wrong\" — \"this\" refers to... innovation generally; a stranger gets it (\"movies get innovation wrong\" is the clear meaning). Self-contained enough. Ends \"getting started in the first place.\" Good.\n\nClip 3 (L0065–L0069): starts \"house I went to noes with my friend KX\" — \"house\" is the tail of \"Kirkland house\". Hmm, L0063: \"I remember that night I launched Facebook from that little dorm in Kirkland house\" — better start L0063. Then L0064 pause, L0065, L0066–L0069. Start at L0063: \"I remember that night I launched Facebook from that little dorm in Kirkland house\" — great opening actually. Length: 5.4+13.8+10.3+11.9+10.8+14.1 = ~66s. Longish. Or start L0065 accepting the stray \"house\" — the second pass can cut on \"I went to noes with my friend KX\". Actually starting words field: I copy exactly. I could start L0065 with start_words \"house I went to noes...\" — ugly. Better L0063. 66s is fine for a story build. End L0069 \"but they're not you will\" — landing. Actually L0069 continues \"but it's not enough to have that purpose yourself\" — second pass will cut. Good.\n\nClip 4 (L0214–L0229): starts \"it now maybe you're asking yourself can I really do this\" — L0213 ends \"it's up to you to create\" and L0214 begins \"(slow) it now maybe you're asking yourself\" — the \"it\" is the tail. Minor. Start L0214, start_words \"it now maybe you're asking yourself\" — copy exactly. Fine. ~103s, note length.\n\nClip 5 (L0094–L0097): starts \"(slow) okay it's really good to be idealistic but be prepared to be misunderstood\" — the \"okay\" tail; start_words \"okay it's really good to be idealistic\". Ends L0097 \"wants to slow you down\" — decent landing but slightly hanging? L0097: \"in our society we often don't take on big things because we're so afraid of making mistakes that we ignore all the things wrong today if we do nothing\" — hmm, L0096 ends \"slow you down\" and L0097 continues \"in our society... if we do nothing\" then L0098 \"the reality is anything we do today is going to have some issues in the future but that can't stop us from getting started.\" Extending to L0098 gives a landing: \"that can't stop us from getting started.\" L0094–L0098: 7.4+10.5+13.0+10.2+11.0 = ~52s. OK.\n\nNear-misses: L0123–L0128 (luck/cushion — honest but deflating for this category), L0074–L0080 (impostor moment — pain with thin turn), L0232–L0235 (prayer — belongs to emotional/spiritual finder, gentle), L0052–L0056 (purpose/janitor — commencement-generic).\n\nSkipped: cold open L0001–L0050 (jokes, applause, bio), L0081–L0086 (three ways list), L0099–L0112 (climate/democracy/education policy list), L0117–L0122 (wealth inequality), L0132–L0147 (UBI/policy), L0148–L0161 (Boys & Girls Club teaching story — warm but aimed at giving back; actually L0158 \"every one of them first generation\" is nice... it's warm, not my kind exactly; skip), L0162–L0184 (global community politics), L0185–L0212 (community examples, Agnes etc.).\n\nOrder by rank:\n1. Eureka lie (L0090–L0091) — actually this might be the strongest single. Hook: \"Movies and pop culture just get this all wrong\" — decent hook. But clip 1's content feeds it. Rank by overall power: the get-started clip with REPLAYED x3 is the flagship. I'll rank: 1) L0087–L0090, 2) L0090–L0091, 3) L0063–L0069, 4) L0214–L0229, 5) L0094–L0098.\n\nhook_strength: L0087 \"I know maybe you're thinking I don't know how to build a dam\" — 6. L0090 \"movies and pop culture just get this all wrong\" — 6. L0063 \"I remember that night I launched Facebook from that little dorm\" — 7. L0214 \"maybe you're asking yourself can I really do this\" — 8. L0094 \"it's really good to be idealistic but be prepared to be misunderstood\" — 7.\n\nsignals_used: REPLAYED tags on L0088/90/91, L0068-ish (no, REPLAYED at L0078, L0088, L0090, L0091, L0111, L0121, L0123, L0126, L0217, L0219, L0222, L0225, L0229, L0233, L0235). Clip 4 has REPLAYED on many lines.\n\nWrite the JSON."
+}

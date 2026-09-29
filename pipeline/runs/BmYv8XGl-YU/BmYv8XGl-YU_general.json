@@ -1,0 +1,266 @@
+{
+  "category": "general",
+  "clips": [
+    {
+      "category": "general",
+      "rank": 1,
+      "title": "The Eureka moment is a dangerous lie",
+      "why": "Directly attacks the myth every viewer was raised on — the lone genius with one lightning-strike idea — and gives the reason it does damage: it makes people with good seeds of ideas never start. Genuinely counter-intuitive, saveable, and it ends on a self-deprecating joke ('no one writes math formulas on glass') that lands the clip instead of moralising. Two REPLAYED markers sit on exactly these lines.",
+      "category_hint": "counter-intuitive",
+      "hook_strength": 7,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0088",
+        "[REPLAYED] on L0090",
+        "[REPLAYED] on L0091"
+      ],
+      "start_line": "L0087",
+      "end_line": "L0092",
+      "start_words": "know maybe you're thinking I don't know how to build a dam",
+      "end_words": "okay all right that's not a thing",
+      "start_s": 679.6,
+      "end_s": 740.4,
+      "duration_s": 60.8,
+      "source_start_s": 679.6,
+      "source_end_s": 740.4,
+      "one_liner": false,
+      "text": "know maybe you're thinking I don't know how to build a dam I don't know how to get a million people involved in anything well let me tell you a secret no one does when they begin ideas don't come out fully formed they only become clear as you work on them you just have to get started if I had to know everything about connecting people before I got started I never would have built Facebook movies and pop culture just get this all wrong the idea of a single Eureka moment is a dangerous lie it makes us feel inadequate because we feel like we haven't had ours yet and it prevents people with seeds of good ideas from ever getting started in the first place oh and you know what else movies get wrong about innovation no one writes math formulas on glass okay all right that's not a thing",
+      "flags": [],
+      "id": "gen1"
+    },
+    {
+      "category": "general",
+      "rank": 2,
+      "title": "Something is wrong when I make billions and students can't pay their loans",
+      "why": "A billionaire saying out loud that the system that made him is broken, and then the sharper cut: nobody gives up on a business because they might not earn enough — they never start because they have no cushion to fail onto. The 'you get successful by being lucky too' line, with the coded counterfactual about not having time to learn to code, is the screenshot line. Three REPLAYED markers and live applause confirm the room felt it.",
+      "category_hint": "societal mirror",
+      "hook_strength": 8,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0121",
+        "[REPLAYED] on L0123",
+        "[REPLAYED] on L0126",
+        "applause on L0125"
+      ],
+      "start_line": "L0120",
+      "end_line": "L0129",
+      "start_words": "now let's face it there is something wrong with our system",
+      "end_words": "how much luck we we' had to get to this point in our",
+      "start_s": 975.56,
+      "end_s": 1062.52,
+      "duration_s": 86.96,
+      "source_start_s": 975.56,
+      "source_end_s": 1062.52,
+      "one_liner": false,
+      "text": "that everyone can take lots of different shots now let's face it there is something wrong with our system when I can leave here and make billions of dollars in 10 years while millions of students students can't even afford to pay off their loans let alone start a business look I know a lot of entrepreneurs and I don't know a single person who gave up on starting a business because they were worried they might not make enough money but I know too many people who haven't had the chance to pursue their dreams because they didn't have a cushion to fall back on if they failed we all know you don't get successful just by having a good idea or working hard you get Successful by being lucky too if I had to support my family growing up instead of having the time to learn how of code if I didn't know that I was going to be fine if Facebook didn't work out then I wouldn't be standing up here today and if we're honest we all know how much luck we we' had to get to this point in our lives every generation expands its definition of equality previous generations fought for the vote and civil rights they",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "gen2"
+    },
+    {
+      "category": "general",
+      "rank": 3,
+      "title": "I can't even say his name",
+      "why": "An undocumented top student who isn't sure the only country he has ever known will let him into college — and his birthday wish is a book on social justice. The turn at the end, where Zuckerberg says he cannot name him because it might put him at risk, converts a nice story into something with real stakes. Emotionally complete, needs nothing earlier: the class at the Boys and Girls Club is explained inside the clip.",
+      "category_hint": "relationships and family",
+      "hook_strength": 5,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0217",
+        "[REPLAYED] on L0219",
+        "[REPLAYED] on L0221",
+        "[REPLAYED] on L0229"
+      ],
+      "start_line": "L0216",
+      "end_line": "L0229",
+      "start_words": "this well remember when I told you about that class",
+      "end_words": "can do his part to move the world forward then we owe it to the world to do our part too",
+      "start_s": 1720.6,
+      "end_s": 1819.2,
+      "duration_s": 98.6,
+      "source_start_s": 1720.6,
+      "source_end_s": 1819.2,
+      "one_liner": false,
+      "text": "this well remember when I told you about that class I taught at the Boys and Girls Club one day after class I was talking to my students about going to college and one of my top students raised his hand and said that he wasn't sure he could go to college because he's undocumented Ed he wasn't sure if they'd take him last year I took him out to breakfast for his birthday and I wanted to get him a gift so I asked him what he wanted and he just started talking about struggles that he saw other students in his class facing and finally said you know I'd really just like a book on social justice I was blown away here is a young guy who has every reason to be cynical he wasn't sure if the country he calls home the only one he's known was going to deny him his dream of going to college but he wasn't feeling sorry for himself he wasn't even thinking of himself he has a greater sense of purpose and he's going to bring people along with him it says something about our situation today that I can't even say his name because I don't want to put him at risk but if a high school senior who doesn't know what the future holds for him can do his part to move the world forward then we owe it to the world to do our part too",
+      "flags": [],
+      "id": "gen3"
+    },
+    {
+      "category": "general",
+      "rank": 4,
+      "title": "Everyone on my management team quit",
+      "why": "The inside of a story people only know from the movie: big companies circling to buy Facebook, an advisor telling a 22-year-old he'd regret refusing for the rest of his life, and then the line nobody knows — within a year every single person on the management team was gone. His admission ('I felt alone and worse, it was my fault... I wondered if I was an impostor') is the vulnerability that makes it watchable to the end.",
+      "category_hint": "business and money",
+      "hook_strength": 6,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0077",
+        "[pause 1.4s] before L0077"
+      ],
+      "start_line": "L0071",
+      "end_line": "L0080",
+      "start_words": "so I never took the time to explain what it was",
+      "end_words": "so it's up to all of us to create it so we can all keep moving forward",
+      "start_s": 531.96,
+      "end_s": 618.92,
+      "duration_s": 86.96,
+      "source_start_s": 531.96,
+      "source_end_s": 618.92,
+      "one_liner": false,
+      "text": "so I never took the time to explain what it was that I hoped we'd build a couple years in some big companies wanted to buy us I didn't want to sell I wanted to see if we could connect more people and we were building the first version of Newsfeed at the time and I thought if we could just launch this it could change how we all learn about the world nearly everyone else wanted to sell without a sense of higher purpose this was their startup dream come true and it tore our company apart after one particularly tense argument one of my close advis told me if I didn't agree to sell the company right now I would regret that decision for the rest of my life relationships were so Fray that within a year or so every single person on our management team was gone that was my hardest time leading Facebook I believed in what we were doing but I felt alone and worse it was my fault I wondered if I was just wrong an impostor a a 22-year-old kid who had no idea how things actually worked now years later I understand that is how things work when there's no sense of higher purpose so it's up to all of us to create it so we can all keep moving forward",
+      "flags": [],
+      "id": "gen4"
+    },
+    {
+      "category": "general",
+      "rank": 5,
+      "title": "I'm getting kicked out in 3 days, so we need to go on a date",
+      "why": "The all-time pickup line, told with the absurd setup intact — facing expulsion, parents driving up to pack, friends throwing a going-away party for a living person — and the perfect landing: the prank website that nearly got him expelled led him to Priscilla, who turned out to be the most important thing he built at Harvard. Funny, human, and extremely sendable.",
+      "category_hint": "comedy",
+      "hook_strength": 6,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "applause on L0038",
+        "[pause 1.2s] before L0044"
+      ],
+      "start_line": "L0035",
+      "end_line": "L0047",
+      "start_words": "but my best memory from Harvard is meeting",
+      "end_words": "say it was the most important thing I built in my time",
+      "start_s": 214.56,
+      "end_s": 303.24,
+      "duration_s": 88.68,
+      "source_start_s": 214.56,
+      "source_end_s": 303.24,
+      "one_liner": false,
+      "text": "but my best memory from Harvard is meeting Priscilla I had just launched this prank website face Smash and the ad board wanted to see me everyone thought I was going to get kicked out my parents drove up here to help me pack my Stu my friends threw me a going away party who does that as luck would have it Priscilla was at that party with her friends and we met in line for the bathroom in the foo Bell Tower and in what must be one of the all-time most romantic lines I turned to her and said I'm getting kicked out in 3 days so we need to go on a date quickly actually any of you graduating today can use that that line I'm getting kicked out today we need to go on a date fast I didn't end up getting kicked out I did that to myself Priscilla and I started dating and you know that movie made it seem like face SMH was so important to starting Facebook it wasn't but without face Mash I never would have met Priscilla and Priscilla is the most important person in my life so you could still will say it was the most important thing I built in my time",
+      "flags": [],
+      "id": "gen5"
+    },
+    {
+      "category": "general",
+      "rank": 6,
+      "title": "Finding your purpose isn't enough",
+      "why": "The one idea in the speech that isn't standard commencement fare: he rejects 'find your purpose' and replaces it with 'create a world where everyone has one', anchored by the NASA janitor who said he was helping put a man on the moon. The reframe is what makes it more than a well-told anecdote. Lower confidence because the janitor story is widely known and the surrounding language is close to generic.",
+      "category_hint": "motivation",
+      "hook_strength": 4,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [],
+      "start_line": "L0051",
+      "end_line": "L0056",
+      "start_words": "today I want to talk about",
+      "end_words": "moon purpose is that feeling that you are a part of something bigger than yourself",
+      "start_s": 330.32,
+      "end_s": 389.16,
+      "duration_s": 58.84,
+      "source_start_s": 330.32,
+      "source_end_s": 389.16,
+      "one_liner": false,
+      "text": "today I want to talk about purpose but I'm not here to give you the standard commencement about finding your purpose we're Millennials we try to do that instinctively instead I'm here to tell you that finding your purpose isn't enough the challenge for our generation is to create a world where everyone has a sense of purpose one of my favorites stories is when JFK went to go visit the NASA Space Center and he saw a janitor holding a broom and he asked him what he was doing and the janitor replied Mr President I'm helping put a man on the moon purpose is that feeling that you are a part of something bigger than yourself that you are needed and that you have something better ahead to work for purpose is what creates true happiness",
+      "flags": [],
+      "id": "gen6"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0094",
+      "end_line": "L0098",
+      "why_not": "'Be prepared to be misunderstood' is solid motivational material but says nothing the viewer hasn't heard; loses to the Eureka passage it precedes."
+    },
+    {
+      "start_line": "L0129",
+      "end_line": "L0135",
+      "why_not": "The universal basic income / new social contract stretch is the policy payoff of the luck argument, but on its own it reads as a platform planks list."
+    },
+    {
+      "start_line": "L0101",
+      "end_line": "L0102",
+      "why_not": "The 50x-spent-on-treatment-vs-cures number is a genuine shock fact but it is buried inside a list of project proposals and never taken anywhere."
+    },
+    {
+      "start_line": "L0231",
+      "end_line": "L0235",
+      "why_not": "The closing blessing he sings to his daughter is lovely but belongs to the room; a cold viewer hears a prayer fragment, not a moment."
+    },
+    {
+      "start_line": "L0009",
+      "end_line": "L0013",
+      "why_not": "'First time I'll actually finish something at Harvard' is a good opening joke but pure comedy-finder territory with no depth behind it."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0034",
+      "what": "greetings, dropout jokes, the inside-out T-shirt story — warm-up material"
+    },
+    {
+      "from_line": "L0057",
+      "to_line": "L0062",
+      "what": "jobs and community declining, purpose vacuum — decent observation but delivered as thesis-setting"
+    },
+    {
+      "from_line": "L0063",
+      "to_line": "L0070",
+      "what": "Facebook launch night memory — leads into the stronger sell-story clip"
+    },
+    {
+      "from_line": "L0081",
+      "to_line": "L0086",
+      "what": "announcing the three-part structure and historical great projects — scaffolding"
+    },
+    {
+      "from_line": "L0099",
+      "to_line": "L0119",
+      "what": "list of grand projects (climate, curing disease, voting) and entrepreneurship history — a list with no depth on any item"
+    },
+    {
+      "from_line": "L0136",
+      "to_line": "L0161",
+      "what": "childcare, criminal justice, the Boys and Girls Club teaching story — groundwork for the later undocumented-student clip"
+    },
+    {
+      "from_line": "L0162",
+      "to_line": "L0215",
+      "what": "citizen of the world, global community, student stand-ups — the section most dependent on the room and the named graduates"
+    }
+  ],
+  "video_read": "This is Mark Zuckerberg's full 2017 Harvard commencement speech: jokes about dropping out, then a long argument that the job of his generation is to create purpose for everyone, told through the Facebook origin story, a case for luck and a social contract, and a closing story about an undocumented student he mentors. The strongest standalone material sits in the middle — the 'Eureka moment is a dangerous lie' passage, the billions-vs-student-loans luck argument, and the story of his entire management team walking out — with the emotional peak near the end.",
+  "coverage": 0.984,
+  "usage": {
+    "prompt_tokens": 19073,
+    "completion_tokens": 4282,
+    "total_tokens": 23355,
+    "cost": 0.00500195,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00500195,
+      "upstream_inference_prompt_cost": 0.00286095,
+      "upstream_inference_completions_cost": 0.002141
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2075,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 2075
+  },
+  "error": null,
+  "seconds": 44.1,
+  "reasoning": "This is Zuckerberg's Harvard 2017 commencement speech. Let me read for strong standalone moments.\n\nCandidates:\n\n1. \"Ideas don't come out fully formed... Eureka moment is a dangerous lie\" — L0086–L0093. Strong counter-intuitive, with the movies/glass joke at the end. Lines L0087–L0092. Very strong, replayed markers. The joke \"no one writes math formulas on glass\" is a nice landing. Start maybe L0087 (\"know maybe you're thinking I don't know how to build a dam... let me tell you a secret no one does when they begin\"). Self-contained? \"build a dam\" is fine, understandable. This is a real clip.\n\n2. \"There is something wrong with our system when I can leave here and make billions of dollars in 10 years while millions of students can't even pay off their loans\" — L0120–L0126. Strong, and continues into the luck point: \"you don't get successful just by having a good idea or working hard, you get successful by being lucky too... if I had to support my family growing up... I wouldn't be standing here.\" L0120–L0128. This is a strong clip — hot take / societal mirror. Include through L0128 or L0129.\n\n3. The undocumented student story — L0216–L0229. \"I'd really just like a book on social justice... he has every reason to be cynical... I can't even say his name because I don't want to put him at risk.\" Emotionally strong. Start L0216 \"well remember when I told you about that class\" — needs the Boys and Girls Club context, but \"that class I taught at the Boys and Girls Club\" is stated right there, so it's understandable cold. The \"can't even say his name\" line is the gut punch. End L0229.\n\n4. \"Finding your purpose isn't enough... create a world where everyone has a sense of purpose\" + janitor JFK story — L0051–L0056. The janitor story is famous but the clip is the reframe. Decent. \"Mr President I'm helping put a man on the moon.\" Then definition of purpose. Fairly generic commencement material though; the janitor story is well-known. Borderline. Maybe include as medium.\n\n5. The faceMash/Priscilla story — L0035–L0047. Funny, human. \"I'm getting kicked out in 3 days so we need to go on a date quickly.\" Romantic + funny. Comedy/human interest. Strong for sharing. Could include. Self-contained? Yes — \"my best memory from Harvard is meeting Priscilla\" opening works. L0035–L0047 or L0044. The \"most important thing I built\" landing at L0047 is great.\n\n6. \"Purpose doesn't reliably come from jobs anymore... opioid addicts, factory workers\" — L0057–L0061. Societal observation. Decent but weaker standalone.\n\n7. \"Be prepared to be misunderstood... anyone working on a big vision is going to get called crazy\" — L0094–L0098. Decent motivational. Weaker than #1.\n\n8. \"Every generation expands its definition of equality... Universal basic income\" — L0129–L0135. Policy; less punchy than #2.\n\n9. Movie/eureka — already covered.\n\n10. \"We live in an unstable time... battle of ideas... not decided at the UN, decided at the local level\" — L0175–L0183. Political. Decent but it's the \"citizen of the world\" stretch which drew criticism. Actually \"battle of ideas... this isn't going to be decided at the UN, it's going to happen at the local level\" is fairly strong. Medium. Probably skip — it's argumentative and could split but it's a bit lecture-y.\n\n11. The prayer at the end — L0231–L0235. Emotional close, but needs the context and it's religious blessing; \"May the source of strength... help us find the courage to make our lives a blessing.\" Beautiful but as a standalone clip it's weak-ish for a stranger. Maybe near miss.\n\nCold open check: L0001–L0050 is the speech's actual opening (this is a single-speech video, not a podcast with montage; the opening lines are the actual greeting). \"if I get through this speech today it'll be the first time I actually finish something here at Harvard\" — good joke. But it's intro-y comedy; the humor finders may take it. It's a real standalone joke. Hmm, \"you accomplish something I never could — first time I actually finish something at Harvard\" is funny and self-contained. But it's an opening joke without depth; comedy finder's territory probably. My brief says take best full stop. It's a decent clip but light. I'll skip or near-miss.\n\nLet me pick final list, ranked:\n\n1. Eureka moment is a dangerous lie (L0087–L0092). Start: L0087 \"know maybe you're thinking I don't know how to build a dam...\" — actually start at L0087 which begins \"(fast) know maybe you're thinking I don't know how to build a dam I don't know how to get a million people involved in anything well let me tell you a secret\". Include the glass joke through L0092 \"okay all right that's not a thing\". Strong hook: \"let me tell you a secret: no one does when they begin.\"\n\n2. Billions vs student loans + luck (L0120–L0128). Start L0120 \"now let's face it there is something wrong with our system\". End L0128 \"...I wouldn't be standing up here today\" or include L0129 \"and if we're honest we all know how much luck we had to get to this point\". End at L0129.\n\n3. Undocumented student (L0216–L0229). End \"we owe it to the world to do our part too.\"\n\n4. Priscilla/faceMash (L0035–L0047). Funny, viral-friendly.\n\n5. Maybe \"finding your purpose isn't enough\" + janitor (L0051–L0056). Hmm. The JFK janitor story is widely known; the reframe \"finding your purpose isn't enough\" is the actual idea. Could include as MEDIUM. I'll include it — it's the thesis and it's decent. Actually, arguing against: commencement-standard, the janitor anecdote is over-told, \"purpose is feeling part of something bigger\" is generic. The reframe \"finding your purpose isn't enough — create a world where everyone has a sense of purpose\" is the one non-generic move. I'll include at MEDIUM with lower rank.\n\n6. \"Be prepared to be misunderstood\" L0094–L0098 — near miss or clip? It's motivational but reasonably specific. Near miss.\n\n7. Society spends 50x treating sick vs finding cures — L0101–L0102. A number that lands, embedded in a list. Could pair with \"how about stopping climate change\" list L0099–L0106. List that fails — mostly. The 50x number is a shock fact though. Near miss.\n\nNear misses:\n- L0094–L0098 misunderstood passage.\n- L0129–L0135 new social contract/UBI.\n- L0231–L0235 closing prayer.\n- L0009–L0013 dropout joke (comedy finder's).\n\nSkipped ranges:\n- L0001–L0034: opening greetings, dropout jokes, CS121 t-shirt story.\n- L0057–L0062: purpose from jobs eroding.\n- L0063–L0080: Facebook launch story, management team left (actually this is decent: \"every single person on our management team was gone... I wondered if I was just wrong, an impostor, a 22-year-old kid\" — vulnerability, replayed. Hmm. \"My hardest time leading Facebook... I felt alone and worse, it was my fault... impostor.\" That's a strong vulnerable moment. Consider as clip? \"Nearly everyone wanted to sell... it tore our company apart... if I didn't agree to sell right now I would regret it for the rest of my life... within a year every single person on our management team was gone.\" This is a real story with stakes, self-contained enough — it's the famous rejection story. Start L0071 \"so I never took the time to explain what it was that I hoped we'd build\" — better start L0071 \"a couple years in some big companies wanted to buy us I didn't want to sell\". End L0080 \"when there's no sense of higher purpose.\" That's ~10 lines, over 90s. Could trim L0072–L0080. It's strong — a billionaire telling the story of nearly losing everything and everyone leaving. Include it, rank maybe 4th.\n\nThat gives 6 clips. Reasonable for a commencement speech (~32 min).\n\nOrder by strength:\n1. Eureka lie (counter-intuitive, saveable)\n2. Billions/loans/luck (hot take)\n3. Undocumented student (emotion)\n4. Management team gone / sell story (business story)\n5. Priscilla pickup line (comedy/romance)\n6. Purpose isn't enough + janitor (thesis)\n\nWrite JSON."
+}

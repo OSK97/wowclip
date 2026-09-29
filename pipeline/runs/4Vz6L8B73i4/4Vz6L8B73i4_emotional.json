@@ -1,0 +1,210 @@
+{
+  "category": "emotional",
+  "clips": [
+    {
+      "category": "emotional",
+      "rank": 1,
+      "title": "From the most powerless moment came the most powerful feelings",
+      "why": "She lists her addictions plainly — smoking, drinking, scrolling, sugar — then turns the word 'powerless' inside out: 'From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had in my entire life.' A reframe that costs something, said by someone who studied the science and got trapped anyway. Anyone mid-argument with their own habit at 2am sits still for this.",
+      "category_hint": "confession and reframe",
+      "hook_strength": 7,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "pause before L1432",
+        "comment near L1458"
+      ],
+      "start_line": "L1430",
+      "end_line": "L1440",
+      "start_words": "I've been addicted to a great number of things",
+      "end_words": "So it was an opportunity",
+      "start_s": 10103.2,
+      "end_s": 10152.24,
+      "duration_s": 49.04,
+      "source_start_s": 10103.2,
+      "source_end_s": 10152.24,
+      "one_liner": false,
+      "text": ">> I've been addicted to a great number of things in my life. I have been addicted to uh I've I've smoked, I've drank, I've done uh scrolling, uh sugar, you name it. Um it it has been my life's most You know what's interesting? I love the word you used, powerless. From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had in my entire life. I feel unstoppable and so powerful because of overcoming addiction. So it was an opportunity.",
+      "flags": [],
+      "id": "emo1"
+    },
+    {
+      "category": "emotional",
+      "rank": 2,
+      "title": "You're hungry for something real, but you eat candy instead",
+      "why": "Names the exact loop the viewer is performing while watching: you crave connection, you open Instagram, it's strangers now, you scroll, it feels good like candy when you're hungry — and an hour later you're hungrier. The candy detail carries the whole thing, and it ends without rescue. The viewer recognises themselves mid-scroll.",
+      "category_hint": "loneliness and recognition",
+      "hook_strength": 6,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0900",
+      "end_line": "L0910",
+      "start_words": "When you open up Instagram",
+      "end_words": "It never satisfies that need",
+      "start_s": 6435.44,
+      "end_s": 6515.76,
+      "duration_s": 80.32,
+      "source_start_s": 6435.44,
+      "source_end_s": 6515.76,
+      "one_liner": false,
+      "text": "When you open up Instagram, it used to be when they first started, you would see the pictures and videos that your friends would post. >> Yeah. >> It's not like that anymore. >> True. >> It's other people you don't know. It's other people you don't know. So, you are seeking social connection and then you get you go on to short form media and then you start scrolling. >> So, you're distracted. Sure, you're distracted, but it feels kind of good in the moment, doesn't it? >> Yeah. Distraction feels good. So, it's like eating candy when you're hungry. So, you're hungry. You're hungry for something real. Really? Food, but you eat candy instead. What happens when you eat candy when you're hungry? >> In 1 hour, >> you feel more hungry. >> Yeah. You're you're hungry again because then you never filled yourself with nutrition, >> with the food your body needs. So you were, let's say, you were seeking social connection. It's like hunger. So, but instead of really seeking true connection, you instead went to short form media and you're scrolling. It's like candy. So, you're just going to be even hungrier in another hour. So, you're even So, then you were maybe a little lonely before. Now, you're even more lonely because it's never satisfying that need. It never satisfies that need.",
+      "flags": [],
+      "id": "emo2"
+    },
+    {
+      "category": "emotional",
+      "rank": 3,
+      "title": "My family and friends know the cost because they see it",
+      "why": "The cost-of-ambition answer, witnessed rather than dramatised: lost friendships, lost important relationships, 'I've nearly lost my life' — and she refuses both regret and apology. It doesn't instruct anyone to grind or to slow down; it just stands there, and anyone who has traded people for work recognises the bill.",
+      "category_hint": "cost of ambition / regret",
+      "hook_strength": 6,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [],
+      "start_line": "L1464",
+      "end_line": "L1479",
+      "start_words": "My family and friends know the cost",
+      "end_words": "I'm happy with where I'm at today",
+      "start_s": 10293.28,
+      "end_s": 10393.6,
+      "duration_s": 100.32,
+      "source_start_s": 10293.28,
+      "source_end_s": 10393.6,
+      "one_liner": false,
+      "text": ">> My family and friends know the cost because they see it. There is always a cost. So, I'm so glad you asked people this question. I have been relentless and very focused in my life on building what I want to build and doing what I want to do. It doesn't allow for a lot of space for distraction. But the thing is, I've also sacrificed a lot of fun. I've sacrificed personal travel, vacations, leisure, um, scrolling. I avoided getting social media, by the way, just until recently. Completely avoided it. I have um given up friendships. I've lost friendships. I've lost a lot of very important relationships in my life because of my hyperfocus on prioritizing work. Um addictions, as I've mentioned before, that all comes out of this relentless ambition and relentless drive towards performance. And um yeah, I've I've nearly lost my life and given my life. I will say that in the pursuit of my goals and that amount of sacrifice, I can't say I regret it because even though regretful things have happened because of it, I'm happy with where I'm at today. Not just from a success metric perspective, but I learned and now I can teach",
+      "flags": [],
+      "id": "emo3"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L1419",
+      "end_line": "L1429",
+      "why_not": "The 'cruel joke from the universe' confession is genuinely moving, but the adjacent reframe clip covers the same beat more completely and lands harder."
+    },
+    {
+      "start_line": "L1233",
+      "end_line": "L1248",
+      "why_not": "'Stress doesn't kill. Never completing the stress cycle kills' is striking, but it stays a health finding — belongs to general."
+    },
+    {
+      "start_line": "L0951",
+      "end_line": "L0956",
+      "why_not": "'I even studied addiction and I still became addicted' is a good humility beat, but it is a smaller version of the closing confession."
+    },
+    {
+      "start_line": "L0817",
+      "end_line": "L0823",
+      "why_not": "The 'remember three reels ago?' dare is clever and self-aware, but it lands as a smart point, not a quiet one."
+    },
+    {
+      "start_line": "L1450",
+      "end_line": "L1458",
+      "why_not": "'I am God, I create everything in my life' has the deep register but stays in manifestation territory without naming anything specific in the viewer's life."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0032",
+      "what": "cold-open montage and sponsor read"
+    },
+    {
+      "from_line": "L0033",
+      "to_line": "L0090",
+      "what": "guest introduction and becoming-superhuman framing"
+    },
+    {
+      "from_line": "L0090",
+      "to_line": "L0185",
+      "what": "billionaire belief and DMN storytelling — motivational register"
+    },
+    {
+      "from_line": "L0186",
+      "to_line": "L0280",
+      "what": "main character energy exercise and sleep beliefs"
+    },
+    {
+      "from_line": "L0280",
+      "to_line": "L0435",
+      "what": "habit loop, craving, whiteboard pruning — instructional"
+    },
+    {
+      "from_line": "L0436",
+      "to_line": "L0540",
+      "what": "phone visibility study and digital hygiene"
+    },
+    {
+      "from_line": "L0540",
+      "to_line": "L0660",
+      "what": "multitasking test demo and task switching"
+    },
+    {
+      "from_line": "L0660",
+      "to_line": "L0700",
+      "what": "be bored, DMN and shower thoughts"
+    },
+    {
+      "from_line": "L0700",
+      "to_line": "L0817",
+      "what": "content diet, long vs short form, news anxiety"
+    },
+    {
+      "from_line": "L0817",
+      "to_line": "L0950",
+      "what": "loneliness section — clip taken from the candy passage, rest is chemistry explanation"
+    },
+    {
+      "from_line": "L0957",
+      "to_line": "L1215",
+      "what": "brain city map, chronotypes, 5am club porn"
+    },
+    {
+      "from_line": "L1215",
+      "to_line": "L1315",
+      "what": "burnout and 3M breaks framework"
+    },
+    {
+      "from_line": "L1315",
+      "to_line": "L1417",
+      "what": "9-week digital detox study results"
+    },
+    {
+      "from_line": "L1484",
+      "to_line": "L1493",
+      "what": "thank-yous and outro"
+    }
+  ],
+  "video_read": "A three-hour Raj Shamani podcast with a cognitive neuroscientist about attention, habits, phones and burnout. Almost the whole video is instructional — studies, frameworks, whiteboard demos — which belongs to other finders. The emotional material lives in two places: the passage about scrolling as fake connection in the loneliness section, and the closing personal questions where the guest confesses her addiction, the cost of her ambition, and the powerless-to-powerful reframe.",
+  "coverage": 0.991,
+  "usage": {
+    "prompt_tokens": 64578,
+    "completion_tokens": 7403,
+    "total_tokens": 71981,
+    "cost": 0.0133882,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0133882,
+      "upstream_inference_prompt_cost": 0.0096867,
+      "upstream_inference_completions_cost": 0.0037015
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 5919,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 5919
+  },
+  "error": null,
+  "seconds": 92.0,
+  "reasoning": "This is a neuroscience podcast (Raj Shamani with Dr. Sahar Yousef, cognitive neuroscientist). The emotional finder looks for moments that make a stranger go quiet — recognition, tenderness, grief, deep thought, hard truths about how we live.\n\nScanning for emotional material in a productivity/neuroscience podcast:\n\n1. L0885–L0910: loneliness — \"eating candy when you're hungry\" — seeking social connection, scrolling instead, ending up hungrier. That's a genuine recognition moment: \"It's like candy. So, you're just going to be even hungrier in another hour.\" Starts around L0893 \"when you are craving social connection\". Actually the candy analogy: L0904–L0910. It's a hard truth about how people work, said calmly. Could be a clip: \"You're hungry for something real... but you eat candy instead.\" The loneliness section L0885–L0910 is strong. Self-contained? Needs the setup that craving for connection is the subject. Start L0893 \"Okay, going back to this uh when you are craving social connection\" — workable. End at L0910 \"It never satisfies that need.\"\n\n2. L0888–L0892: \"human beings are pack animals... Longhaul truck drivers who don't get a lot of socializing... their brains start to degrade. They start to atrophy... accelerated aging or dementia.\" A fact that turns into feeling. Could be part of the same clip.\n\n3. L0949–L0956: \"I'm not better than anybody else. I struggle with it myself. I've been addicted to scroll... I even studied addiction and I still became addicted.\" Confession moment — someone who studies this still fell. That has emotional resonance: humility, \"nothing can prevent this.\"\n\n4. L1417–L1440: the closing \"when were you the most powerless\" — addiction, \"a cruel joke from the universe. I study addiction... and somehow I got tricked.\" And \"From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had.\" That's a real reframe moment. L1419–L1440. Confession + reframe. That's the strongest emotional stretch in the video.\n\n5. L1459–L1484: cost of ambition — \"I've lost a lot of very important relationships in my life because of my hyperfocus on prioritizing work... I've nearly lost my life.\" That's the one who lost — witnessed defeat. Genuine emotional content. L1464–L1478.\n\n6. L1372–L1373: \"a lot of tears by the way had a lot of students crying. It was really difficult because it's an addiction. Everyone is going through withdrawal together.\" Brief.\n\n7. L0819–L0823: \"try to remember three reels ago... If you can't remember, I don't want you to feel shame. You're not alone. I can't remember either.\" Cute, self-aware, but more motivational/general.\n\n8. L1233–L1248: stress cycle — \"Stress doesn't kill. Never completing the stress cycle kills.\" That's a striking line but belongs to health/general. Could be deep-thought adjacent. Hmm — \"Stress doesn't kill. Never completing the stress cycle kills.\" is punchy, but it's information; does it make someone go quiet? Maybe borderline. I'd leave it as a near miss for general.\n\n9. L0867–L0870: \"The world doesn't want people thinking. It's easier to control people if they're dumb and not thinking at all. They're distracted. Depressing thought.\" Hard truth about the world. But brief and adjacent to motivation/conspiracy register.\n\nBest candidates for the emotional category:\n\nA) The loneliness/candy passage (L0885–L0910 or L0893–L0910). Recognition: scrolling when lonely. The candy analogy is the detail that carries it. Hook: \"when you are craving social connection\" — clear opening. Confidence HIGH-ish. Line count: L0893–L0910 is ~18 lines — too long? 18 lines × 8s = ~144s. Over 2.5 min gets discarded. Tighten: L0904–L0910 is 7 lines (~56s) but starts with \"Sure, you're distracted, but it feels kind of good in the moment\" — need the setup. Start at L0893 (\"Okay, going back to this uh when you are craving social connection\") — hmm, \"going back to this\" is a callback. Better: L0896–L0910: \"You have two options. Let's say you can either reach out to a friend...\" That's clear. L0896 to L0910 = 15 lines ≈ 120s. Under 2.5 min. Or start L0899 \"social media is not social anymore\" — that's a great hook. L0899–L0910 = 12 lines ≈ 96s. Good. Actually start at L0896 for the two options setup, or at L0900 \"When you open up Instagram, it used to be when they first started, you would see the pictures and videos that your friends would post.\" Hmm, L0899 \"let's be honest, social media is not social anymore, right?\" is a strong opener. Start L0899, end L0910. ~12 lines. Include \"You're hungry for something real. Really? Food, but you eat candy instead.\" — the candy analogy. Ends \"It never satisfies that need.\" Good landing. Note: L0905 has \"Really? Food, but you eat candy instead\" — transcription artifact (\"Really?\" is Raj's interjection). Fine.\n\nB) The powerless/addiction closing (L1417–L1441). \"When were you the most powerless or anxious in your life\" — long gap 10.7s — then \"I would say for me, when I was struggling with addiction I felt powerless. And man, it felt like a cruel joke from the universe. I study addiction. I study neuroplasticity. I study this stuff. And somehow I got tricked... it's humbling... everybody's susceptible.\" Then L1434–L1440: \"I love the word you used, powerless. From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had in my entire life. I feel unstoppable and so powerful because of overcoming addiction. So it was an opportunity.\" This is a reframe that costs something. Start: L1417 \"Here's the last thing I ask everybody is when were you the most powerless or anxious in your life.\" End: L1440 \"So it was an opportunity.\" That's L1417–L1440, 24 lines ≈ 190s. Slightly over. Tighten: start L1419 \"I would say for me, when I was struggling with addiction I felt powerless\" — but then \"the word you used, powerless\" needs the question. Hmm, actually starting with the question L1417 gives context. Or split into two? The second half L1434–L1440 alone: \"You know what's interesting? I love the word you used, powerless. From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had\" — needs context of the question. Better to keep the question in. L1417–L1440 is 24 lines. At 8s/line that's ~192s — over 150s limit-ish. \"Past about two and a half minutes the system discards the clip.\" Trim to L1417–L1427 plus L1434–L1440 isn't contiguous. Options: L1419–L1440 (22 lines, ~176s) still long. Or end earlier: L1419–L1427 (\"...what you choose to think\") — that's the cruel joke part, 9 lines, ~72s, and ends on \"Be careful about what you expose your mind to.\" Hmm, that's a decent landing but the powerful reframe at L1434–L1440 is the payoff. Alternatively L1430–L1440: starts \"I've been addicted to a great number of things... it has been my life's most... You know what's interesting? I love the word you used, powerless. From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had in my entire life... I feel unstoppable and so powerful because of overcoming addiction. So it was an opportunity.\" But \"the word you used, powerless\" — viewer doesn't know who used it or in response to what. The question at L1417 fixes that. I'll return L1417–L1440 and accept it's long (~3 min risk). Actually, maybe trim the middle: return the moment as L1417–L1426 for \"cruel joke from the universe\" — but the stronger beat is the reframe. The second pass sets edges; I choose the moment. I'll do L1417–L1440 and note it. Actually SCALE says past 12 lines is over 90s; 24 lines = ~192s = 3.2 min. That gets discarded. Hmm. Compromise: L1430–L1440 (11 lines, ~88s). Opening: \"I've been addicted to a great number of things in my life. I have been addicted to uh I've I've smoked, I've drank, I've done uh scrolling, uh sugar, you name it.\" That's actually a strong raw opening — a confession. Then \"it has been my life's most [pause] You know what's interesting? I love the word you used, powerless.\" — slight dangling reference but the word \"powerless\" itself carries it; a viewer can follow: she's talking about her most powerless moment. Actually \"the word you used\" refers to Raj's question. A stranger might be slightly confused but the sentence \"From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had\" is fully self-contained in meaning. I'll take L1430–L1440. Hmm, but the \"cruel joke from the universe. I study addiction... and somehow I got tricked\" is the best line and it lives at L1421. Ugh. Alternative: extend start to L1419: \"(slow) I would say for me, when I was struggling with addiction I felt powerless. And man, it felt like a cruel joke from the universe. I study addiction... I got tricked... It's humbling... everybody's susceptible... what you choose to ingest, what you choose to think. Be careful about what you expose your mind to. What were you addicted to? I've been addicted to a great number of things... I love the word you used, powerless. From what felt like the most powerless moment... unstoppable... So it was an opportunity.\" L1419–L1440 = 22 lines ≈ 176s. Still ~3 min. The instructions say past ~2.5 min gets discarded. 22 lines × 8 = 176s > 150s. Risky.\n\nMaybe the cleaner choice: L1419–L1427 (9 lines, 72s): the cruel-joke confession, ending \"Be careful about what you expose your mind to.\" That's complete: admission, the irony, the humility, the takeaway. But it lacks the uplift. Or L1419–L1424: ends \"But it's humbling.\" Hmm.\n\nActually — maybe return two separate clips from this closing: (1) L1419–L1427 the confession; (2) L1434–L1440 the reframe. But (2) alone lacks context. Better one clip. I'll go L1419–L1440 but flag it. Or trust that the second pass trims. The doc says \"a story that needs its build can justify more\" but past 2.5 min discarded. 176s is past. Let me pick L1419–L1427 as the clip (cruel joke / humbling / everybody's susceptible) — HIGH confidence, ~72s. And mention the reframe lines as near-miss? Or include the reframe within: the question \"What were you addicted to?\" at L1429 is Raj — including it is fine. L1419–L1440... I keep going back and forth.\n\nDecision: return L1419–L1440? No — discard risk. Return L1419–L1427 (ends \"what you choose to think\" L1427 / \"Be careful about what you expose your mind to\" L1429). End at L1429 \"Be careful about what you expose your mind to.\" That's a clean landing. 11 lines ≈ 88s.\n\nThen the reframe L1434–L1440 as a second short clip? It's the one-liner rule territory: \"From what felt like the most powerless moment in my life, it gave rise to the most powerful feelings I've ever had in my entire life... I feel unstoppable and so powerful because of overcoming addiction. So it was an opportunity.\" L1434–L1440 = 7 lines ≈ 56s. Opening \"You know what's interesting? I love the word you used, powerless.\" — a stranger can follow: speaker reflecting on the word powerless. Borderline self-contained. MEDIUM confidence. Could return as second clip with self_contained true-ish. Hmm, \"the word you used\" — points outside. Slightly. But the meaning lands. I'll return it as a clip, confidence MEDIUM, noting the reference. Actually, maybe better: merge into one clip L1419–L1440 and let it be long. The guidance: \"Past about two and a half minutes the system discards the clip as a topic.\" 22 lines × 8s = 176s = 2:56. Discarded. So no. Two clips it is, or one. I'll return both separately — they're genuinely two beats.\n\nActually, reconsider: is the confession clip really emotional-category? \"It felt like a cruel joke from the universe. I study addiction and I still got tricked. It's humbling. Everybody's susceptible.\" Yes — the one who lost / witnessed defeat / humility. A viewer who struggles with their own addiction goes quiet. Good.\n\nC) Cost of ambition (L1464–L1478): \"My family and friends know the cost because they see it. There is always a cost... I've given up friendships. I've lost friendships. I've lost a lot of very important relationships in my life because of my hyperfocus on prioritizing work... I've nearly lost my life.\" Strong — the cost of ambition, regret, MEN's silent pain adjacent (women's too). L1464–L1484: ends \"I've learned from it which is all we can do right\" then thank you. Better end: L1483/L1484 \"I've learned from it which is all we can do right.\" L1464–L1484 = 21 lines ≈ 168s. Too long again. Trim: L1464–L1478 = 15 lines ≈ 120s. Ends \"I can't say I regret it because even though regretful things have happened because of it, I'm happy with where I'm at today.\" Hmm, L1476–L1477: \"I've nearly lost my life and given my life. I will say that in the pursuit of my goals and that amount of sacrifice.\" Then L1478 \"I can't say I regret it...\" End at L1477? \"in the pursuit of my goals and that amount of sacrifice,\" — dangling. End at L1478 \"...I'm happy with where I'm at today.\" Actually L1464–L1478 works: cost named, losses named, near-death named, and the resolution \"I can't say I regret it... I'm happy with where I'm at today.\" That's an honest landing. Start L1464 \"My family and friends know the cost because they see it.\" Good, self-contained given the question is implied? The question was \"what's the cost you've paid\" — starting at \"My family and friends know the cost because they see it\" — a stranger understands: she's talking about the cost of her ambition. Slight missing of the question but \"the cost\" is clear enough from context words. Maybe start at L1460? Raj's question at L1459–L1462: \"what's the cost you have personally paid to become the person who you are today?\" Including it makes it clearer. L1459–L1478 = 20 lines = 160s. Slightly over. L1460–L1478 = 19 lines = 152s. Right at the edge. Hmm. Start at L1464, hook is decent. I'll do L1464–L1478, 15 lines, ~120s.\n\nIs this clip emotional or motivational? It's the cost of ambition witnessed — \"I've lost a lot of very important relationships in my life.\" That's emotion (the one who lost / regret). It doesn't instruct. Good.\n\nD) Loneliness candy clip (L0899–L0910). 12 lines ≈ 96s. Strong recognition. HIGH.\n\nE) \"I'm not better than anybody else. I struggle with it myself... I even studied addiction and I still became addicted.\" L0951–L0956. 6 lines. Nice but overlaps with clip B's theme; could fold into near-misses.\n\nF) L0885–L0892: truck drivers' brains degrade — part of loneliness territory but a fact. Skip.\n\nHow many clips? Three feels right: loneliness/candy, powerless confession, cost of ambition. Maybe also the reframe (L1434–L1440) as fourth. Hmm — four clips, three from the same closing five minutes. The doc says \"Two moments can come from the same five minutes — return them separately.\" OK.\n\nBut maybe the reframe and confession should be one clip after all despite length... I'll keep them separate: confession L1419–L1429, reframe L1430–L1440. Actually the reframe starts at L1430 \"I've been addicted to a great number of things\" — including the list gives it texture and the \"word you used, powerless\" follows. L1430–L1440 = 11 lines ≈ 88s. Opening: \"I've been addicted to a great number of things in my life. I have been addicted to uh I've I've smoked, I've drank...\" — strong raw opening. Good.\n\nWait — overlap: confession clip ends L1429, reframe starts L1430. Adjacent clips. Fine.\n\nOrder by strength: \n1. Powerless reframe (L1430–L1440)? Or loneliness? The candy/loneliness one is most relatable to the 2am scroller (\"you're hungry for connection and you scroll\"). The powerless reframe is the most moving confession. I'd rank: 1) powerless reframe, 2) loneliness candy, 3) cost of ambition, 4) cruel joke confession. Actually the confession and reframe — maybe rank confession lower since reframe covers similar ground. Or merge: keep confession as clip, reframe as clip. Fine.\n\nHook strengths: reframe opening \"I've been addicted to a great number of things\" — 7. Loneliness \"social media is not social anymore\" — 6. Cost \"My family and friends know the cost\" — 6. Confession \"when I was struggling with addiction I felt powerless\" — 6.\n\nSignals: comment on L1458 (\"2:50:50\", 2 likes) is right after reframe area. The most-marked L1121 is about the chronotype link — irrelevant.\n\nNear misses:\n- L1233–L1248 stress cycle \"Stress doesn't kill. Never completing the stress cycle kills\" — general/health insight.\n- L0951–L0956 \"I even studied addiction and I still became addicted\" — good humility beat but duplicated by the closing confession.\n- L0817–L0823 \"try to remember three reels ago\" — clever, belongs to general.\n- L1372–L1373 students crying during detox — brief, no shape alone.\n- L1450–L1458 \"I remind myself that I am God\" — spiritual register but arguably deep-thought; feels adjacent. Could be near miss.\n\nSkipped ranges: cold open L0001–L0027 montage; intro L0027–L0035; multitask test L0540–L0660; belief/DMN section L0090–L0185 (motivation); habit loop L0280–L0430; phone study L0440–L0540; chronotypes L1040–L1215; 3M breaks L1215–L1315; 9-week study L1315–L1400; outro L1484–L1493.\n\nStart/end words must be copied exactly:\n\nClip 1 (reframe): start L1430 \"I've been addicted to a great number of things\" — check L1430: \"(slow) it it has been my life's most\" is L1432. L1430: \">> I've been addicted to a great number of things in my life. I have been addicted to uh I've I've smoked, I've drank, I've done uh scrolling, uh sugar, you name it. Um\" — start_words: \"I've been addicted to a great number\". End L1440: \"(slow) So it was an opportunity.\" end_words: \"So it was an opportunity.\"\n\nClip 2 (loneliness): start L0899: \"a whole from the best is like in real life, real connection. >> Yeah. >> Live. Okay. Next best is maybe the phone or something or FaceTime or something like that. >> Maybe a text. But if you say, \"Oh, I want to know what other people are doing.\" If you get on social media, listen, let's be honest, social media is not social anymore, right?\" start_words: \"If you get on social media\". Hmm mid-line. Better start at L0900 \"(slow) When you open up Instagram, it used to be when they first started, you would see the pictures and videos that your friends would post.\" — start_words \"When you open up Instagram\". That's clear and self-contained. End L0910: \"(slow) because it's never satisfying that need. It never satisfies that need.\" end_words: \"It never satisfies that need.\" L0900–L0910 = 11 lines ≈ 88s.\n\nBut does it need the craving setup? L0900–L0910: \"When you open up Instagram... it's other people you don't know. So, you are seeking social connection and then you get you go on to short form media and then you start scrolling... distraction feels good. It's like eating candy when you're hungry... you're even more lonely because it's never satisfying that need.\" Yes — \"you are seeking social connection\" at L0902 provides the frame. Self-contained. Good.\n\nClip 3 (cost of ambition): start L1464 \"My family and friends know the cost because they see it.\" end L1478 \"I can't say I regret it because even though regretful things have happened because of it,\" — hmm that ends mid-thought (\"...I'm happy with where I'm at today\" is L1479). Check L1478: \"(slow) I can't say I regret it because even though regretful things have happened because of it,\" L1479: \"I'm happy with where I'm at today. Not just from a success metric perspective, but I learned and now I can teach\" L1480: \"(slow) and I've corrected and now I prioritize\" — continue L1480–L1484: \"the people in my life... I've learned from it which is all we can do right.\" End at L1484? That makes L1464–L1484 = 21 lines ≈ 168s. Too long. End at L1476: \"And um yeah, I've I've nearly lost my life and given my life. I will say that in the pursuit of my goals and\" — dangling. End at L1479 \"I'm happy with where I'm at today.\" — decent landing. L1464–L1479 = 16 lines ≈ 128s. OK. end_words: \"I'm happy with where I'm at today.\"\n\nClip 4 (confession): start L1419 \"(slow) I would say for me\" — L1419: \"(slow) I would say for me\" L1420: \"(slow) when I was struggling with addiction I felt powerless.\" start at L1419, start_words \"I would say for me\". End L1429 \"Be careful about what you expose your mind to.\" end_words: \"Be careful about what you expose your mind to\". L1419–L1429 = 11 lines ≈ 88s. Wait, L1429 includes Raj's \"What were you addicted to?\" at the end of the line: \"Be careful about what you expose your mind to. What were you addicted to?\" — that's fine, the question leads into... no, my clip ends there. Ending on the question then cutting is odd. End at L1427: \"and being intentional about how you spend your time, and also what you do with your life, what you choose to ingest, what you choose to think.\" end_words \"what you choose to ingest, what you choose to think\". Hmm, or L1429 anyway — the second pass can cut before the question. Better end at L1427? The line \"Be careful about what you expose your mind to\" (L1429) is the natural landing. I'll end at L1429 and let the pass handle it; the trailing question is minor. Actually end_words must be \"last few words of L0151\" — the end line. If I end on L1429, the question is included. The pass sets exact edges; fine either way. I'll end at L1427 to be safe: \"what you choose to think.\" Hmm, \"Be careful about what you expose your mind to\" is the better closing beat. I'll take L1429.\n\nHmm, one more consideration: clip 4 (confession) and clip 1 (reframe) are adjacent and thematic — returning both may be redundant. The reframe is stronger and more complete. Maybe drop clip 4 into near_misses: \"same beat as the stronger reframe clip.\" Yes — the confession's best content (cruel joke, humbling) is good but the reframe clip contains the addiction list + powerless→powerful arc which subsumes it emotionally. I'll put confession in near_misses. Three clips final.\n\nRank: 1) powerless reframe (L1430–L1440), 2) loneliness candy (L0900–L0910), 3) cost of ambition (L1464–L1479).\n\nCategory hints: \"confession / reframe\", \"loneliness / recognition\", \"cost of ambition / regret\".\n\nvideo_read: neuroscience productivity podcast; emotional material lives in the closing personal questions and the loneliness passage; most of the video is instructional."
+}

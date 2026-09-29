@@ -1,0 +1,117 @@
+DURATION 214s
+
+HOW TO READ
+  L0001 = line id. Refer to clips by id, never by time.
+  (fast)(slow) = measured pace, against this video's own normal.
+  [pause 2.1s] = measured silence.
+  [applause (youtube)] = YouTube's own captions marked a sound here; no duration given.
+  [COMMENT] = a viewer comment about THIS exact moment, on its own indented line. Rare and strong.
+  [COMMENT summary] = the same, but the comment was too long to quote, so this is a machine summary of it, not the viewer's own words. Weigh it as testimony, never quote it.
+  +N more viewers marked this moment = N other people commented on this same line. The number is the signal.
+  >> inside a line = YouTube's caption marker for the OTHER PERSON STARTING TO TALK. A speaker change, not a comment, not a word. Never copy it into start_words or end_words.
+  [REPLAYED] = YouTube says viewers rewound here.
+  THE WORDS ARE THE TRUTH. If any tag contradicts them, ignore the tag.
+
+SCALE
+  One line here is about 8s of speech. So roughly: 15-30s is 2-4 lines, 30-60s is 4-8 lines, and anything past 12 lines is over 90 seconds. Count lines, never estimate seconds.
+
+
+MOST-MARKED MOMENTS (line ids where viewer comments landed, busiest first)
+  L0003  2 viewer comments
+  L0004  2 viewer comments
+  L0005  2 viewer comments
+  L0010  2 viewer comments
+
+
+AUDIENCE (about the video overall, no fixed moment)
+  mood: A blend of nostalgic fans, meme enthusiasts, and surprise‑clickers reacting to the endless Rickroll phenomenon.
+  - Surprise Rickrolls via random links, QR codes, and online tricks -- 17 comments, e.g. "How tf did this get in my recommended Did I just got rickrolled by Youtube"
+  - Nostalgic reflections and personal connections to the song over years -- 12 comments, e.g. "1988 : damn, this song is good 2019 : damn, this song is better 2020: damn, i miss the Internet 2025: nothing can describe this song"
+  - Commentary on the Rickroll meme culture and its enduring presence -- 12 comments, e.g. "Ok let’s be honest here Rick rolling is the one meme that will never die"
+  - Celebration of view milestones and record‑breaking popularity -- 10 comments, e.g. "There's a reason this has over 600M views..."
+  - Expressions of love for the song as a banger or masterpiece -- 10 comments, e.g. "Jokes on you, I love this song."
+  - Rickrolls occurring in educational settings and class assignments -- 8 comments, e.g. "My professor sent us this link as the "final exam key"........"
+  - Self‑inflicted or intentional Rickrolls by the commenter -- 7 comments, e.g. "I looked up this video forgot that I did, clicked the tab and got rick rolled by my past self"
+  - Rumors and confusion about the video being taken down or removed -- 4 comments, e.g. "Soooo who else saw a post saying this video got deleted?"
+
+  loudest comments, verbatim:
+  "There's a reason this has over 600M views..." (1012217 likes)
+  "Gonna flag this for nudity so I can rick roll the YouTube staff" (566059 likes)
+  "Ok let’s be honest here Rick rolling is the one meme that will never die" (426867 likes)
+  "My professor sent us this link as the "final exam key"........" (413588 likes)
+  "I looked up this video forgot that I did, clicked the tab and got rick rolled by my past self" (403556 likes)
+  "can confirm: he never gave us up" (317356 likes)
+  "Jokes on you, I love this song." (310730 likes, 2 people wrote this)
+  "How tf did this get in my recommended Did I just got rickrolled by Youtube" (301657 likes)
+  "Is everyone going to ignore the fact that Rick Astley looks like a twelve year old boy but has a uniquely deep voice?" (290051 likes)
+  "We got rickrolled so many times that we don't even care anymore" (284012 likes)
+  "If this doesn't teach you not to click on a dark web link, nothing will." (248784 likes)
+  "Wait, this isn’t the link to finding out Obama’s last name" (229843 likes)
+  "Keep rickrolling people till we get 1 billion views." (229719 likes)
+  "Let’s put the meme aside, this is actually a banging song." (218257 likes)
+  "Wait a minute, this is not the "darude sandstorm" song someone link me to." (182907 likes)
+  "The Term RickRoll Still Exists and I could not be happier." (177358 likes)
+  "He looks like a normal Teenager, But his Voice kills" (174418 likes)
+  "It’s come to the point that being rickrolled is a privilege" (160801 likes)
+  "One random fact: This is the most copied link in history." (140529 likes)
+  "1987 : normal song 2026 : *national anthem of the universe*" (137875 likes)
+  "Wait this isn’t How To Rickroll People Tutorial." (134953 likes)
+  "When they put ads so you can't rickroll anymore" (127982 likes)
+  "feels like ive seen it a billion times" (126951 likes)
+  "I can’t believe this showed up in my recommended youtube itself rickrolled me" (107531 likes)
+  "I’ve being rick rolled many times in my life that I don’t even trust links anymore." (106509 likes)
+  "I Rick rolled my entire French class because we had to study a city in France and make a quiz about it as well as a presentation, I decided to make a Kahoot quiz because it’s very easy. I put a link in to this saying it’" (100685 likes)
+  "I Rickrolled my entire school. I still smile bc of it" (100263 likes)
+  "People don't Rickroll me: Me: Fine, I'll do it myself" (98925 likes)
+  "I just got rick rolled by scanning someone’s hairline" (85178 likes)
+  "I got rickrolled by a link saying it got taken down." (28121 likes)
+
+
+TRANSCRIPT
+L0001  [music (youtube)]
+L0002  [REPLAYED] We're no strangers to
+L0003  love. You know the rules and so do I. I feel commitments from what I'm thinking of.
+       [COMMENT] "0:25 “…so do I, SAY GOODBYE!”" (0 likes)
+       [COMMENT] "0:30 0:30 0:30 0:30 0:30 ❤❤❤" (0 likes)
+L0004  You wouldn't get this from any other guy. I just want to tell you how I'm
+       [COMMENT] "0:37" (2 likes)
+       [COMMENT] "0:36 the famous part" (0 likes)
+L0005  feeling. Got to make you understand. Never going to give you up. I'm going to let
+       [COMMENT] "0:40" (0 likes)
+       [COMMENT] "0:43 yayyyyyyyy" (0 likes)
+L0006  you down. I'm going to run around and desert you. I'm going to make you say goodbye.
+       [COMMENT] "0:53 song untitled tag game😭✌️" (0 likes)
+L0007  Tell a lie and hurt
+L0008  you. We've known each other for so long. Your heart's been aching, but you're too shy
+L0009  to say we don't know what's been going on. We know the game and we're going to
+L0010  play. If you ask me how I'm feeling, don't tell me your truth. to see. I will give
+       [COMMENT] "At 1:20 he's like AAAAAAAAA" (0 likes)
+       [COMMENT] "1:25 every political party in the world." (0 likes)
+L0011  [pause 2.7s]
+L0012  you around
+L0013  [pause 2.1s]
+L0014  (slow) you. I will say
+L0015  [pause 1.9s]
+L0016  goodbye and hurt you. I will give
+L0017  [music (youtube)]
+L0018  (slow) you around you. I will leave you. I will say
+       [COMMENT] "❤❤❤❤ 1:55" (0 likes)
+L0019  [pause 1.9s]
+L0020  (slow) goodbye and hurt you.
+       [COMMENT] "1:59 Michael Jackson?" (1 likes)
+L0021  [long gap 9.0s]
+L0022  (fast) Never going to give. Never going to give.
+L0023  [pause 1.6s]
+L0024  (fast) Never going to give. Never going to give.
+L0025  [pause 1.6s]
+L0026  We've known each other for so long.
+L0027  Your heart's been aching, but you're too shy to say it. We both know what's been going on.
+L0028  We know the game and we're going to play it. I just want to tell you how I'm
+       [COMMENT] "2:32 Gonna make u understand 😅" (0 likes)
+L0029  feeling. Got to make you understand. Never going to give you up. Never going to let you down. Never going to run around and desert you. Heat.
+       [COMMENT] "2:48 "desert you"" (0 likes)
+L0030  [music (youtube)]
+L0031  Heat. Heat. Heat.
+L0032  [music (youtube)]
+L0033  (fast) Never going to tell a lie and hurt you. Never going to give you up. Never going to let you down. Never
+L0034  going to run around and desert you. Never going to make you cry. Never going to say goodbye. Never going to say goodbye.

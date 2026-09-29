@@ -1,0 +1,1081 @@
+{
+  "meta": {
+    "duration_s": 214.0,
+    "transcript": "C:\\Users\\DP\\Desktop\\App\\website\\pipeline\\runs\\dQw4w9WgXcQ\\dQw4w9WgXcQ_final.json",
+    "clip_start_s": 0.0,
+    "video": {
+      "video_id": "dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "channel": "Rick Astley",
+      "duration_s": 214.0,
+      "views": "1817520631"
+    },
+    "comments_placed": 13,
+    "replay_peaks": 1,
+    "comment_stats": {
+      "raw": 1000,
+      "pages": 11,
+      "duplicates_folded": 25,
+      "promo_dropped": 20,
+      "chapter_indexes": 0,
+      "empty": 0,
+      "timestamped": 15,
+      "summarised": 0,
+      "general_seen": 940,
+      "general_kept": 389,
+      "top_liked_spared": 25,
+      "llm": {
+        "triage": {
+          "batches": 15,
+          "failed": 0,
+          "cost_usd": 0.03266
+        },
+        "themes": {
+          "cost_usd": 0.00682
+        },
+        "promo": {
+          "batches": 1,
+          "failed": 0,
+          "cost_usd": 0.00023
+        },
+        "summarise": {},
+        "cost_usd": 0.03971
+      }
+    }
+  },
+  "audience": {
+    "themes": {
+      "mood": "A blend of nostalgic fans, meme enthusiasts, and surprise‑clickers reacting to the endless Rickroll phenomenon.",
+      "themes": [
+        {
+          "what": "Surprise Rickrolls via random links, QR codes, and online tricks",
+          "n": 17,
+          "quote": "How tf did this get in my recommended Did I just got rickrolled by Youtube",
+          "likes": 301657
+        },
+        {
+          "what": "Nostalgic reflections and personal connections to the song over years",
+          "n": 12,
+          "quote": "1988 : damn, this song is good 2019 : damn, this song is better 2020: damn, i miss the Internet 2025: nothing can describe this song",
+          "likes": 1009
+        },
+        {
+          "what": "Commentary on the Rickroll meme culture and its enduring presence",
+          "n": 12,
+          "quote": "Ok let’s be honest here Rick rolling is the one meme that will never die",
+          "likes": 426867
+        },
+        {
+          "what": "Celebration of view milestones and record‑breaking popularity",
+          "n": 10,
+          "quote": "There's a reason this has over 600M views...",
+          "likes": 1012217
+        },
+        {
+          "what": "Expressions of love for the song as a banger or masterpiece",
+          "n": 10,
+          "quote": "Jokes on you, I love this song.",
+          "likes": 310730
+        },
+        {
+          "what": "Rickrolls occurring in educational settings and class assignments",
+          "n": 8,
+          "quote": "My professor sent us this link as the \"final exam key\"........",
+          "likes": 413588
+        },
+        {
+          "what": "Self‑inflicted or intentional Rickrolls by the commenter",
+          "n": 7,
+          "quote": "I looked up this video forgot that I did, clicked the tab and got rick rolled by my past self",
+          "likes": 403556
+        },
+        {
+          "what": "Rumors and confusion about the video being taken down or removed",
+          "n": 4,
+          "quote": "Soooo who else saw a post saying this video got deleted?",
+          "likes": 3577
+        }
+      ]
+    },
+    "general": [
+      {
+        "text": "There's a reason this has over 600M views...",
+        "likes": 1012217,
+        "replies": 1000,
+        "dupes": 0,
+        "id": 41
+      },
+      {
+        "text": "Gonna flag this for nudity so I can rick roll the YouTube staff",
+        "likes": 566059,
+        "replies": 753,
+        "dupes": 0,
+        "id": 22
+      },
+      {
+        "text": "Ok let’s be honest here Rick rolling is the one meme that will never die",
+        "likes": 426867,
+        "replies": 766,
+        "dupes": 0,
+        "id": 36
+      },
+      {
+        "text": "My professor sent us this link as the \"final exam key\"........",
+        "likes": 413588,
+        "replies": 1000,
+        "dupes": 0,
+        "id": 29
+      },
+      {
+        "text": "I looked up this video forgot that I did, clicked the tab and got rick rolled by my past self",
+        "likes": 403556,
+        "replies": 644,
+        "dupes": 0,
+        "id": 48
+      },
+      {
+        "text": "can confirm: he never gave us up",
+        "likes": 317356,
+        "replies": 1000,
+        "dupes": 0,
+        "id": 15
+      },
+      {
+        "text": "Jokes on you, I love this song.",
+        "likes": 310730,
+        "replies": 462,
+        "dupes": 1,
+        "id": 49
+      },
+      {
+        "text": "How tf did this get in my recommended Did I just got rickrolled by Youtube",
+        "likes": 301657,
+        "replies": 778,
+        "dupes": 0,
+        "id": 52
+      },
+      {
+        "text": "Is everyone going to ignore the fact that Rick Astley looks like a twelve year old boy but has a uniquely deep voice?",
+        "likes": 290051,
+        "replies": 721,
+        "dupes": 0,
+        "id": 24
+      },
+      {
+        "text": "We got rickrolled so many times that we don't even care anymore",
+        "likes": 284012,
+        "replies": 736,
+        "dupes": 0,
+        "id": 60
+      },
+      {
+        "text": "If this doesn't teach you not to click on a dark web link, nothing will.",
+        "likes": 248784,
+        "replies": 612,
+        "dupes": 0,
+        "id": 34
+      },
+      {
+        "text": "Wait, this isn’t the link to finding out Obama’s last name",
+        "likes": 229843,
+        "replies": 968,
+        "dupes": 0,
+        "id": 40
+      },
+      {
+        "text": "Keep rickrolling people till we get 1 billion views.",
+        "likes": 229719,
+        "replies": 736,
+        "dupes": 0,
+        "id": 68
+      },
+      {
+        "text": "Let’s put the meme aside, this is actually a banging song.",
+        "likes": 218257,
+        "replies": 653,
+        "dupes": 0,
+        "id": 25
+      },
+      {
+        "text": "Wait a minute, this is not the \"darude sandstorm\" song someone link me to.",
+        "likes": 182907,
+        "replies": 417,
+        "dupes": 0,
+        "id": 69
+      },
+      {
+        "text": "The Term RickRoll Still Exists and I could not be happier.",
+        "likes": 177358,
+        "replies": 533,
+        "dupes": 0,
+        "id": 61
+      },
+      {
+        "text": "He looks like a normal Teenager, But his Voice kills",
+        "likes": 174418,
+        "replies": 482,
+        "dupes": 0,
+        "id": 65
+      },
+      {
+        "text": "It’s come to the point that being rickrolled is a privilege",
+        "likes": 160801,
+        "replies": 477,
+        "dupes": 0,
+        "id": 75
+      },
+      {
+        "text": "One random fact: This is the most copied link in history.",
+        "likes": 140529,
+        "replies": 745,
+        "dupes": 0,
+        "id": 45
+      },
+      {
+        "text": "1987 : normal song 2026 : *national anthem of the universe*",
+        "likes": 137875,
+        "replies": 1000,
+        "dupes": 0,
+        "id": 26
+      },
+      {
+        "text": "Wait this isn’t How To Rickroll People Tutorial.",
+        "likes": 134953,
+        "replies": 504,
+        "dupes": 0,
+        "id": 77
+      },
+      {
+        "text": "When they put ads so you can't rickroll anymore",
+        "likes": 127982,
+        "replies": 756,
+        "dupes": 0,
+        "id": 58
+      },
+      {
+        "text": "feels like ive seen it a billion times",
+        "likes": 126951,
+        "replies": 495,
+        "dupes": 0,
+        "id": 56
+      },
+      {
+        "text": "I can’t believe this showed up in my recommended youtube itself rickrolled me",
+        "likes": 107531,
+        "replies": 590,
+        "dupes": 0,
+        "id": 44
+      },
+      {
+        "text": "I’ve being rick rolled many times in my life that I don’t even trust links anymore.",
+        "likes": 106509,
+        "replies": 613,
+        "dupes": 0,
+        "id": 67
+      },
+      {
+        "text": "I Rick rolled my entire French class because we had to study a city in France and make a quiz about it as well as a presentation, I decided to make a Kahoot quiz because it’s very easy. I put a link in to this saying it’s the kahoot link. The teacher needless to say got very very mad. As well as my classmates asking who rick rolls in 2019",
+        "likes": 100685,
+        "replies": 591,
+        "dupes": 0,
+        "id": 28
+      },
+      {
+        "text": "I Rickrolled my entire school. I still smile bc of it",
+        "likes": 100263,
+        "replies": 502,
+        "dupes": 0,
+        "id": 33
+      },
+      {
+        "text": "People don't Rickroll me: Me: Fine, I'll do it myself",
+        "likes": 98925,
+        "replies": 584,
+        "dupes": 0,
+        "id": 46
+      },
+      {
+        "text": "I just got rick rolled by scanning someone’s hairline",
+        "likes": 85178,
+        "replies": 515,
+        "dupes": 0,
+        "id": 57
+      },
+      {
+        "text": "I got rickrolled by a link saying it got taken down.",
+        "likes": 28121,
+        "replies": 899,
+        "dupes": 0,
+        "id": 37
+      },
+      {
+        "text": "I feel dumb for falling for that post",
+        "likes": 20161,
+        "replies": 253,
+        "dupes": 0,
+        "id": 18
+      },
+      {
+        "text": "Getting rickrolled by a national examination board 🥀🥀 CBSE😭😭",
+        "likes": 8033,
+        "replies": 54,
+        "dupes": 0,
+        "id": 62
+      },
+      {
+        "text": "Never thought the video was taken down, not even for a second. I just wanted to hear my boy Rick Astley again.",
+        "likes": 7510,
+        "replies": 52,
+        "dupes": 0,
+        "id": 21
+      },
+      {
+        "text": "I knew it was a trap, but I clicked the link anyway. It's fire tho",
+        "likes": 6616,
+        "replies": 43,
+        "dupes": 0,
+        "id": 16
+      },
+      {
+        "text": "bruhhh no way I got rickrolled via discord age verification",
+        "likes": 4069,
+        "replies": 29,
+        "dupes": 0,
+        "id": 76
+      },
+      {
+        "text": "Soooo who else saw a post saying this video got deleted?",
+        "likes": 3577,
+        "replies": 71,
+        "dupes": 0,
+        "id": 38
+      },
+      {
+        "text": "Damn got Rick rolled cause someone said it's down, well I'll gladly take it knowing it's not down",
+        "likes": 3509,
+        "replies": 10,
+        "dupes": 0,
+        "id": 54
+      },
+      {
+        "text": "pov: You Scanned a QR CODE",
+        "likes": 3388,
+        "replies": 178,
+        "dupes": 0,
+        "id": 100
+      },
+      {
+        "text": "got rickrolled by a tumblr comment about the video being taken down, but given how f*cked up the world is atm I glad this video is still around",
+        "likes": 3415,
+        "replies": 54,
+        "dupes": 0,
+        "id": 42
+      },
+      {
+        "text": "Just got rolled by a random QR code in a mobile game. Rick indeed will never give up.",
+        "likes": 3119,
+        "replies": 147,
+        "dupes": 0,
+        "id": 81
+      },
+      {
+        "text": "ok so that guy from twitter just tricked us.. lmao",
+        "likes": 2549,
+        "replies": 36,
+        "dupes": 0,
+        "id": 105
+      },
+      {
+        "text": "Who else came here after CBSE rickrolled us😭😭",
+        "likes": 2487,
+        "replies": 26,
+        "dupes": 0,
+        "id": 120
+      },
+      {
+        "text": "I'm never mad at Rick Rolling. Keep reminding me that masterpiece.",
+        "likes": 1754,
+        "replies": 14,
+        "dupes": 0,
+        "id": 91
+      },
+      {
+        "text": "No-one should give up on this song. This song has rickrolled us many times but will always stay in our heart no matter what.",
+        "likes": 1657,
+        "replies": 15,
+        "dupes": 0,
+        "id": 108
+      },
+      {
+        "text": "1988 : damn, this song is good 2019 : damn, this song is better 2020: damn, i miss the Internet 2025: nothing can describe this song",
+        "likes": 1009,
+        "replies": 17,
+        "dupes": 0,
+        "id": 92
+      },
+      {
+        "text": "Saw the post about the video being taken off of YouTube, searched for the love of the game.",
+        "likes": 1002,
+        "replies": 17,
+        "dupes": 0,
+        "id": 30
+      },
+      {
+        "text": "Fun fact: Disliking is getting Rick Rolled without honour.",
+        "likes": 984,
+        "replies": 14,
+        "dupes": 0,
+        "id": 276
+      },
+      {
+        "text": "It's not a joke, it's a good song Every time you get Rickrolled, you listen to it in full",
+        "likes": 913,
+        "replies": 23,
+        "dupes": 0,
+        "id": 80
+      },
+      {
+        "text": "just got rickrolled, idk what I'm doing here",
+        "likes": 840,
+        "replies": 27,
+        "dupes": 0,
+        "id": 209
+      },
+      {
+        "text": "I can’t believe I was fooled into thinking this video was deleted",
+        "likes": 843,
+        "replies": 12,
+        "dupes": 0,
+        "id": 53
+      },
+      {
+        "text": "Who else is here because they got rickrolled?",
+        "likes": 809,
+        "replies": 80,
+        "dupes": 0,
+        "id": 320
+      },
+      {
+        "text": "Never gonna give you up: **Changes thumbnail** Everyone: \"Wait, that's illegal!\"",
+        "likes": 795,
+        "replies": 19,
+        "dupes": 0,
+        "id": 117
+      },
+      {
+        "text": "Funny that this is has been one of the biggest memes for years, and it now just gets 1b views. Nonetheless, congrats. To 1b more and on <3",
+        "likes": 779,
+        "replies": 11,
+        "dupes": 0,
+        "id": 275
+      },
+      {
+        "text": "Imagine telling Rick in 1987 this song will be one of the most popular songs to ever exist",
+        "likes": 769,
+        "replies": 16,
+        "dupes": 0,
+        "id": 93
+      },
+      {
+        "text": "This..isn't..possible...Rick Rolled in 2018!??! WOOOOOOO I'm SO FRICKEN HAPPY!",
+        "likes": 766,
+        "replies": 20,
+        "dupes": 0,
+        "id": 84
+      },
+      {
+        "text": "When you actually like this song and never get rick rolled 😢",
+        "likes": 750,
+        "replies": 30,
+        "dupes": 0,
+        "id": 184
+      },
+      {
+        "text": "GIVE THE MAN THE MONEY HE DESERVES FROM THIS DAMN VIDEO",
+        "likes": 733,
+        "replies": 23,
+        "dupes": 0,
+        "id": 180
+      },
+      {
+        "text": "my uncles wedding vows were the lyrics to this song. he Rick rolled everyone at that wedding",
+        "likes": 723,
+        "replies": 9,
+        "dupes": 0,
+        "id": 103
+      },
+      {
+        "text": "The fact that this still has fresh comments after 12 years is just wow… truly a timeless masterpiece.",
+        "likes": 718,
+        "replies": 18,
+        "dupes": 0,
+        "id": 175
+      },
+      {
+        "text": "We did it bois, we rickrolled 14% of the world's population.",
+        "likes": 708,
+        "replies": 37,
+        "dupes": 0,
+        "id": 289
+      },
+      {
+        "text": "I’m airdropping this to random people in public to Rick roll everyone",
+        "likes": 708,
+        "replies": 24,
+        "dupes": 0,
+        "id": 279
+      },
+      {
+        "text": "\"Rick Astley has taught people to not click on unknown links more than school\"",
+        "likes": 690,
+        "replies": 12,
+        "dupes": 0,
+        "id": 185
+      },
+      {
+        "text": "\"One small step of man, one giant leap of rickrolling\" - Rick Astley",
+        "likes": 689,
+        "replies": 11,
+        "dupes": 0,
+        "id": 169
+      },
+      {
+        "text": "I found this tagged as a qr code on a bench on a fishing pier. This is gold",
+        "likes": 691,
+        "replies": 6,
+        "dupes": 0,
+        "id": 135
+      },
+      {
+        "text": "Have you ever got rickrolled by yourself? I saved this link on my notebook without any title around a year ago and I've just found the note again today, out of curiosity (and because i totally forgot what I saved) I decided to open the link and then bam. Rick starts rolling on my screen.",
+        "likes": 675,
+        "replies": 22,
+        "dupes": 0,
+        "id": 243
+      },
+      {
+        "text": "When my parents see a strange link: \"it's surely a virus, don't click it\" When I see a strange link: **rickroll intensifies**",
+        "likes": 651,
+        "replies": 10,
+        "dupes": 0,
+        "id": 148
+      },
+      {
+        "text": "I just got Rick rolled by a QR code on a car. In 2025.",
+        "likes": 639,
+        "replies": 17,
+        "dupes": 0,
+        "id": 232
+      },
+      {
+        "text": "The first 5-10 seconds of this probably has more views relative to the rest of the video than any part of any other YouTube video.",
+        "likes": 622,
+        "replies": 13,
+        "dupes": 0,
+        "id": 270
+      },
+      {
+        "text": "Aliens: “I wonder what life on earth has.” *discovers this song* “I’ve just been rickrolled.”",
+        "likes": 572,
+        "replies": 15,
+        "dupes": 0,
+        "id": 199
+      },
+      {
+        "text": "I haven't been Rick Rolled for 2 years now and today I just broke that streak",
+        "likes": 549,
+        "replies": 19,
+        "dupes": 0,
+        "id": 153
+      },
+      {
+        "text": "Rickrolled myself by accident and ya know what I’m not complaining",
+        "likes": 538,
+        "replies": 10,
+        "dupes": 0,
+        "id": 203
+      },
+      {
+        "text": "I FUCKING RICK ROLLED MYSELF I FORGOT ABOUT THAT FUCKING LINK I WAS SAVING TO TROLL",
+        "likes": 511,
+        "replies": 32,
+        "dupes": 0,
+        "id": 240
+      },
+      {
+        "text": "This is why I don't trust dQw4w9WgXcQ videos.",
+        "likes": 489,
+        "replies": 13,
+        "dupes": 0,
+        "id": 301
+      },
+      {
+        "text": "Rick Roll: *Exists* Shun: Be my master.",
+        "likes": 490,
+        "replies": 10,
+        "dupes": 0,
+        "id": 177
+      },
+      {
+        "text": "The intro to this is simultaniusly the most hated and loved Sound on the earth",
+        "likes": 488,
+        "replies": 13,
+        "dupes": 0,
+        "id": 163
+      },
+      {
+        "text": "1980: lol i wonder what people will listen to in the future 2021: *never gonna give you up*",
+        "likes": 451,
+        "replies": 12,
+        "dupes": 0,
+        "id": 109
+      },
+      {
+        "text": "Ahh...I miss the days when Rick-Rolling was huge.",
+        "likes": 447,
+        "replies": 20,
+        "dupes": 0,
+        "id": 227
+      },
+      {
+        "text": "I just got rickrolled by tumblr",
+        "likes": 442,
+        "replies": 20,
+        "dupes": 0,
+        "id": 304
+      },
+      {
+        "text": "Yes, I got RickRolled. No, I am not the least but UNhappy. This song is timeless. I always smile when I hear it.",
+        "likes": 444,
+        "replies": 9,
+        "dupes": 0,
+        "id": 201
+      },
+      {
+        "text": "2019 and I'm getting rickrolled by AUTOPLAY. smh",
+        "likes": 440,
+        "replies": 10,
+        "dupes": 0,
+        "id": 308
+      }
+    ]
+  },
+  "baselines": {
+    "SPK1": {
+      "wpm_hi": 149.83967075695588,
+      "wpm_lo": 90.32561495433511,
+      "wpm_mid": 114.86486486486474,
+      "lines": 23
+    }
+  },
+  "rows": [
+    {
+      "kind": "event",
+      "start": 0.32,
+      "end": 1.52,
+      "text": "[music (youtube)]",
+      "id": "L0001"
+    },
+    {
+      "kind": "line",
+      "start": 18.8,
+      "end": 21.04,
+      "tags": [],
+      "text": "We're no strangers to",
+      "reactions": [],
+      "id": "L0002",
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 21.8,
+      "end": 31.279,
+      "tags": [],
+      "text": "love. You know the rules and so do I. I feel commitments from what I'm thinking of.",
+      "reactions": [],
+      "id": "L0003",
+      "comments": [
+        {
+          "text": "0:25 “…so do I, SAY GOODBYE!”",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "0:30 0:30 0:30 0:30 0:30 ❤❤❤",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 31.279,
+      "end": 39.36,
+      "tags": [],
+      "text": "You wouldn't get this from any other guy. I just want to tell you how I'm",
+      "reactions": [],
+      "id": "L0004",
+      "comments": [
+        {
+          "text": "0:37",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "0:36 the famous part",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 39.559,
+      "end": 46.16,
+      "tags": [],
+      "text": "feeling. Got to make you understand. Never going to give you up. I'm going to let",
+      "reactions": [],
+      "id": "L0005",
+      "comments": [
+        {
+          "text": "0:40",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "0:43 yayyyyyyyy",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 46.16,
+      "end": 55.919,
+      "tags": [],
+      "text": "you down. I'm going to run around and desert you. I'm going to make you say goodbye.",
+      "reactions": [],
+      "id": "L0006",
+      "comments": [
+        {
+          "text": "0:53 song untitled tag game😭✌️",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 56.399,
+      "end": 59.68,
+      "tags": [],
+      "text": "Tell a lie and hurt",
+      "reactions": [],
+      "id": "L0007"
+    },
+    {
+      "kind": "line",
+      "start": 59.879,
+      "end": 68.24,
+      "tags": [],
+      "text": "you. We've known each other for so long. Your heart's been aching, but you're too shy",
+      "reactions": [],
+      "id": "L0008"
+    },
+    {
+      "kind": "line",
+      "start": 68.24,
+      "end": 77.12,
+      "tags": [],
+      "text": "to say we don't know what's been going on. We know the game and we're going to",
+      "reactions": [],
+      "id": "L0009"
+    },
+    {
+      "kind": "line",
+      "start": 77.799,
+      "end": 87.2,
+      "tags": [],
+      "text": "play. If you ask me how I'm feeling, don't tell me your truth. to see. I will give",
+      "reactions": [],
+      "id": "L0010",
+      "comments": [
+        {
+          "text": "At 1:20 he's like AAAAAAAAA",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "1:25 every political party in the world.",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 87.2,
+      "end": 89.88,
+      "text": "[pause 2.7s]",
+      "id": "L0011"
+    },
+    {
+      "kind": "line",
+      "start": 89.88,
+      "end": 92.92,
+      "tags": [],
+      "text": "you around",
+      "reactions": [],
+      "id": "L0012"
+    },
+    {
+      "kind": "event",
+      "start": 92.92,
+      "end": 95.0,
+      "text": "[pause 2.1s]",
+      "id": "L0013"
+    },
+    {
+      "kind": "line",
+      "start": 95.0,
+      "end": 97.679,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "you. I will say",
+      "reactions": [],
+      "id": "L0014"
+    },
+    {
+      "kind": "event",
+      "start": 97.679,
+      "end": 99.56,
+      "text": "[pause 1.9s]",
+      "id": "L0015"
+    },
+    {
+      "kind": "line",
+      "start": 99.56,
+      "end": 103.99,
+      "tags": [],
+      "text": "goodbye and hurt you. I will give",
+      "reactions": [],
+      "id": "L0016"
+    },
+    {
+      "kind": "event",
+      "start": 103.99,
+      "end": 105.19,
+      "text": "[music (youtube)]",
+      "id": "L0017"
+    },
+    {
+      "kind": "line",
+      "start": 106.759,
+      "end": 114.56,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "you around you. I will leave you. I will say",
+      "reactions": [],
+      "id": "L0018",
+      "comments": [
+        {
+          "text": "❤❤❤❤ 1:55",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 114.56,
+      "end": 116.439,
+      "text": "[pause 1.9s]",
+      "id": "L0019"
+    },
+    {
+      "kind": "line",
+      "start": 116.439,
+      "end": 119.279,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "goodbye and hurt you.",
+      "reactions": [],
+      "id": "L0020",
+      "comments": [
+        {
+          "text": "1:59 Michael Jackson?",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 119.279,
+      "end": 128.319,
+      "text": "[long gap 9.0s]",
+      "id": "L0021"
+    },
+    {
+      "kind": "line",
+      "start": 128.319,
+      "end": 130.959,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "Never going to give. Never going to give.",
+      "reactions": [],
+      "id": "L0022"
+    },
+    {
+      "kind": "event",
+      "start": 130.959,
+      "end": 132.56,
+      "text": "[pause 1.6s]",
+      "id": "L0023"
+    },
+    {
+      "kind": "line",
+      "start": 132.56,
+      "end": 135.2,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "Never going to give. Never going to give.",
+      "reactions": [],
+      "id": "L0024"
+    },
+    {
+      "kind": "event",
+      "start": 135.2,
+      "end": 136.8,
+      "text": "[pause 1.6s]",
+      "id": "L0025"
+    },
+    {
+      "kind": "line",
+      "start": 136.8,
+      "end": 140.64,
+      "tags": [],
+      "text": "We've known each other for so long.",
+      "reactions": [],
+      "id": "L0026"
+    },
+    {
+      "kind": "line",
+      "start": 141.04,
+      "end": 149.52,
+      "tags": [],
+      "text": "Your heart's been aching, but you're too shy to say it. We both know what's been going on.",
+      "reactions": [],
+      "id": "L0027"
+    },
+    {
+      "kind": "line",
+      "start": 149.52,
+      "end": 157.6,
+      "tags": [],
+      "text": "We know the game and we're going to play it. I just want to tell you how I'm",
+      "reactions": [],
+      "id": "L0028",
+      "comments": [
+        {
+          "text": "2:32 Gonna make u understand 😅",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 157.8,
+      "end": 170.48,
+      "tags": [],
+      "text": "feeling. Got to make you understand. Never going to give you up. Never going to let you down. Never going to run around and desert you. Heat.",
+      "reactions": [],
+      "id": "L0029",
+      "comments": [
+        {
+          "text": "2:48 \"desert you\"",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 172.33,
+      "end": 173.53,
+      "text": "[music (youtube)]",
+      "id": "L0030"
+    },
+    {
+      "kind": "line",
+      "start": 178.76,
+      "end": 180.96,
+      "tags": [],
+      "text": "Heat. Heat. Heat.",
+      "reactions": [],
+      "id": "L0031"
+    },
+    {
+      "kind": "event",
+      "start": 183.39,
+      "end": 184.59,
+      "text": "[music (youtube)]",
+      "id": "L0032"
+    },
+    {
+      "kind": "line",
+      "start": 191.04,
+      "end": 199.68,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "Never going to tell a lie and hurt you. Never going to give you up. Never going to let you down. Never",
+      "reactions": [],
+      "id": "L0033"
+    },
+    {
+      "kind": "line",
+      "start": 199.68,
+      "end": 209.279,
+      "tags": [],
+      "text": "going to run around and desert you. Never going to make you cry. Never going to say goodbye. Never going to say goodbye.",
+      "reactions": [],
+      "id": "L0034"
+    }
+  ]
+}

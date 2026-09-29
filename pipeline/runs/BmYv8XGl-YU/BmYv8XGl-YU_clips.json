@@ -1,0 +1,576 @@
+{
+  "meta": {
+    "video_id": "BmYv8XGl-YU",
+    "video": {
+      "video_id": "BmYv8XGl-YU",
+      "title": "Facebook Founder Mark Zuckerberg Commencement Address | Harvard Commencement 2017",
+      "channel": "Harvard University",
+      "duration_s": 1956.0,
+      "views": "7291631"
+    },
+    "categories": [
+      "motivational"
+    ],
+    "readings": {
+      "motivational": {
+        "video_read": "Mark Zuckerberg's 2017 Harvard commencement address. Most of it is commencement furniture — jokes, thank-yous, policy lists about UBI and climate — but there are three or four stretches where he speaks directly to the person who hasn't started yet: the fear of not knowing enough, the 'someone else will do it' excuse, being called crazy for ambition, and a story about a student with every reason to quit. That's where the material for the 2am scroller lives.",
+        "coverage": 0.888,
+        "near_misses": [
+          {
+            "start_line": "L0123",
+            "end_line": "L0128",
+            "why_not": "'I know too many people who didn't have a cushion to fall back on' is honest and names a real humiliation, but the message is 'success needs luck and money' — it removes self-blame yet leaves the viewer with no handhold. Direction check is shaky for this category."
+          },
+          {
+            "start_line": "L0074",
+            "end_line": "L0080",
+            "why_not": "The impostor confession — 'I wondered if I was just wrong, an impostor, a 22-year-old kid' — lands hard, but the resolution ('that is how things work when there's no sense of higher purpose') is about company-building, and the pain-to-turn ratio is off for a standalone reel."
+          },
+          {
+            "start_line": "L0232",
+            "end_line": "L0235",
+            "why_not": "The prayer he sings to his daughter and 'I hope you find the courage to make your life a blessing' is genuinely moving and heavily replayed, but it is comfort and blessing rather than a change in how the viewer sees themselves — likely the emotional finder's material."
+          },
+          {
+            "start_line": "L0052",
+            "end_line": "L0056",
+            "why_not": "The JFK janitor story and 'purpose is being part of something bigger than yourself' is well-made commencement material but the viewer's brain has filtered this sentence shape a thousand times."
+          }
+        ],
+        "skipped": [
+          {
+            "from_line": "L0001",
+            "to_line": "L0050",
+            "what": "cold open, applause, jokes about dropping out, the Facemash/Priscilla meet-cute — charming, not motivation"
+          },
+          {
+            "from_line": "L0081",
+            "to_line": "L0086",
+            "what": "the 'three ways' roadmap and moon-shot history — list structure, no personal hit"
+          },
+          {
+            "from_line": "L0099",
+            "to_line": "L0106",
+            "what": "climate, solar panels, curing disease, modernizing democracy — a project wish-list"
+          },
+          {
+            "from_line": "L0117",
+            "to_line": "L0147",
+            "what": "wealth inequality, student loans, UBI, child care, charity stats — policy aimed at society, not at the viewer"
+          },
+          {
+            "from_line": "L0148",
+            "to_line": "L0161",
+            "what": "the after-school entrepreneurship class and monthly dinners — warm giving-back anecdote, no turn for the viewer"
+          },
+          {
+            "from_line": "L0162",
+            "to_line": "L0184",
+            "what": "global community, citizen of the world, the struggle of our time — geopolitics, not personal"
+          },
+          {
+            "from_line": "L0185",
+            "to_line": "L0213",
+            "what": "shout-outs to graduating students (Agnes, Kayla, David) and local-community argument — needs the room's context"
+          }
+        ]
+      }
+    },
+    "dropped_in_select": [],
+    "lost_in_cutting": [],
+    "timings": {
+      "comments": 0.95,
+      "payload": 0.22,
+      "finders": 129.71,
+      "select": 69.73,
+      "cut": 220.11
+    },
+    "costs": {
+      "llm_inr": 2.618,
+      "youtube_api_units": 0,
+      "total_inr": 2.618,
+      "by_step": {
+        "comments": 0.0,
+        "finders": 0.6604,
+        "finder:motivational": 0.6604,
+        "select": 0.2063,
+        "cut": 1.7513
+      },
+      "tokens_by_step": {
+        "comments": {
+          "prompt": 0,
+          "completion": 0,
+          "reasoning": 0,
+          "calls": 1
+        },
+        "finders": {
+          "prompt": 24023,
+          "completion": 6566,
+          "reasoning": 4546,
+          "calls": 1
+        },
+        "select": {
+          "prompt": 4422,
+          "completion": 2987,
+          "reasoning": 2473,
+          "calls": 1
+        },
+        "cut": {
+          "prompt": 26891,
+          "completion": 28924,
+          "reasoning": 27519,
+          "calls": 5
+        }
+      }
+    },
+    "seconds": 420.85
+  },
+  "clips": [
+    {
+      "title": "No one knows how when they begin — ideas don't come out fully formed",
+      "description": "Zuckerberg dismantles the 'I don't know enough to start' excuse: 'Well, let me tell you a secret — no one does when they begin. Ideas don't come out fully formed; they only become clear as you work on them.' It lands on the payoff: 'If I had to know everything about connecting people before I got started, I never would have built Facebook.'",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved start back from L0087 to the true sentence start in L0086 — the spoken sentence 'Now I know maybe you're thinking' spans the line break, so the proposed opening began mid-sentence on 'know'; the extra clause also gives 'build a dam' its antecedent. End kept at 'Facebook', the landing word, stopping exactly before the Eureka-moment clip that begins there.",
+      "segments": [
+        {
+          "start_s": 674.48,
+          "end_s": 710.52,
+          "duration_s": 36.04,
+          "start_words": "now it's Our Generations turn to do great things",
+          "end_words": "Facebook",
+          "start_line": "L0086",
+          "end_line": "L0090",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "now it's Our Generations turn to do great things now I know maybe you're thinking I don't know how to build a dam I don't know how to get a million people involved in anything well let me tell you a secret no one does when they begin ideas don't come out fully formed they only become clear as you work on them you just have to get started if I had to know everything about connecting people before I got started I never would have built Facebook",
+          "source_start_s": 674.48,
+          "source_end_s": 710.52
+        }
+      ],
+      "start_s": 674.48,
+      "end_s": 710.52,
+      "duration_s": 36.04,
+      "transcript": "now it's Our Generations turn to do great things now I know maybe you're thinking I don't know how to build a dam I don't know how to get a million people involved in anything well let me tell you a secret no one does when they begin ideas don't come out fully formed they only become clear as you work on them you just have to get started if I had to know everything about connecting people before I got started I never would have built Facebook",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot1",
+          "title": "No one knows how when they begin — ideas don't come out fully formed",
+          "why": "Removes the exact excuse the scared 22-year-old is holding: 'I haven't had my big idea yet, I don't know enough to start.' A billionaire saying 'let me tell you a secret, no one does when they begin' and 'if I had to know everything first I never would have built Facebook' takes that excuse away and leaves something startable tonight. Three separate replay peaks sit on these lines — viewers rewound here.",
+          "confidence": "HIGH",
+          "hook_strength": 6.0,
+          "signals_used": [
+            "REPLAYED on L0088",
+            "REPLAYED on L0090"
+          ],
+          "start_line": "L0087",
+          "end_line": "L0090"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 674.48,
+      "source_end_s": 710.52,
+      "evidence": [
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)"
+          ],
+          "text": "delivery shifts here: (fast)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=BmYv8XGl-YU&t=674s",
+      "embed_url": "https://www.youtube.com/embed/BmYv8XGl-YU?start=674&end=711",
+      "rank": 1,
+      "id": "clip1",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast)"
+          }
+        ],
+        "reading": "Removes the exact excuse the scared 22-year-old is holding: 'I haven't had my big idea yet, I don't know enough to start.' A billionaire saying 'let me tell you a secret, no one does when they begin' and 'if I had to know everything first I never would have built Facebook' takes that excuse away and leaves something startable tonight. Three separate replay peaks sit on these lines — viewers rewound here.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved start back from L0087 to the true sentence start in L0086 — the spoken sentence 'Now I know maybe you're thinking' spans the line break, so the proposed opening began mid-sentence on 'know'; the extra clause also gives 'build a dam' its antecedent. End kept at 'Facebook', the landing word, stopping exactly before the Eureka-moment clip that begins there.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "The idea of a single Eureka moment is a dangerous lie",
+      "description": "A tight motivational beat that dismantles the eureka-moment myth: it makes us feel inadequate because we haven't had ours yet, and it prevents people with seeds of good ideas from ever getting started. Watching it dissolves the private shame of still waiting for your big moment.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start past 'Movies and pop culture just get this all wrong': its 'this' points back into C2's clip, the brief warns not to double up that seam line, and 'The idea of a single Eureka moment is a dangerous lie' opens fully self-contained. Kept the proposed end — 'in the first place' is where the thought lands, just before the pivot to the math-formulas-on-glass joke.",
+      "segments": [
+        {
+          "start_s": 714.12,
+          "end_s": 730.12,
+          "duration_s": 16.0,
+          "start_words": "the idea of a single Eureka moment",
+          "end_words": "from ever getting started in the first place",
+          "start_line": "L0090",
+          "end_line": "L0091",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "the idea of a single Eureka moment is a dangerous lie it makes us feel inadequate because we feel like we haven't had ours yet and it prevents people with seeds of good ideas from ever getting started in the first place",
+          "source_start_s": 714.12,
+          "source_end_s": 730.12
+        }
+      ],
+      "start_s": 714.12,
+      "end_s": 730.12,
+      "duration_s": 16.0,
+      "transcript": "the idea of a single Eureka moment is a dangerous lie it makes us feel inadequate because we feel like we haven't had ours yet and it prevents people with seeds of good ideas from ever getting started in the first place",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot2",
+          "title": "The single Eureka moment is a dangerous lie",
+          "why": "A separate landing from the same roll, and it deserves its own reel: the idea of the eureka moment 'makes us feel inadequate because we feel like we haven't had ours yet, and it prevents people with seeds of good ideas from ever getting started.' That names a private feeling — everyone around you seems to have had their moment and you haven't — and dissolves it. Twenty-seven seconds, complete on its own, with its own replay peak.",
+          "confidence": "HIGH",
+          "hook_strength": 6.0,
+          "signals_used": [
+            "REPLAYED on L0090",
+            "REPLAYED on L0091"
+          ],
+          "start_line": "L0090",
+          "end_line": "L0091"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 714.12,
+      "source_end_s": 730.12,
+      "evidence": [
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=BmYv8XGl-YU&t=714s",
+      "embed_url": "https://www.youtube.com/embed/BmYv8XGl-YU?start=714&end=731",
+      "rank": 2,
+      "id": "clip2",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          }
+        ],
+        "reading": "A separate landing from the same roll, and it deserves its own reel: the idea of the eureka moment 'makes us feel inadequate because we feel like we haven't had ours yet, and it prevents people with seeds of good ideas from ever getting started.' That names a private feeling — everyone around you seems to have had their moment and you haven't — and dissolves it. Twenty-seven seconds, complete on its own, with its own replay peak.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start past 'Movies and pop culture just get this all wrong': its 'this' points back into C2's clip, the brief warns not to double up that seam line, and 'The idea of a single Eureka moment is a dangerous lie' opens fully self-contained. Kept the proposed end — 'in the first place' is where the thought lands, just before the pivot to the math-formulas-on-glass joke.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "Be prepared to be misunderstood",
+      "description": "A graduation-speech build that names what every big-vision person lives through — called crazy, blamed for not understanding it, criticised for moving too fast — and converts it: 'but that can't stop us from getting started.' The reel lands on that fuel-conversion line.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the end one word forward into L0099 because 'started' completes 'can't stop us from getting started' — the proposal's own closing phrase spans the line break. Dropped the opening 'okay' as throat-clearing; no question precedes this speech passage, so the thesis line itself is the correct start.",
+      "segments": [
+        {
+          "start_s": 745.28,
+          "end_s": 799.32,
+          "duration_s": 54.04,
+          "start_words": "it's really good to be idealistic",
+          "end_words": "started",
+          "start_line": "L0094",
+          "end_line": "L0099",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "it's really good to be idealistic but be prepared to be misunderstood anyone working on a big vision is going to get called crazy even if you end up right anyone taking on a complex problem is going to get blamed for not fully understanding it even though it's impossible to know everything up front anyone taking initiative will always get criticized for moving too fast because there's always someone who wants to slow you down in our society we often don't take on big things because we're so afraid of making mistakes that we ignore all the things wrong today if we do nothing the reality is anything we do today is going to have some issues in the future but that can't stop us from getting started",
+          "source_start_s": 745.28,
+          "source_end_s": 799.32
+        }
+      ],
+      "start_s": 745.28,
+      "end_s": 799.32,
+      "duration_s": 54.04,
+      "transcript": "it's really good to be idealistic but be prepared to be misunderstood anyone working on a big vision is going to get called crazy even if you end up right anyone taking on a complex problem is going to get blamed for not fully understanding it even though it's impossible to know everything up front anyone taking initiative will always get criticized for moving too fast because there's always someone who wants to slow you down in our society we often don't take on big things because we're so afraid of making mistakes that we ignore all the things wrong today if we do nothing the reality is anything we do today is going to have some issues in the future but that can't stop us from getting started",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot5",
+          "title": "Be prepared to be misunderstood",
+          "why": "Names an experience the ambitious viewer has already lived and never had explained: called crazy for a big vision, blamed for not understanding the problem, criticized for moving too fast. The rhythm of 'anyone who... is going to...' makes it feel like a law of nature rather than comfort, and the close — 'that can't stop us from getting started' — converts it into fuel.",
+          "confidence": "MEDIUM",
+          "hook_strength": 7.0,
+          "signals_used": [],
+          "start_line": "L0094",
+          "end_line": "L0098"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 745.28,
+      "source_end_s": 799.32,
+      "evidence": [
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=BmYv8XGl-YU&t=745s",
+      "embed_url": "https://www.youtube.com/embed/BmYv8XGl-YU?start=745&end=800",
+      "rank": 3,
+      "id": "clip3",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "Names an experience the ambitious viewer has already lived and never had explained: called crazy for a big vision, blamed for not understanding the problem, criticized for moving too fast. The rhythm of 'anyone who... is going to...' makes it feel like a law of nature rather than comfort, and the close — 'that can't stop us from getting started' — converts it into fuel.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the end one word forward into L0099 because 'started' completes 'can't stop us from getting started' — the proposal's own closing phrase spans the line break. Dropped the opening 'okay' as throat-clearing; no question precedes this speech passage, so the thesis line itself is the correct start.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "Can I really do this? The student who had every reason to be cynical",
+      "description": "A commencement speaker voices the viewer's own doubt — \"maybe you're asking yourself, can I really do this?\" — then answers it with the story of his undocumented top student who, offered any birthday gift, asked only for \"a book on social justice.\" It closes by handing the courage back to the viewer: if a high school senior with no certain future can do his part to move the world forward, \"we owe it to the world to do our part too.\"",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start forward from the finder's 'it now' (a mid-sentence tail of 'create it now') to the sentence start 'maybe', so the clip opens on the question itself; kept the proposed close on 'we owe it to the world to do our part too'. The ~100s run is honest — question, story, and quotable close are each load-bearing with no dead air, and the 26.5s gap after confirms nothing trails.",
+      "segments": [
+        {
+          "start_s": 1714.72,
+          "end_s": 1819.45,
+          "duration_s": 104.73,
+          "start_words": "maybe you're asking yourself can I really do",
+          "end_words": "to the world to do our part too",
+          "start_line": "L0214",
+          "end_line": "L0229",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "maybe you're asking yourself can I really do this well remember when I told you about that class I taught at the Boys and Girls Club one day after class I was talking to my students about going to college and one of my top students raised his hand and said that he wasn't sure he could go to college because he's undocumented Ed he wasn't sure if they'd take him last year I took him out to breakfast for his birthday and I wanted to get him a gift so I asked him what he wanted and he just started talking about struggles that he saw other students in his class facing and finally said you know I'd really just like a book on social justice I was blown away here is a young guy who has every reason to be cynical he wasn't sure if the country he calls home the only one he's known was going to deny him his dream of going to college but he wasn't feeling sorry for himself he wasn't even thinking of himself he has a greater sense of purpose and he's going to bring people along with him it says something about our situation today that I can't even say his name because I don't want to put him at risk but if a high school senior who doesn't know what the future holds for him can do his part to move the world forward then we owe it to the world to do our part too",
+          "source_start_s": 1714.72,
+          "source_end_s": 1819.45
+        }
+      ],
+      "start_s": 1714.72,
+      "end_s": 1819.45,
+      "duration_s": 104.73,
+      "transcript": "maybe you're asking yourself can I really do this well remember when I told you about that class I taught at the Boys and Girls Club one day after class I was talking to my students about going to college and one of my top students raised his hand and said that he wasn't sure he could go to college because he's undocumented Ed he wasn't sure if they'd take him last year I took him out to breakfast for his birthday and I wanted to get him a gift so I asked him what he wanted and he just started talking about struggles that he saw other students in his class facing and finally said you know I'd really just like a book on social justice I was blown away here is a young guy who has every reason to be cynical he wasn't sure if the country he calls home the only one he's known was going to deny him his dream of going to college but he wasn't feeling sorry for himself he wasn't even thinking of himself he has a greater sense of purpose and he's going to bring people along with him it says something about our situation today that I can't even say his name because I don't want to put him at risk but if a high school senior who doesn't know what the future holds for him can do his part to move the world forward then we owe it to the world to do our part too",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot4",
+          "title": "Can I really do this? The student who had every reason to be cynical",
+          "why": "Opens on the exact question the viewer is asking — 'maybe you're asking yourself, can I really do this?' — and answers it with a story: an undocumented teenager who may be denied his dream, who instead of feeling sorry for himself asks for a book on social justice for his birthday. 'He has every reason to be cynical... but he wasn't feeling sorry for himself.' The landing hands the courage back to the viewer. Six replay peaks mark this story. It runs long (~100s) but the build is doing real work and every beat earns its place; a later pass can narrow it.",
+          "confidence": "HIGH",
+          "hook_strength": 8.0,
+          "signals_used": [
+            "REPLAYED on L0217",
+            "REPLAYED on L0219",
+            "REPLAYED on L0222",
+            "REPLAYED on L0225",
+            "REPLAYED on L0229"
+          ],
+          "start_line": "L0214",
+          "end_line": "L0229"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 1714.72,
+      "source_end_s": 1819.45,
+      "evidence": [
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        },
+        {
+          "kind": "pause",
+          "seconds": 26.5,
+          "text": "a 26.5s pause lands inside this clip"
+        },
+        {
+          "kind": "pause",
+          "seconds": 3.3,
+          "text": "a 3.3s pause lands inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)",
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (fast) (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=BmYv8XGl-YU&t=1714s",
+      "embed_url": "https://www.youtube.com/embed/BmYv8XGl-YU?start=1714&end=1820",
+      "rank": 4,
+      "id": "clip4",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          },
+          {
+            "kind": "pause",
+            "text": "a 26.5s pause lands inside this clip"
+          },
+          {
+            "kind": "pause",
+            "text": "a 3.3s pause lands inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast) (slow)"
+          }
+        ],
+        "reading": "Opens on the exact question the viewer is asking — 'maybe you're asking yourself, can I really do this?' — and answers it with a story: an undocumented teenager who may be denied his dream, who instead of feeling sorry for himself asks for a book on social justice for his birthday. 'He has every reason to be cynical... but he wasn't feeling sorry for himself.' The landing hands the courage back to the viewer. Six replay peaks mark this story. It runs long (~100s) but the build is doing real work and every beat earns its place; a later pass can narrow it.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start forward from the finder's 'it now' (a mid-sentence tail of 'create it now') to the sentence start 'maybe', so the clip opens on the question itself; kept the proposed close on 'we owe it to the world to do our part too'. The ~100s run is honest — question, story, and quotable close are each load-bearing with no dead air, and the 26.5s gap after confirms nothing trails.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "You're sure someone else is going to do it — but they're not. You will.",
+      "description": "Zuckerberg tells the Kirkland House founding story: he launched Facebook assuming one of the big tech companies would connect the whole world — it never occurred to him it might be them. It builds to the direct turn at the viewer: that change so clear you're sure someone else will make it? \"But they're not, you will.\"",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposal. Start is a clean sentence opening the story (a speech, no question to pull in); end stops mid-line on the payoff 'but they're not you will', excluding the pivot to the next topic ('but it's not enough to have that purpose yourself...').",
+      "segments": [
+        {
+          "start_s": 452.4,
+          "end_s": 511.36,
+          "duration_s": 58.96,
+          "start_words": "I remember that night I launched Facebook",
+          "end_words": "but they're not you will",
+          "start_line": "L0063",
+          "end_line": "L0069",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "I remember that night I launched Facebook from that little dorm in Kirkland house I went to noes with my friend KX and I remember telling him clearly that I was excited to help connect the Harvard Community but one day someone would connect the whole world the thing is it never even occurred to me that that someone might be us we were just college kids we didn't know anything about that there were all these great big technology companies with all these resources and I just assumed one of them would do it but this idea was so clear to us that all people want to connect so we just kept working on it day after day after day and I know that a lot of you are going to have your own stories just like this a change in the world that seems so clear that you are sure someone else is going to do it but they're not you will",
+          "source_start_s": 452.4,
+          "source_end_s": 511.36
+        }
+      ],
+      "start_s": 452.4,
+      "end_s": 511.36,
+      "duration_s": 58.96,
+      "transcript": "I remember that night I launched Facebook from that little dorm in Kirkland house I went to noes with my friend KX and I remember telling him clearly that I was excited to help connect the Harvard Community but one day someone would connect the whole world the thing is it never even occurred to me that that someone might be us we were just college kids we didn't know anything about that there were all these great big technology companies with all these resources and I just assumed one of them would do it but this idea was so clear to us that all people want to connect so we just kept working on it day after day after day and I know that a lot of you are going to have your own stories just like this a change in the world that seems so clear that you are sure someone else is going to do it but they're not you will",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot3",
+          "title": "You're sure someone else is going to do it — but they're not. You will.",
+          "why": "The build is short and the payoff is a direct hit on the viewer's passivity: 'it never even occurred to me that that someone might be us, we were just college kids... I just assumed one of them would do it.' Then the turn to camera — a change in the world that seems so clear that you're sure someone else will do it, 'but they're not, you will.' Kills the 'someone smarter is already on it' excuse with a story that proves it.",
+          "confidence": "HIGH",
+          "hook_strength": 7.0,
+          "signals_used": [],
+          "start_line": "L0063",
+          "end_line": "L0069"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 452.4,
+      "source_end_s": 511.36,
+      "evidence": [
+        {
+          "kind": "pause",
+          "seconds": 2.7,
+          "text": "a 2.7s pause lands inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)"
+          ],
+          "text": "delivery shifts here: (fast)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=BmYv8XGl-YU&t=452s",
+      "embed_url": "https://www.youtube.com/embed/BmYv8XGl-YU?start=452&end=512",
+      "rank": 5,
+      "id": "clip5",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "pause",
+            "text": "a 2.7s pause lands inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast)"
+          }
+        ],
+        "reading": "The build is short and the payoff is a direct hit on the viewer's passivity: 'it never even occurred to me that that someone might be us, we were just college kids... I just assumed one of them would do it.' Then the turn to camera — a change in the world that seems so clear that you're sure someone else will do it, 'but they're not, you will.' Kills the 'someone smarter is already on it' excuse with a story that proves it.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposal. Start is a clean sentence opening the story (a speech, no question to pull in); end stops mid-line on the payoff 'but they're not you will', excluding the pivot to the next topic ('but it's not enough to have that purpose yourself...').",
+        "has_audience": false
+      }
+    }
+  ]
+}
