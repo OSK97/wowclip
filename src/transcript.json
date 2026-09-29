@@ -1,0 +1,734 @@
+[
+  {
+    "text": "and",
+    "punctuated": "And",
+    "start": 0.08,
+    "end": 0.48
+  },
+  {
+    "text": "my",
+    "punctuated": "my",
+    "start": 0.48,
+    "end": 0.71999997
+  },
+  {
+    "text": "personal",
+    "punctuated": "personal",
+    "start": 0.71999997,
+    "end": 1.04
+  },
+  {
+    "text": "question",
+    "punctuated": "question",
+    "start": 1.04,
+    "end": 1.4399999
+  },
+  {
+    "text": "to",
+    "punctuated": "to",
+    "start": 1.4399999,
+    "end": 1.5999999
+  },
+  {
+    "text": "you",
+    "punctuated": "you",
+    "start": 1.5999999,
+    "end": 1.76
+  },
+  {
+    "text": "is",
+    "punctuated": "is,",
+    "start": 1.76,
+    "end": 2.32
+  },
+  {
+    "text": "why",
+    "punctuated": "why",
+    "start": 2.32,
+    "end": 2.8799999
+  },
+  {
+    "text": "not",
+    "punctuated": "not",
+    "start": 3.12,
+    "end": 3.84
+  },
+  {
+    "text": "you",
+    "punctuated": "you?",
+    "start": 4.08,
+    "end": 4.7200003
+  },
+  {
+    "text": "you've",
+    "punctuated": "You've",
+    "start": 5.44,
+    "end": 5.92
+  },
+  {
+    "text": "got",
+    "punctuated": "got",
+    "start": 5.92,
+    "end": 6.16
+  },
+  {
+    "text": "the",
+    "punctuated": "the",
+    "start": 6.16,
+    "end": 6.3199997
+  },
+  {
+    "text": "brains",
+    "punctuated": "brains.",
+    "start": 6.3199997,
+    "end": 7.2
+  },
+  {
+    "text": "you",
+    "punctuated": "You",
+    "start": 7.52,
+    "end": 7.7599998
+  },
+  {
+    "text": "can",
+    "punctuated": "can",
+    "start": 7.7599998,
+    "end": 7.9199996
+  },
+  {
+    "text": "make",
+    "punctuated": "make",
+    "start": 7.9199996,
+    "end": 8.24
+  },
+  {
+    "text": "decisions",
+    "punctuated": "decisions.",
+    "start": 8.24,
+    "end": 9.12
+  },
+  {
+    "text": "you",
+    "punctuated": "You",
+    "start": 9.44,
+    "end": 9.599999
+  },
+  {
+    "text": "can",
+    "punctuated": "can",
+    "start": 9.599999,
+    "end": 9.84
+  },
+  {
+    "text": "study",
+    "punctuated": "study",
+    "start": 9.84,
+    "end": 10.16
+  },
+  {
+    "text": "the",
+    "punctuated": "the",
+    "start": 10.16,
+    "end": 10.48
+  },
+  {
+    "text": "plan",
+    "punctuated": "plan.",
+    "start": 10.48,
+    "end": 11.2
+  },
+  {
+    "text": "you",
+    "punctuated": "You",
+    "start": 11.5199995,
+    "end": 11.759999
+  },
+  {
+    "text": "can",
+    "punctuated": "can",
+    "start": 11.759999,
+    "end": 11.92
+  },
+  {
+    "text": "change",
+    "punctuated": "change",
+    "start": 11.92,
+    "end": 12.24
+  },
+  {
+    "text": "your",
+    "punctuated": "your",
+    "start": 12.24,
+    "end": 12.48
+  },
+  {
+    "text": "life",
+    "punctuated": "life.",
+    "start": 12.48,
+    "end": 12.88
+  },
+  {
+    "text": "you",
+    "punctuated": "You",
+    "start": 13.434999,
+    "end": 13.754999
+  },
+  {
+    "text": "can",
+    "punctuated": "can",
+    "start": 13.754999,
+    "end": 13.995
+  },
+  {
+    "text": "grow",
+    "punctuated": "grow",
+    "start": 13.995,
+    "end": 14.554999
+  },
+  {
+    "text": "immensely",
+    "punctuated": "immensely",
+    "start": 14.554999,
+    "end": 15.275
+  },
+  {
+    "text": "in",
+    "punctuated": "in",
+    "start": 15.275,
+    "end": 15.514999
+  },
+  {
+    "text": "the",
+    "punctuated": "the",
+    "start": 15.514999,
+    "end": 15.594999
+  },
+  {
+    "text": "next",
+    "punctuated": "next",
+    "start": 15.594999,
+    "end": 15.754999
+  },
+  {
+    "text": "few",
+    "punctuated": "few",
+    "start": 15.754999,
+    "end": 15.995
+  },
+  {
+    "text": "years",
+    "punctuated": "years.",
+    "start": 15.995,
+    "end": 16.634998
+  },
+  {
+    "text": "you",
+    "punctuated": "You",
+    "start": 16.875,
+    "end": 17.035
+  },
+  {
+    "text": "can",
+    "punctuated": "can",
+    "start": 17.035,
+    "end": 17.195
+  },
+  {
+    "text": "make",
+    "punctuated": "make",
+    "start": 17.195,
+    "end": 17.435
+  },
+  {
+    "text": "your",
+    "punctuated": "your",
+    "start": 17.435,
+    "end": 17.595
+  },
+  {
+    "text": "dreams",
+    "punctuated": "dreams",
+    "start": 17.595,
+    "end": 17.914999
+  },
+  {
+    "text": "come",
+    "punctuated": "come",
+    "start": 17.914999,
+    "end": 18.154999
+  },
+  {
+    "text": "true",
+    "punctuated": "true.",
+    "start": 18.154999,
+    "end": 18.715
+  },
+  {
+    "text": "you",
+    "punctuated": "You",
+    "start": 18.875,
+    "end": 19.115
+  },
+  {
+    "text": "can",
+    "punctuated": "can",
+    "start": 19.115,
+    "end": 19.195
+  },
+  {
+    "text": "build",
+    "punctuated": "build",
+    "start": 19.195,
+    "end": 19.435
+  },
+  {
+    "text": "a",
+    "punctuated": "a",
+    "start": 19.435,
+    "end": 19.595
+  },
+  {
+    "text": "financial",
+    "punctuated": "financial",
+    "start": 19.595,
+    "end": 19.914999
+  },
+  {
+    "text": "wall",
+    "punctuated": "wall",
+    "start": 19.914999,
+    "end": 20.235
+  },
+  {
+    "text": "around",
+    "punctuated": "around",
+    "start": 20.235,
+    "end": 20.474998
+  },
+  {
+    "text": "your",
+    "punctuated": "your",
+    "start": 20.474998,
+    "end": 20.715
+  },
+  {
+    "text": "family",
+    "punctuated": "family.",
+    "start": 20.715,
+    "end": 21.195
+  },
+  {
+    "text": "nothing",
+    "punctuated": "Nothing",
+    "start": 21.195,
+    "end": 21.515
+  },
+  {
+    "text": "can",
+    "punctuated": "can",
+    "start": 21.515,
+    "end": 21.755
+  },
+  {
+    "text": "get",
+    "punctuated": "get",
+    "start": 21.755,
+    "end": 21.914999
+  },
+  {
+    "text": "through",
+    "punctuated": "through.",
+    "start": 21.914999,
+    "end": 22.474998
+  },
+  {
+    "text": "you",
+    "punctuated": "You",
+    "start": 22.954998,
+    "end": 23.115
+  },
+  {
+    "text": "can",
+    "punctuated": "can",
+    "start": 23.115,
+    "end": 23.275
+  },
+  {
+    "text": "become",
+    "punctuated": "become",
+    "start": 23.275,
+    "end": 23.595
+  },
+  {
+    "text": "healthy",
+    "punctuated": "healthy.",
+    "start": 23.595,
+    "end": 24.154999
+  },
+  {
+    "text": "you",
+    "punctuated": "You",
+    "start": 24.154999,
+    "end": 24.235
+  },
+  {
+    "text": "can",
+    "punctuated": "can",
+    "start": 24.235,
+    "end": 24.395
+  },
+  {
+    "text": "become",
+    "punctuated": "become",
+    "start": 24.395,
+    "end": 24.715
+  },
+  {
+    "text": "powerful",
+    "punctuated": "powerful.",
+    "start": 24.715,
+    "end": 25.435
+  },
+  {
+    "text": "why",
+    "punctuated": "Why",
+    "start": 25.675,
+    "end": 25.994999
+  },
+  {
+    "text": "not",
+    "punctuated": "not",
+    "start": 25.994999,
+    "end": 26.154999
+  },
+  {
+    "text": "you",
+    "punctuated": "you?",
+    "start": 26.154999,
+    "end": 26.474998
+  },
+  {
+    "text": "and",
+    "punctuated": "And",
+    "start": 27.32,
+    "end": 27.64
+  },
+  {
+    "text": "i'm",
+    "punctuated": "I'm",
+    "start": 27.64,
+    "end": 27.88
+  },
+  {
+    "text": "here",
+    "punctuated": "here",
+    "start": 27.88,
+    "end": 28.439999
+  },
+  {
+    "text": "to",
+    "punctuated": "to",
+    "start": 28.52,
+    "end": 28.92
+  },
+  {
+    "text": "say",
+    "punctuated": "say",
+    "start": 28.92,
+    "end": 29.16
+  },
+  {
+    "text": "that",
+    "punctuated": "that",
+    "start": 29.16,
+    "end": 29.4
+  },
+  {
+    "text": "i'm",
+    "punctuated": "I'm",
+    "start": 29.4,
+    "end": 29.64
+  },
+  {
+    "text": "ready",
+    "punctuated": "ready",
+    "start": 29.64,
+    "end": 29.88
+  },
+  {
+    "text": "to",
+    "punctuated": "to",
+    "start": 29.88,
+    "end": 30.039999
+  },
+  {
+    "text": "pledge",
+    "punctuated": "pledge",
+    "start": 30.039999,
+    "end": 30.36
+  },
+  {
+    "text": "my",
+    "punctuated": "my",
+    "start": 30.36,
+    "end": 30.6
+  },
+  {
+    "text": "support",
+    "punctuated": "support",
+    "start": 30.6,
+    "end": 31.32
+  },
+  {
+    "text": "to",
+    "punctuated": "to",
+    "start": 31.4,
+    "end": 31.64
+  },
+  {
+    "text": "make",
+    "punctuated": "make",
+    "start": 31.64,
+    "end": 31.88
+  },
+  {
+    "text": "your",
+    "punctuated": "your",
+    "start": 31.88,
+    "end": 32.12
+  },
+  {
+    "text": "personal",
+    "punctuated": "personal",
+    "start": 32.12,
+    "end": 32.52
+  },
+  {
+    "text": "dreams",
+    "punctuated": "dreams",
+    "start": 32.52,
+    "end": 32.84
+  },
+  {
+    "text": "come",
+    "punctuated": "come",
+    "start": 32.84,
+    "end": 33.079998
+  },
+  {
+    "text": "true",
+    "punctuated": "true.",
+    "start": 33.079998,
+    "end": 33.72
+  },
+  {
+    "text": "i",
+    "punctuated": "I",
+    "start": 33.8,
+    "end": 33.96
+  },
+  {
+    "text": "asked",
+    "punctuated": "asked",
+    "start": 33.96,
+    "end": 34.2
+  },
+  {
+    "text": "the",
+    "punctuated": "the",
+    "start": 34.2,
+    "end": 34.36
+  },
+  {
+    "text": "question",
+    "punctuated": "question,",
+    "start": 34.36,
+    "end": 34.84
+  },
+  {
+    "text": "why",
+    "punctuated": "why",
+    "start": 34.84,
+    "end": 34.92
+  },
+  {
+    "text": "not",
+    "punctuated": "not",
+    "start": 34.92,
+    "end": 35.16
+  },
+  {
+    "text": "you",
+    "punctuated": "you?",
+    "start": 35.16,
+    "end": 35.72
+  },
+  {
+    "text": "but",
+    "punctuated": "But",
+    "start": 35.879997,
+    "end": 36.04
+  },
+  {
+    "text": "i'm",
+    "punctuated": "I'm",
+    "start": 36.04,
+    "end": 36.28
+  },
+  {
+    "text": "not",
+    "punctuated": "not",
+    "start": 36.28,
+    "end": 36.44
+  },
+  {
+    "text": "gonna",
+    "punctuated": "gonna",
+    "start": 36.44,
+    "end": 36.6
+  },
+  {
+    "text": "ask",
+    "punctuated": "ask",
+    "start": 36.6,
+    "end": 36.84
+  },
+  {
+    "text": "it",
+    "punctuated": "it",
+    "start": 36.84,
+    "end": 37
+  },
+  {
+    "text": "and",
+    "punctuated": "and",
+    "start": 37,
+    "end": 37.16
+  },
+  {
+    "text": "just",
+    "punctuated": "just",
+    "start": 37.16,
+    "end": 37.4
+  },
+  {
+    "text": "walk",
+    "punctuated": "walk",
+    "start": 37.4,
+    "end": 37.64
+  },
+  {
+    "text": "away",
+    "punctuated": "away.",
+    "start": 37.64,
+    "end": 37.879997
+  },
+  {
+    "text": "i'm",
+    "punctuated": "I'm",
+    "start": 38.4435,
+    "end": 38.7635
+  },
+  {
+    "text": "gonna",
+    "punctuated": "gonna",
+    "start": 38.7635,
+    "end": 39.003498
+  },
+  {
+    "text": "ask",
+    "punctuated": "ask",
+    "start": 39.003498,
+    "end": 39.163498
+  },
+  {
+    "text": "it",
+    "punctuated": "it",
+    "start": 39.163498,
+    "end": 39.4035
+  },
+  {
+    "text": "and",
+    "punctuated": "and",
+    "start": 39.4035,
+    "end": 39.5635
+  },
+  {
+    "text": "walk",
+    "punctuated": "walk",
+    "start": 39.5635,
+    "end": 39.803497
+  },
+  {
+    "text": "with",
+    "punctuated": "with",
+    "start": 39.803497,
+    "end": 39.963497
+  },
+  {
+    "text": "you",
+    "punctuated": "you",
+    "start": 39.963497,
+    "end": 40.4435
+  },
+  {
+    "text": "in",
+    "punctuated": "in",
+    "start": 40.4435,
+    "end": 40.7635
+  },
+  {
+    "text": "this",
+    "punctuated": "this",
+    "start": 40.7635,
+    "end": 41.003498
+  },
+  {
+    "text": "journey",
+    "punctuated": "journey",
+    "start": 41.003498,
+    "end": 41.643497
+  },
+  {
+    "text": "as",
+    "punctuated": "as",
+    "start": 41.643497,
+    "end": 41.963497
+  },
+  {
+    "text": "we",
+    "punctuated": "we",
+    "start": 41.963497,
+    "end": 42.123497
+  },
+  {
+    "text": "take",
+    "punctuated": "take",
+    "start": 42.123497,
+    "end": 42.2835
+  },
+  {
+    "text": "herbalife",
+    "punctuated": "Herbalife",
+    "start": 42.2835,
+    "end": 42.7635
+  },
+  {
+    "text": "around",
+    "punctuated": "around",
+    "start": 42.7635,
+    "end": 43.0835
+  },
+  {
+    "text": "the",
+    "punctuated": "the",
+    "start": 43.0835,
+    "end": 43.2435
+  },
+  {
+    "text": "world",
+    "punctuated": "world.",
+    "start": 43.2435,
+    "end": 43.5635
+  }
+]

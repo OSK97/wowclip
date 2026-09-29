@@ -1,0 +1,74 @@
+{
+  "_comment": "Caption Engine config. Every field is optional; omitted fields use DEFAULT_CAPTION_CONFIG in buildPlan.ts. heroSize and flatSize are px at a 1080-wide canvas. Split helper fragments each follow their local measured contour, so ascenders and descenders in one fragment never push a neighbour away from the hero. Latin pocket walls are classified explicitly (capitals and b/d/f/h/i/j/k/l/t above; g/j/p/q/y below), while measured ink supplies exact coordinates. nestle/sideClear/minGain control tightness; coverageBonus/enclosureBonus/splitPenalty decide whether helper text breaks and threads through multiple pockets. Helper-bearing heroes remain lowercase except for the rare high-impact poster beat controlled by powerUpperChance. style.textShadow and variation.accentChance are intentionally off by default.",
+
+  "segmenter": {
+    "maxWords": 5,
+    "maxChars": 30,
+    "pauseBreakSeconds": 0.28,
+    "maxChunkSeconds": 2.4,
+    "minChunkSeconds": 0.5,
+    "softBreakMinWords": 2,
+    "heroScoreThreshold": 3.2,
+    "heroMaxWordLength": 11,
+    "heroMinWordLength": 4
+  },
+
+  "layout": {
+    "heroSize": 210,
+    "leadRatio": 0.3,
+    "tailRatio": 0.27,
+    "supportMinScale": 0.9,
+    "nestleAbove": 0.18,
+    "nestleBelow": 0.2,
+    "sideClear": 0.32,
+    "minGain": 0.18,
+    "splitPenalty": 0,
+    "coverageBonus": 0.6,
+    "enclosureBonus": 0.55,
+    "overhang": 0.22,
+    "maxParts": 4,
+    "sideBias": 0.04,
+
+    "maxWidth": 0.86,
+    "maxHeight": 0.42,
+    "anchorY": 0.66,
+    "safeInsetX": 0.07,
+    "safeInsetTop": 0.12,
+    "safeInsetBottom": 0.16,
+    "heroMinScale": 0.7,
+
+    "flatSize": 74,
+    "flatMaxLines": 3,
+    "flatLineGap": 0.42,
+
+    "tailFrames": 4
+  },
+
+  "style": {
+    "textColor": "#ffffff",
+    "accentPalette": ["#FFE24B", "#FF5A5A", "#4DE1FF"],
+    "heroTracking": -0.03,
+    "supportTracking": -0.012,
+    "backdropDim": 0.46,
+    "textShadow": ""
+  },
+
+  "variation": {
+    "seed": "wowclip-v1",
+    "firstUpperChance": 0.08,
+    "upperChance": 0.07,
+    "upperMaxLength": 7,
+    "powerUpperChance": 0.2,
+    "powerUpperMaxLength": 11,
+    "emphasiseLeadChance": 0.35,
+    "accentChance": 0,
+    "scaleJitter": 0.035,
+    "revealMin": 9,
+    "revealMax": 13,
+    "staggerMin": 2,
+    "staggerMax": 4
+  },
+
+  "forceFlat": false,
+  "blackoutRanges": []
+}

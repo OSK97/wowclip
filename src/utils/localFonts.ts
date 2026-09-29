@@ -21,6 +21,8 @@ function registerFont(family: string, style: "normal" | "italic" = "normal", wei
     const key = `${family}-${weight}-${style}`;
     if (!loaded.has(key)) {
       loaded.add(key);
+      // Temporarily disabled to prevent render timeouts on missing font files
+      /*
       remotionLoadFont({
         family,
         url: staticFile(`fonts/${family}-${weight}-${style}.woff2`),
@@ -29,6 +31,7 @@ function registerFont(family: string, style: "normal" | "italic" = "normal", wei
       }).catch((err) => {
         console.error(`Failed to load local font ${key}:`, err);
       });
+      */
     }
   }
 }

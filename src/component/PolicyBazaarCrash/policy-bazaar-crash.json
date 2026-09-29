@@ -1,0 +1,40 @@
+{
+  "fps": 30,
+  "durationInSeconds": 13,
+  "theme": {
+    "primaryRed": "#FF2A55",
+    "darkRed": "#7F1D1D",
+    "glowRed": "rgba(255, 42, 85, 0.4)",
+    "accentCyan": "#00F0FF",
+    "bgDark": "#07090E",
+    "cardBg": "rgba(15, 23, 42, 0.75)",
+    "cardBorder": "rgba(255, 42, 85, 0.3)"
+  },
+  "stock": {
+    "symbol": "POLICYBZR",
+    "exchange": "NSE",
+    "companyName": "POLICYBAZAAR",
+    "legalName": "PB Fintech Limited",
+    "peakPrice": 1745.0,
+    "crashPrice": 1416.5,
+    "changePercentage": -18.84,
+    "lossPerShare": -328.5,
+    "marketCapLoss": "₹7,850 CRORE",
+    "affectedInvestors": "4,20,000+",
+    "avgLossPerRetailer": "₹38,500",
+    "volumeSpike": "14.2M"
+  },
+  "assets": {
+    "logo": "policybazaar/logo.jpg",
+    "investor": "policybazaar/investor_loss.jpg",
+    "background": "policybazaar/crash_bg.jpg"
+  },
+  "headlines": {
+    "tagline": "BREAKING MARKET CRASH",
+    "mainTitle": "POLICYBAZAAR",
+    "subTitle": "PLUNGES -18.8%",
+    "lossCallout": "₹7,850 CR WEALTH WIPED OUT",
+    "panicAlert": "MASSIVE RETAIL INVESTOR LOSSES",
+    "takeaway": "ALWAYS USE A STOP LOSS ON OVERVALUED STOCKS"
+  }
+}

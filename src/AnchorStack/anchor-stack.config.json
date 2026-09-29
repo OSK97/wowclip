@@ -1,0 +1,80 @@
+{
+  "background": {
+    "src": "Jim Rohn_ Why Not You, Why Not Now_379_423.mp4"
+  },
+  "theme": {
+    "textColor": "#ffffff",
+    "backdropDim": 0.46
+  },
+  "layout": {
+    "heroFontSize": 210,
+    "midRatio": 0.32,
+    "softRatio": 0.28,
+    "nestleAbove": 0.14,
+    "nestleBelow": 0.16,
+    "hunt": 0.16,
+    "maxWidth": 0.84,
+    "offsetY": 0,
+    "heroTracking": -0.05,
+    "supportTracking": -0.012
+  },
+  "timing": {
+    "reveal": 11,
+    "stagger": 3,
+    "out": 7
+  },
+  "groups": [
+    {
+      "at": 6,
+      "hold": 40,
+      "lines": [
+        { "text": "feels like", "role": "mid" },
+        { "text": "hard", "role": "hero" }
+      ]
+    },
+    {
+      "at": 62,
+      "hold": 44,
+      "lines": [
+        { "text": "avoid hard", "role": "mid" },
+        { "text": "things", "role": "hero" },
+        { "text": "it gets harder", "role": "soft" }
+      ]
+    },
+    {
+      "at": 122,
+      "hold": 48,
+      "lines": [
+        { "text": "because", "role": "mid" },
+        { "text": "you said", "role": "hero" },
+        { "text": "you would", "role": "soft" }
+      ]
+    },
+    {
+      "at": 186,
+      "hold": 42,
+      "lines": [
+        { "text": "and the", "role": "mid" },
+        { "text": "discipline", "role": "hero" },
+        { "text": "was the price", "role": "soft" }
+      ]
+    },
+    {
+      "at": 244,
+      "hold": 46,
+      "lines": [
+        { "text": "nobody is", "role": "mid" },
+        { "text": "coming", "role": "hero" },
+        { "text": "to save you", "role": "soft" }
+      ]
+    },
+    {
+      "at": 304,
+      "hold": 44,
+      "lines": [
+        { "text": "so ask", "role": "mid" },
+        { "text": "why not you", "role": "hero" }
+      ]
+    }
+  ]
+}

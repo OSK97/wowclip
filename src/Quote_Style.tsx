@@ -1,22 +1,60 @@
-import React from 'react';
+﻿import React, { useMemo } from 'react';
 import {
 	AbsoluteFill,
 	Img,
-	OffthreadVideo,
+	Video,
 	staticFile,
 	useCurrentFrame,
 	useVideoConfig,
 	interpolate,
 	Easing,
+	Sequence,
 } from 'remotion';
 import { InstagramUI, InstagramUIProps } from './InstagramUI';
+import { loadFont } from '@remotion/fonts';
+import { CursorSelectCaption, getCursorSelectLeadIn } from './CursorSelectCaption';
+import { CaptionsDotOverlay } from './CaptionsDotOverlay';
+import { PersonDetectionOverlay } from './PersonDetectionOverlay';
+import { AdaptiveCaptions } from './AdaptiveCaptions';
+import { KnockoutCaption } from './KnockoutCaption';
+import { NeonTraceCaption } from './NeonTraceCaption';
+import { TallTypeCaption } from './TallTypeCaption';
+import { ArcCaption } from './ArcCaption';
+import { QuoteCaptionEngine } from './QuoteCaptionEngine';
+
+const CURSIVE_FAMILY = 'GaramondNovaPro';
+const MAIN_FAMILY = 'Poppins';
+const CAPTION_FAMILY = 'IntegralCF';
+
+// loadFont({
+// 	family: CURSIVE_FAMILY,
+// 	url: staticFile('fonts/fonnts.com-garamond_nova_pro_cd-italic.otf'),
+// 	weight: 'normal',
+// 	style: 'italic',
+// });
+
+// Using direct Google Fonts WOFF2 URL for Poppins Black (900 weight)
+// loadFont({
+// 	family: MAIN_FAMILY,
+// 	url: 'https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2',
+// 	weight: '900',
+// 	format: 'woff2',
+// });
+
+// Integral CF Heavy for punchy word-by-word captions
+// loadFont({
+// 	family: CAPTION_FAMILY,
+// 	url: staticFile('fonts/IntegralCF/Demo_Fonts/Fontspring-DEMO-integralcf-heavy.otf'),
+// 	weight: '900',
+// 	format: 'opentype',
+// });
 
 export interface Quote_StyleProps {
-	/** Video or image path in public/ or full URL (e.g. 'quote_video.mp4', 'Space-Background-Images.jpg') */
+	/** Video or image path in public/ or full URL (e.g. 'why_not_you.mp4', 'Space-Background-Images.jpg') */
 	mediaSrc?: string;
 	/** Fit mode for the media (defaults to 'cover') */
 	objectFit?: 'cover' | 'contain' | 'fill';
-	/** Alignment within the frame. Defaults to 'center 18%' so a face near the top stays framed */
+	/** Alignment within the frame */
 	objectPosition?: string;
 	/** Fine-tuning vertical pixel offset */
 	mediaOffsetY?: number;
@@ -49,7 +87,7 @@ export interface Quote_StyleProps {
 	 * Backdrop behind the set. Point `backdropSrc` at an image in public/ (or a URL) to
 	 * blur it out behind the TV; leave it empty and the two `backdropColors` are bloomed
 	 * into a soft wash instead. Either way `backdropDim` and `backdropGrain` control how
-	 * far back it sits — the set has to stay the brightest thing in the frame.
+	 * far back it sits â€” the set has to stay the brightest thing in the frame.
 	 */
 	backdropSrc?: string;
 	backdropColors?: [string, string];
@@ -74,6 +112,12 @@ export interface Quote_StyleProps {
 	quoteText?: string;
 	/** Enable subtle cinematic slow-zoom on static images */
 	kenBurns?: boolean;
+	/** Display the red frame / red mask around the detected person */
+	showPersonDetection?: boolean;
+	/** Caption presentation style. `quote-engine` combines face-safe woven type with a word-level fallback. */
+	captionStyle?: 'quote-engine' | 'adaptive-empty-space' | 'bottom-dot' | 'cursor-select';
+	/** Position of the cursive accent word in the stack: 'last' (bottom) or 'first' (top) */
+	cursivePosition?: 'last' | 'first';
 }
 
 const resolveSrc = (src?: string) => {
@@ -85,8 +129,8 @@ const resolveSrc = (src?: string) => {
 };
 
 const isVideoFile = (src: string) => {
-	const clean = src.split('?')[0].split('#')[0];
-	const ext = clean.split('.').pop()?.toLowerCase();
+	const clean = src.split('?')[0];
+	const ext = clean.split('.').pop()?.split('#')[0]?.toLowerCase();
 	return ['mp4', 'webm', 'mov', 'mkv', 'avi', 'm4v'].includes(ext || '');
 };
 
@@ -125,7 +169,7 @@ const GRAIN =
 /**
  * The old-TV outline is a superellipse, not a rounded rectangle: its sides stay flat
  * through the middle and then bow into the corners. That single curve is the whole
- * look — the picture is clipped to it and the outline traces it.
+ * look â€” the picture is clipped to it and the outline traces it.
  */
 const superellipse = (w: number, h: number, n: number, steps = 256) => {
 	const a = w / 2;
@@ -144,11 +188,11 @@ const superellipse = (w: number, h: number, n: number, steps = 256) => {
 };
 
 export const Quote_Style: React.FC<Quote_StyleProps> = ({
-	mediaSrc = 'test_frame.jpg',
+	mediaSrc = 'why_not_you_hq.mp4',
 	objectFit = 'cover',
-	objectPosition = 'center 22%',
+	objectPosition = 'center center',
 	mediaOffsetY = 0,
-	mediaScale = 1.0,
+	mediaScale = 1.18,
 	stageBackground = '#000000',
 	animatePower = true,
 	tvScale = 0.88,
@@ -164,76 +208,78 @@ export const Quote_Style: React.FC<Quote_StyleProps> = ({
 	backdropBlur = 110,
 	backdropDim = 0.62,
 	backdropGrain = 0.06,
-	showInstagramUI = true,
+	showInstagramUI = false, // Set to true to switch back on
 	instagramUI,
 	quoteText,
-	kenBurns = true,
+	kenBurns = false,
+	showPersonDetection = false,
+	captionStyle = 'quote-engine',
 }) => {
 	const frame = useCurrentFrame();
 	const { durationInFrames, width: compWidth } = useVideoConfig();
 
 	const screenW = Math.round(compWidth * tvScale);
-	const screenH = Math.round((screenW * 3) / 4); // 4:3, the shape of the old set
-	const shape = superellipse(screenW, screenH, shapeSquareness);
+	const screenH = Math.round(screenW * 0.825); // Slightly taller frame (785px) for better headroom
+	const shape = useMemo(
+		() => superellipse(screenW, screenH, shapeSquareness),
+		[screenW, screenH, shapeSquareness],
+	);
 
-	// --- Power on / off ----------------------------------------------------------
-	const onDuration = 28;
-	const offDuration = 22;
+	// --- Cinematic Intro & Outro ------------------------------------------------
+	const onDuration = 26;
+	const offDuration = 20;
 
 	let opacity = 1.0;
-	let scaleX = 1.0;
-	let scaleY = 1.0;
+	let settleScale = 1.0;
 	let brightness = 1.0;
-	// Drives the room glow and the outline, so the whole set lights up together
 	let power = 1.0;
+	let outlineProgress = 1.0;
 
 	if (animatePower && frame < onDuration) {
-		// Beam power-on: a horizontal slit expands first, then blooms open vertically
-		scaleX = interpolate(frame, [0, 8, 22], [0.08, 1.0, 1.0], {
-			extrapolateLeft: 'clamp',
-			extrapolateRight: 'clamp',
-			easing: Easing.out(Easing.cubic),
-		});
-		scaleY = interpolate(frame, [0, 7, 24], [0.008, 0.008, 1.0], {
-			extrapolateLeft: 'clamp',
-			extrapolateRight: 'clamp',
-			easing: Easing.out(Easing.cubic),
-		});
-		opacity = interpolate(frame, [0, 4, 22], [0.0, 1.0, 1.0], {
-			extrapolateLeft: 'clamp',
-			extrapolateRight: 'clamp',
-		});
-		brightness = interpolate(frame, [0, 8, 26], [2.2, 1.35, 1.0], {
+		// Smooth cinematic fade-in: NO stretching, uniform gentle settle
+		opacity = interpolate(frame, [0, 18], [0.0, 1.0], {
 			extrapolateLeft: 'clamp',
 			extrapolateRight: 'clamp',
 			easing: Easing.out(Easing.quad),
 		});
-		power = interpolate(frame, [0, 6, 26], [0, 0.75, 1], {
+		settleScale = interpolate(frame, [0, 24], [1.04, 1.0], {
 			extrapolateLeft: 'clamp',
 			extrapolateRight: 'clamp',
+			easing: Easing.out(Easing.cubic),
+		});
+		brightness = interpolate(frame, [0, 20], [1.3, 1.0], {
+			extrapolateLeft: 'clamp',
+			extrapolateRight: 'clamp',
+			easing: Easing.out(Easing.quad),
+		});
+		power = interpolate(frame, [0, 22], [0, 1], {
+			extrapolateLeft: 'clamp',
+			extrapolateRight: 'clamp',
+			easing: Easing.out(Easing.quad),
+		});
+		outlineProgress = interpolate(frame, [2, 24], [0, 1], {
+			extrapolateLeft: 'clamp',
+			extrapolateRight: 'clamp',
+			easing: Easing.inOut(Easing.cubic),
 		});
 	} else if (animatePower && frame >= durationInFrames - offDuration) {
 		const f = frame - (durationInFrames - offDuration);
-		// Turn-off: the picture collapses vertically to a slit, then vanishes
-		scaleY = interpolate(f, [0, 10, 18], [1.0, 0.006, 0.0], {
+		// Clean fade-out at the end
+		opacity = interpolate(f, [0, offDuration], [1.0, 0.0], {
 			extrapolateLeft: 'clamp',
 			extrapolateRight: 'clamp',
 			easing: Easing.in(Easing.quad),
 		});
-		scaleX = interpolate(f, [0, 12, 18, 22], [1.0, 1.0, 0.05, 0.0], {
+		settleScale = interpolate(f, [0, offDuration], [1.0, 0.98], {
 			extrapolateLeft: 'clamp',
 			extrapolateRight: 'clamp',
 			easing: Easing.in(Easing.quad),
 		});
-		brightness = interpolate(f, [0, 10, 22], [1.0, 2.2, 0.0], {
+		power = interpolate(f, [0, offDuration], [1.0, 0.0], {
 			extrapolateLeft: 'clamp',
 			extrapolateRight: 'clamp',
 		});
-		opacity = interpolate(f, [14, 22], [1.0, 0.0], {
-			extrapolateLeft: 'clamp',
-			extrapolateRight: 'clamp',
-		});
-		power = interpolate(f, [0, 12, 20], [1, 1.25, 0], {
+		outlineProgress = interpolate(f, [0, offDuration], [1.0, 0.0], {
 			extrapolateLeft: 'clamp',
 			extrapolateRight: 'clamp',
 		});
@@ -266,8 +312,20 @@ export const Quote_Style: React.FC<Quote_StyleProps> = ({
 		height: '100%',
 		objectFit,
 		objectPosition,
-		transform: `scale(${mediaScale * 1.02 * zoom}) translateY(${mediaOffsetY}px)`,
+		transform: `scale(${mediaScale * (kenBurns ? zoom : 1)}) translateY(${mediaOffsetY}px)`,
 	};
+
+	// One CursorSelect caption, so the animation can be checked before it is wired to the
+	// full transcript. All of its motion lives in CursorSelectCaption.
+	//
+	// syncFrame is the word-level timestamp from the transcript — the frame "why" is
+	// actually spoken. The pointer's run-up has to happen before it, so the caption is
+	// mounted leadIn frames early and the word finishes rising exactly on the word.
+	const captionSyncFrame = 70;
+	const captionEndFrame = 151;
+	const captionLeadIn = getCursorSelectLeadIn();
+	const showTestCaption =
+		frame >= captionSyncFrame - captionLeadIn && frame <= captionEndFrame;
 
 	return (
 		<AbsoluteFill
@@ -292,8 +350,9 @@ export const Quote_Style: React.FC<Quote_StyleProps> = ({
 					/>
 				) : effectiveBackdrop ? (
 					isBackdropVideo ? (
-						<OffthreadVideo
+						<Video
 							src={resolveSrc(effectiveBackdrop)}
+							muted
 							style={{
 								width: '100%',
 								height: '100%',
@@ -392,21 +451,205 @@ export const Quote_Style: React.FC<Quote_StyleProps> = ({
 						style={{
 							width: '100%',
 							height: '100%',
-							transform: `scale(${scaleX}, ${scaleY})`,
+							transform: `scale(${settleScale})`,
 							transformOrigin: 'center center',
-							filter: `brightness(${brightness})`,
+							filter: brightness !== 1 ? `brightness(${brightness})` : undefined,
 							opacity,
 						}}
 					>
 						{resolvedMedia ? (
 							<AbsoluteFill>
 								{isVideo ? (
-									<OffthreadVideo src={resolvedMedia} style={mediaStyle} />
+									<Video src={resolvedMedia} style={mediaStyle} />
 								) : (
 									<Img src={resolvedMedia} style={mediaStyle} />
 								)}
 							</AbsoluteFill>
 						) : null}
+
+						{/* Black shadow gradient from bottom to top inside the CRT for maximum caption contrast */}
+						<AbsoluteFill
+							style={{
+								background:
+									'linear-gradient(to top, rgba(0, 0, 0, 0.92) 0%, rgba(0, 0, 0, 0.65) 24%, rgba(0, 0, 0, 0.18) 45%, rgba(0, 0, 0, 0) 65%)',
+								pointerEvents: 'none',
+							}}
+						/>
+						
+						{/* Text Behind Person for BRAINS (frames 160-230) */}
+						<Sequence from={160} durationInFrames={71}>
+							<AbsoluteFill style={{ justifyContent: 'center', alignItems: 'center' }}>
+								{/* The text layer (wedged between background and foreground) */}
+								<h1 style={{
+									fontFamily: `"${MAIN_FAMILY}", Inter, sans-serif`,
+									fontSize: Math.round(screenW * 0.22),
+									fontWeight: 900,
+									color: '#ffffff',
+									margin: 0,
+									position: 'absolute',
+									top: '32%', // Positioned at head/chest depth level
+									zIndex: 10,
+									textShadow: '0 4px 20px rgba(0,0,0,0.8)',
+								}}>
+									BRAINS
+								</h1>
+								
+								{/* The extracted transparent foreground PNG sequence (fixes WebM flicker bugs) */}
+								<AbsoluteFill style={{ zIndex: 20 }}>
+									<Img 
+										src={staticFile(`brains_sequence/${String(frame - 160 + 1).padStart(4, '0')}.png`)} 
+										style={mediaStyle} 
+									/>
+								</AbsoluteFill>
+							</AbsoluteFill>
+						</Sequence>
+						
+						{/* Creative Adaptive Captions: 60% Bottom Shadow Area, 40% Creative Empty-Space Slots */}
+						{captionStyle === 'quote-engine' ? (
+							<>
+								{showTestCaption ? (
+									<CursorSelectCaption
+										word="WHY"
+										supporting={['not you?']}
+										width={screenW}
+										height={screenH}
+										syncFrame={captionSyncFrame}
+										fontFamily={`"${MAIN_FAMILY}", Inter, sans-serif`}
+										supportingFontFamily={`"${CURSIVE_FAMILY}", "Playfair Display", Georgia, serif`}
+										offsetY={-Math.round(screenH * 0.04)}
+										boxGradient={['#ff7676', '#ff4d4d', '#d60000']}
+									/>
+								) : null}
+								<QuoteCaptionEngine
+									screenW={screenW}
+									screenH={screenH}
+									showDebug={showPersonDetection}
+								/>
+							</>
+						) : captionStyle === 'adaptive-empty-space' ? (
+							<>
+								{showTestCaption ? (
+									<CursorSelectCaption
+										word="WHY"
+										supporting={['not you?']}
+										width={screenW}
+										height={screenH}
+										syncFrame={captionSyncFrame}
+										fontFamily={`"${MAIN_FAMILY}", Inter, sans-serif`}
+										supportingFontFamily={`"${CURSIVE_FAMILY}", "Playfair Display", Georgia, serif`}
+										offsetY={-Math.round(screenH * 0.04)}
+										boxGradient={['#ff7676', '#ff4d4d', '#d60000']}
+									/>
+								) : null}
+								{frame >= captionEndFrame ? (
+									<AdaptiveCaptions
+										frame={frame}
+										screenW={screenW}
+										screenH={screenH}
+										mediaScale={mediaScale}
+										mediaOffsetY={mediaOffsetY}
+										creativeRatio={0.4}
+										showDebugSlot={showPersonDetection}
+										cursiveFont={`"${CURSIVE_FAMILY}", "Playfair Display", Georgia, serif`}
+										boldFont={`"${CAPTION_FAMILY}", "${MAIN_FAMILY}", sans-serif`}
+										primaryColor="#FFFFFF"
+										blackoutRanges={[
+											[160, 230],   // BRAINS (TextBehindPerson)
+											[320, 420],   // ADVICE (ArcCaption)
+											[565, 645],   // FINANCIAL (Knockout)
+											[820, 920],   // LEARN (TallType)
+											[1200, 1310], // JOURNEY (NeonTrace)
+										]} // Hides text while creative templates are active
+									/>
+								) : null}
+							</>
+						) : (
+							<>
+								{/* CursorSelect caption test: WHY in the box, "not you?" underneath */}
+								{showTestCaption ? (
+									<CursorSelectCaption
+										word="WHY"
+										supporting={['not you?']}
+										width={screenW}
+										height={screenH}
+										syncFrame={captionSyncFrame}
+										fontFamily={`"${MAIN_FAMILY}", Inter, sans-serif`}
+										supportingFontFamily={`"${CURSIVE_FAMILY}", "Playfair Display", Georgia, serif`}
+										offsetY={-Math.round(screenH * 0.04)}
+									/>
+								) : null}
+
+								{/* CaptionsDot word-by-word flow seamlessly takes over right after CursorSelect ends */}
+								{frame >= captionEndFrame ? (
+									<CaptionsDotOverlay
+										width={screenW}
+										height={screenH}
+										startFrameAfter={captionEndFrame}
+										fontFamily={`"${CAPTION_FAMILY}", "${MAIN_FAMILY}", sans-serif`}
+										position="bottom"
+										bottomOffset="11%"
+										dotColor="#E2FB00"
+										textColor="#FFFFFF"
+										mixBlendMode="normal"
+										casing="uppercase"
+									/>
+								) : null}
+							</>
+						)}
+						
+						{/* Experimental Knockout Caption test for "FINANCIAL" heavy word */}
+						<KnockoutCaption
+							word="FINANCIAL"
+							supportingText="wall around your family."
+							width={screenW}
+							height={screenH}
+							syncFrame={582} // ~19.4s in
+							fontFamily={`"${MAIN_FAMILY}", Inter, sans-serif`}
+							supportingFontFamily={`"${CURSIVE_FAMILY}", "Playfair Display", Georgia, serif`}
+							slabColor="#0a0a0a"
+							textColor="#FFFFFF" // Changed to white per user request
+						/>
+
+						{/* Experimental NeonTrace test for "JOURNEY" heavy word */}
+						<NeonTraceCaption
+							word="JOURNEY"
+							supportingText="around the world."
+							width={screenW}
+							height={screenH}
+							syncFrame={1230} // ~41.0s in
+							fontFamily={`"${MAIN_FAMILY}", Inter, sans-serif`}
+							supportingFontFamily={`"${CURSIVE_FAMILY}", "Playfair Display", Georgia, serif`}
+						/>
+
+						{/* Experimental TallType test for "LEARN" heavy word */}
+						<TallTypeCaption
+							word="LEARN"
+							supportingText="every single day."
+							width={screenW}
+							height={screenH}
+							syncFrame={850} // ~28.3s in
+							fontFamily={`"${MAIN_FAMILY}", Inter, sans-serif`}
+							supportingFontFamily={`"${CURSIVE_FAMILY}", "Playfair Display", Georgia, serif`}
+							wordColor="#c9a227"
+							textColor="#ffffff"
+						/>
+
+						{/* Person Detection: Red frame, red mask & empty space zones */}
+						{showPersonDetection ? (
+							<PersonDetectionOverlay
+								frame={frame}
+								screenW={screenW}
+								screenH={screenH}
+								mediaScale={mediaScale}
+								mediaOffsetY={mediaOffsetY}
+								showMask={true}
+								showSilhouetteContour={true}
+								showHeadChestZones={true}
+								showEmptyZones={true}
+							/>
+						) : null}
+						
+						{/* Motivational Quote Text (if provided) */}
 						{quoteText ? (
 							<div
 								style={{
@@ -416,14 +659,13 @@ export const Quote_Style: React.FC<Quote_StyleProps> = ({
 									right: '18%',
 									textAlign: 'center',
 									color: '#ffffff',
-									fontFamily:
-										'Inter, "Montserrat", -apple-system, sans-serif',
+									fontFamily: `"${MAIN_FAMILY}", "Montserrat", -apple-system, sans-serif`,
 									fontSize: Math.round(screenW * 0.052),
-									fontWeight: 800,
+									fontWeight: 900,
 									lineHeight: 1.25,
 									letterSpacing: '-0.02em',
 									textShadow:
-										'0 2px 12px rgba(0,0,0,0.9), 0 1px 3px rgba(0,0,0,0.8)',
+										'0 3px 18px rgba(0,0,0,1), 0 1px 6px rgba(0,0,0,0.9), 0 0 30px rgba(0,0,0,0.7)',
 									pointerEvents: 'none',
 								}}
 							>
@@ -433,7 +675,7 @@ export const Quote_Style: React.FC<Quote_StyleProps> = ({
 					</div>
 				</div>
 
-				{/* One thin line tracing the shape */}
+				{/* Outline tracing the shape with animated line drawing */}
 				{showOutline ? (
 					<svg
 						width={screenW}
@@ -450,17 +692,34 @@ export const Quote_Style: React.FC<Quote_StyleProps> = ({
 						<path
 							d={shape}
 							fill="none"
-							stroke={rgba(lineColor, 0.55 * Math.min(1, power))}
+							pathLength={1}
+							strokeDasharray={1}
+							strokeDashoffset={1 - outlineProgress}
+							stroke={rgba(lineColor, 0.65 * Math.min(1, power))}
 							strokeWidth={Math.max(1.5, screenW * 0.0022)}
 						/>
 					</svg>
 				) : null}
+
+				{/* Experimental ArcCaption test for heavy word */}
+				<ArcCaption
+					word="DISCIPLINE"
+					width={screenW}
+					height={screenH}
+					syncFrame={350} // ~11.6s in
+					fontFamily={`"${MAIN_FAMILY}", Inter, sans-serif`}
+					shape={shape}
+					shapeSquareness={shapeSquareness}
+					glowColor="#ff0033"
+				/>
 			</div>
 
-			{/* Instagram Reels chrome, above everything */}
-			<AbsoluteFill style={{ zIndex: 20000 }}>
-				<InstagramUI {...instagramUI} enabled={showInstagramUI} />
-			</AbsoluteFill>
+			{/* Instagram Reels chrome, above everything (switchable via showInstagramUI) */}
+			{showInstagramUI ? (
+				<AbsoluteFill style={{ zIndex: 20000 }}>
+					<InstagramUI {...instagramUI} enabled={showInstagramUI} />
+				</AbsoluteFill>
+			) : null}
 		</AbsoluteFill>
 	);
 };

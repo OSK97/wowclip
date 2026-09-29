@@ -30,7 +30,6 @@ const barGraphConfig = barGraphConfigAny as any;
 const lineGraphConfig = lineGraphConfigAny as any;
 const pieChartConfig = pieChartConfigAny as any;
 
-
 import grossVolumeConfigAny from "./graphs/GrossVolume/gross-volume.config.json";
 const grossVolumeConfig = grossVolumeConfigAny as any;
 import { LargeNumber } from "./LargeNumber";
@@ -103,8 +102,48 @@ import { Story, getStoryDuration, STORY_FPS } from "./scenes/Story";
 import type { StoryConfig } from "./scenes/Story";
 import storyConfig from "./scenes/story.config.json";
 import { CircularIntro } from "./building_blocks/circular_intro/CircularIntro";
+import { PolicyBazaarCrash } from "./component/PolicyBazaarCrash";
+import policyBazaarCrashConfig from "./component/PolicyBazaarCrash/policy-bazaar-crash.json";
 import { Quote_Style } from "./Quote_Style";
 import { AbsoluteFill } from "remotion";
+import {
+  DUMMY_TRANSCRIPT,
+  TYPOGRAPHY_LAB_TRANSCRIPT,
+  FullScreenReel,
+  buildCaptionPlan,
+  getCaptionPlanDuration,
+} from "./CaptionEngine";
+import type { CaptionEngineConfigInput } from "./CaptionEngine";
+import captionEngineConfigAny from "./CaptionEngine/caption-engine.config.json";
+
+const captionEngineConfig = captionEngineConfigAny as CaptionEngineConfigInput;
+const FULLSCREEN_REEL_FPS = 30;
+
+/**
+ * The caption plan is built here so the composition length matches the transcript exactly rather
+ * than guessing a duration and leaving dead frames on the end.
+ */
+const getFullScreenReelDuration = () =>
+  getCaptionPlanDuration(
+    buildCaptionPlan(DUMMY_TRANSCRIPT, {
+      ...captionEngineConfig,
+      fps: FULLSCREEN_REEL_FPS,
+      width: 1080,
+      height: 1920,
+    }),
+    0.8,
+  );
+
+const getTypographyLabDuration = () =>
+  getCaptionPlanDuration(
+    buildCaptionPlan(TYPOGRAPHY_LAB_TRANSCRIPT, {
+      ...captionEngineConfig,
+      fps: FULLSCREEN_REEL_FPS,
+      width: 1080,
+      height: 1920,
+    }),
+    0.8,
+  );
 
 const CircularIntroPreview: React.FC<{ size?: number }> = ({ size = 800 }) => {
   return (
@@ -123,7 +162,8 @@ const CircularIntroPreview: React.FC<{ size?: number }> = ({ size = 800 }) => {
 const getSingleMapDuration = () => {
   const raw = singleMapConfig as any;
   if (raw.durationInSeconds) return Math.round(raw.durationInSeconds * 24);
-  if (raw.composition?.durationSeconds) return Math.round(raw.composition.durationSeconds * 24);
+  if (raw.composition?.durationSeconds)
+    return Math.round(raw.composition.durationSeconds * 24);
 
   let maxFrame = 0;
   const steps = raw.steps;
@@ -244,7 +284,8 @@ const socialEmbedConfigAny = socialEmbedConfig as any;
 const calendarConfig = calendarConfigAny as any;
 
 const getTableAnimationDuration = () => {
-  const { animation, data, columns, durationInSeconds, durationInFrames } = tableAnimationConfig;
+  const { animation, data, columns, durationInSeconds, durationInFrames } =
+    tableAnimationConfig;
   if (durationInFrames) return durationInFrames;
   if (durationInSeconds) return durationInSeconds * 30;
   if (animation?.durationInFrames) return animation.durationInFrames;
@@ -303,6 +344,44 @@ export const RemotionRoot: React.FC = () => {
   return (
     <>
       <Composition
+        id="FullScreenReel"
+        component={FullScreenReel}
+        width={1080}
+        height={1920}
+        fps={FULLSCREEN_REEL_FPS}
+        durationInFrames={getFullScreenReelDuration()}
+        defaultProps={{
+          // No media = flat black stage, which is how you review the typography without a video
+          // arguing with it. Point this at a portrait clip in public/ to see it over footage.
+          mediaSrc: undefined,
+          backgroundColor: "#000000",
+          objectFit: "cover" as const,
+          mediaScale: 1,
+          transcript: DUMMY_TRANSCRIPT,
+          captionConfig: captionEngineConfig,
+          showDebug: false,
+          showInstagramUI: false,
+        }}
+      />
+      <Composition
+        id="CaptionTypographyLab"
+        component={FullScreenReel}
+        width={1080}
+        height={1920}
+        fps={FULLSCREEN_REEL_FPS}
+        durationInFrames={getTypographyLabDuration()}
+        defaultProps={{
+          mediaSrc: undefined,
+          backgroundColor: "#000000",
+          objectFit: "cover" as const,
+          mediaScale: 1,
+          transcript: TYPOGRAPHY_LAB_TRANSCRIPT,
+          captionConfig: captionEngineConfig,
+          showDebug: false,
+          showInstagramUI: false,
+        }}
+      />
+      <Composition
         id="AestheticNewsLayout"
         component={AestheticNewsLayout}
         width={1080}
@@ -332,14 +411,16 @@ export const RemotionRoot: React.FC = () => {
           config: paperHighlightConfig,
         }}
       />
-
       <Composition
         id="ElonRocketNews"
         component={ElonRocketNews}
         width={1080}
         height={1920}
         fps={ELON_FPS}
-        durationInFrames={getPersonNewsDuration(rocketNewsConfig as any, ELON_FPS)}
+        durationInFrames={getPersonNewsDuration(
+          rocketNewsConfig as any,
+          ELON_FPS,
+        )}
         defaultProps={{
           config: rocketNewsConfig as any,
         }}
@@ -457,9 +538,9 @@ export const RemotionRoot: React.FC = () => {
         durationInFrames={
           calendarConfig.durationInSeconds
             ? Math.round(calendarConfig.durationInSeconds * 24)
-            : (calendarConfig.composition?.durationSeconds
+            : calendarConfig.composition?.durationSeconds
               ? Math.round(calendarConfig.composition.durationSeconds * 24)
-              : (calendarConfig.timings?.totalDurationInFrames ?? 300))
+              : (calendarConfig.timings?.totalDurationInFrames ?? 300)
         }
       />
       <Composition
@@ -615,7 +696,10 @@ export const RemotionRoot: React.FC = () => {
         width={1080}
         height={1920}
         fps={mediaShowcaseConfig.fps || 30}
-        durationInFrames={(mediaShowcaseConfig.durationInSeconds || 10) * (mediaShowcaseConfig.fps || 30)}
+        durationInFrames={
+          (mediaShowcaseConfig.durationInSeconds || 10) *
+          (mediaShowcaseConfig.fps || 30)
+        }
       />
       <Composition
         id="QuoteCard"
@@ -623,7 +707,10 @@ export const RemotionRoot: React.FC = () => {
         width={1080}
         height={1920}
         fps={quoteCardConfig.fps || 30}
-        durationInFrames={(quoteCardConfig.durationInSeconds || 10) * (quoteCardConfig.fps || 30)}
+        durationInFrames={
+          (quoteCardConfig.durationInSeconds || 10) *
+          (quoteCardConfig.fps || 30)
+        }
         defaultProps={{
           config: quoteCardConfig as any,
         }}
@@ -634,7 +721,9 @@ export const RemotionRoot: React.FC = () => {
         width={1080}
         height={1920}
         fps={tbpConfig.fps || 24}
-        durationInFrames={(tbpConfig.durationInSeconds || 4) * (tbpConfig.fps || 24)}
+        durationInFrames={
+          (tbpConfig.durationInSeconds || 4) * (tbpConfig.fps || 24)
+        }
         defaultProps={{
           config: tbpConfig as any,
         }}
@@ -645,19 +734,21 @@ export const RemotionRoot: React.FC = () => {
         width={1080}
         height={1920}
         fps={30}
-        durationInFrames={300}
+        durationInFrames={1321}
         defaultProps={{
-          mediaSrc: "test_frame.jpg",
+          mediaSrc: "why_not_you_hq.mp4",
           objectFit: "cover" as const,
-          objectPosition: "center 22%",
-          mediaScale: 1.0,
+          objectPosition: "center center",
+          mediaScale: 1.18,
+          mediaOffsetY: 0,
           stageBackground: "#000000",
           glowColor: "#ff4d4d",
-          glowStrength: 0.16,
-          backdropBlur: 100,
-          backdropDim: 0.58,
-          quoteText: "Stay focused. Your time is coming.",
-          showInstagramUI: true,
+          glowStrength: 0.14,
+          backdropBlur: 110,
+          backdropDim: 0.62,
+          quoteText: "",
+          kenBurns: false,
+          showInstagramUI: false, // Set to true to switch back on
           instagramUI: {
             username: "realityquotes.hub",
             verified: true,
