@@ -1,0 +1,493 @@
+{
+  "category": "motivational",
+  "clips": [
+    {
+      "category": "motivational",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "It's not over until I win",
+      "why": "The most-marked moment in the video by a mile (69 likes on one comment, 25 more viewers marked it). A father beats his nine-year-old ten straight games and quits; the kid plays to game eleven, wins, yawns and says the exact words the father said. The mirror is the detonation — the viewer hears a child hand them the attitude they are missing. Every line earns its place in the build.",
+      "category_hint": "STORY DETONATES / DISCIPLINE OVER FEELING",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "29 viewer comments and +25 more on L0092",
+        "comment on L0093",
+        "comment on L0091"
+      ],
+      "start_line": "L0092",
+      "end_line": "L0100",
+      "start_words": "you must understand that i remember i was playing a game",
+      "end_words": "said i'm ready to go to sleep now",
+      "start_s": 639.6,
+      "end_s": 693.04,
+      "duration_s": 53.44,
+      "source_start_s": 639.6,
+      "source_end_s": 693.04,
+      "one_liner": false,
+      "text": "you must understand that i remember i was playing a game with my nine-year-old son john leslie and i beat him ten straight games in a game called connect four and finally i said john leslie i'm bored i don't want to play you anymore and i got up i said i'm ready to go to sleep now and repeat after me please let's say to this together it's not over until i win john leslie said no you can't go now dad i said why he said it's not over until i win that was his attitude we sat down and we played several other games and finally after the 11th game john leslie won and he got up and he yawned and he said i'm ready to go to sleep now and i'm saying to you what if all of us took that attitude after we face a rejection and a no or we have a",
+      "flags": [],
+      "id": "mot1"
+    },
+    {
+      "category": "motivational",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "You've lost again and again and again, but you're still looking at your dream",
+      "why": "The application that follows the story, and the single most-quoted passage in the video — the comment giving the timestamp has 952 likes. The litany is aimed at the exact 2am viewer: a rejection, a no, somebody who said you can count on me and didn't, the car repossessed, the lights cut off — and still reviewing the dream every day. It converts the story's child-logic into an adult vow.",
+      "category_hint": "ONE-LINER / SELF-BELIEF",
+      "hook_strength": 7.0,
+      "self_contained": false,
+      "confidence": "HIGH",
+      "signals_used": [
+        "952-like comment on L0101 pointing at this exact quote",
+        "REPLAYED nearby at L0259 on the same phrase"
+      ],
+      "start_line": "L0100",
+      "end_line": "L0103",
+      "start_words": "what if all of us took that attitude after we face a rejection",
+      "end_words": "win",
+      "start_s": 683.92,
+      "end_s": 716.04,
+      "duration_s": 32.12,
+      "source_start_s": 683.92,
+      "source_end_s": 716.04,
+      "one_liner": false,
+      "text": "said i'm ready to go to sleep now and i'm saying to you what if all of us took that attitude after we face a rejection and a no or we have a meeting and no one shows up or somebody say you can count on me and they don't come through what if we have that kind of attitude the cause repossessed nobody believes in you you've lost again and again and again the lights are cut off but you're still looking at your dream reviewing it every day and say to yourself it's not over until i win",
+      "flags": [
+        "finder marked it not self-contained"
+      ],
+      "id": "mot2"
+    },
+    {
+      "category": "motivational",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "Someone's opinion of you does not have to become your reality",
+      "why": "A boy who has been told he is mentally deficient is told by a teacher, 'don't ever say that again.' This names the private label almost every viewer carries from school or family and hands them the sentence that takes it off — one of the most quoted lines Brown ever said, and the pause before 'reality' is where it lands.",
+      "category_hint": "PERMISSION GRANTED / SELF-BELIEF",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "14-like comment on L0035",
+        "audience block quote of this exact line"
+      ],
+      "start_line": "L0031",
+      "end_line": "L0037",
+      "start_words": "i don't have any college training but i met a high school teacher who one day changed my life",
+      "end_words": "reality",
+      "start_s": 199.92,
+      "end_s": 240.04,
+      "duration_s": 40.12,
+      "source_start_s": 199.92,
+      "source_end_s": 240.04,
+      "one_liner": false,
+      "text": "i don't have any college training but i met a high school teacher who one day changed my life i was waiting on another student and when he came in he said to me young man go to the board and write what i'm about to tell you and i said i can't do that sir he said why not i said i'm not one of your students he said it doesn't matter follow my directions now i said i can't do that sir he said why not i said because i'm educable mentally and he came from behind his desk and he looked at me he said don't ever say that again someone's opinion of you does not have to become your reality",
+      "flags": [],
+      "id": "mot3"
+    },
+    {
+      "category": "motivational",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "I'm the one",
+      "why": "The emotional peak of the speech. A boy who failed history and English, feeling like a failure, sneaks into a graduation speech, chases the teacher into the parking lot — 'I got these big dreams... I dream of buying my mama home, could I do that, Mr. Washington?' — 'It's possible, Mr. Brown' — and then, broken by the pauses, 'I'm the one... I'm the... one.' The viewer who has never once claimed their own dream feels this in the chest. Long, but every second is the build; the second pass can trim the auditorium speech if needed.",
+      "category_hint": "SELF-BELIEF / STORY DETONATES",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0184 'everytime with tears in my eyes'"
+      ],
+      "start_line": "L0159",
+      "end_line": "L0189",
+      "start_words": "it's very important for you to believe",
+      "end_words": "one",
+      "start_s": 1049.68,
+      "end_s": 1234.04,
+      "duration_s": 184.36,
+      "source_start_s": 1049.68,
+      "source_end_s": 1234.04,
+      "one_liner": false,
+      "text": "it's very important for you to believe that you are the one to make this happen i remember this high school teacher mr leroy washington at the end of school one june it was just a few days before we were supposed to leave and i just got my report card and it indicated that i'd failed history and i failed english and i would have to go to summer school and i was feeling within myself that i was a failure that i i'm slower than most people and getting paperwork and and i was feeling down on myself and and very negative and mr washington was giving a speech to the graduating seniors and i was in 11th grade and even though i wasn't supposed to be in there i went in there because the speech he was giving that speech was for me and as he talked my heart began to beat fast tears began to run by my eyes and i was in the back just listening to him because he said and he was a very dramatic man i still talk to him to this day he said as graduating seniors of booker t washington high school i want you to know that you're blessed and highly favored and that as you go toward the future begin to know that you have greatness within you and if just one of you here begin to envision yourselves as being blessed and highly favored to reach your goals if just one of you capture the essence of what that means that you have greatness within you in responsibility to manifest that greatness that you can make your parents proud you can make your school proud you can touch millions of people's lives and the world will never be the same again because you came this way and the students gave him a rousing standing ovation and as he left the auditorium i ran down the steps and i caught him in the parking lot i said mr washington he said yes i said do you remember me sir he said no i said uh my name is leslie brown my mother she works in the cafeteria here i'm one of the twins leslie wesley i said mr washington but you know you know i got these big dreams you know i like talking to people i love people i said i want to work with people and i got this dream of buying my mama home could could i do that mr washington he said it's possible mr brown and as he walked away i called him again i said mr washington he said what do you want now i said um i'm the one sir i said i'm the one you you remember me sir i'm this maybe brown's boy i'm the wife i'm the one",
+      "flags": [
+        "184s of range proposed -- the cut stage has to find the moment inside it"
+      ],
+      "id": "mot4"
+    },
+    {
+      "category": "motivational",
+      "rank": 5,
+      "finder_rank": 5.0,
+      "title": "It's hard changing your life",
+      "why": "The humiliation named without self-pity: an entrepreneur sleeping in his office, handed an envelope from management — 'this is an office tower, it's not a hotel, please do not sleep in your office' — and answering it with 'things are bad for me but they're not going to be this way always.' Anyone who has been quietly broke and pretending recognises this lobby. The landing line is the viewer's own sentence now.",
+      "category_hint": "MONEY / THE PRICE THEY PAID",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0120 'It's hard'",
+        "comment on L0132"
+      ],
+      "start_line": "L0122",
+      "end_line": "L0129",
+      "start_words": "hard it's not easy it's hard changing your life",
+      "end_words": "they're not going to be this way always",
+      "start_s": 812.84,
+      "end_s": 873.12,
+      "duration_s": 60.28,
+      "source_start_s": 812.84,
+      "source_end_s": 873.12,
+      "one_liner": false,
+      "text": "hard it's not easy it's hard changing your life it was hard when just over three years ago in the penobscot building in detroit michigan where i was operating my business and i fell on some hard times and i was sleeping in my office it was hard coming into the lobby and the security said excuse me mr brown can we see you for a moment and i said yes and i walked up to the counter and he gave me an envelope and he said would you mind reading it here and i opened the envelope and the envelope was from management that says this is an office tower it's not a hotel please do not sleep in your office and i said excuse me sir i said i just worked long hours in creating my business i'm an entrepreneur and right now things are bad for me but they're not going to be this way always",
+      "flags": [],
+      "id": "mot5"
+    },
+    {
+      "category": "motivational",
+      "rank": 6,
+      "finder_rank": 6.0,
+      "title": "No matter how bad it is or how bad it gets, I'm going to make it",
+      "why": "The adoptive mother who didn't know how she would raise two babies becomes the bridge to the viewer's own unknowable dream — 'you don't know how you're going to make this happen but you just feel within yourself some way, somehow' — then the call-and-response vow, said slowly, twice. An instruction sized to be repeated tonight, in the viewer's own mouth.",
+      "category_hint": "SELF-BELIEF / IDENTITY",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0236"
+      ],
+      "start_line": "L0234",
+      "end_line": "L0241",
+      "start_words": "i will do it and ladies and gentlemen my mother had a dream of having children",
+      "end_words": "i'm going to make it",
+      "start_s": 1547.52,
+      "end_s": 1589.12,
+      "duration_s": 41.6,
+      "source_start_s": 1547.52,
+      "source_end_s": 1589.12,
+      "one_liner": false,
+      "text": "i will do it and ladies and gentlemen my mother had a dream of having children and raising us she didn't know how she's going to do it you're going to be just like that and some of you are already there well you don't know how you're going to make this happen but you just feel within yourself some way somehow with the help of god i'm going to make it happen repeat after me please no matter how bad it is or how bad it gets i'm going to make it i'm going to make it",
+      "flags": [],
+      "id": "mot6"
+    },
+    {
+      "category": "motivational",
+      "rank": 7,
+      "finder_rank": 7.0,
+      "title": "Don't stop running towards your dream",
+      "why": "Addressed directly at the person in hardship: 'it's a long shot from liberty city, an abandoned building, never knowing my mother or father, no college training, labelled educable mentally — but I kept running toward my dreams.' Then the measured silences and the three 'don't stop's. The pauses are the performance; on the page it looks plain, in the ear it is the point of the whole speech.",
+      "category_hint": "PROVE THEM WRONG / FAILURE & COMEBACK",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0137 'best line'",
+        "long pauses L0147–L0153"
+      ],
+      "start_line": "L0141",
+      "end_line": "L0152",
+      "start_words": "and here's what i want to say to you for those of you that have experienced some hardships",
+      "end_words": "don't stop running towards your dream",
+      "start_s": 937.36,
+      "end_s": 1012.16,
+      "duration_s": 74.8,
+      "source_start_s": 937.36,
+      "source_end_s": 1012.16,
+      "one_liner": false,
+      "text": "and here's what i want to say to you for those of you that have experienced some hardships don't give up on your dream no one could have convinced me by holding on by continuing to push forward by continuing to run toward my dream that one day i would have my own talk show it's a long shot ladies and gentlemen from liberty city an abandoned building on a floor never knowing my mother or father it's a long shot being here with you today in this dome in atlanta it's a long shot no college training labeled educable mentally but i kept running toward my dreams don't stop don't stop don't stop running towards your dream",
+      "flags": [],
+      "id": "mot7"
+    },
+    {
+      "category": "motivational",
+      "rank": 8,
+      "finder_rank": 8.0,
+      "title": "Don't say I'm having a bad day. Say I'm having a character-building day",
+      "why": "Eighteen seconds, one reframe. The rough times 'have not come to stay, they have come to pass' — then the word-swap that changes what a terrible day IS. The audience block shows viewers typing this line back weeks and years later; that is the exact save-and-send behaviour predicted.",
+      "category_hint": "REFRAME / ONE-LINER",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "audience block: 'I'm not having a bad day. I'm having a character building day' (379 likes)",
+        "comments on L0154, L0157"
+      ],
+      "start_line": "L0155",
+      "end_line": "L0157",
+      "start_words": "dream there are moments when you're going to doubt yourself",
+      "end_words": "say i'm having a character building day",
+      "start_s": 1022.84,
+      "end_s": 1041.4,
+      "duration_s": 18.56,
+      "source_start_s": 1022.84,
+      "source_end_s": 1041.4,
+      "one_liner": false,
+      "text": "dream there are moments when you're going to doubt yourself their rough times are going to come but they have not come to stay they have come to pass it's very important for you to know that don't say i'm having a bad day say i'm having a character building day",
+      "flags": [],
+      "id": "mot8"
+    },
+    {
+      "category": "motivational",
+      "rank": 9,
+      "finder_rank": 9.0,
+      "title": "If life knocks you down, try to land on your back — if you can look up, you can get up",
+      "why": "Fifteen seconds, complete on its own, and the geometry of it — fall backwards on purpose, because the position you land in decides whether you can rise — is an image the viewer keeps. A screenshot quote.",
+      "category_hint": "ONE-LINER / FAILURE & COMEBACK",
+      "hook_strength": 4.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0216",
+      "end_line": "L0217",
+      "start_words": "your reasons will be your rod and staff to comfort you",
+      "end_words": "let your reasons get you back up",
+      "start_s": 1416.72,
+      "end_s": 1432.08,
+      "duration_s": 15.36,
+      "source_start_s": 1416.72,
+      "source_end_s": 1432.08,
+      "one_liner": false,
+      "text": "your reasons will be your rod and staff to comfort you to pick you up once again i got a saying on one of my tapes if life knocks you down try and land on your back because if you can look up you can get up let your reasons get you back up",
+      "flags": [],
+      "id": "mot9"
+    },
+    {
+      "category": "motivational",
+      "rank": 10,
+      "finder_rank": 10.0,
+      "title": "You were so crazy — I know, but I'm rich",
+      "why": "The payoff of the whole Mr. Washington thread as a standalone joke with a blade in it. The old teacher calls: 'You were the one, weren't you? ... And you were so crazy.' 'I know — but I'm rich.' It is permission to be called crazy by everyone who doubted you, delivered with a laugh. Sarcasm carrying a real truth.",
+      "category_hint": "SARCASM / PROVE THEM WRONG",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "32-like comment on L0196 'I get so many chills'"
+      ],
+      "start_line": "L0194",
+      "end_line": "L0197",
+      "start_words": "because you are the one and i remember when pbs first played one of my specials",
+      "end_words": "i know but i'm rich",
+      "start_s": 1258.48,
+      "end_s": 1295.92,
+      "duration_s": 37.44,
+      "source_start_s": 1258.48,
+      "source_end_s": 1295.92,
+      "one_liner": false,
+      "text": "because you are the one and i remember when pbs first played one of my specials called you deserve one sunday afternoon in miami florida i had some friends call him to tell him to tune in and he watched the program he called me in detroit and i answered the phone i said hello he said may i speak to les brown please i said who's calling he said you know who this is i said oh mr washington it's you he said you were the one weren't you i said yes sir he said and you were so crazy i said i know but i'm rich",
+      "flags": [],
+      "id": "mot10"
+    },
+    {
+      "category": "motivational",
+      "rank": 11,
+      "finder_rank": 11.0,
+      "title": "You've got to be an unreasonable person",
+      "why": "A small instruction the viewer could do tonight — write down five reasons why you deserve your dream — wrapped around the reframe: 'logical, practical thinking says you can't do it today, but if you want to produce unreasonable results, you've got to be an unreasonable person.' It takes the insult they have been called and turns it into the requirement.",
+      "category_hint": "INSTRUCTION / REFRAME",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0208",
+      "end_line": "L0212",
+      "start_words": "write down at least five reasons",
+      "end_words": "person",
+      "start_s": 1358.48,
+      "end_s": 1388.04,
+      "duration_s": 29.56,
+      "source_start_s": 1358.48,
+      "source_end_s": 1388.04,
+      "one_liner": false,
+      "text": "write down at least five reasons on why you deserve your dream and why you won't give up what's going to make you unstoppable why you must be unreasonable because logical practical thinking says you can't do it today but if you want to produce unreasonable results in your life like living your dreaming taking charge of your destiny you've got to be an unreasonable person you've got to be an uncommon person",
+      "flags": [],
+      "id": "mot11"
+    },
+    {
+      "category": "motivational",
+      "rank": 12,
+      "finder_rank": 12.0,
+      "title": "That dream you're holding in your mind — it's possible",
+      "why": "The signature open. 'I don't care how far-fetched it might appear, I don't care how disappointing it might have been as you've been working toward that dream — but here's what I know: that dream that you're holding in your mind, it's possible.' It reaches the person whose dream has already disappointed them, which is the only person who needs to hear it.",
+      "category_hint": "SELF-BELIEF",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "audience block quote of this exact line"
+      ],
+      "start_line": "L0011",
+      "end_line": "L0014",
+      "start_words": "i don't know what that dream is that you have i don't care how far fetched",
+      "end_words": "it's possible",
+      "start_s": 53.68,
+      "end_s": 77.2,
+      "duration_s": 23.52,
+      "source_start_s": 53.68,
+      "source_end_s": 77.2,
+      "one_liner": false,
+      "text": "i don't know what that dream is that you have i don't care how far fetched it might appear to be i don't care how disappointing it might have been as you've been working toward that dream but here's what i know that that dream that you're holding in your mind that it's possible let's say that together please it's possible",
+      "flags": [],
+      "id": "mot12"
+    },
+    {
+      "category": "motivational",
+      "rank": 13,
+      "finder_rank": 13.0,
+      "title": "Everybody won't see it. I must see it for myself",
+      "why": "For the viewer whose family and friends don't get it: 'everybody won't see it, everybody won't join you, everybody won't have the vision... I can do this even if no one else sees it for me, I must see it for myself.' Loneliness converted from verdict to job description in under thirty seconds.",
+      "category_hint": "LONELINESS AS STRENGTH",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comments on L0061 nearby"
+      ],
+      "start_line": "L0065",
+      "end_line": "L0068",
+      "start_words": "it's necessary to know that everybody won't see it",
+      "end_words": "i must see it for myself that's necessary",
+      "start_s": 423.92,
+      "end_s": 452.4,
+      "duration_s": 28.48,
+      "source_start_s": 423.92,
+      "source_end_s": 452.4,
+      "one_liner": false,
+      "text": "it's necessary to know that everybody won't see it that everybody won't join you that everybody won't have the vision it's necessary to know that that a lot of people like to complain but they don't want to do anything about their situation that you are an uncommon breed you know you have to know within yourself that i can do this even if no one else sees it for me i must see it for myself that's necessary",
+      "flags": [],
+      "id": "mot13"
+    },
+    {
+      "category": "motivational",
+      "rank": 14,
+      "finder_rank": 14.0,
+      "title": "If you want a thing bad enough",
+      "why": "The closing poem — 'give up your time, your peace and your sleep for it... if neither cold, poverty, famish... can keep you away from the thing that you want, you'll get it.' Rhythm carries an ordinary idea straight past the defences, and viewers have commented goosebumps at exactly this point. Long for the form, but the metre is the vehicle and the second pass can tighten.",
+      "category_hint": "SHAYARI / POETIC",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comments on L0262, L0267, L0268"
+      ],
+      "start_line": "L0263",
+      "end_line": "L0268",
+      "start_words": "of you it's something that i'm known by",
+      "end_words": "god you'll get it",
+      "start_s": 1723.2,
+      "end_s": 1774.64,
+      "duration_s": 51.44,
+      "source_start_s": 1723.2,
+      "source_end_s": 1774.64,
+      "one_liner": false,
+      "text": "enough to go out and fight for it to work day and night for it to give up your time your peace and your sleep for it if all that your dream and scheme is about it and life seems useless and worthless without it and if you gladly sweat for it and fret for it and plan for it and lose all your terror of the opposition for it and if you simply go after that thing that you want with all of your capacity strength and sagacity faith hope and confidence and stirring pertinacity if neither cold poverty famish or gulf sickness or pain or body and brain can keep you away from the thing that you want if dogged and grim you besiege and beset it with the help of god you'll get it this is mrs amy brown's baby boy leslie calvin brown saying it's been a plum pleasing pleasure as well as a privilege thank",
+      "flags": [
+        "start_words not in start line"
+      ],
+      "id": "mot14"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0005",
+      "end_line": "L0008",
+      "why_not": "The reframe that dreams are given to us for the purpose of accomplishing them is genuinely interesting, but the sentence arrives convoluted and depends on the 'think about your dream' framing before it; unsure it completes for a cold stranger."
+    },
+    {
+      "start_line": "L0069",
+      "end_line": "L0080",
+      "why_not": "The shoeshine creativity anecdote is charming but the takeaway is sales craft — amaze your customers — aimed at the convention audience; nothing shifts in how the 2am viewer sees themselves."
+    },
+    {
+      "start_line": "L0105",
+      "end_line": "L0115",
+      "why_not": "A call-and-response recap of affirmations; it summarises the speech rather than delivering a landing of its own."
+    },
+    {
+      "start_line": "L0117",
+      "end_line": "L0119",
+      "why_not": "Goal-writing and planning walkthrough — correct and administrative, no charge, changes nothing about who the viewer is."
+    },
+    {
+      "start_line": "L0214",
+      "end_line": "L0215",
+      "why_not": "The 'if you know the why, you can endure almost any how' line is quotable but arrives garbled ('less nietzsche said') and folded into the mother-home anecdote, so it does not cut out cleanly on its own."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0010",
+      "what": "opening address and 'think about your dream' framing"
+    },
+    {
+      "from_line": "L0016",
+      "to_line": "L0030",
+      "what": "dream, risk-takers and biography of humble beginnings — setup, not a landing"
+    },
+    {
+      "from_line": "L0039",
+      "to_line": "L0060",
+      "what": "fear of failure/comfort/worthiness list plus his résumé of achievements (book, specials, talk show)"
+    },
+    {
+      "from_line": "L0081",
+      "to_line": "L0090",
+      "what": "customer-service and integrity advice aimed at the distributor audience"
+    },
+    {
+      "from_line": "L0130",
+      "to_line": "L0140",
+      "what": "continuation of the hard-times story past the envelope payoff"
+    },
+    {
+      "from_line": "L0198",
+      "to_line": "L0207",
+      "what": "'you're the one' repetition and tape-listening setup"
+    },
+    {
+      "from_line": "L0218",
+      "to_line": "L0233",
+      "what": "buying his mother a home and the birth-mother adoption story — moving, but it lands as emotion without a turn for the viewer until L0234"
+    },
+    {
+      "from_line": "L0242",
+      "to_line": "L0261",
+      "what": "closing recaps, handshakes and the hungry chant"
+    }
+  ],
+  "video_read": "This is Les Brown's full classic 'It's not over until you win' convention speech: thirty minutes of personal-humiliation stories (labelled educable mentally retarded, sleeping in his office, people laughing at him) converted into vows and call-and-response affirmations. The material lives everywhere in it — the Connect Four story, the Mr. Washington thread, the Penobscot Building story — and it is the densest stretch of publishable moments I have read in this category.",
+  "coverage": 0.944,
+  "usage": {
+    "prompt_tokens": 28219,
+    "completion_tokens": 17563,
+    "total_tokens": 45782,
+    "cost": 0.01300667,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 64,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.01300667,
+      "upstream_inference_prompt_cost": 0.00422517,
+      "upstream_inference_completions_cost": 0.0087815
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 13544,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 13544
+  },
+  "error": null,
+  "seconds": 340.3,
+  "coverage_note": null,
+  "reasoning": "This is Les Brown's famous \"It's not over until you win\" speech. I need to find the moments that hit.\n\nKey candidates:\n\n1. **The \"It's not over until I win\" Connect Four story** (L0090–L0103). The most-marked moment (L0092, 69+ likes, 29 comments). The build: beating his son ten straight games, \"I'm bored, I don't want to play you anymore, I'm ready to go to sleep now — repeat after me: it's not over until I win,\" the kid wins game 11, \"I'm ready to go to sleep now\" — the mirror. Then the application: \"what if all of us took that attitude after we face a rejection...\" and \"you've lost again and again and again, the lights are cut off, but you're still looking at your dream... it's not over until I win.\" That last part (L0100–L0103) is the quote at 11:39 with 952 likes — the biggest comment in the video. The full story L0090–L0103 runs: 9.9+11.8+11.0+4.9+5.8+1.5+2.2+1.8+5.5+11.1+9.1+9.9+11.5+1.2 ≈ 97s. That's long but the story detonates. Actually I could split: the story itself (L0090–L0099, ~66s) and the application (L0100–L0103, ~32s). The quote comment (952 likes) points at L0101–L0103. Per instructions: return both parts and possibly the pair. L0090 starts \"the next step is that is you / that no one can do it for you but you...\" — that's a decent opening too. Hmm, actually the story needs to start at L0092 \"you must understand that i remember i was playing a game...\" The L0090–L0091 lines \"no one can do it for you but you... it goes with the territory\" are also a standalone landing. Options:\n   - Clip A: L0090–L0091 (no one can do it for you but you, it goes with the territory) — short, ~22s. Actually L0090 starts \"integrity and determination... the next step is that is you that no one can do it for you but you...\" starts mid-list. Better start at L0091: \"that is you that no one can do it for you but you and even though you face disappointments even though you will experience some setbacks it goes with the territory\" — 11.8s standalone. Good one-liner clip.\n   - Clip B: L0092–L0103 full story + application (~97s). Long but story detonates; a later pass can trim. Or L0092–L0100... The payoff mirror lands at L0099 (john leslie won, \"i'm ready to go to sleep now\"). Then L0100–L0103 is the application with the quote. Per back-to-back rule: return story (L0092–L0099, ~62s) and application+quote (L0100–L0103, ~32s), and maybe the pair? The pair is ~97s, over a minute, so probably skip the combined. Actually \"under about a minute\" — 97s is over. Return two separately.\n   \n   The application clip L0100–L0103: \"and i'm saying to you what if all of us took that attitude after we face a rejection and a no or we have a meeting and no one shows up or somebody say you can count on me and they don't come through what if we have that kind of attitude... you've lost again and again and again the lights are cut off but you're still looking at your dream reviewing it every day and say to yourself it's not over until i win.\" ~32s. That's the 952-like quote. \n\n2. **Mr. Washington: \"someone's opinion of you does not have to become your reality\"** (L0031–L0037). The teacher story. \"i'm educable mentally\" / \"don't ever say that again someone's opinion of you does not have to become your reality.\" Massive comment at L0035 (14 likes). Runs L0031–L0037: 5.9+5.7+7.0+9.7+9.0+1.3+1.2 ≈ 40s. Opens \"i don't have any college training but i met a high school teacher who one day changed my life\" — decent hook. This is one of the most quoted Les Brown lines ever. HIGH.\n\n3. **\"It's hard\" / sleeping in the office story** (L0120–L0140). \"it's hard, it's not easy, it's hard changing your life.\" The Penobscot building story — sleeping in his office, the envelope, \"this is an office tower it's not a hotel please do not sleep in your office,\" \"there's a guy talking about becoming successful and look at him... he's bathing in the bathroom.\" Comment at L0120 \"It's hard\" and L0137 \"best line\". This is the humiliation-named + persistence. Full run L0120–L0146 is very long (~2 min). Could return L0120–L0127 as the \"it's hard\" opening + envelope punchline (~46s)? Or extend to L0133 (people laughing). Hmm. The landing of the story... \"and i said excuse me sir i said i just worked long hours... things are bad for me but they're not going to be this way always\" (L0128–L0129) — that's a strong line. I'd take L0121–L0131: \"it's hard... it's hard changing your life\" through \"i'm not trying to make this my home.\" That's ~44s. Or include L0132–L0133 (the laughter, humiliation named). The whole thing L0121–L0146 ≈ 44+... let me add: L0121 1.4, L0122 5.5, L0123 6.8, L0124 10.8, L0125 7.9, L0126 11.1, L0127 3.7, L0128 6.6, L0129 5.4, L0130 pause 1.7, L0131 7.0, L0132 6.8, L0133 10.7, L0134 4.2, L0135 6.2, L0136 7.8, L0137 6.3, L0138 7.0, L0139 2.4, L0140 1.8, L0141 5.8, L0142 5.7, L0143 7.6, L0144 7.7, L0145 14.3, L0146 1.2 ≈ 155s. Too long as one. Split:\n   - Clip: L0121–L0133 \"it's hard changing your life\" + office story + \"look at him he's bathing in the bathroom\" (~100s). Still long. Hmm.\n   - Alternative: L0141–L0146: \"here's what i want to say to you for those of you that have experienced some hardships don't give up on your dream... it's a long shot from liberty city an abandoned building... but i kept running toward my dreams\" (~64s), then \"don't stop / don't stop / don't stop running towards your dream\" (L0148–L0152, ~7s with pauses). L0141–L0152 ≈ 80s. That's a strong emotional build with applause-pauses.\n   \n   Maybe return L0121–L0133 (it's hard + the envelope story, ~100s) — long, but the editor pass can trim. Or the tighter version: L0121–L0129 ends on \"things are bad for me but they're not going to be this way always\" — a clean landing, ~57s. I like that. End words \"they're not going to be this way always\" — actually that's a great payoff. Let me count: 1.4+5.5+6.8+10.8+7.9+11.1+3.7+6.6+5.4 = 59.2s. Good.\n\n4. **\"Character building day\"** (L0154–L0157): \"there are moments when you're going to doubt yourself... they have not come to stay they have come to pass... don't say i'm having a bad day say i'm having a character building day.\" ~22s. Quoted in the audience block (\"I'm not having a bad day. I'm having a character building day\" 379 likes). Should probably start at L0155 or L0156. L0154 \"it's very important as you hold on to that dream\" → L0155 \"there are moments when you're going to doubt yourself\" → L0156 \"their rough times are going to come but they have not come to stay they have come to pass\" → L0157 \"don't say i'm having a bad day say i'm having a character building day.\" Start L0155. Total: 6.3+7.4+4.0... wait L0155 is 6.3? L0155 6.3s, L0156 6.3? Let me recheck: L0154 4.5, L0155 4.0? The transcript: \"L0155 4.0s dream there are moments when you're going to doubt yourself\" — actually looking: L0154 4.5s \"it's very important as you hold on to that\", L0155 4.0s \"dream there are moments when you're going to doubt yourself\", L0156 6.3s \"their rough times are going to come but they have not come to stay they have come to pass it's\", L0157 7.4s \"very important for you to know that don't say i'm having a bad day say i'm having a character building day\". So L0155–L0157 ≈ 17.7s. \n\n5. **\"I'm the one\" Mr. Washington parking lot story** (L0170–L0189). The graduation speech, \"you have greatness within you... the world will never be the same again because you came this way,\" then Leslie catches him: \"i got these big dreams... i want to buy my mama home could i do that\" / \"it's possible mr brown\" / \"mr washington...\" / \"i'm the one sir... i'm the one.\" That's devastating and has comments (L0184 \"everytime with tears in my eyes\", L0196 32 likes for the phone call). The payoff \"i'm the one\" lands L0183–L0189. Start: L0160 \"it's very important for you to believe that you are the one to make this happen i remember this high school teacher mr leroy washington\" — good frame. Full run L0160–L0189 ≈ 2.7+5.7+2.6+2.5+7.4+6.2+8.2+11.4+10.2+11.2+8.8+9.0+6.7+9.8+11.2+3.0+9.8+10.3+2.6+6.4+1.7+1.9+6.5+1.6+1.4+1.2 ≈ 161s. Too long as one; split:\n   - Clip: L0170–L0183ish: the speech to seniors + parking lot + \"i'm the one\" (~90s). Still long.\n   - Or just the parking-lot exchange L0175–L0189: \"and the students gave him a rousing standing ovation and as he left the auditorium i ran down the steps...\" through \"i'm the one.\" ≈ 11.2+3.0+9.8+10.3+2.6+6.4+1.7+1.9+6.5+1.6+1.4+1.2 = 57.6s. But it references the speech content (\"the speech he was giving... for me\") — needs L0170–L0173? The parking lot starts fine: \"i ran down the steps and i caught him in the parking lot i said mr washington he said yes i said do you remember me sir he said no...\" then \"i got these big dreams... i dream of buying my mama home could i do that mr washington he said it's possible mr brown... i'm the one sir.\" Actually that stands alone well without the auditorium speech — a boy asks his teacher \"can I do that,\" teacher says \"it's possible,\" boy insists \"I'm the one.\" It works. But \"you have greatness within you\" setup makes \"i'm the one\" richer. Hmm — I'll return L0170–L0189 (~106s)? Too long. Let me do L0175–L0189 as the clip (~58s), and note it. Actually there's also the phone call payoff L0194–L0199: \"you were the one weren't you... you were so crazy... i know but i'm rich.\" That's a separate clip! \"i know but i'm rich\" — funny, triumphant. L0194–L0199: 14.1+8.1+2.5+1.2+6.9+1.2 ≈ 34s. \"i remember when pbs first played one of my specials... he watched the program he called me in detroit... he said you were the one weren't you i said yes sir he said and you were so crazy i said i know but i'm rich.\" That's a great standalone with a laugh and a landing. Return it.\n\n6. **\"Write down five reasons / be unreasonable\"** (L0206–L0216): \"write down at least five reasons on why you deserve your dream and why you won't give up... why you must be unreasonable because logical practical thinking says you can't do it today but if you want to produce unreasonable results... you've got to be an unreasonable person.\" Then Nietzsche \"if you know the why for doing you can endure almost any how\" and \"if life knocks you down try and land on your back because if you can look up you can get up.\" The \"be unreasonable\" reframe is a real reframe (L0208–L0212, ~21s). And \"land on your back... if you can look up you can get up\" (L0216–L0217, ~11s) is a famous quotable one-liner. Return:\n   - L0208–L0211: \"write down at least five reasons... why you must be unreasonable because logical practical thinking says you can't do it today but if you want to produce unreasonable results in your life like living your dream taking charge of your destiny you've got to be an unreasonable person\" — start L0208 \"write down at least five reasons\" (4.2+6.7+7.9+10.0+1.2 ≈ 30s). Good — instruction + reframe.\n   - L0216–L0217: \"let your reasons get you back up... if life knocks you down try and land on your back because if you can look up you can get up\" — actually the full sentence starts \"i got a saying on one of my tapes if life knocks you down try and land on your back because if you can look up you can get up let your reasons get you back up\" ≈ 11.6s (within L0216 7.0 + L0217 8.3). Start at L0216 mid-line — start_words \"i got a saying on one of my tapes\". That works since a line can be cut mid-way by the second pass. ~15s clip. Famous quote. Return.\n\n7. **\"No matter how bad it is or how bad it gets, I'm going to make it\"** (L0236–L0244): \"you just feel within yourself some way somehow with the help of god i'm going to make it happen repeat after me please no matter how bad it is or how bad it gets i'm going to make it i'm going to make it.\" ~15s. The call-and-response. Could start L0234 \"and ladies and gentlemen my mother had a dream of having children and raising us she didn't know how she's going to do it you're going to be just like that\" — the adoptive-mother-dream bridge. L0234–L0244 ≈ 6.9+10.2+12.6+1.5+2.2+1.4+2.7+2.6+3.8+3.2+1.2 = 48s. Or tighter L0236–L0241. The landing is \"i'm going to make it\" repeated. I'll take L0234–L0244: mother's dream → your dream → the vow. Good.\n\n8. **The opening**: \"i do not believe that any of us have dreams that were not given to us for the purpose of accomplishing those particular dreams\" (L0005–L0008, ~15s) and \"that dream that you're holding in your mind that it's possible\" (L0011–L0014). These are strong but this speech is the canonical \"it's possible\" — heavily reused. The \"dreams given to us for the purpose of accomplishing them\" reframe is actually fresh. L0005–L0008 ≈ 15.1s. Hmm, is it a clip? \"I do not believe that any of us have dreams that were not given to us for the purpose of accomplishing those particular dreams\" — a reframe of what a dream IS. It's good but maybe less than the others. I'll include as a medium candidate? The audience block quotes \"That dream that you're holding in your mind, THAT'S POSSIBLE!\" (70 likes). L0011–L0014: 6.6+8.2+5.0+3.0+1.4 ≈ 24s. \"i don't know what that dream is that you have i don't care how far fetched it might appear to be i don't care how disappointing it might have been as you've been working toward that dream but here's what i know that that dream that you're holding in your mind that it's possible.\" That's a solid clip, very shareable. Return it.\n\nAlso **L0065–L0068**: \"it's necessary to know that everybody won't see it that everybody won't join you that everybody won't have the vision... i can do this even if no one else sees it for me i must see it for myself.\" ~26s. Loneliness-as-strength adjacent. Decent. Maybe include.\n\nAlso L0249–L0250: \"you've got to take personal responsibility... it's hard but you've got to say i'm the one i'm the one to make this happen\" — covered by the i'm-the-one theme.\n\nAlso the closing poem L0262–L0268: \"if you want a thing bad enough to go out and fight for it to work day and night for it to give up your time your peace and your sleep for it...\" — that's the famous \"As I Grow Older\"-adjacent poem (actually from \"The Law of the Garbage Truck\"? No — it's an adaptation of \"Wanted\" from... it's a classic poem). Comments at L0262, L0267. Rhythm carries it. ~50s. It's rhythmic and builds to \"you'll get it.\" Category: poetic. Return? It runs L0262–L0268: 6.2+8.3+7.6+8.9+6.9+11.6+7.7+8.8 ≈ 66s. Long-ish but poetic build. Include with MEDIUM confidence. Hmm, the ending \"this is mrs amy brown's baby boy leslie calvin brown saying it's been a plum pleasing pleasure...\" is the outro — would need to end at \"you'll get it\" (L0267 end: \"with the help of god you'll get it\"). So L0262–L0267 ≈ 57s. That works as a poetic clip.\n\nHow many clips total? Let me pick the strongest and not bloat:\n\n1. Mr. Washington \"someone's opinion of you does not have to become your reality\" (L0031–L0037) — HIGH.\n2. Connect Four story (L0092–L0099) — HIGH.\n3. \"Lost again and again... it's not over until I win\" application (L0100–L0103) — HIGH, 952-like comment.\n4. \"It's hard\" + sleeping in office (L0121–L0129) — HIGH.\n5. \"Character building day\" (L0155–L0157) — HIGH-ish, short.\n6. \"I'm the one\" parking lot (L0170–L0189 or L0175–L0189) — HIGH. I'll take L0170–L0189 — includes \"you have greatness within you\" and the world-will-never-be-the-same build. 106s is long... The instructions say return it and say so if long. But I could also trim to L0175–L0189 (~58s). The \"greatness within you\" speech content duplicates L0171–L0173 which also appears at L0026. I'll go L0175–L0189 for tightness? But \"i'm the one\" hits harder if we heard the speech. Hmm — the story needs the setup of the report card failure for full weight (\"i was feeling within myself that i was a failure\"). That starts L0160. Honestly the emotional arc: failed report card → feeling like a failure → sneaks into the speech → runs to catch him → \"i got these big dreams... could i do that\" → \"it's possible mr brown\" → \"i'm the one sir.\" L0160–L0189. I'll return the full thing and flag length. Actually instructions: \"length is never grounds for discarding a moment. If the only thing wrong with a passage is that it runs long, return it and say so.\" OK, L0160–L0189.\n7. PBS phone call \"i know but i'm rich\" (L0194–L0199) — MEDIUM/HIGH. It's a payoff of \"i'm the one\" but stands alone: \"i remember when pbs first played one of my specials... you were the one weren't you... i know but i'm rich.\"\n8. \"Be unreasonable\" (L0208–L0212) — MEDIUM/HIGH.\n9. \"Land on your back\" (L0216–L0217) — one-liner, HIGH.\n10. \"No matter how bad it is\" (L0234–L0244) — HIGH.\n11. \"That dream you're holding in your mind, it's possible\" (L0011–L0014) — good opener.\n12. Closing poem (L0262–L0267) — MEDIUM.\n\nThat's 12 — a lot, but this video is a dense best-of speech and the instructions warn against under-returning and against \"covered by\" reasoning. Each is a separate landing. I'll trim the weakest: maybe drop L0011–L0014 (generic-ish? \"that dream you're holding in your mind it's possible\" — it's the most-quoted Les Brown line, audience block quotes it; keep). Drop the poem? It has comments and is a real category. Keep with MEDIUM. Maybe drop L0090–L0091 standalone (I decided not to include it separately — the story covers it). Fine.\n\nRanking: \n1. Connect Four story + payoff? Or the quote clip? The most-marked is L0092 (69+ likes, 29 comments). I'd rank the Mr. Washington \"opinion/reality\" clip #1 or the Connect Four #1. The Connect Four is \"this is what you came for.\" Rank: 1) Connect Four story, 2) \"it's not over until I win\" application, 3) Mr. Washington opinion/reality, 4) i'm the one, 5) it's hard/office, 6) no matter how bad, 7) character building day, 8) land on your back, 9) be unreasonable, 10) i know but i'm rich, 11) it's possible dream, 12) poem.\n\nStart/end words — copy exactly.\n\nClip 1: L0092–L0099. start_words \"you must understand that i remember i was playing a game\" end_words \"i'm ready to go to sleep now and\". Hmm L0099 ends \"...after the 11th game john leslie won and he got up and he yawned and he\" — wait L0099: \"win that was his attitude we sat down and we played several other games and finally after the 11th game john leslie won and he got up and he yawned and he\" (11.1s), L0100: \"(fast) said i'm ready to go to sleep now and i'm saying to you what if all of us took that attitude...\" So the mirror payoff \"i'm ready to go to sleep now\" is split across L0099/L0100. The story's clean ending is mid-L0100. Options: end clip 1 at L0099 (ends \"he yawned and he\" — bad cut) or extend to include L0100 — but L0100 runs into the application. Hmm. Better: make clip 1 = L0092–L0100 ending at \"i'm ready to go to sleep now\"? Mid-line cut; the second pass handles exact words. end_words could be \"said i'm ready to go to sleep now\". Then clip 2 = L0100–L0103 for the application? But L0100 contains the story's ending. Overlap is fine per instructions. Actually simpler: return the whole thing as one clip L0092–L0103 (~97s) AND... no — instructions say split back-to-back landings into parts AND the pair if under a minute; the pair is 97s so parts only. But the split point is messy mid-L0100. I'll do:\n- Clip A: L0092–L0100, end_words \"said i'm ready to go to sleep now\" (the story with the mirror payoff). ~72s.\n- Clip B: L0100–L0103, start_words \"said i'm ready to go to sleep now and i'm saying to you\" — starts with the story payoff then the application, ends \"it's not over until i win\". ~32s. Actually for clip B, better start: \"what if all of us took that attitude after we face a rejection\" — mid-L0100. start_words \"after we face a rejection and a no\". Hmm, second pass cuts on precise words; giving start_words mid-line is fine. I'll give start_words \"what if all of us took that attitude\".\n\nClip 2 (opinion/reality): L0031–L0037. start \"i don't have any college training but i met a high school teacher\", end \"reality\". \n\nClip i'm-the-one: L0160–L0189. end_words \"one\" (L0189 \"one\" 1.2s). start \"it's very important for you to believe that you are the one to make this happen\".\n\nWait, L0189 is \"one\" — L0183 \"i'm the one sir\", L0184 \"i said i'm the one you you remember me sir i'm this maybe brown's boy\", L0185 \"i'm the wife\" (transcription garble of \"Mama Wide\"? Actually \"i'm the twin\"... probably \"i'm Mama Wide's boy\"? likely \"i'm Miz Wright's boy\" or similar), L0187 \"i'm the\", L0189 \"one\". The repeated \"i'm the... one\" with pauses is the performance. End at L0189 \"one\". Good.\n\nClip it's-hard: L0121–L0129. start \"hard it's not easy it's hard changing your life\" (L0122; L0121 is \"that it's\" 1.4s — include L0121? \"i want to share with you that some of you already know that it's hard\" — starting at L0121 \"that it's\" is awkward. Start L0122.) start_words \"hard it's not easy it's hard changing your life\", end_words \"but they're not going to be this way always\".\n\nClip no-matter-how-bad: L0234–L0244. start \"and ladies and gentlemen my mother had a dream of having children\", end \"stuff\" (L0244 \"stuff\" — \"you got the right stuff\"). End at L0241 \"i'm going to make it\" might be cleaner: end_words \"i'm going to make it\". L0240 \"i'm going to make it\" 2.7, L0241 \"i'm going to make it\" 2.6. End L0241.\n\nCharacter building: L0155–L0157. start \"dream there are moments when you're going to doubt yourself\", end \"say i'm having a character building day\".\n\nLand on your back: L0216–L0217. start_words \"your reasons will be your rod and staff to comfort you\" — hmm, better start mid-L0216 at \"i got a saying on one of my tapes\". start_words \"i got a saying on one of my tapes if life knocks you down\", end \"let your reasons get you back up\". \n\nBe unreasonable: L0208–L0212. start \"write down at least five reasons\", end \"you've got to be an uncommon person\". L0211 ends \"you've got to be an unreasonable\" and L0212 \"person\". end_words \"person\".\n\nPBS call: L0194–L0199. start \"because you are the one and i remember when pbs first played one of my specials\", end \"now\" (L0199 \"now\" — \"i know but i'm rich... now\"). L0197: \"i said oh mr washington it's you he said you were the one weren't you i said yes sir he said and you were so crazy i said i know but i'm rich\", L0199 \"now\". End L0197 at \"i know but i'm rich\"? The \"now\" completes. End at L0197, end_words \"i know but i'm rich\".\n\nIt's possible: L0011–L0014. start \"i don't know what that dream is that you have i don't care how far fetched\", end \"it's possible\".\n\nPoem: L0262–L0267. start \"of you it's something that i'm known by it's on our tapes called choosing your future that says simply this that if you want a thing bad\" — L0262 start_words: \"of you it's something that i'm known by\". Hmm awkward. Maybe start L0263 \"enough to go out and fight for it\" — no, mid-sentence. L0262 is fine: \"if you want a thing bad enough\" is within L0262. start_words \"that says simply this that if you want a thing bad\". End L0267 end_words \"you'll get it\".\n\nAlso L0105–L0115 the call-and-response recap (\"it's possible / i can live my dream / it's necessary / i work on myself / surround myself with winners / become creative / it's me i've got to make it happen / it's not over until i win\") — that's a chant; skip, covered by other clips thematically... no wait, can't use \"covered by\". Does it stand alone? It's a recap chant of everything — \"repeat after me: it's possible, i can live my dream, it's necessary, i work on myself, surround myself with winners, become creative, it's me i've got to make it happen, it's not over until i win.\" Actually that's a nice 20s affirmations clip. Hmm. It's a list/recap — not a fresh landing. Put in near_misses? I could just skip silently in skipped ranges. I'll put it in near_misses: \"a recap chant of lines that each land better in their own moment; as a list it reads like a summary, not a hit.\"  Wait — that's comparison-ish but it names a fault inside the passage (it's a list with no new landing). OK.\n\nAlso L0117–L0119 goals/planning — dead advice. L0058–L0068 necessary/work-on-yourself — partially generic; the \"everybody won't see it / i must see it for myself\" (L0065–L0068) is decent. Should I include it? It's a real loneliness-adjacent landing: \"it's necessary to know that everybody won't see it that everybody won't join you... you have to know within yourself that i can do this even if no one else sees it for me i must see it for myself.\" ~22s. I believe it lands. Include? I already have 12. That's a lot but each is real. Hmm — 13 clips for a 30-min classic speech is defensible; this video is wall-to wall hits. But quality control: is \"everybody won't see it\" fresh? It's fairly common motivational fare. I'll add it as MEDIUM. Actually let me count what I have: 12 + this = 13. That may be too scattered. Let me prune to the ones I genuinely believe: drop the poem (MEDIUM, rhythm but long and it's a borrowed poem), drop \"it's possible\" opening? No — that's the signature. \n\nFinal list (ranked):\n1. Connect Four story L0092–L0100\n2. \"It's not over until I win\" application L0100–L0103\n3. \"Someone's opinion of you does not have to become your reality\" L0031–L0037\n4. \"I'm the one\" L0160–L0189\n5. \"It's hard changing your life\" office story L0121–L0129\n6. \"No matter how bad it is\" L0234–L0241\n7. \"Character building day\" L0155–L0157\n8. \"If life knocks you down, land on your back\" L0216–L0217\n9. PBS call \"I know but I'm rich\" L0194–L0197\n10. \"Be unreasonable\" L0208–L0212\n11. \"That dream you're holding in your mind, it's possible\" L0011–L0014\n12. \"Everybody won't see it / I must see it for myself\" L0065–L0068\n13. Poem L0262–L0267\n\nHmm, 13. Trim to those I'd fight for: keep all except maybe #12 and #13. \"Everybody won't see it\" — I do think it lands on the lonely 2am viewer. Keep. Poem — it's a genuine category (rhythm carries it) with comments. Keep with MEDIUM, flagging the borrowed-poem length. OK, 13 clips.\n\nWait — clip 9 (PBS) and clip 4 (i'm the one) share the Mr. Washington thread; both stand alone. Fine.\n\nHook strengths: \n1. Connect Four: opens \"you must understand that i remember i was playing a game with my nine-year-old son\" — mid, hook ~6? A stranger hears \"i beat my nine-year-old son ten straight games at connect four\" — curiosity decent, 6.\n2. Application: \"what if all of us took that attitude after we face a rejection\" — needs \"that attitude\" antecedent → not fully self-contained. Hmm. self_contained false? \"that attitude\" refers to the story. But editors can lift a hook from inside (\"you've lost again and again and again, the lights are cut off, but you're still looking at your dream\"). Set self_contained false with note. Hook 7.\n3. Opinion/reality: opens \"i don't have any college training but i met a high school teacher who one day changed my life\" — good hook, 7.\n4. I'm the one: opens \"it's very important for you to believe that you are the one to make this happen\" — decent, 6.\n5. It's hard: \"it's hard it's not easy it's hard changing your life\" — strong, 8.\n6. No matter how bad: opens \"my mother had a dream of having children\" — 6.\n7. Character building: \"there are moments when you're going to doubt yourself\" — 6.\n8. Land on back: \"i got a saying on one of my tapes\" — weak opening, 4, but the line is the hook anyway.\n9. I know but i'm rich: \"i remember when pbs first played one of my specials\" — 5.\n10. Be unreasonable: \"write down at least five reasons\" — 5.\n11. It's possible: \"i don't know what that dream is that you have i don't care how far fetched it might appear\" — 7.\n12. Everybody won't see it: \"it's necessary to know that everybody won't see it\" — 7.\n13. Poem: 5.\n\nskipped ranges: L0001–L0010 cold open/dream setup (actually L0005–L0008 not selected — put in skipped \"opening dream framing, not selected\"), L0016–L0030 dream/risk/biography setup, L0039–L0060 fear/comfort/worthiness + résumé of achievements, L0069–L0089 shoeshine story & customer-service advice (business-flavored, aimed at the convention audience — near miss? The shoeshine story is charming but it's business advice \"be creative with your customers\" — expertise aimed at someone else / sales pitch context. Put in skipped or near_misses. I'll near_miss it: \"shoeshine creativity anecdote is a sales-craft story aimed at the distributor audience, not the 2am viewer\"). L0090–L0091 — part of clip 1 region; skip note fine. L0105–L0116 recap chant near_miss. L0117–L0120 goals/planning. L0132–L0146 continuation of hard-times + long shot (I cut clip at L0129; L0130–L0152 contains \"things are bad but not always\"... I ended clip 5 at L0129. L0132–L0146 \"they would laugh... it was hard... don't stop don't stop don't stop running towards your dream\" — actually \"don't stop\" repeated with long pauses is a moment. Should I include L0141–L0152? \"for those of you that have experienced some hardships don't give up on your dream... it's a long shot from liberty city... but i kept running toward my dreams — don't stop. don't stop. don't stop running towards your dream.\" That's powerful with the pauses. Hmm, add as clip 14? The \"it's a long shot\" litany recaps biography (abandoned building, liberty city, educable mentally) — a stranger understands it. ~80s with the don't-stops. I think it's real. Add it, rank mid. L0141–L0152: 5.8+5.7+7.6+7.7+14.3+1.2 +5.1+1.4+5.6+1.9+13.0+3.1+5.7 ≈ 78s. Include.\n\nAlso L0214–L0215 Nietzsche \"if you know the why you can endure almost any how\" — part of the be-unreasonable stretch; I could extend clip 10 to L0215? It starts \"my first major goal was to buy my mother a home... what will reasons do... if you know the why for doing you can endure almost any anyhow.\" The Nietzsche line is famous. But \"less nietzsche said\" garbled. Leave it; land-on-back clip captures the reasons theme.\n\nL0219–L0233 mother's home story (touching, emotional-finder territory mostly, and the adoption story) — skipped note: \"buying his mother her home + birth mother's adoption story — moving but lands as emotion without a turn for the viewer\" — actually L0234 turns it (\"you're going to be just like that\"). My clip 6 starts at L0234, good.\n\nL0242–L0261 closing recap/handshakes — skipped.\n\nNow near_misses (must name internal faults, no comparisons):\n- L0069–L0080 shoeshine: \"a charming sales-craft anecdote about amazing customers; the lesson is business technique aimed at the convention audience, with no identity shift for the viewer.\"\n- L0105–L0115 chant: \"a recap chant of affirmations already delivered; as a list it summarises rather than lands.\"\n- L0117–L0120: \"goal-writing walkthrough is correct and administrative; changes nothing about who the viewer is.\"\n- L0213–L0215: Nietzsche reasons — hmm, skip listing.\n- L0005–L0008 \"dreams given to us for the purpose of accomplishing them\": actually reconsider — is this a clip? \"i do not believe that any of us have dreams that were not given to us for the purpose of accomplishing those particular dreams.\" It's a reframe: your dream is evidence it's meant for you. That's a real permission/reframe. 15s. Should it be in clips? It's subtle and might read as generic on paper... but it's actually the theological core. I'll put it in near_misses? No — I kind of believe it. Ugh. Decide: it requires the audience address framing (\"what i'd like for you to do right now i want you to think about your dream\") — L0005 opens \"i do not believe\" which is a strong open actually. I'll include it as a clip, LOW-MEDIUM confidence. Hmm, adding to 14 clips. That's fine for this video — it's wall-to-wall. Actually no — restraint. I genuinely am less sure about this one than the rest; the sentence is convoluted in transcription. Put in near_misses: \"the dreams-were-given-for-accomplishing reframe is real but the sentence is convoluted and needs the 'think about your dream' setup to land.\" That's honest.\n\nLet me also double check clip 2 self-containment and boundaries: L0100–L0103: \"said i'm ready to go to sleep now and i'm saying to you what if all of us took that attitude after we face a rejection and a no or we have a meeting and no one shows up or somebody say you can count on me and they don't come through what if we have that kind of attitude the cause repossessed nobody believes in you you've lost again and again and again the lights are cut off but you're still looking at your dream reviewing it every day and say to yourself it's not over until i win\" + L0103 \"win\". \"the cause repossessed\" is garbled — likely \"the car's repossessed\" — reconstruct: \"the car's repossessed, nobody believes in you, you've lost again and again and again, the lights are cut off.\" Yes! \"the car's repossessed\" — that makes sense. Great, so the passage is fully readable. self_contained: starts with \"that attitude\" — I'll start the clip words at \"what if all of us took that attitude after we face a rejection\" and note the \"that attitude\" reference; editors can hook with \"you've lost again and again and again.\" Set self_contained false.\n\nClip 1 end at L0100 mid-line \"said i'm ready to go to sleep now\" — end_words \"said i'm ready to go to sleep now\". Fine.\n\nvideo_read: Les Brown's classic \"It's not over until you win\" full speech at a convention; the material lives throughout — personal humiliation stories (EMR label, sleeping in his office), the Connect Four story, Mr. Washington thread, and the repeated call-and-response vows.\n\nSignals_used: comments at L0092 (69 likes, +25 more), L0101 (952 likes), L0035 (14 likes), L0157 region, L0184, L0196 (32 likes), audience block quote of \"character building day\" (379 likes) — that's a whole-video signal; fine to cite as audience block.\n\nWrite the JSON. Keep start_words/end_words exact copies.\n\nCheck L0155 exact text: \"dream there are moments when you're going to doubt yourself\" — start_words \"dream there are moments when you're going to doubt yourself\". Fine.\n\nL0122: \"(slow) hard it's not easy it's hard changing your life\" — start_words \"hard it's not easy it's hard changing your life\".\n\nL0234: \"and ladies and gentlemen my mother had a dream of having children\" — wait L0234: \"and ladies and gentlemen my mother had a dream of having children\" — actual: \"and ladies and gentlemen my mother had a dream of having children and raising us she didn't know how she's going to do it...\" Wait the transcript says L0234: \"i will do it and ladies and gentlemen my mother had a dream of having children\" — full line: \"and raising us she didn't know how she's going to do it you're going to be just like that...\" Let me recheck: L0234 6.9s: \"and ladies and gentlemen my mother had a dream of having children\" — hmm the printed line: \"i will do it and ladies and gentlemen my mother had a dream of having children and raising us she didn't know how she's going to do it you're going to be just like that and some of you are already there well you don't know how you're going\" — no wait that's L0235. Printed:\nL0233 7.0s \"(fast) in my arms i never had any children my own i didn't know how i was going to do it but i knew with the help of god\"\nL0234 6.9s \"i will do it and ladies and gentlemen my mother had a dream of having children\"\nL0235 10.2s \"and raising us she didn't know how she's going to do it you're going to be just like that and some of you are already there well you don't know how you're going\"\nL0236 12.6s \"to make this happen but you just feel within yourself some way somehow with the help of god i'm going to make it happen repeat after me please no matter how bad it is\"\nL0238 2.2s \"(slow) or how bad it gets\"\nL0240 2.7s \"(slow) i'm going to make it\"\nL0241 2.6s \"(slow) i'm going to make it\"\nClip: L0234–L0241 ≈ 6.9+10.2+12.6+1.5+2.2+1.4+2.7+2.6 = 40.1s. start_words \"i will do it and ladies and gentlemen my mother had a dream\". Hmm starting on \"i will do it\" (end of adoptive mother's line) — slightly awkward but the second pass trims. Actually start at L0234's \"and ladies and gentlemen my mother had a dream\" — start_words should be first few words of L0234 copied exactly: \"i will do it and ladies and gentlemen\". OK.\n\nend_words L0241: \"i'm going to make it\".\n\nL0160: \"that you are the one to make this happen i remember this high school teacher mr leroy washington\" — L0159 is \"it's very important for you to believe\" 2.7s, L0160 7.4s \"that you are the one to make this happen i remember this high school teacher mr leroy washington\". Start at L0159? L0159 has a comment. Start L0159 \"it's very important for you to believe\" — start_words \"it's very important for you to believe\". End L0189 \"one\". Length: 2.7+5.7+2.6+2.5+7.4+6.2+8.2+11.4+10.2+11.2+8.8+9.0+6.7+9.8+11.2+3.0+9.8+10.3+2.6+6.4+1.7+4.3+1.9+6.5+1.6+1.5+1.4+3.5+1.2 = ~165s. Long — flag in why.\n\nActually for rank order, the \"opinion/reality\" might deserve #1 over Connect Four? The Connect Four is the most-marked and is THE moment (\"this is what you came for\"). Keep Connect Four #1.\n\nL0011: \"i don't know what that dream is that you have i don't care how far fetched it might appear to be\". start_words \"i don't know what that dream is that you have\". End L0014 \"it's possible\". Note L0013 \"that that dream that you're holding in your mind that it's possible\" — good.\n\nL0065–L0068: start_words \"it's necessary to know that everybody won't see it\". end L0068 \"that's necessary\". Length 10.2+8.2+2.9+6.3 = 27.6s.\n\nL0141–L0152: start \"and here's what i want to say to you for those of you that have experienced some hardships\". end L0152 \"don't stop running towards your dream\".\n\nL0262: \"and as you run towards your dream i want to dedicate this to you that i love very much i want to thank dexter and all\" — L0262 6.2s. Hmm starts with thanking dexter. Better start mid-L0262 at \"it's something that i'm known by\" — or start L0263 \"of you it's something that i'm known by it's on our tapes called choosing your future that says simply this that if you want a thing bad\" — wait L0263 is \"of you it's something that i'm known by...\"? Let me recheck: \nL0262 6.2s \"(fast) and as you run towards your dream i want to dedicate this to you that i love very much i want to thank dexter and all\"\nL0263 8.3s \"of you it's something that i'm known by it's on our tapes called choosing your future that says simply this that if you want a thing bad\"\nSo start at L0263 with start_words \"of you it's something that i'm known by\" — ugly. Give start_words anyway; the second pass will cut at \"if you want a thing bad\". Or use start_words \"it's something that i'm known by\". The spec says \"first few words of L0263, copied exactly\" — it should be the first words. I'll copy \"of you it's something that i'm known by\". Fine. End L0267 \"or body and brain can keep you away from the thing that you want if dogged and grim you besiege and beset it with the help of\" — end_words \"with the help of\" — the \"god you'll get it\" is in L0268! L0267 7.7s ends \"besiege and beset it with the help of\" and L0268 8.8s \"god you'll get it this is mrs amy brown's baby boy leslie calvin brown saying it's been a plum pleasing pleasure as well as a privilege thank\". So end must be L0268, end_words \"god you'll get it\" — mid-line cut, fine. So L0263–L0268 ≈ 8.3+7.6+8.9+6.9+11.6+7.7+8.8 = 59.8s.\n\nL0216: \"(fast) your reasons will be your rod and staff to comfort you to pick you up once again i got a saying on one of my tapes if\" — start_words: first words are \"your reasons will be your rod and staff\". For the clip starting at the saying, give start_words \"your reasons will be your rod and staff to comfort you\" — hmm, that includes the rod/staff line which is fine actually (biblical comfort image, works). Actually including \"your reasons will be your rod and staff to comfort you to pick you up once again\" is fine — it connects. So clip = L0216–L0217, start_words \"your reasons will be your rod and staff\", end_words \"let your reasons get you back up\". ~15.3s.\n\nL0194: \"because you are the one and i remember when pbs first played one of my specials called you deserve one sunday afternoon in miami florida i had some friends call him to tell him to tune in\" — start at L0194, start_words \"because you are the one and i remember when pbs\". Hmm \"because you are the one\" tail of previous thought — second pass trims. End L0197 end_words \"i know but i'm rich\".\n\nL0208: \"on why you deserve your dream and why you won't give up what's going to make you unstoppable\" — wait L0208: \"write down at least five reasons\"? Check: L0207 6.5s \"while you're here and before you go back home to your respective cities and communities\", L0208 2.6s \"write down at least five reasons\", L0209 6.7s \"on why you deserve your dream and why you won't give up what's going to make you unstoppable\", L0210 7.9s \"why you must be unreasonable because logical practical thinking says you can't do it today but if you want to produce\", L0211 10.0s \"unreasonable results in your life like living your dreaming taking charge of your destiny you've got to be an unreasonable person you've got to be an uncommon\", L0212 1.2s \"person\". Start L0208 start_words \"write down at least five reasons\". End L0212 end_words \"person\". ≈ 28.4s.\n\nL0031: \"(fast) i don't have any college training but i met a high school teacher who one day changed my life i was waiting on\". start_words \"i don't have any college training but i met a high school teacher\". End L0037 \"reality\". Length 5.9+5.7+7.0+9.7+9.0+1.3+1.2 = 39.8s.\n\nL0092 start_words: \"you must understand that i remember i was playing a game\". L0100 end_words: \"said i'm ready to go to sleep now\".\n\nL0121 vs L0122 start: use L0121 \"that it's\" (1.4s) — start_words \"that it's\"? Awkward. Use L0122, start_words \"hard it's not easy it's hard changing your life\". End L0129 end_words \"but they're not going to be this way always\". Wait L0129: \"and right now things are bad for me but they're not going to be this way always\" — end_words \"they're not going to be this way always\".\n\nL0141 start_words: \"and here's what i want to say to you for those of you that have experienced some hardships\". L0141: \"and here's what i want to say to you for those of you that have experienced some hardships\" — printed: \"and here's what i want to say to you for those of you that have experienced some hardships\". Yes. End L0152 \"don't stop running towards your dream\".\n\nL0159–L0189 start_words: \"it's very important for you to believe\". end_words \"one\".\n\nL0155–L0157 end_words: \"say i'm having a character building day\".\n\nL0065 start_words \"it's necessary to know that everybody won't see it\". End L0068 end_words \"i must see it for myself that's necessary\".\n\nOK. Now near_misses with no comparisons:\n- L0005–L0008: \"the dreams-were-given-to-be-accomplished reframe is genuinely interesting but the sentence arrives convoluted in the transcript and needs the 'think about your dream' framing to land; unsure it completes for a cold stranger.\"\n- L0069–L0080 shoeshine: \"sales-craft anecdote about amazing your customers; the takeaway is business technique for the distributor audience, nothing shifts in how the viewer sees themselves.\"\n- L0105–L0115: \"call-and-response recap of affirmations; it summarises the speech rather than delivering a landing of its own.\"\n- L0117–L0119: \"goal-writing and planning walkthrough, correct and administrative, no charge.\"\n- L0214–L0215: Nietzsche why/how — hmm \"less nietzsche said if you know the why for doing you can endure almost any anyhow\" — actually that's a strong quote too. Add as clip? It sits between be-unreasonable and land-on-back. I'll add it to the be-unreasonable... no. Leave as near_miss? I think \"if you know the why you can endure almost any how\" is quotable but common. Near_miss: \"the Nietzsche why/how line is quotable but arrives garbled and folded into the mother-home story; it does not complete cleanly on its own.\" Eh — it does complete. Fine, honest near miss.\n\nskipped ranges:\n- L0001–L0010: opening address and dream framing.\n- L0016–L0030: dream/disappointment setup, biography of humble beginnings.\n- L0039–L0060: fear of failure/comfort/worthiness list plus résumé of achievements.\n- L0081–L0090: customer-service and integrity advice aimed at the convention audience.\n- L0104–L0116: chant recap region (partly near_missed).\n- L0120–L0121: (inside clip region) skip listing.\n- L0130–L0140: continuation of hard-times story beyond the office envelope landing.\n- L0153–L0154: transition.\n- L0190–L0193: pause beat.\n- L0198–L0207: \"you're the one\" repetition and setup.\n- L0218–L0233: buying his mother a home and the birth-mother adoption story.\n- L0242–L0261: closing recaps, handshakes, hunger chant.\n\nEnough.\n\nOrder ranks 1–14:\n1. L0092–L0100 Connect Four\n2. L0100–L0103 it's not over application\n3. L0031–L0037 opinion/reality\n4. L0159–L0189 i'm the one\n5. L0122–L0129 it's hard\n6. L0234–L0241 no matter how bad\n7. L0141–L0152 don't stop running\n8. L0155–L0157 character building day\n9. L0216–L0217 land on your back\n10. L0194–L0197 i know but i'm rich\n11. L0208–L0212 be unreasonable\n12. L0011–L0014 it's possible\n13. L0065–L0068 everybody won't see it\n14. L0263–L0268 the poem\n\nWrite it."
+}

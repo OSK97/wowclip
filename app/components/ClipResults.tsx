@@ -29,20 +29,27 @@ export function ClipResults({ payload }: { payload: ClipsPayload }) {
 
   const { clips, readings, dropped, video_id: videoId } = payload;
   const withAudience = clips.filter((c) => c.why_chosen?.has_audience).length;
+  const needsReview = clips.filter((c) => c.cut_status === "needs_review").length;
+  const failedReadings = Object.entries(readings).filter(([, reading]) => reading.error);
 
   if (clips.length === 0) {
     return (
       <div className="border border-[#333333] bg-[#262626] p-4">
         <p className="text-[13px] leading-relaxed text-[#c8c8c8]">
-          Nothing in this video clears the bar for the readings you ran. That is
-          a real answer rather than a failure — most of any given video is not
-          clippable.
+          {dropped?.length
+            ? "The model nominated moments, but none could be mapped to usable clips. Review the reasons below."
+            : "No candidate clips were found in the readings that completed."}
         </p>
         {Object.entries(readings).map(([name, reading]) => (
           <p key={name} className="mt-3 text-[12px] leading-relaxed text-[#8a8a8a]">
-            <span className="text-[#a8a8a8]">{name}:</span> {reading.video_read}
+            <span className="text-[#a8a8a8]">{name}:</span> {reading.error || reading.video_read}
           </p>
         ))}
+        {dropped?.length > 0 && (
+          <ul className="mt-3 space-y-1 text-[12px] text-[#c9a86a]">
+            {dropped.map((why, index) => <li key={index}>{why}</li>)}
+          </ul>
+        )}
       </div>
     );
   }
@@ -52,11 +59,17 @@ export function ClipResults({ payload }: { payload: ClipsPayload }) {
       <div className="flex flex-wrap items-baseline justify-between gap-3 border border-[#333333] bg-[#262626] p-4">
         <div>
           <p className="text-[15px] text-[#ededed]">
-            {clips.length} clip{clips.length === 1 ? "" : "s"} worth cutting
+            {clips.length} candidate clip{clips.length === 1 ? "" : "s"}
           </p>
           <p className="mt-1 text-[12px] leading-relaxed text-[#6b6b6b]">
             {withAudience > 0
               ? `${withAudience} of them sit where real viewers commented or rewound. `
+              : ""}
+            {needsReview > 0
+              ? `${needsReview} could not be cut precisely and need review. `
+              : ""}
+            {failedReadings.length > 0
+              ? `${failedReadings.length} reading(s) failed; see details below. `
               : ""}
             Ordered by how well each one stands on its own, not by how hard it
             opens.
@@ -88,11 +101,12 @@ export function ClipResults({ payload }: { payload: ClipsPayload }) {
             {Object.entries(readings).map(([name, reading]) => (
               <section key={name}>
                 <p className="text-[11px] tracking-wider text-[#6b6b6b] uppercase">
-                  {name} · read {Math.round((reading.coverage ?? 0) * 100)}% of
-                  the transcript
+                  {name} · {reading.coverage === null
+                    ? "coverage unknown after response recovery"
+                    : `read ${Math.round(reading.coverage * 100)}% of the transcript`}
                 </p>
                 <p className="mt-2 text-[13px] leading-relaxed text-[#c8c8c8]">
-                  {reading.video_read}
+                  {reading.error || reading.video_read}
                 </p>
 
                 {reading.near_misses?.length > 0 && (

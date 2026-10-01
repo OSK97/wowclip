@@ -1,0 +1,489 @@
+{
+  "meta": {
+    "video_id": "4jYmKjXI06A",
+    "video": {
+      "video_id": "4jYmKjXI06A",
+      "title": "Anand Mahindra's Class Day Keynote at The Fletcher School | Mahindra Group",
+      "channel": "Mahindra Group",
+      "duration_s": 1562.0,
+      "views": "79376"
+    },
+    "categories": [
+      "motivational"
+    ],
+    "readings": {
+      "motivational": {
+        "video_read": "Anand Mahindra's Class Day address at the Fletcher School after receiving the Dean's Medal. The first third is the Dean's introduction and ceremonial material; the motivational material lives in the second half of the speech — a story about being written off, a core purpose built to shed inherited feelings of inferiority, a taxi driver's parable about problems, and the closing 'wanderer with a purpose' definition that a viewer quoted back word for word in the comments.",
+        "coverage": 0.847,
+        "near_misses": [
+          {
+            "start_line": "L0125",
+            "end_line": "L0126",
+            "why_not": "'Cynics scoff at phrases like the power of purpose, but in my experience it works' is a claim that points forward to a story it does not contain; alone it is an assertion without the experience behind it."
+          },
+          {
+            "start_line": "L0166",
+            "end_line": "L0168",
+            "why_not": "'Never underestimate the power of purpose' restates the theme as a flat summary with no fresh angle; the conviction is only visible inside the story, not in this sentence."
+          },
+          {
+            "start_line": "L0185",
+            "end_line": "L0190",
+            "why_not": "'Why can't the next individual who brings the is closer to the ought be you?' depends on the ought/is definition given minutes earlier and reads as unfinished without it."
+          },
+          {
+            "start_line": "L0069",
+            "end_line": "L0073",
+            "why_not": "The Bill Gates joke and 'my finest hour' redemption is charming and about the speaker's own moment; it hands the viewer no belief or instruction to carry."
+          }
+        ],
+        "skipped": [
+          {
+            "from_line": "L0001",
+            "to_line": "L0033",
+            "what": "Dean's introduction, Mahindra's résumé, and the medal presentation — ceremonial, no usable moment"
+          },
+          {
+            "from_line": "L0034",
+            "to_line": "L0068",
+            "what": "Greetings, the father and Uncle Fred nostalgia, friendship and tractor anecdote — warm reminiscence, not motivation"
+          },
+          {
+            "from_line": "L0083",
+            "to_line": "L0109",
+            "what": "The world of 1946 and a long metaverse/technology commentary — dry observation with no charge"
+          },
+          {
+            "from_line": "L0126",
+            "to_line": "L0138",
+            "what": "Founding history of Mahindra & Mahindra and 1945 advertisement — background for the later clips"
+          },
+          {
+            "from_line": "L0158",
+            "to_line": "L0165",
+            "what": "The 'rise' credo and corporate purpose evolution — internal company narrative"
+          },
+          {
+            "from_line": "L0168",
+            "to_line": "L0171",
+            "what": "'Take small steps to change the world around you' — generic advice with no fresh angle"
+          }
+        ]
+      }
+    },
+    "dropped_in_select": [],
+    "lost_in_cutting": [],
+    "timings": {
+      "comments": 10.37,
+      "payload": 0.38,
+      "finders": 169.29,
+      "merge": 0.0,
+      "cut": 58.06
+    },
+    "costs": {
+      "llm_inr": 1.5056,
+      "youtube_api_units": 1,
+      "total_inr": 1.5056,
+      "by_step": {
+        "comments": 0.0413,
+        "finders": 0.7056,
+        "finder:motivational": 0.7056,
+        "cut": 0.7587
+      },
+      "tokens_by_step": {
+        "comments": {
+          "prompt": 0,
+          "completion": 0,
+          "reasoning": 0,
+          "calls": 1
+        },
+        "finders": {
+          "prompt": 25079,
+          "completion": 7176,
+          "reasoning": 5260,
+          "calls": 1
+        },
+        "cut": {
+          "prompt": 33785,
+          "completion": 5673,
+          "reasoning": 4304,
+          "calls": 5
+        }
+      }
+    },
+    "seconds": 238.23
+  },
+  "clips": [
+    {
+      "title": "You would still choose your own problems",
+      "description": "A panicked father rushes his injured baby to surgery by taxi, and the driver quietly offers him the laundry parable — 'you would still choose your own problems' — then reassures him he'll get there in time. The parable reframes the viewer's own private burden as bearable, and the closing line about the resilience that carried his whole career makes the comfort earned.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start forward inside L0172 to the clean sentence 'let me share with you one more personal story', dropping the mid-sentence empathy fragment and the throat-clearing 'So'; kept the proposed end on the payoff line, which completes the thought.",
+      "segments": [
+        {
+          "start_s": 1317.56,
+          "end_s": 1398.36,
+          "duration_s": 80.8,
+          "start_words": "let me share with you one more personal story",
+          "end_words": "to deal with the roller coaster ride of business fortunes",
+          "start_line": "L0172",
+          "end_line": "L0184",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "let me share with you one more personal story. Decades ago, we were in a taxi rushing to get my then 1-year-old daughter to surgery for a hand injury that she had suffered. And my wife and I were beside ourselves with anxiety. My daughter was throwing a tantrum, and the taxi driver clearly picked up on our anxious, intense state. \"May I share an old saying with you?\" he quietly asked us. And he said, \"If everyone's problems were like laundry hanging out to dry in an open field, and you had the opportunity to go out into that field and exchange your laundry, your problems in other words, with anyone else's, you would still choose your own problems.\" And he paused, and he just said quietly, \"Don't worry, I'll get you there safe and sound and in time.\" And at that moment, it was precisely the perspective that I needed. The surgery was a success, and to this day, I look gratefully to that cab driver's wise act of comfort. A man who has no idea that he provided me with a view and a resilience that has helped me throughout my career to deal with the roller coaster ride of business fortunes.",
+          "source_start_s": 1317.56,
+          "source_end_s": 1398.36
+        }
+      ],
+      "start_s": 1317.56,
+      "end_s": 1398.36,
+      "duration_s": 80.8,
+      "transcript": "let me share with you one more personal story. Decades ago, we were in a taxi rushing to get my then 1-year-old daughter to surgery for a hand injury that she had suffered. And my wife and I were beside ourselves with anxiety. My daughter was throwing a tantrum, and the taxi driver clearly picked up on our anxious, intense state. \"May I share an old saying with you?\" he quietly asked us. And he said, \"If everyone's problems were like laundry hanging out to dry in an open field, and you had the opportunity to go out into that field and exchange your laundry, your problems in other words, with anyone else's, you would still choose your own problems.\" And he paused, and he just said quietly, \"Don't worry, I'll get you there safe and sound and in time.\" And at that moment, it was precisely the perspective that I needed. The surgery was a success, and to this day, I look gratefully to that cab driver's wise act of comfort. A man who has no idea that he provided me with a view and a resilience that has helped me throughout my career to deal with the roller coaster ride of business fortunes.",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot1",
+          "title": "You would still choose your own problems",
+          "why": "A story that detonates: a panicked father in a taxi with his injured daughter, and the driver quietly hands him the laundry parable — 'you would still choose your own problems' — then 'Don't worry, I'll get you there safe and sound and in time.' It reframes the viewer's own private burden as bearable, even chosen, and the payoff (resilience that lasted his whole career) makes the comfort earned instead of empty. Multiple REPLAYED peaks sit inside this exact run — viewers rewound to it. Runs long at ~82s; the edges can be narrowed to the saying itself (L0175 onward), but the sick-child setup is what makes the words land.",
+          "confidence": "HIGH",
+          "hook_strength": 6.0,
+          "signals_used": [
+            "[REPLAYED] on L0174",
+            "[REPLAYED] on L0176",
+            "[REPLAYED] on L0179",
+            "[REPLAYED] on L0182"
+          ],
+          "start_line": "L0172",
+          "end_line": "L0184"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 1317.56,
+      "source_end_s": 1398.36,
+      "evidence": [
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)"
+          ],
+          "text": "delivery shifts here: (fast)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4jYmKjXI06A&t=1317s",
+      "embed_url": "https://www.youtube.com/embed/4jYmKjXI06A?start=1317&end=1399",
+      "rank": 1,
+      "id": "clip1",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast)"
+          }
+        ],
+        "reading": "A story that detonates: a panicked father in a taxi with his injured daughter, and the driver quietly hands him the laundry parable — 'you would still choose your own problems' — then 'Don't worry, I'll get you there safe and sound and in time.' It reframes the viewer's own private burden as bearable, even chosen, and the payoff (resilience that lasted his whole career) makes the comfort earned instead of empty. Multiple REPLAYED peaks sit inside this exact run — viewers rewound to it. Runs long at ~82s; the edges can be narrowed to the saying itself (L0175 onward), but the sick-child setup is what makes the words land.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start forward inside L0172 to the clean sentence 'let me share with you one more personal story', dropping the mid-sentence empathy fragment and the throat-clearing 'So'; kept the proposed end on the payoff line, which completes the thought.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "A pilgrim is a wanderer with a purpose",
+      "description": "A commencement speaker hands the graduates (and the viewer) a new story about themselves: not lost, but pilgrims — 'a wanderer with a purpose' — sent into an uncharted world with the benediction 'May you wander through it with purpose.'",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the finder's start at L0199 — pulling back to L0196 would open on an unresolved 'he', and L0199's definition is fully self-contained. Moved the end earlier than proposed: stopped on the landing 'May you wander through it with purpose' and dropped the 'Thank you and congratulations' sign-off, which is housekeeping, not the thought.",
+      "segments": [
+        {
+          "start_s": 1504.56,
+          "end_s": 1531.84,
+          "duration_s": 27.28,
+          "start_words": "I once read the perfect definition of a pilgrim",
+          "end_words": "May you wander through it with purpose",
+          "start_line": "L0199",
+          "end_line": "L0204",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "I once read the perfect definition of a pilgrim, which says that a pilgrim is a wanderer with a purpose. And I think that pretty much sums up your present and your future. You are all pilgrims who in the course of your careers will wander through an uncharted world. May you wander through it with purpose.",
+          "source_start_s": 1504.56,
+          "source_end_s": 1531.84
+        }
+      ],
+      "start_s": 1504.56,
+      "end_s": 1531.84,
+      "duration_s": 27.28,
+      "transcript": "I once read the perfect definition of a pilgrim, which says that a pilgrim is a wanderer with a purpose. And I think that pretty much sums up your present and your future. You are all pilgrims who in the course of your careers will wander through an uncharted world. May you wander through it with purpose.",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot5",
+          "title": "A pilgrim is a wanderer with a purpose",
+          "why": "The closing definition — 'a pilgrim is a wanderer with a purpose... You are all pilgrims who in the course of your careers will wander through an uncharted world. May you wander through it with purpose.' It hands the viewer a new story about themselves: not lost, but a wanderer with a purpose. A viewer typed the definition back word for word in the comments ('Pilgrim real meaning is a wanderer with purpose. Great inspiration to all') — the exact behaviour the test predicts.",
+          "confidence": "HIGH",
+          "hook_strength": 5.0,
+          "signals_used": [
+            "audience comment quoting L0199-L0200 verbatim"
+          ],
+          "start_line": "L0199",
+          "end_line": "L0204"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 1504.56,
+      "source_end_s": 1531.84,
+      "evidence": [
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4jYmKjXI06A&t=1504s",
+      "embed_url": "https://www.youtube.com/embed/4jYmKjXI06A?start=1504&end=1532",
+      "rank": 2,
+      "id": "clip2",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          }
+        ],
+        "reading": "The closing definition — 'a pilgrim is a wanderer with a purpose... You are all pilgrims who in the course of your careers will wander through an uncharted world. May you wander through it with purpose.' It hands the viewer a new story about themselves: not lost, but a wanderer with a purpose. A viewer typed the definition back word for word in the comments ('Pilgrim real meaning is a wanderer with purpose. Great inspiration to all') — the exact behaviour the test predicts.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the finder's start at L0199 — pulling back to L0196 would open on an unresolved 'he', and L0199's definition is fully self-contained. Moved the end earlier than proposed: stopped on the landing 'May you wander through it with purpose' and dropped the 'Thank you and congratulations' sign-off, which is housekeeping, not the thought.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "Embrace the ought, not the is",
+      "description": "A commencement speaker names the doubt every graduate feels — how can you hold fast to your ideals in a world of shades of gray? — answers it with 'a resounding yes,' and lands the quotable inversion: 'embrace the ought, not the is. Shape the world as it ought to be, rather than accepting it as it is.'",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposed boundaries. The opening 'this where there seems to be no certainty' is technically mid-sentence after L0112, but pulling back to L0108 adds ~25s of COVID/war context the question does not need; the phrase reads as a self-describing appositive and the question lands cleanly. Ending at L0119 completes the inversion — L0120 starts a new thought.",
+      "segments": [
+        {
+          "start_s": 838.56,
+          "end_s": 894.94,
+          "duration_s": 56.38,
+          "start_words": "this where there seems to be no certainty",
+          "end_words": "rather than accepting it as it is",
+          "start_line": "L0113",
+          "end_line": "L0119",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "this where there seems to be no certainty, but only shades of gray, how does it make sense for me to tell you to go out into the world holding fast to your ideals? But, my answer to that would be a resounding yes. Because it may in fact be the only way to make sense of a world in which the ground under your feet feels like quicksand. And because all of you are in a unique position to apply those ideals to your work right away. Cuz you've all taken a decision to follow a career path that is going to have a wider impact on global issues than almost any other career. So, my first exhortation to you would be to embrace the ought, not the is. Shape the world as it ought to be, rather than accepting it as it is.",
+          "source_start_s": 838.56,
+          "source_end_s": 894.94
+        }
+      ],
+      "start_s": 838.56,
+      "end_s": 894.94,
+      "duration_s": 56.38,
+      "transcript": "this where there seems to be no certainty, but only shades of gray, how does it make sense for me to tell you to go out into the world holding fast to your ideals? But, my answer to that would be a resounding yes. Because it may in fact be the only way to make sense of a world in which the ground under your feet feels like quicksand. And because all of you are in a unique position to apply those ideals to your work right away. Cuz you've all taken a decision to follow a career path that is going to have a wider impact on global issues than almost any other career. So, my first exhortation to you would be to embrace the ought, not the is. Shape the world as it ought to be, rather than accepting it as it is.",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot3",
+          "title": "Embrace the ought, not the is",
+          "why": "The question every viewer at a low point asks — 'how does it make sense to hold fast to your ideals when the ground feels like quicksand?' — answered with 'a resounding yes,' and then compressed into a quotable inversion: 'embrace the ought, not the is. Shape the world as it ought to be, rather than accepting it as it is.' The opening line is slightly clipped by the transcript ('this where...') but the meaning reconstructs cleanly; the later pass can trim it.",
+          "confidence": "MEDIUM",
+          "hook_strength": 5.0,
+          "signals_used": [],
+          "start_line": "L0113",
+          "end_line": "L0119"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 838.56,
+      "source_end_s": 894.94,
+      "evidence": [
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)"
+          ],
+          "text": "delivery shifts here: (fast)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=4jYmKjXI06A&t=838s",
+      "embed_url": "https://www.youtube.com/embed/4jYmKjXI06A?start=838&end=895",
+      "rank": 3,
+      "id": "clip3",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast)"
+          }
+        ],
+        "reading": "The question every viewer at a low point asks — 'how does it make sense to hold fast to your ideals when the ground feels like quicksand?' — answered with 'a resounding yes,' and then compressed into a quotable inversion: 'embrace the ought, not the is. Shape the world as it ought to be, rather than accepting it as it is.' The opening line is slightly clipped by the transcript ('this where...') but the meaning reconstructs cleanly; the later pass can trim it.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposed boundaries. The opening 'this where there seems to be no certainty' is technically mid-sentence after L0112, but pulling back to L0108 adds ~25s of COVID/war context the question does not need; the phrase reads as a self-describing appositive and the question lands cleanly. Ending at L0119 completes the inversion — L0120 starts a new thought.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "There were people busy writing our epitaph. And yet, three decades later, here we are.",
+      "description": "A speech recounting how Indian industry faced collapse when the economy opened in the '90s — consultancy firms were 'busy writing our epitaph' — and yet the company survived as a multi-billion dollar group. It pays off with the answer: 'harness the power of purpose.'",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposal. The opening 'However' is the first word of a complete sentence and reads as understandable in a monologue; ending on 'harness the power of purpose' lands the payoff before the next thought begins at L0146.",
+      "segments": [
+        {
+          "start_s": 1018.52,
+          "end_s": 1086.78,
+          "duration_s": 68.26,
+          "start_words": "However, in the early '90s, India and Indian industry were both in crisis",
+          "end_words": "harness the power of purpose",
+          "start_line": "L0139",
+          "end_line": "L0145",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "However, in the early '90s, India and Indian industry were both in crisis. Faced with the prospect of running out of foreign exchange reserves, India took the radical step of radical of liberalizing its closed economy. And after decades of being protected, suddenly the world's most powerful companies were at our doorstep, anxious to get a temptingly large piece of the Indian pie. For old economy companies like ours, which had prospered under a protectionist regime, and had forgotten really how to compete, the opening up of the Indian economy was like the Grim Reaper knocking at the door. And seriously, there were people around, large consultancy firms, who were busy writing our epitaph. And yet, three decades later, here we are, a multi-billion dollar group, still chugging along and earning goodwill while we do so. So, how did we do it? Well, obviously, there were many ingredients. But to my mind, the most important one was to harness the power of purpose.",
+          "source_start_s": 1018.52,
+          "source_end_s": 1086.78
+        }
+      ],
+      "start_s": 1018.52,
+      "end_s": 1086.78,
+      "duration_s": 68.26,
+      "transcript": "However, in the early '90s, India and Indian industry were both in crisis. Faced with the prospect of running out of foreign exchange reserves, India took the radical step of radical of liberalizing its closed economy. And after decades of being protected, suddenly the world's most powerful companies were at our doorstep, anxious to get a temptingly large piece of the Indian pie. For old economy companies like ours, which had prospered under a protectionist regime, and had forgotten really how to compete, the opening up of the Indian economy was like the Grim Reaper knocking at the door. And seriously, there were people around, large consultancy firms, who were busy writing our epitaph. And yet, three decades later, here we are, a multi-billion dollar group, still chugging along and earning goodwill while we do so. So, how did we do it? Well, obviously, there were many ingredients. But to my mind, the most important one was to harness the power of purpose.",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot4",
+          "title": "They were busy writing our epitaph",
+          "why": "A comeback story for anyone being counted out: crisis hits, the world's most powerful competitors arrive at the door, consultancy firms are 'busy writing our epitaph' — 'And yet, three decades later, here we are.' It lands the prove-them-wrong feeling and pays it off with an answer ('harness the power of purpose') the viewer can carry, even though the answer is stated in corporate language. Runs ~66s including setup; the epitaph-and-yet passage is the moment.",
+          "confidence": "MEDIUM",
+          "hook_strength": 6.0,
+          "signals_used": [],
+          "start_line": "L0139",
+          "end_line": "L0145"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 1018.52,
+      "source_end_s": 1086.78,
+      "evidence": [],
+      "youtube_url": "https://www.youtube.com/watch?v=4jYmKjXI06A&t=1018s",
+      "embed_url": "https://www.youtube.com/embed/4jYmKjXI06A?start=1018&end=1087",
+      "rank": 4,
+      "id": "clip4",
+      "why_chosen": {
+        "measured": [],
+        "reading": "A comeback story for anyone being counted out: crisis hits, the world's most powerful competitors arrive at the door, consultancy firms are 'busy writing our epitaph' — 'And yet, three decades later, here we are.' It lands the prove-them-wrong feeling and pays it off with an answer ('harness the power of purpose') the viewer can carry, even though the answer is stated in corporate language. Runs ~66s including setup; the epitaph-and-yet passage is the moment.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposal. The opening 'However' is the first word of a complete sentence and reads as understandable in a monologue; ending on 'harness the power of purpose' lands the payoff before the next thought begins at L0146.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "Indians are second to none — shedding the bequest of colonialism",
+      "description": "A CEO explains that when the Indian economy opened up, his company's core purpose was simply to say \"Indians are second to none\" — a cry to shed the invisible, lingering feelings of inferiority left by colonialism, which then fueled their self-belief. The viewer hears their own inherited self-doubt named out loud and handed back as fuel.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start back from L0149 to L0146: the proposed opening \"that core purpose\" is a referring phrase whose referent (the core purpose they elucidated, and why — having to prove an Indian company could thrive) is established in L0146–L0148. Without it the reel opens on a dangling \"that\". Kept the proposed end at \"And it fueled our self-belief\" — the landing line — and stopped before the separate concrete-results claim at L0156.",
+      "segments": [
+        {
+          "start_s": 1086.88,
+          "end_s": 1162.77,
+          "duration_s": 75.89,
+          "start_words": "We found ourselves in a very strange",
+          "end_words": "And it fueled our self-belief",
+          "start_line": "L0146",
+          "end_line": "L0155",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "We found ourselves in a very strange, back to the future kind of situation, where once again, we had to prove that we as an Indian company could do it. That we could not just survive, but thrive in the changed economic landscape. And drawing upon an Indian narrative and upon our corporate history, we first elucidated a core purpose that would galvanize people to come to work in the morning and give off their best. Now, that core purpose was simply to say, \"Indians are second to none, and we will make products that will prove that to the world.\" I know that sounds terribly parochial. But please understand, at that time, it was a cry to shed the most invisible, pernicious, and lingering feelings of inferiority, and a lack of self-belief, which was the bequest of colonialism. And that really had an electrifying effect on our people. It triggered the David versus Goliath sentiment. It tapped into our collective memories of our founding days where we had succeeded against all odds because we had something to prove. And it fueled our self-belief.",
+          "source_start_s": 1086.88,
+          "source_end_s": 1162.77
+        }
+      ],
+      "start_s": 1086.88,
+      "end_s": 1162.77,
+      "duration_s": 75.89,
+      "transcript": "We found ourselves in a very strange, back to the future kind of situation, where once again, we had to prove that we as an Indian company could do it. That we could not just survive, but thrive in the changed economic landscape. And drawing upon an Indian narrative and upon our corporate history, we first elucidated a core purpose that would galvanize people to come to work in the morning and give off their best. Now, that core purpose was simply to say, \"Indians are second to none, and we will make products that will prove that to the world.\" I know that sounds terribly parochial. But please understand, at that time, it was a cry to shed the most invisible, pernicious, and lingering feelings of inferiority, and a lack of self-belief, which was the bequest of colonialism. And that really had an electrifying effect on our people. It triggered the David versus Goliath sentiment. It tapped into our collective memories of our founding days where we had succeeded against all odds because we had something to prove. And it fueled our self-belief.",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot2",
+          "title": "Shed the lingering feelings of inferiority",
+          "why": "Names a private humiliation almost nobody says out loud — the 'invisible, pernicious, and lingering feelings of inferiority... the bequest of colonialism' — and then converts it: the company that said 'Indians are second to none' turned that inherited doubt into fuel. Anyone carrying self-doubt about where they come from hears their own feeling spoken and then handed back as a weapon. Ends on the landing line 'And it fueled our self-belief.'",
+          "confidence": "HIGH",
+          "hook_strength": 6.0,
+          "signals_used": [],
+          "start_line": "L0149",
+          "end_line": "L0155"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 1086.88,
+      "source_end_s": 1162.77,
+      "evidence": [],
+      "youtube_url": "https://www.youtube.com/watch?v=4jYmKjXI06A&t=1086s",
+      "embed_url": "https://www.youtube.com/embed/4jYmKjXI06A?start=1086&end=1163",
+      "rank": 5,
+      "id": "clip5",
+      "why_chosen": {
+        "measured": [],
+        "reading": "Names a private humiliation almost nobody says out loud — the 'invisible, pernicious, and lingering feelings of inferiority... the bequest of colonialism' — and then converts it: the company that said 'Indians are second to none' turned that inherited doubt into fuel. Anyone carrying self-doubt about where they come from hears their own feeling spoken and then handed back as a weapon. Ends on the landing line 'And it fueled our self-belief.'",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start back from L0149 to L0146: the proposed opening \"that core purpose\" is a referring phrase whose referent (the core purpose they elucidated, and why — having to prove an Indian company could thrive) is established in L0146–L0148. Without it the reel opens on a dangling \"that\". Kept the proposed end at \"And it fueled our self-belief\" — the landing line — and stopped before the separate concrete-results claim at L0156.",
+        "has_audience": false
+      }
+    }
+  ]
+}

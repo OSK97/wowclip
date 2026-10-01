@@ -1,0 +1,1503 @@
+{
+  "meta": {
+    "duration_s": 549.0,
+    "transcript": "C:\\Users\\DP\\Desktop\\App\\website\\pipeline\\runs\\6Fjeh_plyvQ\\6Fjeh_plyvQ_final.json",
+    "clip_start_s": 0.0,
+    "video": {
+      "video_id": "6Fjeh_plyvQ",
+      "title": "Nayab Aur Manhar Ki Mehfil | UK & EUROPE TOUR ANNOUNCEMENT",
+      "channel": "Nayab Midha",
+      "duration_s": 549.0,
+      "views": "1096922"
+    },
+    "comments_placed": 19,
+    "replay_peaks": 11,
+    "comment_stats": {
+      "raw": 171,
+      "pages": 2,
+      "duplicates_folded": 7,
+      "promo_dropped": 0,
+      "chapter_indexes": 0,
+      "empty": 0,
+      "timestamped": 19,
+      "summarised": 0,
+      "general_seen": 145,
+      "general_kept": 95,
+      "top_liked_spared": 25,
+      "llm": {
+        "triage": {
+          "batches": 2,
+          "failed": 0,
+          "cost_usd": 0.00014
+        },
+        "themes": {
+          "cost_usd": 0.00055
+        },
+        "promo": {
+          "batches": 1,
+          "failed": 0,
+          "cost_usd": 3e-05
+        },
+        "summarise": {},
+        "cost_usd": 0.00072
+      }
+    }
+  },
+  "audience": {
+    "themes": {
+      "mood": "Fans deeply moved by poetry and voice, eager for live shows.",
+      "themes": []
+    },
+    "general": [
+      {
+        "text": "Her voice is like saruu in Sanam Teri kasam❤",
+        "likes": 847,
+        "replies": 42,
+        "dupes": 0,
+        "id": 19
+      },
+      {
+        "text": "my two fav poet in one frame❤😇",
+        "likes": 89,
+        "replies": 0,
+        "dupes": 0,
+        "id": 20
+      },
+      {
+        "text": "If any student is over here always keep in mind:- jis kavi ki zindagi me kalpana ho prem geet uss kavi ko ajj tum nakar do 🔥🔥",
+        "likes": 46,
+        "replies": 5,
+        "dupes": 0,
+        "id": 47
+      },
+      {
+        "text": "Kya khoobsurat ehsaason ko lafzon ka roop diya hai #Nayab Ma'am 🙏🏻❤️🩹☺️",
+        "likes": 35,
+        "replies": 0,
+        "dupes": 0,
+        "id": 23
+      },
+      {
+        "text": "They both are gem❤❤❤❤❤",
+        "likes": 29,
+        "replies": 0,
+        "dupes": 0,
+        "id": 22
+      },
+      {
+        "text": "Perhaps, the difference between what is miserable and that which is spectacular, lies in the leap of faith\" please give the deep explanation 🥺😞😢",
+        "likes": 25,
+        "replies": 0,
+        "dupes": 0,
+        "id": 25
+      },
+      {
+        "text": "Love you both of you ❤❤❤❤❤❤❤❤❤❤❤❤❤",
+        "likes": 15,
+        "replies": 0,
+        "dupes": 0,
+        "id": 35
+      },
+      {
+        "text": "Wow her voice superb ❤",
+        "likes": 13,
+        "replies": 0,
+        "dupes": 0,
+        "id": 27
+      },
+      {
+        "text": "Kaha hain ki Ishq aur pyar ek hi to baat hain Ki ishq or pyaar ek hi to bat h Bas fark itna hain ki Ek din hain aur ek raat hain Or is din se raat tak ka faasla Sirf junuun tay karta hai Or ye kisko kisse ho wo ajkl kanuun tay karta hain 🥀",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 21
+      },
+      {
+        "text": "Pls rate my shyari❤❤❤❤❤ Is gaar duniya ma raha nahi jata. Kisi gaar ko apna kaha nahi jata. Log milta to bahut ha par apna mil na pata.",
+        "likes": 9,
+        "replies": 1,
+        "dupes": 0,
+        "id": 53
+      },
+      {
+        "text": "Best duo ❤❤",
+        "likes": 8,
+        "replies": 2,
+        "dupes": 0,
+        "id": 64
+      },
+      {
+        "text": "Really a huge fan of you ❤",
+        "likes": 8,
+        "replies": 0,
+        "dupes": 0,
+        "id": 30
+      },
+      {
+        "text": "Ishq aur pyaar ek hi toh baat h Farq bs itna h ki ek din h aur ek raat h Aur raat se din k fasla sirf junoon tay krta h aur yeh kisko kisse ho aajkll kannon tay krta h",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 28
+      },
+      {
+        "text": "the depth in her voice🥰🥰🥰🥰",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 26
+      },
+      {
+        "text": "Sabut nahi hota pyaar mein hone ka, Sabut nahi hota pyaar mein hone ka Wo tho shahjahan tha jise dar tha mumtaz ko khone ka ❤",
+        "likes": 6,
+        "replies": 0,
+        "dupes": 0,
+        "id": 24
+      },
+      {
+        "text": "RIP for audience 😂😂😂... Who buyer tickets for this show😂",
+        "likes": 6,
+        "replies": 0,
+        "dupes": 0,
+        "id": 151
+      },
+      {
+        "text": "I like your voice very much ❤❤",
+        "likes": 6,
+        "replies": 0,
+        "dupes": 0,
+        "id": 33
+      },
+      {
+        "text": "I start my day with the sweet voice of this beautiful ❤️😍 girl 💖",
+        "likes": 5,
+        "replies": 0,
+        "dupes": 0,
+        "id": 29
+      },
+      {
+        "text": "Taj Mahal kha aur prabhu shreeram ka pyar kha jo duniya se lad pda maiya sita ke liye. Jay Shree Ram ❤",
+        "likes": 4,
+        "replies": 0,
+        "dupes": 0,
+        "id": 80
+      },
+      {
+        "text": "Your voice like killer ❤❤",
+        "likes": 4,
+        "replies": 0,
+        "dupes": 0,
+        "id": 34
+      },
+      {
+        "text": "Maturity is when You realize both of them are not an actual poet.",
+        "likes": 2,
+        "replies": 2,
+        "dupes": 0,
+        "id": 152
+      },
+      {
+        "text": "Kya krein video dekh ke aapne to kisi ko propose kar dia hai ab😅",
+        "likes": 3,
+        "replies": 0,
+        "dupes": 0,
+        "id": 106
+      },
+      {
+        "text": "Nayab je ap na sach ma bohot nayab ho matlob bilkul alg",
+        "likes": 3,
+        "replies": 0,
+        "dupes": 0,
+        "id": 70
+      },
+      {
+        "text": "Yrr mujhe ye achha lga ki mumtaz kaha se laoge❤❤❤",
+        "likes": 3,
+        "replies": 0,
+        "dupes": 0,
+        "id": 49
+      },
+      {
+        "text": "ap ke live voice suno ko di lkart ha",
+        "likes": 3,
+        "replies": 0,
+        "dupes": 0,
+        "id": 96
+      },
+      {
+        "text": "manhar ke sath our video lao pls🙂😍",
+        "likes": 3,
+        "replies": 0,
+        "dupes": 0,
+        "id": 95
+      },
+      {
+        "text": "Nayab midha di I love your Poetry's❤❤❤😊",
+        "likes": 3,
+        "replies": 0,
+        "dupes": 0,
+        "id": 31
+      },
+      {
+        "text": "Please give a show in dehradun",
+        "likes": 3,
+        "replies": 0,
+        "dupes": 0,
+        "id": 46
+      },
+      {
+        "text": "Nayab sis so beautiful ❤",
+        "likes": 3,
+        "replies": 0,
+        "dupes": 0,
+        "id": 48
+      },
+      {
+        "text": "She is so mesmerizing ❤",
+        "likes": 3,
+        "replies": 0,
+        "dupes": 0,
+        "id": 65
+      },
+      {
+        "text": "So sweet of di you're thoughts is so good thats come to your words it's really good feeling for me karo aisa jismein khud ko satisfaction mile. Kash ye talent sab ko milta apne har ultimate thoughts share kar sake like u❤❤❤❤😊",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 37
+      },
+      {
+        "text": "Dii ganganagar kab aa rahe ho ye batao.....hm bagdi wait kr rahe hai nayab ka",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 92
+      },
+      {
+        "text": "di me apki vidio ko bohot pasand krti hu love you di❤",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 99
+      },
+      {
+        "text": "Ma'am please do a show in Patna please 🙏🏻🥺🥺😊",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 71
+      },
+      {
+        "text": "In your voice I see deep pain 😢😢",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 50
+      },
+      {
+        "text": "First viewer and first like❤❤❤",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 69
+      },
+      {
+        "text": "You are very beautiful ❤❤❤",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 78
+      },
+      {
+        "text": "Love your shayri....❤😊",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 41
+      },
+      {
+        "text": "Hyderabad tour dates ?",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 101
+      },
+      {
+        "text": "I love u nayab❤️❤️",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 52
+      },
+      {
+        "text": "Aapki voice ❤❤❤",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 79
+      },
+      {
+        "text": "Your voice ❤❤❤",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 45
+      },
+      {
+        "text": "full video kaha milegi 🤔",
+        "likes": 1,
+        "replies": 1,
+        "dupes": 0,
+        "id": 143
+      },
+      {
+        "text": "Nepal when?",
+        "likes": 1,
+        "replies": 1,
+        "dupes": 0,
+        "id": 142
+      },
+      {
+        "text": "आपकी आवाज मैं वो जादू है जो किशी रूठे को मना दे आपकी आवाज मैं वो गज है किसी रूठे को मन दे है वो जादू जो किसी टूटे को मना दे है भी नहीं उसे आशिक बना दे",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 58
+      },
+      {
+        "text": "Hamn unko itna dekha jitna dekha ja sakta lekin phir do ankon se kitna dekha ja sakta tha❤❤❤❤",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 32
+      },
+      {
+        "text": "what about manhara nd nayab will date❤ ishq anr pyaar ho jyga",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 102
+      },
+      {
+        "text": "Aisa kyu lagta h ki app har line ke baad rone lagogi",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 136
+      },
+      {
+        "text": "Your all words are not only poem its motivation also",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 43
+      },
+      {
+        "text": "I love poetry ❤❤❤❤❤ Please kushinagar me aao aap di",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 74
+      },
+      {
+        "text": "Her voice like Sanam Teri Kasam movie",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 84
+      },
+      {
+        "text": "Apki abj is my allses favourite di",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 55
+      },
+      {
+        "text": "How do 9 minutes finish so fast. ❤️🩹",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 160
+      },
+      {
+        "text": "Di you are really my idol ❤❤",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 44
+      },
+      {
+        "text": "Me to ja raha hu london❤😊",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 82
+      },
+      {
+        "text": "Haye ye kitni pyari hai ❤❤😘😘😍😍",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 59
+      },
+      {
+        "text": "Udaipur also please didi😊",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 87
+      },
+      {
+        "text": "What is your name",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 134
+      },
+      {
+        "text": "Come to nashik ❤️",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 66
+      },
+      {
+        "text": "i am big fan",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 1,
+        "id": 86
+      },
+      {
+        "text": "Shree Radhey. ❤",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 81
+      },
+      {
+        "text": "❤ for muskurao",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 103
+      },
+      {
+        "text": "मर्दाना आवाज ❤",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 128
+      },
+      {
+        "text": "Muskurao 😊",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 117
+      },
+      {
+        "text": "Perfect ❤",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 62
+      },
+      {
+        "text": "Oooo😊",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 124
+      },
+      {
+        "text": "Thank you so much mam but ek Ladki ka sath dosti thi uspar bhiiii ek poetry bol do",
+        "likes": 0,
+        "replies": 1,
+        "dupes": 0,
+        "id": 144
+      },
+      {
+        "text": "Indore tour together please",
+        "likes": 0,
+        "replies": 1,
+        "dupes": 0,
+        "id": 137
+      },
+      {
+        "text": "A crush beautiful yaar beautiful 😍 lovely sweet dreams smile song lyrics tahsan Live episode review the best wishes 🌹🌷💙 you congratulations 🎉🫂💕🕊️ happy birthday to you baby I appreciate your support for my way Amen you are doing well ❤️🩹 heartiest greetings to you baby 😘 love you",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 146
+      },
+      {
+        "text": "Hello... Didi Yadi aap India Aaye Aur up Mein Aakar district Bijnor aapka charge kya rahata hai contact number aapse baat karni ho to which is ho sakti hai Jaise aapko invite karna ho Kisi chij Ke Liye",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 162
+      },
+      {
+        "text": "Agar talsh karu toh koi mil he jayega....magar tumhari tarh kon mujko chahega....ki chaahate to se dekhega jarur tumko koi....magar wo ankhaen hamari tarh kaha se layega...❤❤",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 57
+      },
+      {
+        "text": "pleasee girll hum paksitani fans j=ka kiaaaaaaa i always wanted ot see u live but like in every video u r like i am goign to india and every where else but pakistan",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 147
+      },
+      {
+        "text": "Usse milti julti aawaz ki zarurat nahi hai, Har aawaz ki apni ek pehchan hoti hai, Kisi ki tulna mumtaz se kyu karni? Sabki mashooka unki jaan hoti hai.",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 89
+      },
+      {
+        "text": "So beautiful ❤️ voice I'm big fan Nayab ji 😍 , wish you luck 🤞 aap bhut kami yaab bano 😇",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 61
+      },
+      {
+        "text": "Meri didine to mushkurao apne table ke pas Wale wall par likh kar rakha hai🌹✨",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 118
+      },
+      {
+        "text": "You even work in sanam teri kasam 2 Same voice Same look Perfect 🎉",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 130
+      },
+      {
+        "text": "I m senior of 70 love you both the way read n present the poetry.",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 38
+      },
+      {
+        "text": "Mai esse se acha ker sakta hu but momentum nahi mil raha hai i am",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 112
+      },
+      {
+        "text": "किस को किस से हो ये आज कल कानून तय करता है ( वो पांच लोग 🤬 तय करते है जिनका हमसे को तालमेल भी नहीं होता हैं)",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 150
+      },
+      {
+        "text": "The happened it's crowd work and hates off the thing",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 135
+      }
+    ]
+  },
+  "baselines": {
+    "SPK1": {
+      "wpm_hi": 225.18407311263854,
+      "wpm_lo": 142.2046521118142,
+      "wpm_mid": 185.17361070173786,
+      "lines": 59
+    }
+  },
+  "rows": [
+    {
+      "kind": "line",
+      "start": 0.08,
+      "end": 8.08,
+      "tags": [],
+      "text": "हाय एवरीबॉडी नमस्ते। जल्दी से वीडियो शुरू करेंगे। आई विल नॉट टेक अ लॉट ऑफ योर टाइम। बट मैं सिर्फ आपको यह बताना चाहती थी कि आपने लंदन वाले",
+      "reactions": [],
+      "id": "L0001",
+      "seconds": 8.0
+    },
+    {
+      "kind": "line",
+      "start": 8.08,
+      "end": 16.16,
+      "tags": [],
+      "text": "शो को इतना प्यार दिया। वी हैव पुट वन शो ऑन 29th ऑफ़ जून जो ऑलमोस्ट सोल्ड आउट हो गया है। तो हमने पूरा का पूरा मतलब हिम्मत दिखा",
+      "reactions": [],
+      "id": "L0002",
+      "seconds": 8.1
+    },
+    {
+      "kind": "line",
+      "start": 16.16,
+      "end": 23.92,
+      "tags": [],
+      "text": "के पूरा का पूरा टूर डाल दिया है। सो नाउ 28थ ऑफ़ जून इज़ डबलिंग। 29 इज़ लंदन एंड फोर्थ इज़ बर्मिंगम। फिफ्थ इज़ रेडिंग इफ आई सेइंग द",
+      "reactions": [],
+      "id": "L0003",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 23.92,
+      "end": 32.88,
+      "tags": [],
+      "text": "नेम राइट। एंड सिक्स्थ इज़ लंदन अगेन इन हैरो। एंड देन वी आर गोइंग ऑन अ यूरोप टूर व्हिच इज बर्लिन, फ्रैंकफर्ट एंड एमस्टरडम। मैंने सारी डिटेल्स लास्ट में",
+      "reactions": [],
+      "id": "L0004",
+      "seconds": 9.0,
+      "comments": [
+        {
+          "text": "0:30 I only know frankfurt because waha Germany ka एकीकरण karne ki pehel hui thi - class 10th desease. 😅",
+          "likes": 4,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 32.88,
+      "end": 42.48,
+      "tags": [],
+      "text": "लगा दी है। सो बस आप टिकट्स ले लो और इंडिया टूर जारी है। इंडिया टूर के टिकट्स भी यहां पे है। बॉम्बे, हैदराबाद एंड एंड एंड एंड बोर",
+      "reactions": [],
+      "id": "L0005",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 42.48,
+      "end": 48.96,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "हैव बीन अनाउंस्ड। बस मुझे यही कहना था कि आप जल्दी से अपने टूर के टिकट्स ले लो। मिलते हैं शोज़ पे एंड एंजॉय द वीडियो। एक दादा और भी",
+      "reactions": [],
+      "id": "L0006",
+      "seconds": 6.5
+    },
+    {
+      "kind": "line",
+      "start": 48.96,
+      "end": 58.8,
+      "tags": [],
+      "text": "सरप्राइज है मेरे पास जो कि शायद लड़कियों का एंगल ज्यादा खूबसूरत से बता पाएंगी। आपकी इजाजत के साथ मैं किसी स्टेज पर किसी को आमंत्रित कर रहा हूं।",
+      "reactions": [],
+      "id": "L0007",
+      "seconds": 9.8,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 58.8,
+      "end": 71.04,
+      "tags": [],
+      "text": "आपने रील्स वगैरह में उन्हें देखा होगा। वह भी बड़ी खूबसूरत पोएट्री करती हैं। आपकी जोरदार तालियों के बीच जोरदार तालियों के बीच स्टेज पे बुला रहा हूं नायाब मिदा",
+      "reactions": [],
+      "id": "L0008",
+      "seconds": 12.2
+    },
+    {
+      "kind": "line",
+      "start": 71.88,
+      "end": 75.2,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "को। जोरदार तालियां बजनी चाहिए।",
+      "reactions": [],
+      "id": "L0009",
+      "seconds": 3.3
+    },
+    {
+      "kind": "event",
+      "start": 75.2,
+      "end": 76.52,
+      "text": "[pause 1.3s]",
+      "id": "L0010"
+    },
+    {
+      "kind": "line",
+      "start": 76.52,
+      "end": 85.84,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "नायाब दोस्तों प्लीज आओ नायाब जी। आहा हा क्या बात है गर्ल्स गर्ल्स गर्ल्स गर्ल्स बताएंगी",
+      "reactions": [],
+      "id": "L0011",
+      "seconds": 9.3
+    },
+    {
+      "kind": "line",
+      "start": 86.72,
+      "end": 89.92,
+      "tags": [],
+      "text": "कहां है मेरी गर्ल गैंग ये रही ये रही ये रही",
+      "reactions": [],
+      "id": "L0012",
+      "seconds": 3.2
+    },
+    {
+      "kind": "line",
+      "start": 90.08,
+      "end": 99.2,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "थैंक गॉड मैं तो डर गई थी कि मनर की ऑडियंस मुझे जानती है कि भी नहीं जानती अरे नहीं नहीं सब सारी ऑडियंसेस जानती है हां रहने दो साल दो साल पहले मैं मन के शो",
+      "reactions": [],
+      "id": "L0013",
+      "seconds": 9.1
+    },
+    {
+      "kind": "line",
+      "start": 99.2,
+      "end": 111.279,
+      "tags": [],
+      "text": "में गई मुंबई में और क्या एलिट ऑडियंस थी मैंने इतने कलेक्टिवली रईस लोग ही नहीं देखे और मैं देख रही हूं मनर मतलब ताली कैसे बजा रहे हैं ना मैं बताती हूं एक मिनट माइक पकड़ो",
+      "reactions": [],
+      "id": "L0014",
+      "seconds": 12.1
+    },
+    {
+      "kind": "event",
+      "start": 111.279,
+      "end": 115.759,
+      "text": "[long gap 4.5s]",
+      "id": "L0015"
+    },
+    {
+      "kind": "line",
+      "start": 115.759,
+      "end": 124.56,
+      "tags": [],
+      "text": "कुछ भी नायाब कुछ भी मन में आ रहा हो इनके लिए कुछ भी कपल्स इन द हाउस गिव मी अ चेयर कपल्स कपल्स सिंगल्स इन द हाउस गिव मी अ चेयर",
+      "reactions": [],
+      "id": "L0016",
+      "seconds": 8.8
+    },
+    {
+      "kind": "event",
+      "start": 124.56,
+      "end": 126.0,
+      "text": "[pause 1.4s]",
+      "id": "L0017"
+    },
+    {
+      "kind": "line",
+      "start": 126.0,
+      "end": 133.28,
+      "tags": [],
+      "text": "सी क्या क्यों है तुम्हारे पास इतनी एनर्जी है मैं बताती हूं इनका टाइम वेस्ट करने वाला कोई इंसान ही",
+      "reactions": [],
+      "id": "L0018",
+      "seconds": 7.3
+    },
+    {
+      "kind": "line",
+      "start": 133.28,
+      "end": 140.64,
+      "tags": [],
+      "text": "नहीं है ये सुबह 5:00 बजे तक किसी से बातें नहीं कर रहे ये किसी से इनकी नींद पूरी यार पूरी",
+      "reactions": [],
+      "id": "L0019",
+      "seconds": 7.4
+    },
+    {
+      "kind": "line",
+      "start": 140.64,
+      "end": 146.0,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "है भाई। नया बट व्हाट इज योर टेक ऑन लव दीज़ डेज। व्हाट इज हैप्पेनिंग? मेरे पास ना एक बहुत अच्छा",
+      "reactions": [],
+      "id": "L0020",
+      "seconds": 5.4,
+      "comments": [
+        {
+          "text": "2:25 jab se i am committed mai time se sone laga",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 146.0,
+      "end": 151.6,
+      "tags": [],
+      "text": "ऐसे मैं ये स्टूल खींच लूं। हां हां हां हां प्लीज प्लीज स्टूल। मेरे मेरा रुको रुको रुको। लड़कियों को काम नहीं करने",
+      "reactions": [],
+      "id": "L0021",
+      "seconds": 5.6,
+      "comments": [
+        {
+          "text": "2:30 the way he........❤",
+          "likes": 21,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 152.28,
+      "end": 162.8,
+      "tags": [],
+      "text": "देते। जब मैं छोटी थी तो ये बात मेरे मां-बाप को नहीं पता थी। मेरे को एक ऐसा ना आई जस्ट वांट टू शेयर दिस थॉट कि मुझे ऐसा लगता है कि अक्सर ना लोग",
+      "reactions": [],
+      "id": "L0022",
+      "seconds": 10.5,
+      "comments": [
+        {
+          "text": "2:36 his laugh was terrible 😂",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 162.8,
+      "end": 172.64,
+      "tags": [],
+      "text": "जुनून को प्रेम समझ लेते हैं। है ना? इफ यू थिंक अबाउट इट दैट व्हेन यू टॉक अबाउट लव ना कि हम लोगों को प्रेम का जो कोटा है प्यार का वो भरपूर मिला है। इट्स",
+      "reactions": [],
+      "id": "L0023",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 172.64,
+      "end": 182.239,
+      "tags": [],
+      "text": "इनफाइनाइट टू अस बिकॉज़ वो हमें हर चीज से करना है इस दुनिया में। जैसे हमें दुनिया से तो प्यार करना ही है। इसके हर इंसान से जो दो जो अल्टीमेट थॉट है कि आपको अपनी",
+      "reactions": [],
+      "id": "L0024",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 182.239,
+      "end": 192.48,
+      "tags": [],
+      "text": "नौकरी से प्यार करना चाहिए। अपने परिवार से, दोस्तों से तो उसका कोटा बड़ा इनफाइनाइट टाइप का है। बट वेयर एस जुनून पैशन इट्स लाइक फायर उसका बड़ा लिमिटेड मिला है। तो आप एक आधे शक",
+      "reactions": [],
+      "id": "L0025",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 192.48,
+      "end": 202.08,
+      "tags": [],
+      "text": "से एक आधे सपने से कर लेते हैं। उतनी ही कैपेसिटी होती है हमारे पास खुद को बर्न करने की। और जब प्यार और जुनून का एक बैलेंस बैठता है तो वो इश्क बनता है। है",
+      "reactions": [],
+      "id": "L0026",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 202.08,
+      "end": 211.2,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "ना? जो आपको इसीलिए इश्क आपको एक ही शख्स से होता है। कैपेसिटी ही उतनी है। सम टाइम्स व्हाट हैपेंस इन हम जुनून को प्यार समझ लेते हैं कि इफ बिकम पैशनेट अबाउट वन पर्सन और",
+      "reactions": [],
+      "id": "L0027",
+      "seconds": 9.1,
+      "comments": [
+        {
+          "text": "3:25 ❤",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 211.2,
+      "end": 220.799,
+      "tags": [],
+      "text": "हमें लगता है यही है जो है कि ये जुनून एंड इट सॉर्ट ऑफ़ एंड्स अप बर्निंग अस। कहा है कि इश्क और प्यार एक ही तो बात है। कि इश्क और प्यार एक ही तो",
+      "reactions": [],
+      "id": "L0028",
+      "seconds": 9.6,
+      "comments": [
+        {
+          "text": "3:35 shayri ❤",
+          "likes": 3,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ],
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 220.799,
+      "end": 232.079,
+      "tags": [],
+      "text": "बात है। फर्क बस इतना है कि एक दिन है और एक रात है। और इस दिन से रात का फासला सिर्फ जुनून तय करता है। और ये किसको किससे हो आजकल कानून तय करता है।",
+      "reactions": [],
+      "id": "L0029",
+      "seconds": 11.3,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 232.39,
+      "end": 233.59,
+      "text": "[प्रशंसा (youtube)]",
+      "id": "L0030"
+    },
+    {
+      "kind": "line",
+      "start": 238.48,
+      "end": 248.799,
+      "tags": [],
+      "text": "और मैंने सुना है मैंने सुना है एक दफा शाहजहां ने मुमताज के लिए ताजमहल बनवाया था। कि मैंने सुना है एक दफा शाहजहां ने मुमताज के",
+      "reactions": [],
+      "id": "L0031",
+      "seconds": 10.3,
+      "comments": [
+        {
+          "text": "4:02 ❤",
+          "likes": 4,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ],
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 248.799,
+      "end": 257.199,
+      "tags": [],
+      "text": "लिए ताजमहल बनवाया था। अपने इश्क में होने का सबूत पूरी दुनिया को दिखाया था। मगर मैंने यह भी सुना है कि काट दिए थे ताज बनाने वालों",
+      "reactions": [],
+      "id": "L0032",
+      "seconds": 8.4,
+      "comments": [
+        {
+          "text": "4:13.. The way he listens to her 🫶😇.... Huge fan of uhh 💓",
+          "likes": 179,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 257.199,
+      "end": 264.88,
+      "tags": [],
+      "text": "के हाथ और साथ ही काट दिए थे हौसले कि ताज कोई और बना ना सके उससे ऊपर अपने इश्क की दास्तान कोई और सुना ना सके",
+      "reactions": [],
+      "id": "L0033",
+      "seconds": 7.7
+    },
+    {
+      "kind": "line",
+      "start": 264.88,
+      "end": 276.72,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "मैं सोचती हूं मैं सोचती हूं उस जुनून में अगर थोड़ा प्यार जुड़ जाता तो इश्क का सबूत वो सातवां जुबा यहां का हर घर कहलाता आहा आहा",
+      "reactions": [],
+      "id": "L0034",
+      "seconds": 11.8,
+      "comments": [
+        {
+          "text": "4:35❤❤❤❤",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ],
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 276.72,
+      "end": 278.4,
+      "text": "[pause 1.7s]",
+      "id": "L0035"
+    },
+    {
+      "kind": "line",
+      "start": 278.4,
+      "end": 287.36,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "उससे मिलती जुलती आवाज कहां से लाओगे ताजमहल तो बनवा लोगे मुमताज कहां से? आय हाय क्या बात",
+      "reactions": [],
+      "id": "L0036",
+      "seconds": 9.0,
+      "comments": [
+        {
+          "text": "4:38 hits❤",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ],
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 287.8,
+      "end": 296.32,
+      "tags": [],
+      "text": "है। क्या इसी पे ना बशीर साहब का एक बहुत सुंदर शेर है। वो कहते हैं कि अगर तलाश करूं कि अगर तलाश करूं तो कोई मिल ही जाएगा।",
+      "reactions": [],
+      "id": "L0037",
+      "seconds": 8.5,
+      "comments": [
+        {
+          "text": "The shayari at 4:50",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ],
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 296.32,
+      "end": 309.44,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "कि अगर तलाश करूं तो कोई मिल ही जाएगा। मगर तुम्हारी तरह कौन मुझको चाहेगा कि चाहतों से देखेगा जरूर तुमको कोई। मगर वो आंखें हमारी कहां से लाएगा।",
+      "reactions": [],
+      "id": "L0038",
+      "seconds": 13.1,
+      "comments": [
+        {
+          "text": "4:58",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "5:06 best",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ],
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 309.44,
+      "end": 312.919,
+      "text": "[pause 3.5s]",
+      "id": "L0039"
+    },
+    {
+      "kind": "line",
+      "start": 312.919,
+      "end": 320.239,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "आंखों से वो याद आया कि हमने तुझको इतना देखा जितना देखा जा सकता",
+      "reactions": [],
+      "id": "L0040",
+      "seconds": 7.3
+    },
+    {
+      "kind": "line",
+      "start": 320.639,
+      "end": 330.32,
+      "tags": [],
+      "text": "लेकिन फिर भी इन दो आंखों से कितना देखा जा सकता यार क्या बात है यार एक बार अपने लिए जोरदार तालियां बजा दो यार पोएट्री ऑडियंस यार मजा आ",
+      "reactions": [],
+      "id": "L0041",
+      "seconds": 9.7
+    },
+    {
+      "kind": "line",
+      "start": 330.32,
+      "end": 340.64,
+      "tags": [],
+      "text": "रहा है वाह यार बहुत सुंदर नायाब कुछ और एक मेरी वो रिक्वेस्ट तो है ही वो मुस्कुराओ वाली वो सबको सबको मुस्कुराओ जब मैं मरूंगी ना मेरे खून से निकलेगी",
+      "reactions": [],
+      "id": "L0042",
+      "seconds": 10.3,
+      "comments": [
+        {
+          "text": "5:40 This piece hits different every time💗",
+          "likes": 8,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "5:41",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 341.56,
+      "end": 351.6,
+      "tags": [],
+      "text": "मुस्कुराओ मुस्कुराओ अगर आज कहीं से हार गए हो। उस जीत की जरूरत तुमसे ज्यादा किसी को थी शायद। मुस्कुराओ अगर कुछ खो गया है।",
+      "reactions": [],
+      "id": "L0043",
+      "seconds": 10.0,
+      "comments": [
+        {
+          "text": "muskarao kavita @ 5:42",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "5:42 mushkarao",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 351.6,
+      "end": 361.199,
+      "tags": [],
+      "text": "जिसके नसीब का था उसको मिल गया है शायद। मुस्कुराओ अगर दिल टूट गया है। किसी का जोड़ने के लिए किसी का तोड़ना पड़ता होगा शायद।",
+      "reactions": [],
+      "id": "L0044",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 361.199,
+      "end": 369.52,
+      "tags": [],
+      "text": "और फिर भी रह जाए अगर दिल में दर्द कहीं तो बांट कर मुस्कुराओ। और है अगर दिल में खुशी ज्यादा तो सेम प्रोसेस दोहराओ।",
+      "reactions": [],
+      "id": "L0045",
+      "seconds": 8.3
+    },
+    {
+      "kind": "line",
+      "start": 369.52,
+      "end": 377.12,
+      "tags": [],
+      "text": "मुस्कुराओ अगर सर पर है छत बदन पर है कपड़ा और है थाली में खाना और है अगर जरूरत से ज्यादा तो बांट कर घर जाना।",
+      "reactions": [],
+      "id": "L0046",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 377.12,
+      "end": 384.4,
+      "tags": [],
+      "text": "मुस्कुराओ जब बार-बार यह सोच कर हताश हो जाते हो कि इससे अच्छा यह हो जाता, इससे अच्छा वो हो जाता। तब यह सोच कर",
+      "reactions": [],
+      "id": "L0047",
+      "seconds": 7.3
+    },
+    {
+      "kind": "line",
+      "start": 384.4,
+      "end": 393.68,
+      "tags": [],
+      "text": "मुस्कुराओ कि इससे बुरा हो जाता तो क्या हो जाता। मुस्कुराओ जब पूछे कोई कि जिंदगी जीने का है क्या सलीका। मुस्कुराओ यह कह कर कि",
+      "reactions": [],
+      "id": "L0048",
+      "seconds": 9.3
+    },
+    {
+      "kind": "line",
+      "start": 393.68,
+      "end": 402.479,
+      "tags": [],
+      "text": "हमने जिंदगी से मुस्कुराना ही सीखा। मुस्कुराओ। वो दुनिया जो तुमसे पूछती रहती है ना ग्लास तुम आधा खाली देखते हो, भरा देखते हो। मुस्कुराओ इवन",
+      "reactions": [],
+      "id": "L0049",
+      "seconds": 8.8,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 402.479,
+      "end": 409.76,
+      "tags": [],
+      "text": "इफ यू हैव टू वर्क माइल्स एंड माइल्स बिकॉज़ इट्स ओके इफ द ग्लास इज हाफ एम्प्टी यू कैन ऑलवेज ऑलवेज फिल इट विथ स्माइल्स। मुस्कुराओ।",
+      "reactions": [],
+      "id": "L0050",
+      "seconds": 7.3
+    },
+    {
+      "kind": "event",
+      "start": 409.76,
+      "end": 415.039,
+      "text": "[long gap 5.3s]",
+      "id": "L0051"
+    },
+    {
+      "kind": "line",
+      "start": 415.039,
+      "end": 423.44,
+      "tags": [],
+      "text": "भाई ग्लास हाफ एम्प्टी भाई। देयर इज ऑलवेज रूम फॉर शराब। याह। देयर इज़ ऑलवेज देयर इज ऑलवेज रूम फॉर स्माइल्स। राहत",
+      "reactions": [],
+      "id": "L0052",
+      "seconds": 8.4
+    },
+    {
+      "kind": "line",
+      "start": 423.44,
+      "end": 429.28,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "इंदौरी साहब की एक यह गज़ल है बहुत सुंदर। वो जब आप जब आप अपने लोएस्ट पे होते हो ना, तो आपको",
+      "reactions": [],
+      "id": "L0053",
+      "seconds": 5.8
+    },
+    {
+      "kind": "line",
+      "start": 429.28,
+      "end": 435.28,
+      "tags": [],
+      "text": "असलियत पता लगती है कि कौन तुम्हारा सच्चा दोस्त है। मुझे ऐसा लगता है उन्होंने इसी इसी भावना पे कहीं लिखा था",
+      "reactions": [],
+      "id": "L0054",
+      "seconds": 6.0,
+      "comments": [
+        {
+          "text": "7:10😪💕💕",
+          "likes": 6,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 435.28,
+      "end": 444.319,
+      "tags": [],
+      "text": "कि मेरे अपने मुझे मिट्टी में मिलाने आए। आ मेरे अपने मुझे मिट्टी में मिलाने आए। अब जाकर कहीं मेरे होश दिखाने आए।",
+      "reactions": [],
+      "id": "L0055",
+      "seconds": 9.0
+    },
+    {
+      "kind": "line",
+      "start": 444.319,
+      "end": 451.52,
+      "tags": [],
+      "text": "कि मेरे अपने मुझे मिट्टी में मिलाने आए। अब जाकर कहीं मेरे होश ठिकाने आए। तूने बालों में सजा रखा था कागज",
+      "reactions": [],
+      "id": "L0056",
+      "seconds": 7.2
+    },
+    {
+      "kind": "line",
+      "start": 451.52,
+      "end": 459.759,
+      "tags": [],
+      "text": "का गुलाब। आहा कि तूने बालों में सजा रखा था कागज का गुलाब। मैं समझा कि बहारों के जमाने आए। और दोस्त होकर",
+      "reactions": [],
+      "id": "L0057",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 459.759,
+      "end": 469.039,
+      "tags": [],
+      "text": "भी महीनों नहीं मिलता मुझसे। और दोस्त होकर भी महीनों नहीं मिलता मुझसे। उसे कहो किसी दिन जख्म लगाने आए। कि फुर्सतें",
+      "reactions": [],
+      "id": "L0058",
+      "seconds": 9.3
+    },
+    {
+      "kind": "line",
+      "start": 469.039,
+      "end": 477.76,
+      "tags": [],
+      "text": "चाट रही है मेरी हस्ती का लहू। कि फुर्सतें चाट रही है मेरी हस्ती का लहू। मुंतज़िर हूं कि कोई मुझे बुलाने आए।",
+      "reactions": [],
+      "id": "L0059",
+      "seconds": 8.7
+    },
+    {
+      "kind": "line",
+      "start": 478.16,
+      "end": 479.839,
+      "tags": [],
+      "text": "कोई मुझे बुलाने",
+      "reactions": [],
+      "id": "L0060",
+      "seconds": 1.7
+    },
+    {
+      "kind": "line",
+      "start": 480.68,
+      "end": 491.599,
+      "tags": [],
+      "text": "आए। बालों की बात करी ना इन्होंने याद आ गया। वो एक शेर है ना कि उधर जुल्फों में कंघी हो रही है। कि उधर जुल्फों में कंघी हो रही है। खम",
+      "reactions": [],
+      "id": "L0061",
+      "seconds": 10.9
+    },
+    {
+      "kind": "line",
+      "start": 491.599,
+      "end": 505.119,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "निकलता है। इधर रुक-रुक के खींच खींच के हमारा दम निकलता है। और इलाही खैर हो उलझन पे उलझन बढ़ती जाती है। ना उनका गम निकलता है ना हमारा दम निकलता है।",
+      "reactions": [],
+      "id": "L0062",
+      "seconds": 13.5,
+      "comments": [
+        {
+          "text": "8:22 ✨🥀",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 505.119,
+      "end": 509.52,
+      "text": "[long gap 4.4s]",
+      "id": "L0063"
+    },
+    {
+      "kind": "line",
+      "start": 509.52,
+      "end": 517.12,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "हां और जाने से पहले तुम सब दिल टूटे आशिकों को यही कह के जाऊंगी कि नेवर नेवर गिव योर लव अवे उस इंसान के साथ छोड़ नहीं देना है",
+      "reactions": [],
+      "id": "L0064",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 517.12,
+      "end": 522.88,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "जो इंसान जा रहा है तुम्हारे जीवन से उसे वापस एक ही चीज लेनी होती है झगड़े वगड़े नहीं उससे वो प्रेम वापस लेना होता है खुद के लिए जो",
+      "reactions": [],
+      "id": "L0065",
+      "seconds": 5.8
+    },
+    {
+      "kind": "line",
+      "start": 522.88,
+      "end": 532.8,
+      "tags": [],
+      "text": "तुमने उसको दिया था। इन्वेस्टमेंट हैज़ टू बी टेकन बैक ताकि तुम भी ये कह सको कि गिला नहीं इरशाद इरशाद इरशाद इरशाद के गिला नहीं अगर पीठ में खंजर",
+      "reactions": [],
+      "id": "L0066",
+      "seconds": 9.9,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 532.8,
+      "end": 544.8,
+      "tags": [],
+      "text": "लगे लाखों मेरे इस खौफ से मैं अपनी मोहब्बत का सौदा नहीं करूंगी थैंक यू गाइस कैन मी प्लीज कीप इट गोइंग कौन आया मेरा तालियां रुकनी नहीं चाहिए दोस्तों",
+      "reactions": [],
+      "id": "L0067",
+      "seconds": 12.0,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 546.17,
+      "end": 546.57,
+      "text": "[music (youtube)]",
+      "id": "L0068"
+    }
+  ]
+}

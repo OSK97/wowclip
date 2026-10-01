@@ -1,0 +1,976 @@
+{
+  "meta": {
+    "video_id": "fHBR1j1kJ1I",
+    "video": {
+      "video_id": "fHBR1j1kJ1I",
+      "title": "Billionaire’s Brain vs Your Brain: Morning Routine, Focus & Addiction | Dr Sweta | FO403 Raj Shamani",
+      "channel": "Raj Shamani",
+      "duration_s": 6310.0,
+      "views": "11439189"
+    },
+    "categories": [
+      "motivational"
+    ],
+    "readings": {
+      "motivational": {
+        "video_read": "A 105-minute Hindi/Hinglish episode of Raj Shamani's podcast with neurologist Dr. Sweta Adatia on training the brain for success. The motivational material is scattered throughout: identity/belief moments (thought is the beginning, neuroplasticity vs blaming your genes), quotable inversions ('you are not making life, life is making you'), small instructions sized to start tonight (pillow talk, do the shitty draft first), and two stories that detonate. The heaviest viewer engagement clusters on the pillow-talk wake-up trick and on the 'thought is the beginning of everything' line.",
+        "coverage": 0.957,
+        "near_misses": [
+          {
+            "start_line": "L0233",
+            "end_line": "L0240",
+            "why_not": "The failure-as-stepping-stone landing ('ओह इट वाज़ अ स्टेपिंग स्टोन टू समथिंग एल्स') is real, but the build is a four-step formula recital — idea, implementation, resilience, continue — that reads as a lecture walking through steps rather than a moment."
+          },
+          {
+            "start_line": "L0468",
+            "end_line": "L0474",
+            "why_not": "The grief section has a turn (acceptance) but dwells in the loss itself and never converts it into an instruction or a stance the viewer can pick up; it leaves the viewer sitting in the feeling."
+          },
+          {
+            "start_line": "L0710",
+            "end_line": "L0714",
+            "why_not": "'Is it serving you or diserving you' is a quotable question, but the build runs through addiction-science examples (meditation as addiction, dopamine circuits) that dilute the landing into a discussion rather than a claim about the viewer."
+          },
+          {
+            "start_line": "L0186",
+            "end_line": "L0189",
+            "why_not": "The biceps analogy for building a calm response is a nice comparison but it is correct-and-dead advice about a practice routine; it changes nothing about who the viewer believes they are."
+          }
+        ],
+        "skipped": [
+          {
+            "from_line": "L0001",
+            "to_line": "L0016",
+            "what": "cold-open montage and subscribe/subscribe-audio plugs"
+          },
+          {
+            "from_line": "L0019",
+            "to_line": "L0085",
+            "what": "brain-wave science, MOVERS morning routine, caffeine, visualization studies — informative, low emotional charge"
+          },
+          {
+            "from_line": "L0113",
+            "to_line": "L0172",
+            "what": "notifications, three brain layers, amygdala, childhood development windows — lecture material"
+          },
+          {
+            "from_line": "L0178",
+            "to_line": "L0232",
+            "what": "limbic loop training, alpha/theta practice, binoral beats, neuro-modulation at companies"
+          },
+          {
+            "from_line": "L0244",
+            "to_line": "L0275",
+            "what": "tratak, sleep chronotypes (lion/bear/wolf/dolphin)"
+          },
+          {
+            "from_line": "L0289",
+            "to_line": "L0440",
+            "what": "brain fitness test links, Mozart radio analogy, 50-60k thoughts study, sports frontal-cortex talk"
+          },
+          {
+            "from_line": "L0441",
+            "to_line": "L0462",
+            "what": "billionaires' brains, nature vs nurture, manifestation, never be contented"
+          },
+          {
+            "from_line": "L0475",
+            "to_line": "L0514",
+            "what": "$200 brain test, flow-and-grow, purpose book, meaning and motivation"
+          },
+          {
+            "from_line": "L0521",
+            "to_line": "L0595",
+            "what": "men vs women brains, socks/fridge jokes, breakup chemistry and evolutionary biology"
+          },
+          {
+            "from_line": "L0596",
+            "to_line": "L0716",
+            "what": "tools out of pain, anger/4-7-8 breathing, migraine device, humming bee, addiction neuroscience"
+          },
+          {
+            "from_line": "L0725",
+            "to_line": "L0767",
+            "what": "spice tolerance, aura photography, outro thanks"
+          },
+          {
+            "from_line": "L0768",
+            "to_line": "L0845",
+            "what": "live brain-scan demo of the host and channel outro"
+          }
+        ]
+      }
+    },
+    "dropped_in_select": [],
+    "lost_in_cutting": [],
+    "timings": {
+      "comments": 152.33,
+      "payload": 0.71,
+      "finders": 381.7,
+      "merge": 0.0,
+      "cut": 57.08
+    },
+    "costs": {
+      "llm_inr": 4.6722,
+      "youtube_api_units": 10,
+      "total_inr": 4.6722,
+      "by_step": {
+        "comments": 0.193,
+        "finders": 2.7567,
+        "finder:motivational": 2.7567,
+        "cut": 1.7225
+      },
+      "tokens_by_step": {
+        "comments": {
+          "prompt": 0,
+          "completion": 0,
+          "reasoning": 0,
+          "calls": 1
+        },
+        "finders": {
+          "prompt": 125090,
+          "completion": 19905,
+          "reasoning": 14316,
+          "calls": 1
+        },
+        "cut": {
+          "prompt": 68636,
+          "completion": 15343,
+          "reasoning": 11055,
+          "calls": 10
+        }
+      }
+    },
+    "seconds": 592.04
+  },
+  "clips": [
+    {
+      "title": "Tell your pillow what time to wake you up — बट इट वर्क्स",
+      "description": "The speaker voices the viewer's own doubt ('उठ ही नहीं पाऊंगा, मुझे पता है ये'), then gives the instruction — tell your mind the night before what time to wake you — and lands on the honest close: 'समझ नहीं आता मुझे कैसे होता है, बट इट वर्क्स।'",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposed boundaries. The opening fragment technically completes a sentence begun in L0085, but 'उठ ही नहीं पाऊंगा' works standalone as the voiced objection the answer rebuts; going back to L0085 would drag in the chronotype aside, and going back to L0081's question would drag in the alarm/heart-rate tangent. End stops on 'बट इट वर्क्स' — the flat landing — before the priming explanation begins.",
+      "segments": [
+        {
+          "start_s": 638.64,
+          "end_s": 677.04,
+          "duration_s": 38.4,
+          "start_words": "उठ ही नहीं पाऊंगा मुझे पता है ये",
+          "end_words": "समझ नहीं आता मुझे कैसे होता है बट इट वर्क्स",
+          "start_line": "L0086",
+          "end_line": "L0091",
+          "match": {
+            "start": 0.8,
+            "end": 0.84
+          },
+          "text": "उठ ही नहीं पाऊंगा। मुझे पता है ये। लेकिन माइंड की एक कैपेसिटी होती है जो हम कभी हारनेस नहीं करते हैं। आप ट्राई करना पिछले दिन द डे प्रायर जस्ट टेल योर माइंड दैट लुक आई हैव टू वेक अप एट दिस टाइम। या एंड इट वर्क्स। इट्स इट जेनुइनली। इट जेन्युइनली वर्क्स एंड देन यू वंडर अरे ये क्या सुनता है? तो जाहिर सी बात है सुनता है तभी तो होता है। आई कॉल इट इन माय नोट्स। मैंने एक लिखा हुआ है और उस प्रिंसिपल को मैं बोलता हूं पिलो टॉक पावर। या ब्यूटीफुल। सो आई टेल माय पिलो कि मुझे सुबह 8:00 बजे उठा देना। करेक्ट। सुबह उठा देना एंड आई डोंट नो साइंस क्या है इसके पीछे। मैं बताती हूं। आप बताना आई डोंट बट इट वर्क्स। उठा ही देता है मुझे। समझ नहीं आता मुझे कैसे होता है। बट इट",
+          "source_start_s": 638.64,
+          "source_end_s": 677.04
+        }
+      ],
+      "start_s": 638.64,
+      "end_s": 677.04,
+      "duration_s": 38.4,
+      "transcript": "उठ ही नहीं पाऊंगा। मुझे पता है ये। लेकिन माइंड की एक कैपेसिटी होती है जो हम कभी हारनेस नहीं करते हैं। आप ट्राई करना पिछले दिन द डे प्रायर जस्ट टेल योर माइंड दैट लुक आई हैव टू वेक अप एट दिस टाइम। या एंड इट वर्क्स। इट्स इट जेनुइनली। इट जेन्युइनली वर्क्स एंड देन यू वंडर अरे ये क्या सुनता है? तो जाहिर सी बात है सुनता है तभी तो होता है। आई कॉल इट इन माय नोट्स। मैंने एक लिखा हुआ है और उस प्रिंसिपल को मैं बोलता हूं पिलो टॉक पावर। या ब्यूटीफुल। सो आई टेल माय पिलो कि मुझे सुबह 8:00 बजे उठा देना। करेक्ट। सुबह उठा देना एंड आई डोंट नो साइंस क्या है इसके पीछे। मैं बताती हूं। आप बताना आई डोंट बट इट वर्क्स। उठा ही देता है मुझे। समझ नहीं आता मुझे कैसे होता है। बट इट",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot1",
+          "title": "Tell your pillow what time to wake you up — बट इट वर्क्स",
+          "why": "The single most-marked moment of the video: four separate viewers wrote in that they tried it and their eyes opened on time. It removes an excuse nobody knew they were holding (you need an alarm, you can't trust your own mind) and replaces it with an instruction small enough to do tonight — and the closing 'I don't know how it happens, but it works' makes the self-belief claim honest instead of mystical. The viewer leaves feeling their own mind is a tool they were never handed the manual for.",
+          "confidence": "HIGH",
+          "hook_strength": 6.0,
+          "signals_used": [
+            "3 viewer comments on L0087",
+            "2 viewer comments on L0088 (22 likes and 13 likes)",
+            "24-like comment on L0092",
+            "[REPLAYED] on L0087"
+          ],
+          "start_line": "L0086",
+          "end_line": "L0091"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 638.64,
+      "source_end_s": 677.04,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 5,
+          "rows": 5,
+          "top_comment": "10:56 it genuinely works... I used to think the same that without phone or alarm I wouldn't be able to wake... but now if I asked myself I will wake by 6 or 5... my eyes open exactly at the very same.",
+          "top_likes": 22,
+          "text": "5 viewer comments point at this exact moment, the top one with 22 likes"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)"
+          ],
+          "text": "delivery shifts here: (fast)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I&t=638s",
+      "embed_url": "https://www.youtube.com/embed/fHBR1j1kJ1I?start=638&end=678",
+      "rank": 1,
+      "id": "clip1",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "5 viewer comments point at this exact moment, the top one with 22 likes",
+            "quote": "10:56 it genuinely works... I used to think the same that without phone or alarm I wouldn't be able to wake... but now if I asked myself I will wake by 6 or 5... my eyes open exactly at the very same.",
+            "likes": 22
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast)"
+          }
+        ],
+        "reading": "The single most-marked moment of the video: four separate viewers wrote in that they tried it and their eyes opened on time. It removes an excuse nobody knew they were holding (you need an alarm, you can't trust your own mind) and replaces it with an instruction small enough to do tonight — and the closing 'I don't know how it happens, but it works' makes the self-belief claim honest instead of mystical. The viewer leaves feeling their own mind is a tool they were never handed the manual for.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposed boundaries. The opening fragment technically completes a sentence begun in L0085, but 'उठ ही नहीं पाऊंगा' works standalone as the voiced objection the answer rebuts; going back to L0085 would drag in the chronotype aside, and going back to L0081's question would drag in the alarm/heart-rate tangent. End stops on 'बट इट वर्क्स' — the flat landing — before the priming explanation begins.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "थॉट इज़ द बिगिनिंग फॉर एववरीथिंग",
+      "description": "A tight standalone claim: everything you have began as a thought — 'थॉट इज़ द बिगिनिंग फॉर एववरीथिंग' — and a thought converts mostly into action. Viewers literally typed the line back word for word in the comments.",
+      "category": "motivational",
+      "is_one_liner": true,
+      "confidence": "high",
+      "boundary_note": "Kept the proposed span but trimmed the leading 'तो,' throat-clearing so the clip opens clean on the claim; end stays on 'एक्शन' (L0096), where the thought completes.",
+      "segments": [
+        {
+          "start_s": 701.92,
+          "end_s": 712.73,
+          "duration_s": 10.81,
+          "start_words": "पूरा जितना भी पावर है आपका",
+          "end_words": "एक्शन",
+          "start_line": "L0095",
+          "end_line": "L0096",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "पूरा जितना भी पावर है आपका, वो शुरुआत तो थॉट। थॉट इज़ द बिगिनिंग फॉर एववरीथिंग, राइट? थॉट ओनली कन्वर्ट्स इंटू व्हाट? मोस्टली एक्शन। मोस्टली एक्शन",
+          "source_start_s": 701.92,
+          "source_end_s": 712.73
+        }
+      ],
+      "start_s": 701.92,
+      "end_s": 712.73,
+      "duration_s": 10.81,
+      "transcript": "पूरा जितना भी पावर है आपका, वो शुरुआत तो थॉट। थॉट इज़ द बिगिनिंग फॉर एववरीथिंग, राइट? थॉट ओनली कन्वर्ट्स इंटू व्हाट? मोस्टली एक्शन। मोस्टली एक्शन",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot6",
+          "title": "थॉट इज द बिगिनिंग फॉर एववरीथिंग",
+          "why": "A twelve-second standalone claim about who the viewer is: everything you have — and everything you will have — began as a thought, and a thought converts mostly into action. It is the identity vein at its smallest size, and a viewer typed the line back word for word in a comment with 25 likes, which is the exact behaviour we are trying to predict. Short clips like this are the ones that travel furthest.",
+          "confidence": "MEDIUM",
+          "hook_strength": 7.0,
+          "signals_used": [
+            "25-like comment on L0095: 'thought is the beginning of everything ❤'"
+          ],
+          "start_line": "L0095",
+          "end_line": "L0096"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 701.92,
+      "source_end_s": 712.73,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 1,
+          "rows": 1,
+          "top_comment": "11:44 ❤ thought is the beginning of everything ❤",
+          "top_likes": 25,
+          "text": "1 viewer comment point at this exact moment, the top one with 25 likes"
+        },
+        {
+          "kind": "pause",
+          "seconds": 2.2,
+          "text": "a 2.2s pause lands inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I&t=701s",
+      "embed_url": "https://www.youtube.com/embed/fHBR1j1kJ1I?start=701&end=713",
+      "rank": 2,
+      "id": "clip2",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "1 viewer comment point at this exact moment, the top one with 25 likes",
+            "quote": "11:44 ❤ thought is the beginning of everything ❤",
+            "likes": 25
+          },
+          {
+            "kind": "pause",
+            "text": "a 2.2s pause lands inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "A twelve-second standalone claim about who the viewer is: everything you have — and everything you will have — began as a thought, and a thought converts mostly into action. It is the identity vein at its smallest size, and a viewer typed the line back word for word in a comment with 25 likes, which is the exact behaviour we are trying to predict. Short clips like this are the ones that travel furthest.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposed span but trimmed the leading 'तो,' throat-clearing so the clip opens clean on the claim; end stays on 'एक्शन' (L0096), where the thought completes.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "\"मेरी जींस खराब थीं, मेरा बचपन गलत रहा\" — नहीं। The day you decide, that is possible.",
+      "description": "The host asks what happens if someone in the 25-40 bracket missed both formative windows, and the neurologist dismantles every excuse — hardwired brain, bad genes, generational trauma — before landing on the payoff: \"the day you decide, the day you commit, that is possible.\"",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start back one line to open on the host's question (\"25 टू 40 में अगर मान लो कि ये दोनों बस छूट गई थी\") so the answer about starting from scratch has its question; ended at \"दैट इज पॉसिबल\", dropping \"सबसे पहला स्टेज इज अवेयरनेस\" which pivots into the next topic.",
+      "segments": [
+        {
+          "start_s": 1226.24,
+          "end_s": 1269.04,
+          "duration_s": 42.8,
+          "start_words": "चलो 25 टू 40 में अगर मान लो",
+          "end_words": "दैट इज पॉसिबल",
+          "start_line": "L0172",
+          "end_line": "L0177",
+          "match": {
+            "start": 1.0,
+            "end": 0.8
+          },
+          "text": "चलो 25 टू 40 में अगर मान लो कि ये दोनों बस छूट गई थी। हम क्या अब गए हम नहीं? अब अब हमें शुरुआत से शुरू करना है। तो भी कोई देयर इज नथिंग रोंग इन इट बिकॉज़ ऑफ़ द न्यूरोप्लास्टिसिटी। द डे यू स्टार्ट वर्किंग ऑन द ब्रेन। प्लास्टिसिटी एक इतनी सुंदर सी गिफ्ट है ना भगवान की। आप ऐसा नहीं समझो कि ओ मेरा तो ये हार्ड वायर्ड ब्रेन है। मैं मेरा ऐसे ही जींस है। सब कुछ ब्लेम कर दो ना। वो तो मेरे जींस खराब थे। उसने तो मेरा अभी मेरे मां-बाप ने ठीक मुझे रेज नहीं किया तो सब कुछ जनरेशन ट्रामा उन्होंने किया है। सब उन्होंने किया है। हां। तो अब मैं तो कुछ नहीं करूंगा। मैं बस बस सबके ऊपर गुस्सा करूंगा और फाइट फ्लाइट फियर फ्रीज में ही मेरी जिंदगी कट जाएगी। लेकिन ऐसा नहीं है। द डे यू डिसाइड द डे यू कमिट दैट यू वांट टू बिल्ड दिस फ्रंटल कॉर्टेक्स स्ट्रेंथ दैट इज",
+          "source_start_s": 1226.24,
+          "source_end_s": 1269.04
+        }
+      ],
+      "start_s": 1226.24,
+      "end_s": 1269.04,
+      "duration_s": 42.8,
+      "transcript": "चलो 25 टू 40 में अगर मान लो कि ये दोनों बस छूट गई थी। हम क्या अब गए हम नहीं? अब अब हमें शुरुआत से शुरू करना है। तो भी कोई देयर इज नथिंग रोंग इन इट बिकॉज़ ऑफ़ द न्यूरोप्लास्टिसिटी। द डे यू स्टार्ट वर्किंग ऑन द ब्रेन। प्लास्टिसिटी एक इतनी सुंदर सी गिफ्ट है ना भगवान की। आप ऐसा नहीं समझो कि ओ मेरा तो ये हार्ड वायर्ड ब्रेन है। मैं मेरा ऐसे ही जींस है। सब कुछ ब्लेम कर दो ना। वो तो मेरे जींस खराब थे। उसने तो मेरा अभी मेरे मां-बाप ने ठीक मुझे रेज नहीं किया तो सब कुछ जनरेशन ट्रामा उन्होंने किया है। सब उन्होंने किया है। हां। तो अब मैं तो कुछ नहीं करूंगा। मैं बस बस सबके ऊपर गुस्सा करूंगा और फाइट फ्लाइट फियर फ्रीज में ही मेरी जिंदगी कट जाएगी। लेकिन ऐसा नहीं है। द डे यू डिसाइड द डे यू कमिट दैट यू वांट टू बिल्ड दिस फ्रंटल कॉर्टेक्स स्ट्रेंथ दैट इज",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot3",
+          "title": "My genes were bad, my parents raised me wrong — और ऐसा नहीं है",
+          "why": "Excuse removal aimed at the exact story a late starter tells himself: 'my brain is hardwired, my genetics are bad, my childhood was wrong, generational trauma did this to me.' She repeats the excuse out loud in the viewer's own inner voice, then dismantles it with neuroplasticity and lands on 'the day you decide, the day you commit — that is possible.' The viewer who missed the 13-25 window hears that it is not too late, from a neurologist.",
+          "confidence": "HIGH",
+          "hook_strength": 6.0,
+          "signals_used": [],
+          "start_line": "L0173",
+          "end_line": "L0177"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 1226.24,
+      "source_end_s": 1269.04,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 1,
+          "rows": 1,
+          "top_comment": "I'm 19 20:38",
+          "top_likes": 0,
+          "text": "1 viewer comment point at this exact moment, the top one with 0 likes"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)"
+          ],
+          "text": "delivery shifts here: (fast)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I&t=1226s",
+      "embed_url": "https://www.youtube.com/embed/fHBR1j1kJ1I?start=1226&end=1270",
+      "rank": 3,
+      "id": "clip3",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "1 viewer comment point at this exact moment, the top one with 0 likes",
+            "quote": "I'm 19 20:38",
+            "likes": 0
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast)"
+          }
+        ],
+        "reading": "Excuse removal aimed at the exact story a late starter tells himself: 'my brain is hardwired, my genetics are bad, my childhood was wrong, generational trauma did this to me.' She repeats the excuse out loud in the viewer's own inner voice, then dismantles it with neuroplasticity and lands on 'the day you decide, the day you commit — that is possible.' The viewer who missed the 13-25 window hears that it is not too late, from a neurologist.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start back one line to open on the host's question (\"25 टू 40 में अगर मान लो कि ये दोनों बस छूट गई थी\") so the answer about starting from scratch has its question; ended at \"दैट इज पॉसिबल\", dropping \"सबसे पहला स्टेज इज अवेयरनेस\" which pivots into the next topic.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "डे भी आएगा, लॉस भी आएगा — व्हाट कम्स आउट ऑफ यू दैट डिफाइन यू, दैट डेस्टाइ्स यू",
+      "description": "A reframe of fate: every brain gets the same hits — bad days, loss, failure, a relationship crash — but none of that is your destiny. \"व्हाट कम्स आउट ऑफ यू दैट डिफाइन यू\" — what comes out of you when they arrive is what defines and destines you.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start back from L0465 to the sentence start \"देखो हर ब्रेन\" in L0463, because \"सब दिस इज लाइफ / ये सब आने के टाइम पे\" points back at the list of hits (डे, लॉस, फेलियर, रिलेशनशिप क्रैश) that a stranger would otherwise never hear. Kept the end on the landing \"दैट इज योर डेस्टिनी\" and stopped before the next clarification about disengagement.",
+      "segments": [
+        {
+          "start_s": 3328.32,
+          "end_s": 3349.12,
+          "duration_s": 20.8,
+          "start_words": "देखो हर ब्रेन",
+          "end_words": "दैट इज योर डेस्टिनी",
+          "start_line": "L0463",
+          "end_line": "L0466",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "देखो हर ब्रेन के चैलेंजेस सेम ही रहने वाले हैं हर सिचुएशन सेम ही रहने वाली है डे भी आएगा लॉस भी आएगा फेलियर भी आएगा रिलेशनशिप क्रैश भी करेगा ये तो सब दिस इज लाइफ आप ये सब आने के टाइम पे आप क्या दिखाते हो व्हाट कम्स आउट ऑफ यू दैट डिफाइन यू दैट डेस्टाइ्स यू मैं तो सोचती हूं वही डेस्टिनी है दैट इज योर डेस्टिनी",
+          "source_start_s": 3328.32,
+          "source_end_s": 3349.12
+        }
+      ],
+      "start_s": 3328.32,
+      "end_s": 3349.12,
+      "duration_s": 20.8,
+      "transcript": "देखो हर ब्रेन के चैलेंजेस सेम ही रहने वाले हैं हर सिचुएशन सेम ही रहने वाली है डे भी आएगा लॉस भी आएगा फेलियर भी आएगा रिलेशनशिप क्रैश भी करेगा ये तो सब दिस इज लाइफ आप ये सब आने के टाइम पे आप क्या दिखाते हो व्हाट कम्स आउट ऑफ यू दैट डिफाइन यू दैट डेस्टाइ्स यू मैं तो सोचती हूं वही डेस्टिनी है दैट इज योर डेस्टिनी",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot8",
+          "title": "डे भी आएगा, लॉस भी आएगा — व्हाट कम्स आउट ऑफ यू दैट डिफाइन यू",
+          "why": "A reframe of fate itself: everyone's brain gets the same hits — bad days, loss, failure, a relationship crash. None of that is your destiny. What comes out of you when they arrive is what defines you and destines you. It converts the viewer's misfortune from a verdict into a stage, which is precisely the shift someone carrying a fresh rejection needs.",
+          "confidence": "MEDIUM",
+          "hook_strength": 7.0,
+          "signals_used": [],
+          "start_line": "L0465",
+          "end_line": "L0466"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 3328.32,
+      "source_end_s": 3349.12,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 1,
+          "rows": 1,
+          "top_comment": "55:23 SOCHNE SE KUCH NHI MILEGA, KITNA DER TAKH SOCHTE RAHOGE ISSE ACCHA KUCH KAR LO 56:00",
+          "top_likes": 3,
+          "text": "1 viewer comment point at this exact moment, the top one with 3 likes"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I&t=3328s",
+      "embed_url": "https://www.youtube.com/embed/fHBR1j1kJ1I?start=3328&end=3350",
+      "rank": 4,
+      "id": "clip4",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "1 viewer comment point at this exact moment, the top one with 3 likes",
+            "quote": "55:23 SOCHNE SE KUCH NHI MILEGA, KITNA DER TAKH SOCHTE RAHOGE ISSE ACCHA KUCH KAR LO 56:00",
+            "likes": 3
+          }
+        ],
+        "reading": "A reframe of fate itself: everyone's brain gets the same hits — bad days, loss, failure, a relationship crash. None of that is your destiny. What comes out of you when they arrive is what defines you and destines you. It converts the viewer's misfortune from a verdict into a stage, which is precisely the shift someone carrying a fresh rejection needs.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start back from L0465 to the sentence start \"देखो हर ब्रेन\" in L0463, because \"सब दिस इज लाइफ / ये सब आने के टाइम पे\" points back at the list of hits (डे, लॉस, फेलियर, रिलेशनशिप क्रैश) that a stranger would otherwise never hear. Kept the end on the landing \"दैट इज योर डेस्टिनी\" and stopped before the next clarification about disengagement.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "The most dangerous people are the ones who can stay calm when they are disrespected",
+      "description": "A quotable reframe of disrespect as a demonstration of power, paid off by a live-show story where a speaker gets bashed on stage and shows zero change in body language: 'that is what I call a peak performer.' Ends on the landing — 'that is the capacity of the frontal cortex.'",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposal. L0433 opens on the self-standing claim (no earlier question exists to recover), and L0438 lands the payoff before the host pivots to the billionaires topic at L0441.",
+      "segments": [
+        {
+          "start_s": 3105.76,
+          "end_s": 3147.36,
+          "duration_s": 41.6,
+          "start_words": "द मोस्ट डेंजरस पीपल आर द वंस",
+          "end_words": "दैट इज द कैपेसिटी ऑफ़ द फ्रंटल कॉर्टेक्स",
+          "start_line": "L0433",
+          "end_line": "L0438",
+          "match": {
+            "start": 1.0,
+            "end": 0.88
+          },
+          "text": "द मोस्ट डेंजरस पीपल आर द वंस हु कैन स्टे काम व्हेन दे आर डिसरिस्पेक्टेड ब्यूटीफुल ब्यूटीफुल आय हैड सच अ सिचुएशन अ कपल ऑफ वीक्स बैक आई कॉल्ड अमेजिंग पर्सन एंड ही वास् गिविंग हिज़ लेक्चर तो आई वाज मॉडरेटिंग द शो एंड देन आई हैड अनदर गाए हु वॉक्स इन एंड कंप्लीटली बैश्ड द होल दिस ऑफ इट नाउ ही इज एट अ वेरी हाई स्ट्रेचर बट ही केम आउट ऑफ द शो एंड ही सेड लुक दिस इस द टेस्ट व्हिच केम इन एंड कंप्लीटली जीरो चेंजेस इन ह बॉडी लैंग्वेज जीरो चेंज इन ह फिजियोलॉजी नाउ दैट इज व्हाट आई कॉल अ पीक परफॉर्मर कि कोई भी चाहे आप आपको लोग गाली भी दे रहे हो आपको कुछ भी बता रहे हो बट यू आर नॉट डिस्टर्बड इनसाइड दैट इज द कैपेसिटी ऑफ़ द फ्रंटल कॉर्टेक्स",
+          "source_start_s": 3105.76,
+          "source_end_s": 3147.36
+        }
+      ],
+      "start_s": 3105.76,
+      "end_s": 3147.36,
+      "duration_s": 41.6,
+      "transcript": "द मोस्ट डेंजरस पीपल आर द वंस हु कैन स्टे काम व्हेन दे आर डिसरिस्पेक्टेड ब्यूटीफुल ब्यूटीफुल आय हैड सच अ सिचुएशन अ कपल ऑफ वीक्स बैक आई कॉल्ड अमेजिंग पर्सन एंड ही वास् गिविंग हिज़ लेक्चर तो आई वाज मॉडरेटिंग द शो एंड देन आई हैड अनदर गाए हु वॉक्स इन एंड कंप्लीटली बैश्ड द होल दिस ऑफ इट नाउ ही इज एट अ वेरी हाई स्ट्रेचर बट ही केम आउट ऑफ द शो एंड ही सेड लुक दिस इस द टेस्ट व्हिच केम इन एंड कंप्लीटली जीरो चेंजेस इन ह बॉडी लैंग्वेज जीरो चेंज इन ह फिजियोलॉजी नाउ दैट इज व्हाट आई कॉल अ पीक परफॉर्मर कि कोई भी चाहे आप आपको लोग गाली भी दे रहे हो आपको कुछ भी बता रहे हो बट यू आर नॉट डिस्टर्बड इनसाइड दैट इज द कैपेसिटी ऑफ़ द फ्रंटल कॉर्टेक्स",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot2",
+          "title": "The most dangerous people can stay calm when they are disrespected",
+          "why": "A one-line quotable that reframes being disrespected — something the 2am viewer experienced this week — from humiliation into a demonstration of power, followed by a short story (a speaker bashed live on a show, zero change in his body language) that pays it off: 'that is what I call a peak performer.' Shareable to the exact person who insulted you. The first sentence is liftable as the hook.",
+          "confidence": "HIGH",
+          "hook_strength": 9.0,
+          "signals_used": [
+            "[REPLAYED] on L0436"
+          ],
+          "start_line": "L0433",
+          "end_line": "L0438"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 3105.76,
+      "source_end_s": 3147.36,
+      "evidence": [
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I&t=3105s",
+      "embed_url": "https://www.youtube.com/embed/fHBR1j1kJ1I?start=3105&end=3148",
+      "rank": 5,
+      "id": "clip5",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          }
+        ],
+        "reading": "A one-line quotable that reframes being disrespected — something the 2am viewer experienced this week — from humiliation into a demonstration of power, followed by a short story (a speaker bashed live on a show, zero change in his body language) that pays it off: 'that is what I call a peak performer.' Shareable to the exact person who insulted you. The first sentence is liftable as the hook.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposal. L0433 opens on the self-standing claim (no earlier question exists to recover), and L0438 lands the payoff before the host pivots to the billionaires topic at L0441.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "95% of people procrastinate because the brain is lazy — do the shitty draft first",
+      "description": "The host drops a guessing game — how many people procrastinate? — lands the shocking answer (95%), explains it with 'बिकॉज़ फंडामेंटली ब्रेन इज़ लेज़', and gives the fix: do the shitty draft first, because the first five minutes pull the brain into the room and create momentum.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start back from L0493 to the survey question 'कितने? गेस करना आप' in L0490 — the 95% reveal is an answer to that guess and lands far harder with it. Kept the proposed end on 'द फर्स्ट फाइव मिनट्स', which completes the instruction; cut before the new topic at L0500.",
+      "segments": [
+        {
+          "start_s": 3541.44,
+          "end_s": 3596.97,
+          "duration_s": 55.53,
+          "start_words": "देयर वाज़ अ सर्वे व्हिच वाज़ डन",
+          "end_words": "अब्सोलुटली। द फर्स्ट फाइव मिनट्स।",
+          "start_line": "L0490",
+          "end_line": "L0498",
+          "match": {
+            "start": 0.71,
+            "end": 1.0
+          },
+          "text": "देयर वाज़ अ सर्वे व्हिच वाज़ डन एंड एंड सर्वे वाज़ शॉकिंग क्या सर्वे था सर्वे में पता किया कि कितने लोग प्रो प्रोक्रास्टिनेटर्स होते हैं। कितने? गेस करना आप। दैट सर्वे वाज़ ऑलमोस्ट अ वैरी गुड गेस बिकॉज़ 95% ऑफ़ द पीपल वेर प्रोक्रास्टिनेटर्स। इट वाज़ अ ह्यूज सर्वे। द साइंटिस्ट वंडर्ड कि यार 95% लोग प्रोक्रास्टिनेट करते हैं। मतलब 5% लोग ही काम कर पाते हैं। ऐसा क्यों है? बिकॉज़ फंडामेंटली ब्रेन इज़ लेज़। उसको करना ही नहीं है। इट्स हैप्पी वेयर इट इज़। सो दैट एंड एंड देयर इज़ अ वे इन व्हिच यू कैन ब्रेक द प्रोक्रेस्टिनेशन। सिंपल से स्टेप्स हैं। डू द सिटी ड्राफ्ट फर्स्ट। कर लो बस। पहली 5 मिनट आपने अगर काम कर लिया ना तो अपने आप ब्रेन वो गैर में आ जाएगा। चाहे तो एक कॉफी पहले ही प्राइम कर लो। भाई मैं तुम्हें कैफेन दे रही हूं। अब काम कर लो और कर लो। यू नो सो मोमेंटम। यस। क्रिएट मोमेंटम। अब्सोलुटली। द फर्स्ट फाइव मिनट्स।",
+          "source_start_s": 3541.44,
+          "source_end_s": 3596.97
+        }
+      ],
+      "start_s": 3541.44,
+      "end_s": 3596.97,
+      "duration_s": 55.53,
+      "transcript": "देयर वाज़ अ सर्वे व्हिच वाज़ डन एंड एंड सर्वे वाज़ शॉकिंग क्या सर्वे था सर्वे में पता किया कि कितने लोग प्रो प्रोक्रास्टिनेटर्स होते हैं। कितने? गेस करना आप। दैट सर्वे वाज़ ऑलमोस्ट अ वैरी गुड गेस बिकॉज़ 95% ऑफ़ द पीपल वेर प्रोक्रास्टिनेटर्स। इट वाज़ अ ह्यूज सर्वे। द साइंटिस्ट वंडर्ड कि यार 95% लोग प्रोक्रास्टिनेट करते हैं। मतलब 5% लोग ही काम कर पाते हैं। ऐसा क्यों है? बिकॉज़ फंडामेंटली ब्रेन इज़ लेज़। उसको करना ही नहीं है। इट्स हैप्पी वेयर इट इज़। सो दैट एंड एंड देयर इज़ अ वे इन व्हिच यू कैन ब्रेक द प्रोक्रेस्टिनेशन। सिंपल से स्टेप्स हैं। डू द सिटी ड्राफ्ट फर्स्ट। कर लो बस। पहली 5 मिनट आपने अगर काम कर लिया ना तो अपने आप ब्रेन वो गैर में आ जाएगा। चाहे तो एक कॉफी पहले ही प्राइम कर लो। भाई मैं तुम्हें कैफेन दे रही हूं। अब काम कर लो और कर लो। यू नो सो मोमेंटम। यस। क्रिएट मोमेंटम। अब्सोलुटली। द फर्स्ट फाइव मिनट्स।",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot4",
+          "title": "95% of people procrastinate because the brain is lazy — do the shitty draft first",
+          "why": "The counter-intuitive instruction that removes the viewer's real excuse: it is not that you lack discipline, it is that the brain is fundamentally lazy and happy where it is — so stop negotiating with it and just produce the shitty draft. 'पहली 5 मिनट आपने अगर काम कर लिया ना तो अपने आप ब्रेन वो गैर में आ जाएगा' is something the viewer can start tonight, which is exactly why they screenshot it.",
+          "confidence": "HIGH",
+          "hook_strength": 7.0,
+          "signals_used": [
+            "[REPLAYED] on L0493"
+          ],
+          "start_line": "L0493",
+          "end_line": "L0498"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 3541.44,
+      "source_end_s": 3596.97,
+      "evidence": [
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        },
+        {
+          "kind": "pause",
+          "seconds": 1.6,
+          "text": "a 1.6s pause lands inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)",
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (fast) (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I&t=3541s",
+      "embed_url": "https://www.youtube.com/embed/fHBR1j1kJ1I?start=3541&end=3597",
+      "rank": 6,
+      "id": "clip6",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          },
+          {
+            "kind": "pause",
+            "text": "a 1.6s pause lands inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast) (slow)"
+          }
+        ],
+        "reading": "The counter-intuitive instruction that removes the viewer's real excuse: it is not that you lack discipline, it is that the brain is fundamentally lazy and happy where it is — so stop negotiating with it and just produce the shitty draft. 'पहली 5 मिनट आपने अगर काम कर लिया ना तो अपने आप ब्रेन वो गैर में आ जाएगा' is something the viewer can start tonight, which is exactly why they screenshot it.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start back from L0493 to the survey question 'कितने? गेस करना आप' in L0490 — the 95% reveal is an answer to that guess and lands far harder with it. Kept the proposed end on 'द फर्स्ट फाइव मिनट्स', which completes the instruction; cut before the new topic at L0500.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "लाइफ चल रही है। लाइफ हो नहीं रही। You are not making life — life is making you.",
+      "description": "A hidden-mechanism inversion: most people are unaware, life is running them instead of them running life — 'यू आर नॉट मेकिंग लाइफ। लाइफ इज मेकिंग यू।' It closes on the fork that makes it actionable: when you take control versus when everything around you takes control over you.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start forward one sentence to 'मोस्ट पीपल आर अनअवेयर ना?' — the proposed first line ('सक्सेस ज्यादा होता था।') was the tail of the previous study answer and points backwards. End kept at 'द कंट्रोल ओवर यू।', stopping just before 'मुझे एक स्टोरी याद आती है', which belongs to the separate Ferrari-story clip.",
+      "segments": [
+        {
+          "start_s": 2015.36,
+          "end_s": 2032.08,
+          "duration_s": 16.72,
+          "start_words": "मोस्ट पीपल आर अनअवेयर ना?",
+          "end_words": "द कंट्रोल ओवर यू।",
+          "start_line": "L0276",
+          "end_line": "L0277",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "मोस्ट पीपल आर अनअवेयर ना? पता ही नहीं है कि मैं मेरे दिन में क्या हो रहा है। लाइफ चल रही है। लाइफ हो नहीं रही। यू आर नॉट मेकिंग लाइफ। लाइफ इज मेकिंग यू। सो यू शुड दिस इज़ अ वेरी सिग्निफिकेंट डिफरेंस बिटवीन व्हेन यू टेक द कंट्रोल ओवर वर्सेस एवरीथिंग अराउंड टेक्स द कंट्रोल ओवर यू।",
+          "source_start_s": 2015.36,
+          "source_end_s": 2032.08
+        }
+      ],
+      "start_s": 2015.36,
+      "end_s": 2032.08,
+      "duration_s": 16.72,
+      "transcript": "मोस्ट पीपल आर अनअवेयर ना? पता ही नहीं है कि मैं मेरे दिन में क्या हो रहा है। लाइफ चल रही है। लाइफ हो नहीं रही। यू आर नॉट मेकिंग लाइफ। लाइफ इज मेकिंग यू। सो यू शुड दिस इज़ अ वेरी सिग्निफिकेंट डिफरेंस बिटवीन व्हेन यू टेक द कंट्रोल ओवर वर्सेस एवरीथिंग अराउंड टेक्स द कंट्रोल ओवर यू।",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot5",
+          "title": "लाइफ चल रही है। लाइफ हो नहीं रही। Life is making you.",
+          "why": "A hidden-mechanism inversion that stops the thumb: most people are unaware, life is running them instead of them running life — 'यू आर नॉट मेकिंग लाइफ। लाइफ इज मेकिंग यू।' Then the fork that follows makes it actionable: the difference between when you take control and when everything around you takes control over you. The viewer scrolls to the next video feeling watched, and slightly afraid of their own autopilot. A version with the story clip cut immediately after it also works.",
+          "confidence": "HIGH",
+          "hook_strength": 7.0,
+          "signals_used": [],
+          "start_line": "L0276",
+          "end_line": "L0277"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 2015.36,
+      "source_end_s": 2032.08,
+      "evidence": [],
+      "youtube_url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I&t=2015s",
+      "embed_url": "https://www.youtube.com/embed/fHBR1j1kJ1I?start=2015&end=2033",
+      "rank": 7,
+      "id": "clip7",
+      "why_chosen": {
+        "measured": [],
+        "reading": "A hidden-mechanism inversion that stops the thumb: most people are unaware, life is running them instead of them running life — 'यू आर नॉट मेकिंग लाइफ। लाइफ इज मेकिंग यू।' Then the fork that follows makes it actionable: the difference between when you take control and when everything around you takes control over you. The viewer scrolls to the next video feeling watched, and slightly afraid of their own autopilot. A version with the story clip cut immediately after it also works.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start forward one sentence to 'मोस्ट पीपल आर अनअवेयर ना?' — the proposed first line ('सक्सेस ज्यादा होता था।') was the tail of the previous study answer and points backwards. End kept at 'द कंट्रोल ओवर यू।', stopping just before 'मुझे एक स्टोरी याद आती है', which belongs to the separate Ferrari-story clip.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "मैं कब से सोच रहा था ये बंद कैसे होगी? ऐसे बंद होती है ठुक के।",
+      "description": "The Dubai nephew crashes his Ferrari and panics about his village uncle's reaction — and the uncle's laugh ('I was wondering all along how this thing stops') flips into the lesson: people run on outer brakes until they crash via illness, stress or burnout, when what they needed was to understand the brakes inside.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start forward inside L0277 to begin on 'मुझे एक स्टोरी याद आती है', dropping the tail of the previous chronotype point so the clip opens on a clean sentence. Kept the finder's ending shape but ran to 'सब सब मुमकिन है' so the landing sentence completes, stopping before the drift back into chronotypes at 'लिमिटलेस पोटेंशियल्स'.",
+      "segments": [
+        {
+          "start_s": 2032.08,
+          "end_s": 2125.12,
+          "duration_s": 93.04,
+          "start_words": "मुझे एक स्टोरी याद आती है",
+          "end_words": "सब सब मुमकिन है",
+          "start_line": "L0277",
+          "end_line": "L0288",
+          "match": {
+            "start": 0.91,
+            "end": 0.33
+          },
+          "text": "मुझे एक स्टोरी याद आती है। देयर वाज़ अ यंग गाय हु वाज़ वेरी यू नो एकदम बिल्कुल 25 साल का डैशिंग सा बंदा था दुबई में। उसने अपने चाचा जी को बुला लिया। कोई गांव में गुजरात के छोटे से गांव से आ रहा है। तो चाचा जी इस लाइक वाओ ये तो एकदम दुबई-वब में है। फरारी है। चलो मैं आपको शेख ज़हद पे लेके जाऊंगा। फ्यूचर म्यूजियम। बड़ा सारा सब दिखा रहा है। ब द अंकल इज़ वेरी हैप्पी टू सी द किड। द किड इज़ राइडिंग इन ऑल द टशन। यू नो। अब जा रहे हैं, जा रहे हैं, जा रहे हैं, जा रहे हैं और गाड़ी अथड़ा के बंद हो जाती है। देयर इज़ एन एक्सीडेंट। द कार स्टॉप्स एंड द बॉय इज परट्रब्ड। अरे बाप रे एक्सीडेंट हो गया। फरारी ये वो अंकल क्या सोचेंगे? सडनली वो हो जाता है ना। अंकल एकदम बड़े मजे से बैठे हैं। अंकल को कोई फर्क नहीं पड़ रहा है। तो वो बोल रहा है अंकल इतना सब हो गया। आपको क्यों कुछ नहीं हो रहा है। बोले बेटे तूने मुझे बुलाया। मैं छोटे से गांव से आया। ब्यूटीफुल लव्ड योर कार। आपने जिस तरह से चलाया, हम जा रहे थे। हम सब देख रहे थे। मैं कब से सोच रहा था ये बंद कैसे होगी? ऐसे बंद होती है ठुक के। सो हमारी लाइफ में भी अंदर भी ब्रेक है और बाहर भी ब्रेक है। अब ज्यादा करके लोग बाहर की ब्रेक से चलते हैं। ठुक जाते हैं। क्या हो गया? सडनली बीमार पड़ गए। स्ट्रेस में आ गए। बर्न आउट हो गए। क्या हो गया? बाहर की ब्रेक लग गई। व्हाट यू नीड टू डू इज़ अंडरस्टैंड द ब्रेक्स इनसाइड। एंड दैट इज थ्रू द फ्रंटल कॉटेक्स। द पावर ऑफ़ द ब्रेन। द मोमेंट यू हारनेस दैट एवरीथिंग बिकम्स पॉसिबल एवरीथिंग बिकम्स पोटेंशियल सब सब मुमकिन है। लिमिटलेस पोटेंशियल्स आर देयर 24 आवर्स सबके सेम सबकी फिजियोलॉजी सेम सबकी कैपेसिटी सेम। सो अवेयरनेस",
+          "source_start_s": 2032.08,
+          "source_end_s": 2125.12
+        }
+      ],
+      "start_s": 2032.08,
+      "end_s": 2125.12,
+      "duration_s": 93.04,
+      "transcript": "मुझे एक स्टोरी याद आती है। देयर वाज़ अ यंग गाय हु वाज़ वेरी यू नो एकदम बिल्कुल 25 साल का डैशिंग सा बंदा था दुबई में। उसने अपने चाचा जी को बुला लिया। कोई गांव में गुजरात के छोटे से गांव से आ रहा है। तो चाचा जी इस लाइक वाओ ये तो एकदम दुबई-वब में है। फरारी है। चलो मैं आपको शेख ज़हद पे लेके जाऊंगा। फ्यूचर म्यूजियम। बड़ा सारा सब दिखा रहा है। ब द अंकल इज़ वेरी हैप्पी टू सी द किड। द किड इज़ राइडिंग इन ऑल द टशन। यू नो। अब जा रहे हैं, जा रहे हैं, जा रहे हैं, जा रहे हैं और गाड़ी अथड़ा के बंद हो जाती है। देयर इज़ एन एक्सीडेंट। द कार स्टॉप्स एंड द बॉय इज परट्रब्ड। अरे बाप रे एक्सीडेंट हो गया। फरारी ये वो अंकल क्या सोचेंगे? सडनली वो हो जाता है ना। अंकल एकदम बड़े मजे से बैठे हैं। अंकल को कोई फर्क नहीं पड़ रहा है। तो वो बोल रहा है अंकल इतना सब हो गया। आपको क्यों कुछ नहीं हो रहा है। बोले बेटे तूने मुझे बुलाया। मैं छोटे से गांव से आया। ब्यूटीफुल लव्ड योर कार। आपने जिस तरह से चलाया, हम जा रहे थे। हम सब देख रहे थे। मैं कब से सोच रहा था ये बंद कैसे होगी? ऐसे बंद होती है ठुक के। सो हमारी लाइफ में भी अंदर भी ब्रेक है और बाहर भी ब्रेक है। अब ज्यादा करके लोग बाहर की ब्रेक से चलते हैं। ठुक जाते हैं। क्या हो गया? सडनली बीमार पड़ गए। स्ट्रेस में आ गए। बर्न आउट हो गए। क्या हो गया? बाहर की ब्रेक लग गई। व्हाट यू नीड टू डू इज़ अंडरस्टैंड द ब्रेक्स इनसाइड। एंड दैट इज थ्रू द फ्रंटल कॉटेक्स। द पावर ऑफ़ द ब्रेन। द मोमेंट यू हारनेस दैट एवरीथिंग बिकम्स पॉसिबल एवरीथिंग बिकम्स पोटेंशियल सब सब मुमकिन है। लिमिटलेस पोटेंशियल्स आर देयर 24 आवर्स सबके सेम सबकी फिजियोलॉजी सेम सबकी कैपेसिटी सेम। सो अवेयरनेस",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot7",
+          "title": "The Ferrari and the chacha: मैं कब से सोच रहा था ये बंद कैसे होगी? ऐसे बंद होती है ठुक के।",
+          "why": "A story that detonates: the Dubai nephew crashes his Ferrari and panics about what his village uncle will think — and the uncle's laugh ('I was wondering all along how this thing stops') flips into the lesson. Outer brakes vs inner brakes: people run until they crash from outside — sudden illness, stress, burnout — when what they needed was to understand the brakes inside. The build is doing real work here; the payoff reorganises the preceding minute. Runs long (~85s), so it needs a later trim, but the build is the clip.",
+          "confidence": "MEDIUM",
+          "hook_strength": 4.0,
+          "signals_used": [
+            "[REPLAYED] on L0273 nearby"
+          ],
+          "start_line": "L0277",
+          "end_line": "L0288"
+        }
+      ],
+      "flags": [
+        "end words unmatched (weak match 0.33) -- using line L0288",
+        "end: weak match 0.33"
+      ],
+      "source_start_s": 2032.08,
+      "source_end_s": 2125.12,
+      "evidence": [
+        {
+          "kind": "pause",
+          "seconds": 1.8,
+          "text": "a 1.8s pause lands inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)",
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (fast) (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I&t=2032s",
+      "embed_url": "https://www.youtube.com/embed/fHBR1j1kJ1I?start=2032&end=2126",
+      "rank": 8,
+      "id": "clip8",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "pause",
+            "text": "a 1.8s pause lands inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast) (slow)"
+          }
+        ],
+        "reading": "A story that detonates: the Dubai nephew crashes his Ferrari and panics about what his village uncle will think — and the uncle's laugh ('I was wondering all along how this thing stops') flips into the lesson. Outer brakes vs inner brakes: people run until they crash from outside — sudden illness, stress, burnout — when what they needed was to understand the brakes inside. The build is doing real work here; the payoff reorganises the preceding minute. Runs long (~85s), so it needs a later trim, but the build is the clip.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start forward inside L0277 to begin on 'मुझे एक स्टोरी याद आती है', dropping the tail of the previous chronotype point so the clip opens on a clean sentence. Kept the finder's ending shape but ran to 'सब सब मुमकिन है' so the landing sentence completes, stopping before the drift back into chronotypes at 'लिमिटलेस पोटेंशियल्स'.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "\"I have got two limbs and two legs, and I have to make it happen\" — the neurologist's morning rule",
+      "description": "A neurologist who sees paralyzed patients daily explains why she attaches meaning to waking up every morning, and turns gratitude into fuel: you have the asset, now drive it. Ends on the clean landing 'constant drive, constant motivation.'",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposed boundaries. Start begins a clean sentence ('So always attach your waking up...') that needs no earlier context; end stops at 'motivation' before the next separate claim about motivation-coming-from-outside begins.",
+      "segments": [
+        {
+          "start_s": 3692.24,
+          "end_s": 3714.72,
+          "duration_s": 22.48,
+          "start_words": "सो ऑलवेज अटैच योर वेकिंग",
+          "end_words": "कॉन्स्टेंट ड्राइव कास्टेंट मोटिवेशन",
+          "start_line": "L0515",
+          "end_line": "L0517",
+          "match": {
+            "start": 1.0,
+            "end": 0.86
+          },
+          "text": "सो ऑलवेज अटैच योर वेकिंग अप इन द मॉर्निंग टू आल्सो मीनिंग। अब मैं तो न्यूरोलॉजिस्ट हूं। सो हम काफी सारे पेशेंट्स देखते हैं जो पैरालाइज्ड है जिनकी कभी आंख चली जाती है बोल नहीं पाते हैं। सो एवरी डे आई वेक अप विथ द फीलिंग कि भाई आई हैव गॉट टू लिम्स एंड टू लेग्स एंड दिस सो आई हैव टू मेक इट हैपन। सो यू हैव टू हैव द ड्राइव। कॉनस्टेंट ड्राइव कास्टेंट मोटिवेशन",
+          "source_start_s": 3692.24,
+          "source_end_s": 3714.72
+        }
+      ],
+      "start_s": 3692.24,
+      "end_s": 3714.72,
+      "duration_s": 22.48,
+      "transcript": "सो ऑलवेज अटैच योर वेकिंग अप इन द मॉर्निंग टू आल्सो मीनिंग। अब मैं तो न्यूरोलॉजिस्ट हूं। सो हम काफी सारे पेशेंट्स देखते हैं जो पैरालाइज्ड है जिनकी कभी आंख चली जाती है बोल नहीं पाते हैं। सो एवरी डे आई वेक अप विथ द फीलिंग कि भाई आई हैव गॉट टू लिम्स एंड टू लेग्स एंड दिस सो आई हैव टू मेक इट हैपन। सो यू हैव टू हैव द ड्राइव। कॉनस्टेंट ड्राइव कास्टेंट मोटिवेशन",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot10",
+          "title": "The neurologist who wakes up grateful for two limbs and two legs",
+          "why": "Perspective shift from someone who has standing to give it: she sees paralyzed patients daily, so every morning she wakes with 'I have got two limbs and two legs, and I have to make it happen.' It converts the viewer's reluctance to get up into gratitude with direction — not 'be thankful' as comfort but 'you have the asset, drive it' as fuel. Attach your waking up to meaning, she says first, which makes it an instruction rather than a mood.",
+          "confidence": "MEDIUM",
+          "hook_strength": 5.0,
+          "signals_used": [],
+          "start_line": "L0515",
+          "end_line": "L0517"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 3692.24,
+      "source_end_s": 3714.72,
+      "evidence": [],
+      "youtube_url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I&t=3692s",
+      "embed_url": "https://www.youtube.com/embed/fHBR1j1kJ1I?start=3692&end=3715",
+      "rank": 9,
+      "id": "clip9",
+      "why_chosen": {
+        "measured": [],
+        "reading": "Perspective shift from someone who has standing to give it: she sees paralyzed patients daily, so every morning she wakes with 'I have got two limbs and two legs, and I have to make it happen.' It converts the viewer's reluctance to get up into gratitude with direction — not 'be thankful' as comfort but 'you have the asset, drive it' as fuel. Attach your waking up to meaning, she says first, which makes it an instruction rather than a mood.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposed boundaries. Start begins a clean sentence ('So always attach your waking up...') that needs no earlier context; end stops at 'motivation' before the next separate claim about motivation-coming-from-outside begins.",
+        "has_audience": false
+      }
+    },
+    {
+      "title": "People are addicted to negative self-talk — 'मेरे से तो कुछ नहीं होगा' is not honesty, it's addiction",
+      "description": "A speaker names the private habit of telling yourself 'मेरे से तो कुछ नहीं होगा, I'm not smart enough, I'm not good enough' and reframes it: automatic negative thinking is the default mode, not the truth. The viewer feels seen and then handed the way out.",
+      "category": "motivational",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposed boundaries. The start lands on a fresh sentence within L0717 (no question sits behind this claim to pull in), and L0718's 'ऑटोमेटिक नेगेटिव थिंकिंग इज द डिफॉल्ट मोड' is the clean landing; the default-mode-network digression after it is a separate claim left for its own clip.",
+      "segments": [
+        {
+          "start_s": 5212.88,
+          "end_s": 5230.56,
+          "duration_s": 17.68,
+          "start_words": "एंड लॉट ऑफ़ पीपल आर एडिक्टेड टू नेगेटिव टॉक",
+          "end_words": "ऑटोमेटिक नेगेटिव थिंकिंग इज द डिफॉल्ट मोड",
+          "start_line": "L0717",
+          "end_line": "L0718",
+          "match": {
+            "start": 0.82,
+            "end": 0.92
+          },
+          "text": "एंड लॉट ऑफ़ पीपल आर एडिक्टेड टू नेगेटिव टॉक। राइट? वो अलग टाइप की नेगेटिविटी है। अलग टाइप का एडिक्शन है। कि लोग खुद ही को बोलते हैं मेरे से तो कुछ नहीं होगा। आई एम नॉट स्मार्ट इनफ। आई एम नॉट गुड इनफ। मेरे से हो नहीं पाता है। मैं तो ऐसा हूं। लाइक एंड ऑटोमेटिक नेगेटिव थिंकिंग इज द डिफॉल्ट",
+          "source_start_s": 5212.88,
+          "source_end_s": 5230.56
+        }
+      ],
+      "start_s": 5212.88,
+      "end_s": 5230.56,
+      "duration_s": 17.68,
+      "transcript": "एंड लॉट ऑफ़ पीपल आर एडिक्टेड टू नेगेटिव टॉक। राइट? वो अलग टाइप की नेगेटिविटी है। अलग टाइप का एडिक्शन है। कि लोग खुद ही को बोलते हैं मेरे से तो कुछ नहीं होगा। आई एम नॉट स्मार्ट इनफ। आई एम नॉट गुड इनफ। मेरे से हो नहीं पाता है। मैं तो ऐसा हूं। लाइक एंड ऑटोमेटिक नेगेटिव थिंकिंग इज द डिफॉल्ट",
+      "nominated_by": [
+        "motivational"
+      ],
+      "step1": [
+        {
+          "category": "motivational",
+          "id": "mot9",
+          "title": "People are addicted to negative talk — मेरे से तो कुछ नहीं होगा",
+          "why": "Names a private habit the viewer has never heard said out loud: saying 'मेरे से तो कुछ नहीं होगा, I'm not smart enough, I'm not good enough' to yourself is not honesty, it is an addiction — and automatic negative thinking is the default mode, not the truth. The relief of being seen is the hit; the reframe (it is a default, not a fact) is the door out.",
+          "confidence": "MEDIUM",
+          "hook_strength": 7.0,
+          "signals_used": [
+            "comment marker 'Negative talk 1:26:50' on L0716"
+          ],
+          "start_line": "L0717",
+          "end_line": "L0718"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 5212.88,
+      "source_end_s": 5230.56,
+      "evidence": [],
+      "youtube_url": "https://www.youtube.com/watch?v=fHBR1j1kJ1I&t=5212s",
+      "embed_url": "https://www.youtube.com/embed/fHBR1j1kJ1I?start=5212&end=5231",
+      "rank": 10,
+      "id": "clip10",
+      "why_chosen": {
+        "measured": [],
+        "reading": "Names a private habit the viewer has never heard said out loud: saying 'मेरे से तो कुछ नहीं होगा, I'm not smart enough, I'm not good enough' to yourself is not honesty, it is an addiction — and automatic negative thinking is the default mode, not the truth. The relief of being seen is the hit; the reframe (it is a default, not a fact) is the door out.",
+        "found_by": [
+          "motivational"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposed boundaries. The start lands on a fresh sentence within L0717 (no question sits behind this claim to pull in), and L0718's 'ऑटोमेटिक नेगेटिव थिंकिंग इज द डिफॉल्ट मोड' is the clean landing; the default-mode-network digression after it is a separate claim left for its own clip.",
+        "has_audience": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+/* ═══════════════════════════════════════════════════════════════
+   CLAUDE DESKTOP PIXEL-PERFECT THEME FOR WOWCLIP
+   ═══════════════════════════════════════════════════════════════ */
+
+:root {
+    --bg-canvas: #1e1e1e;
+    --bg-card: #262524;
+    --bg-card-focus: #2a2928;
+    --bg-pill: #33322f;
+    --bg-pill-active: #3c3b38;
+    --border-subtle: #383734;
+    --border-hover: #4d4c48;
+    --text-hero: #e9e4dc;
+    --text-primary: #f2ece2;
+    --text-secondary: #9e9a93;
+    --text-placeholder: #6b6760;
+    --accent-coral: #d97757;
+    --font-serif: 'Newsreader', Georgia, serif;
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --card-radius: 20px;
+    --pill-radius: 9999px;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    background-color: var(--bg-canvas);
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    height: 100%;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+}
+
+.app-root {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    background-color: var(--bg-canvas);
+}
+
+/* ───────────────────────── HEADER ───────────────────────── */
+.app-header {
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 24px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    z-index: 100;
+    flex-shrink: 0;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.nav-icon-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+    border-radius: 4px;
+    transition: color 0.15s;
+}
+
+.nav-icon-btn:hover {
+    color: var(--text-primary);
+}
+
+.project-breadcrumbs {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+    user-select: none;
+}
+
+.project-breadcrumbs:hover .crumb-pipeline {
+    color: var(--text-primary);
+}
+
+.cloud-icon {
+    font-size: 1rem;
+    opacity: 0.85;
+}
+
+.crumb-sep {
+    opacity: 0.4;
+}
+
+.crumb-pipeline {
+    font-weight: 500;
+    color: var(--text-primary);
+}
+
+.crumb-arrow {
+    font-size: 0.75rem;
+    opacity: 0.6;
+}
+
+.brand-text {
+    font-size: 0.95rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: #ffffff;
+    opacity: 0.9;
+}
+
+/* ───────────────────────── CANVAS ───────────────────────── */
+.canvas {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow-y: auto;
+    width: 100%;
+}
+
+/* ───────────────────────── CENTER STAGE ───────────────────────── */
+.center-stage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: calc(100vh - 48px);
+    padding: 0 24px 60px 24px;
+    width: 100%;
+    margin: 0 auto;
+    transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* When pipeline is active, dock center stage to bottom */
+.center-stage.docked-bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-height: auto;
+    padding: 20px 24px 20px 24px;
+    background: linear-gradient(to top, var(--bg-canvas) 85%, transparent 100%);
+    z-index: 50;
+}
+
+.center-stage.docked-bottom .hero-title-wrap {
+    display: none;
+}
+
+.center-stage.docked-bottom .card-footer-disclaimer {
+    display: none;
+}
+
+/* ───────────────────────── HERO TITLE ───────────────────────── */
+.hero-title-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 28px;
+    user-select: none;
+    transition: opacity 0.3s ease;
+}
+
+.claude-sun-icon {
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    filter: drop-shadow(0 0 10px rgba(217, 119, 87, 0.25));
+}
+
+.hero-heading {
+    font-family: var(--font-serif);
+    font-size: 2.35rem;
+    font-weight: 400;
+    color: var(--text-hero);
+    letter-spacing: -0.015em;
+    line-height: 1.25;
+}
+
+/* ───────────────────────── CLAUDE CARD ───────────────────────── */
+.claude-card {
+    width: 100%;
+    max-width: 740px;
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--card-radius);
+    padding: 16px 20px 14px 20px;
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.35);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.claude-card:focus-within {
+    border-color: var(--border-hover);
+    background-color: var(--bg-card-focus);
+}
+
+/* Primary Prompt Row */
+.card-input-row {
+    width: 100%;
+}
+
+.main-prompt-input {
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-family: var(--font-sans);
+    font-size: 1.05rem;
+    color: var(--text-primary);
+    line-height: 1.4;
+}
+
+.main-prompt-input::placeholder {
+    color: var(--text-placeholder);
+    font-weight: 400;
+}
+
+/* Instruction & Animated Slideshow Row */
+.instruction-row {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding-top: 4px;
+}
+
+.slideshow-ticker {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 3px 6px;
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px dashed rgba(255, 255, 255, 0.08);
+    width: fit-content;
+    max-width: 100%;
+    transition: background 0.15s, border-color 0.15s;
+    user-select: none;
+}
+
+.slideshow-ticker:hover {
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(255, 255, 255, 0.18);
+    color: var(--text-primary);
+}
+
+.ticker-prefix {
+    color: var(--accent-coral);
+    font-weight: 500;
+    font-size: 0.82rem;
+}
+
+.ticker-text {
+    display: inline-block;
+    transition: opacity 0.35s ease, transform 0.35s ease;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.ticker-text.slide-out {
+    opacity: 0;
+    transform: translateY(-8px);
+}
+
+.ticker-text.slide-in {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.help-prompt-input {
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+    color: var(--text-primary);
+    padding: 2px 0;
+}
+
+.help-prompt-input::placeholder {
+    color: #55524d;
+    font-size: 0.85rem;
+}
+
+/* ───────────────────────── CARD TOOLBAR ───────────────────────── */
+.card-toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4px;
+    padding-top: 10px;
+}
+
+.toolbar-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.plus-btn {
+    width: 28px;
+    height: 28px;
+    border-radius: var(--pill-radius);
+    background: transparent;
+    border: 1px solid var(--border-subtle);
+    color: var(--text-secondary);
+    font-size: 1.15rem;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+.plus-btn:hover {
+    color: var(--text-primary);
+    border-color: var(--text-secondary);
+    background: rgba(255, 255, 255, 0.04);
+}
+
+.mode-pill-group {
+    display: flex;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: var(--pill-radius);
+    padding: 2px;
+    border: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+.mode-pill {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    font-family: var(--font-sans);
+    font-size: 0.82rem;
+    font-weight: 500;
+    padding: 5px 12px;
+    border-radius: var(--pill-radius);
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+.mode-pill:hover {
+    color: var(--text-primary);
+}
+
+.mode-pill.active {
+    background: var(--bg-pill-active);
+    color: var(--text-primary);
+    font-weight: 500;
+}
+
+.toolbar-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.model-picker-dropdown {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: var(--pill-radius);
+    transition: all 0.15s ease;
+    user-select: none;
+}
+
+.model-picker-dropdown:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.04);
+}
+
+.model-name {
+    font-weight: 500;
+    color: var(--text-primary);
+}
+
+.model-level {
+    color: var(--text-secondary);
+}
+
+.chevron-down {
+    font-size: 0.7rem;
+    opacity: 0.7;
+}
+
+.tool-icon-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px;
+    border-radius: var(--pill-radius);
+    transition: color 0.15s, background 0.15s;
+}
+
+.tool-icon-btn:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.04);
+}
+
+.send-action-btn {
+    width: 32px;
+    height: 32px;
+    border-radius: var(--pill-radius);
+    background: #363533;
+    border: none;
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.send-action-btn.active,
+.send-action-btn:hover {
+    background: #f4efe6;
+    color: #191817;
+    transform: scale(1.05);
+}
+
+.send-action-btn:active {
+    transform: scale(0.95);
+}
+
+/* Footer Disclaimer */
+.card-footer-disclaimer {
+    margin-top: 14px;
+    font-size: 0.75rem;
+    color: var(--text-placeholder);
+    text-align: center;
+    user-select: none;
+}
+
+.card-footer-disclaimer a {
+    color: var(--text-secondary);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+/* ───────────────────────── PIPELINE TREE VIEW ───────────────────────── */
+.pipeline-execution-view {
+    width: 100%;
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 32px 20px 180px 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.pipeline-execution-view.hidden {
+    display: none;
+}
+
+.tree-inner {
+    width: 100%;
+}
+
+.tree-breadcrumb-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    margin-bottom: 24px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.tree-breadcrumb-header .active-sub {
+    color: var(--text-primary);
+}
+
+.timeline-steps {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding-left: 20px;
+}
+
+/* Claude tree connecting vertical line */
+.timeline-steps::before {
+    content: '';
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    bottom: 16px;
+    width: 1px;
+    background: var(--border-subtle);
+}
+
+.timeline-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 10px 0;
+    position: relative;
+    opacity: 0;
+    transform: translateY(6px);
+    animation: timeline-fade 0.35s ease forwards;
+}
+
+@keyframes timeline-fade {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.item-icon {
+    width: 18px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg-canvas);
+    color: var(--text-secondary);
+    position: relative;
+    z-index: 2;
+    margin-left: -20px;
+}
+
+.item-icon svg {
+    width: 15px;
+    height: 15px;
+}
+
+.item-label {
+    font-size: 0.92rem;
+    color: var(--text-secondary);
+    font-family: var(--font-sans);
+}
+
+.item-label.active {
+    color: var(--text-primary);
+}
+
+.item-label strong {
+    color: var(--text-primary);
+    font-weight: 500;
+}
+
+/* ───────────────────────── SCROLLBAR ───────────────────────── */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--border-subtle);
+    border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--border-hover);
+}

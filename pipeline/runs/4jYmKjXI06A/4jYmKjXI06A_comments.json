@@ -1,0 +1,145 @@
+{
+  "ok": true,
+  "timestamped": [],
+  "general": [
+    {
+      "text": "Hello Sir 🙏🏻, Mahindra-7005 (65-Hp) Non-Turbo INDIA Mein Launch Hona Chahiye ABC-gear Aur Flat-Platform Ke Sath",
+      "likes": 2,
+      "replies": 0,
+      "dupes": 0,
+      "id": 7
+    },
+    {
+      "text": "Samoogathin meethu alapariya akkaraiyum anbum konda mamanidhar...Anand sir ungalin miga periya rasigai nan ,ungalin sevai menmelum sirrakka vazhthkkal sir.",
+      "likes": 1,
+      "replies": 0,
+      "dupes": 0,
+      "id": 0
+    },
+    {
+      "text": "Proud moment for all Mahindrites. Heartiest congratulations sir. Surely Indians are second to none in the World.",
+      "likes": 0,
+      "replies": 1,
+      "dupes": 0,
+      "id": 11
+    },
+    {
+      "text": "Sir, I'm in worst phase of my life without work. Ready to work as house staff, mopping floor to pay bills and survive with my mother.",
+      "likes": 0,
+      "replies": 0,
+      "dupes": 0,
+      "id": 9
+    },
+    {
+      "text": "Pilgrim real meaning is a wanderer with purpose. Great inspiration to all 👏👏👏",
+      "likes": 0,
+      "replies": 0,
+      "dupes": 0,
+      "id": 2
+    },
+    {
+      "text": "Blessed to have a great business leader like Mr Anand Mahindra",
+      "likes": 0,
+      "replies": 0,
+      "dupes": 0,
+      "id": 1
+    },
+    {
+      "text": "Congratulations Sir...It is proud moment to us....#mahindrarise",
+      "likes": 0,
+      "replies": 0,
+      "dupes": 0,
+      "id": 3
+    },
+    {
+      "text": "Love you Sir Mahindra for making Us #Proud",
+      "likes": 0,
+      "replies": 0,
+      "dupes": 0,
+      "id": 4
+    },
+    {
+      "text": "My Favorite Car XUV300... My Dream",
+      "likes": 0,
+      "replies": 0,
+      "dupes": 0,
+      "id": 8
+    },
+    {
+      "text": "Great motivation sir salute sir",
+      "likes": 0,
+      "replies": 0,
+      "dupes": 0,
+      "id": 6
+    },
+    {
+      "text": "I am ready to drive pinian",
+      "likes": 0,
+      "replies": 0,
+      "dupes": 0,
+      "id": 10
+    },
+    {
+      "text": "Sir anand Mahindra sir 🖤❤🔥",
+      "likes": 0,
+      "replies": 0,
+      "dupes": 0,
+      "id": 5
+    }
+  ],
+  "themes": {
+    "mood": "Viewers express pride and admiration for Mahindra and his leadership",
+    "themes": [
+      {
+        "what": "Expressions of national pride and congratulations",
+        "n": 3,
+        "quote": "Proud moment for all Mahindrites. Heartiest congratulations sir. Surely Indians are second to none in the World.",
+        "likes": 0
+      },
+      {
+        "what": "Inquiries and mentions of specific vehicle models",
+        "n": 3,
+        "quote": "Hello Sir 🙏🏻, Mahindra-7005 (65-Hp) Non-Turbo INDIA Mein Launch Hona Chahiye ABC-gear Aur Flat-Platform Ke Sath",
+        "likes": 2
+      },
+      {
+        "what": "Personal admiration and gratitude for leadership",
+        "n": 3,
+        "quote": "Samoogathin meethu alapariya akkaraiyum anbum konda mamanidhar...Anand sir ungalin miga periya rasigai nan ,ungalin sevai menmelum sirrakka vazhthkkal sir.",
+        "likes": 1
+      },
+      {
+        "what": "Reflections on inspiration and motivation",
+        "n": 2,
+        "quote": "Pilgrim real meaning is a wanderer with purpose. Great inspiration to all 👏👏👏",
+        "likes": 0
+      }
+    ]
+  },
+  "stats": {
+    "raw": 12,
+    "pages": 1,
+    "duplicates_folded": 0,
+    "promo_dropped": 0,
+    "chapter_indexes": 0,
+    "empty": 0,
+    "timestamped": 0,
+    "summarised": 0,
+    "general_seen": 12,
+    "general_kept": 12,
+    "top_liked_spared": 12,
+    "llm": {
+      "triage": {},
+      "themes": {
+        "cost_usd": 0.00041
+      },
+      "promo": {
+        "batches": 1,
+        "failed": 0,
+        "cost_usd": 2e-05
+      },
+      "summarise": {},
+      "cost_usd": 0.00043
+    }
+  }
+}

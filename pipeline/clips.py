@@ -1,6 +1,6 @@
 """Stage 2 — find the clips.
 
-    python clips.py <video_id> [--categories motivational,emotional] [--effort high]
+    python clips.py <video_id> [--categories motivational,emotional] [--effort medium]
 
 Runs only after the user has looked at the gate's verdict and decided to go
 ahead with this video, which is why it is a separate entry point rather than the
@@ -44,29 +44,12 @@ from config import INR_PER_USD, OPENROUTER_API_KEY, YOUTUBE_API_KEY
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
-# Reasoning effort per stage. The finder reads a whole transcript and genuinely
-# needs room to think. The cut stage was set to "max" on the theory that it is
-# where the judgement lives — which is true, and it still did not need it.
-#
-# MEASURED, four effort levels over the same four candidates, same prompt:
-#
-#   max     255s  1.64 INR    the baseline
-#   high     86s  0.61 INR    identical boundaries on 3 of 4
-#   medium   29s  0.47 INR    identical on 2 of 4; on the fourth it opened the
-#                             clip on "but" and ran 105s where max ran 50s
-#   low      56s  0.38 INR    identical on 3 of 4, kept an "okay" throat-clear
-#
-# Three of four candidates cut to the same words at every level, because most
-# boundary decisions are not close. The fourth was genuinely ambiguous and moved
-# at every level in both directions — that is variance, not effort.
-#
-# So "max" was paying 2.7x for nothing, and the stop is at "high" rather than
-# "medium" because medium is where a real boundary broke. Context: on the 3-hour
-# video this stage was 49% of the entire bill — 15 calls, 5.80 INR, with 98,502
-# of its 102,942 output tokens spent on reasoning.
-FINDER_EFFORT = "high"
-SELECT_EFFORT = "high"
-CUT_EFFORT = "high"
+# Medium reasoning for both whole-video nominations and exact-word cuts.
+# Keep the output budget generous: reasoning and visible JSON share it.
+# Explicit CLI flags still override these defaults.
+FINDER_EFFORT = "medium"
+SELECT_EFFORT = "medium"
+CUT_EFFORT = "medium"
 REFINE_EFFORT = SELECT_EFFORT      # the old single knob, kept for callers
 
 # How many moments get cut at once. Each is one model call on a small window.
@@ -94,7 +77,8 @@ def parse_args() -> argparse.Namespace:
     p.add_argument(
         "--skip-select",
         action="store_true",
-        help="cut every candidate instead of merging duplicates first",
+        help="no longer used — duplicate merging is arithmetic now and always "
+             "runs. Kept so existing commands do not break.",
     )
     return p.parse_args()
 
@@ -353,10 +337,15 @@ def main() -> int:
             if result.get("error"):
                 events.note(f"{category}: failed — {result['error']}")
             else:
+                coverage_note = (
+                    f"read {result['coverage']:.0%} of the transcript"
+                    if result.get("coverage") is not None else
+                    "coverage unknown after JSON recovery"
+                )
                 events.note(
                     f"{category}: {len(result['clips'])} candidate"
                     f"{'' if len(result['clips']) == 1 else 's'}, "
-                    f"read {result['coverage']:.0%} of the transcript, "
+                    f"{coverage_note}, "
                     f"{usage.get('reasoning_tokens', 0):,} tokens of thinking, "
                     f"₹{cost * INR_PER_USD:.2f}"
                 )
@@ -432,48 +421,51 @@ def main() -> int:
     }
     store.save(video_id, "_step1.json", step1_doc)
 
-    groups = refine_clips.cluster(candidates)
-    events.note(
-        f"{len(candidates)} candidates group into {len(groups)} distinct moment"
-        f"{'' if len(groups) == 1 else 's'}. Only near-identical ranges are "
-        f"treated as one moment — two readings that merely overlap are two "
-        f"reels, which is how the same stretch can legitimately yield several."
-    )
+    # ---------------------------------------------------------------
+    # Merging duplicates — in code, not in a model
+    # ---------------------------------------------------------------
+    #
+    # There used to be an LLM pass here ("Deciding which moments ship") that read
+    # every candidate at once and merged or dropped them. It is gone.
+    #
+    # What it was actually deciding did not need a model. Two candidates are the
+    # same moment when they sit on the same seconds AND run to about the same
+    # length, and that is arithmetic. Everything else it did was judgement this
+    # system does not want at this point: it could drop a moment, and a dropped
+    # moment is unrecoverable, while an extra one costs a person one click.
+    #
+    # It also cost real time and money for that privilege — on a 3-hour video, 38
+    # seconds and 0.34 rupees of 79%-reasoning tokens to merge nothing at all
+    # (15 candidates in, 15 kept, 0 dropped).
+    #
+    # `cluster` applies the rule; `label_groups` fills in the one useful thing the
+    # pass produced, which category's boundary rules the cut stage should use.
+    events.step_start("merge", "Merging duplicate moments")
+    t0 = time.time()
+    before = len(candidates)
+    groups = refine_clips.label_groups(refine_clips.cluster(candidates))
+    merged = before - len(groups)
+    timings["merge"] = round(time.time() - t0, 2)
 
-    dropped_in_select = []
-    if not args.skip_select and len(groups) > 1:
-        events.step_start("select", "Deciding which moments ship")
-        t0 = time.time()
-        try:
-            groups, dropped_in_select, usage = refine_clips.select_pass(
-                groups,
-                refine_clips.prompt_text(
-                    os.path.join(bridge.PROMPTS_DIR, "refine_select.md")
-                ),
-                OPENROUTER_API_KEY,
-                find_clips.MODEL,
-                args.refine_effort,
-            )
-            charge("select", usage)
-            events.step_done(
-                "select",
-                "Deciding which moments ship",
-                (
-                    f"{len(groups)} kept, {len(dropped_in_select)} dropped "
-                    f"· this is the only step that sees every candidate at once, "
-                    f"so it is where duplicates get merged"
-                ),
-                {"kept": len(groups), "dropped": len(dropped_in_select)},
-            )
-            for _, why in dropped_in_select:
-                events.note(f"dropped: {why}")
-        except Exception as exc:  # noqa: BLE001
-            events.step_skip(
-                "select",
-                "Deciding which moments ship",
-                f"failed ({type(exc).__name__}) — cutting every candidate instead",
-            )
-        timings["select"] = round(time.time() - t0, 2)
+    events.step_done(
+        "merge",
+        "Merging duplicate moments",
+        (
+            f"{before} candidate{'' if before == 1 else 's'} → {len(groups)} "
+            f"moment{'' if len(groups) == 1 else 's'}"
+            + (f", {merged} folded in as duplicates" if merged else
+               ", none were duplicates")
+        ),
+        {"candidates": before, "moments": len(groups), "merged": merged},
+    )
+    events.note(
+        f"Two candidates count as one moment only when they overlap by more than "
+        f"{refine_clips.SAME_MOMENT_IOU:.0%} AND their lengths are within "
+        f"{refine_clips.SAME_MOMENT_SLACK_S:.0f}s of each other. A short "
+        f"punchline inside a longer build fails the length test, so it stays its "
+        f"own reel. Nothing is dropped here — this is arithmetic, not a verdict."
+    )
+    dropped_in_select: list = []
 
     events.step_start("cut", f"Cutting {len(groups)} moment(s) to exact words")
     t0 = time.time()
@@ -523,12 +515,16 @@ def main() -> int:
             try:
                 cut_results.append(future.result())
             except Exception as exc:  # noqa: BLE001
+                failed_group = futures[future]
+                problem = f"{type(exc).__name__}: {str(exc)[:200]}"
                 cut_results.append(
                     {
-                        "group": futures[future],
+                        "group": failed_group,
                         "usage": {},
                         "seconds": 0.0,
-                        "error": f"{type(exc).__name__}: {str(exc)[:200]}",
+                        "error": problem,
+                        "clip": refine_clips.candidate_fallback(
+                            failed_group, real_words, problem),
                     }
                 )
 
@@ -548,6 +544,15 @@ def main() -> int:
     timings["cut"] = round(time.time() - t0, 2)
 
     failures = [r["error"] for r in cut_results if r.get("error")]
+    needs_review = sum(c.get("cut_status") == "needs_review" for c in clips)
+    diagnostics = [
+        {"group": r.get("group"), "error": r.get("error"),
+         "raw": r.get("raw"), "seconds": r.get("seconds"),
+         "usage": r.get("usage")}
+        for r in cut_results if r.get("error") or r.get("salvaged")
+    ]
+    if diagnostics:
+        store.save(video_id, "_cut_diagnostics.json", diagnostics)
     # Everything a moment can turn into, gathered in one place and carried all
     # the way to the artifact. This is where a clip used to disappear: `failures`
     # was never passed to _finish, `r["dropped"]` was never read at all, and the
@@ -565,7 +570,7 @@ def main() -> int:
         )
         if result.get("dropped"):
             lost.append(f"{where} {title} — the cut model rejected it: {result['dropped']}")
-        elif result.get("error"):
+        elif result.get("error") and not result.get("clip"):
             lost.append(f"{where} {title} — could not be cut: {result['error']}")
     lost += [f"too short to publish: {d}" for d in dropped_short]
     lost += [f"duplicate seconds: {d}" for d in dropped_dup]
@@ -574,12 +579,17 @@ def main() -> int:
         "cut",
         f"Cutting {len(groups)} moment(s) to exact words",
         (
-            f"{len(clips)} clip{'' if len(clips) == 1 else 's'} cut on exact "
-            f"word boundaries"
+            f"{len(clips) - needs_review} exact cut(s) · "
+            f"{needs_review} approximate cut(s)"
+            + (" need review" if needs_review else "")
             + (f" · {len(lost)} moment(s) did not survive" if lost else "")
         ),
-        {"clips": len(clips), "failed": len(failures), "lost": len(lost)},
+        {"clips": len(clips), "failed": len(failures),
+         "needs_review": needs_review, "lost": len(lost)},
     )
+    for result in cut_results:
+        if (result.get("clip") or {}).get("cut_status") == "needs_review":
+            events.note(f"cut needs review: {result['clip'].get('title') or 'untitled'}")
     for d in lost:
         events.note(f"lost in cutting: {d}")
 
@@ -613,6 +623,12 @@ def _finish(
 ):
     """Order the clips for a person, write them out, and report."""
     ordered = curate(clips)
+    finder_dropped = [
+        f"{r['category']}: {(d['clip'].get('title') or 'untitled') if isinstance(d.get('clip'), dict) else 'untitled'} "
+        f"— {d.get('reason') or 'could not map this nomination'}"
+        for r in results for d in (r.get('dropped') or [])
+        if isinstance(d, dict)
+    ]
 
     costs["total_inr"] = round(costs["llm_inr"], 4)
     doc = {
@@ -623,13 +639,15 @@ def _finish(
             "readings": {
                 r["category"]: {
                     "video_read": r.get("video_read") or "",
-                    "coverage": r.get("coverage") or 0,
+                    "coverage": r.get("coverage"),
+                    "error": r.get("error"),
                     "near_misses": r.get("near_misses") or [],
                     "skipped": r.get("skipped") or [],
                 }
                 for r in results
             },
             "dropped_in_select": [why for _, why in dropped_in_select],
+            "dropped_in_finders": finder_dropped,
             "lost_in_cutting": list(lost_in_cutting or []),
             "timings": timings,
             "costs": costs,
@@ -645,7 +663,8 @@ def _finish(
             "video_id": video_id,
             "clips": ordered,
             "readings": doc["meta"]["readings"],
-            "dropped": (doc["meta"]["dropped_in_select"]
+            "dropped": (doc["meta"]["dropped_in_finders"]
+                        + doc["meta"]["dropped_in_select"]
                         + doc["meta"]["lost_in_cutting"]),
         }
     )

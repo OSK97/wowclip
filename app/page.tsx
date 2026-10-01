@@ -18,6 +18,7 @@ import {
   type Step,
   type Verdict,
   type Video,
+  formatProcessTime,
 } from "./lib/types";
 
 /**
@@ -132,7 +133,10 @@ export default function Home() {
       stage: "gate" | "finding",
       token: number,
     ): Promise<void> => {
-      if (!res.body) return;
+      if (!res.body) {
+        setError("The pipeline returned no progress stream.");
+        return;
+      }
 
       const setStep = stage === "gate" ? setSteps : setClipSteps;
       const setNote = stage === "gate" ? setNotes : setClipNotes;
@@ -141,6 +145,8 @@ export default function Home() {
       const reader = res.body.getReader();
       const decoder = new TextDecoder();
       let buffer = "";
+      let completed = false;
+      let failed = false;
 
       for (;;) {
         const { done, value } = await reader.read();
@@ -184,6 +190,7 @@ export default function Home() {
                       : "skipped",
                 detail: event.detail,
                 at: event.at,
+                durationSeconds: event.duration_seconds,
               });
               break;
             case "note":
@@ -207,16 +214,27 @@ export default function Home() {
               break;
             }
             case "fatal":
+              failed = true;
               setError(event.message);
               break;
             case "done":
+              completed = true;
               if (stage === "gate") {
                 setElapsed(event.total_seconds);
                 setClipsReady(Boolean(event.clips_ready));
               }
               break;
+            case "exit":
+              if (!failed) {
+                setError(`The pipeline stopped with exit code ${event.code}. Check the server log for details.`);
+              }
+              failed = true;
+              break;
           }
         }
+      }
+      if (!completed && !failed && tokenRef.current === token) {
+        setError("The pipeline stopped before returning a finished result.");
       }
     },
     [upsert],
@@ -574,7 +592,7 @@ function ClipReport({ report }: { report: Report }) {
         {entries.map(([name, seconds]) => (
           <div key={name} className="flex gap-1.5">
             <dt className="text-[#6b6b6b]">{name}</dt>
-            <dd className="font-mono text-[#a8a8a8]">{seconds.toFixed(1)}s</dd>
+            <dd className="font-mono text-[#a8a8a8]">{formatProcessTime(seconds)}</dd>
           </div>
         ))}
         <div className="flex gap-1.5">

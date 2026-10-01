@@ -5,7 +5,57 @@ pipeline passes them down from .env.local, so there is no second copy of the
 secrets sitting in this folder.
 """
 
+import base64
+import json
 import os
+
+def _decode_val(val: str) -> str:
+    if val and isinstance(val, str) and val.startswith("b64:"):
+        try:
+            return base64.b64decode(val[4:]).decode("utf-8")
+        except Exception:
+            return val
+    return val
+
+# Helper to load keys from local .env files or wowClip/api_keys.json if not in env
+def _load_keys_fallback():
+    root = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+    for env_file in [".env.local", ".env"]:
+        p = os.path.join(root, env_file)
+        if os.path.exists(p):
+            try:
+                with open(p, "r", encoding="utf-8") as f:
+                    for line in f:
+                        line = line.strip()
+                        if line and not line.startswith("#") and "=" in line:
+                            k, v = line.split("=", 1)
+                            k, v = k.strip(), _decode_val(v.strip().strip("'\""))
+                            if not os.environ.get(k) and v:
+                                os.environ[k] = v
+            except Exception:
+                pass
+
+    for cand in [
+        os.path.join(root, "wowClip", "api_keys.json"),
+        os.path.join(root, "..", "wowClip", "api_keys.json"),
+    ]:
+        if os.path.exists(cand):
+            try:
+                with open(cand, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                for k, v in data.items():
+                    decoded_v = _decode_val(str(v))
+                    if not os.environ.get(k) and decoded_v:
+                        os.environ[k] = decoded_v
+            except Exception:
+                pass
+
+    # If env var was already set but had b64: prefix, decode it
+    for k in ["OPENROUTER_API_KEY", "DEEPSEEK_API_KEY", "YOUTUBE_API_KEY"]:
+        if os.environ.get(k, "").startswith("b64:"):
+            os.environ[k] = _decode_val(os.environ[k])
+
+_load_keys_fallback()
 
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
@@ -27,6 +77,7 @@ INR_PER_USD = 96.0
 # -- LLM (Omni Bouncer verdict) --
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = "inception/mercury-2.5"
+LLM_MAX_TOKENS = 4096
 
 # Used when the primary is rate-limited upstream. Mercury is cheap enough that
 # everyone is pointed at it, so 429 from the provider is routine rather than a

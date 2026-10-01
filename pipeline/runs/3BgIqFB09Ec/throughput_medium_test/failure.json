@@ -1,0 +1,12 @@
+{
+  "category": "motivational",
+  "clips": [],
+  "dropped": [],
+  "near_misses": [],
+  "skipped": [],
+  "video_read": "",
+  "coverage": 0.0,
+  "usage": {},
+  "error": "RuntimeError: HTTP Error 403: Forbidden",
+  "seconds": 23.9
+}

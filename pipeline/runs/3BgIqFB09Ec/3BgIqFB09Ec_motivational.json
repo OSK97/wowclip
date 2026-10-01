@@ -1,0 +1,508 @@
+{
+  "category": "motivational",
+  "clips": [
+    {
+      "category": "motivational",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "सक्सेस इट्स नॉट बेस्ड ऑन वेर यू आर — इट्स बेस्ड ऑन वेर यू स्टार्टेड",
+      "why": "The 400-metre race experiment is a build the viewer follows — people placed at different starting points — and the landing reorganises how they judge themselves: 'इट्स नॉट बेस्ड ऑन वेर यू आर इट्स बेस्ड ऑन वेर यू स्टार्टेड एंड वेर यू रीच'. Anyone comparing themselves to someone with a head start feels this land. Two viewers marked the build, one calling it 'most watch reel till date'.",
+      "category_hint": "failure & comeback",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0141",
+        "comment on L0145"
+      ],
+      "start_line": "L0141",
+      "end_line": "L0148",
+      "start_words": "राइट लाइक थोड़ा एक्सप्लेन करो भाई",
+      "end_words": "वी वांट टू बी द बेस्ट इन कंपेरिजन टूू",
+      "start_s": 1100.64,
+      "end_s": 1171.92,
+      "duration_s": 71.28,
+      "source_start_s": 1100.64,
+      "source_end_s": 1171.92,
+      "one_liner": false,
+      "text": "राइट लाइक थोड़ा एक्सप्लेन करो भाई कुछ लोगों की स्ट्रगल बीएड में होती है उनकी शुरुआत फिल्म के टॉप टू थ्री डायरेक्टर देश की शुरुआत होती है मैं 250 ऑडिशन दे देके आया हूं तो जब आप जैसे एक बड़ा इंटरेस्टिंग एग्जांपल है कि 400 मीटर का एक रनिंग का एरिया होता है यू नो लाइक अ प्रॉपर ट्रैक इ 400 मीटर लाइक तो एक एक्सपेरिमेंट हुआ था बड़ा इंटरेस्टिंग वर्कशॉप था जहां मैंने वीडियो देखा था जहां पे उन लोगों ने सब लोगों को बोला कि ये रेस है आपको सबको यू ल हैव टू रन दिस रेस एंड उन्होंने अलग-अलग लोगों को अलग-अलग पॉइंट्स प खड़ा कर दिया तो एवरी बडी वाज लाइक दिस इज सो अनफेयर यू नो सम बडी स्टैंडिंग एट 200 मीटर यू मेड मी स्टैंड 50 मीटर द स्टार्टिंग लाइन सो दे सेड बट दैट इज लाइफ ना डू यू रिकॉग्नाइज दैट अबाउट लाइफ क्या आप ये रिकॉग्नाइज करते हो के शायद आप ऑलरेडी 200 मीटर के एडवांटेज पे हो और कोई बंदा 50 मीटर के डिसएडवांटेज पे है जीरो स्टार्टिंग लाइन से भी तो जब आप बाहर जाके दुनिया में लोगों से मिलते हो जब आप अपने बारे में सोचते हो न य न यू आस्क योरसेल्फ एम आई अ सक्सेस और फेलियर इट्स नॉट बेस्ड ऑन वेर यू आर इट्स बेस्ड ऑन वेर यू स्टार्टेड एंड वेर यू रीच ट्रू सो हम अपने साथ क्या करते हैं ना हम अपने सरकमस्टेंसस को हटा के वी वांट टू बी द बेस्ट इन कंपेरिजन टूू",
+      "flags": [],
+      "id": "mot1"
+    },
+    {
+      "category": "motivational",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "दज आर द मोमेंट्स वेर यू डिसाइड हु यू वांट टू बिकम",
+      "why": "Names a humiliation the heartbroken viewer has lived and never heard said: loving someone so much you chase them 'टू अ डिग्री जहां आपकी अपनी डिग्निटी टूट जाती है', losing self-respect in love. Then the turn converts the wound into agency — heartbreak is where you decide who you become, and if it didn't teach you that, 'यू वेस्टेड द अपॉर्चुनिटी'. The build is needed for the detonation. YouTube shows a replay peak here.",
+      "category_hint": "identity & self-narrative",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "REPLAYED near L0703"
+      ],
+      "start_line": "L0698",
+      "end_line": "L0708",
+      "start_words": "ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में",
+      "end_words": "यू लर्न टू अंडरस्टैंड व्ट",
+      "start_s": 5634.2,
+      "end_s": 5718.4,
+      "duration_s": 84.2,
+      "source_start_s": 5634.2,
+      "source_end_s": 5718.4,
+      "one_liner": false,
+      "text": "ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो कि आप जब वह आपको रिजेक्ट कर देते हैं तो आप उनके पीछे भागते हो टू अ डिग्री जहां आपकी अपनी डिग्निटी टूट जाती है आप अपनी डिग्निटी सैक्रिफाइस कर देते हो और आपको रिलाइज भी नहीं होता कि अब नाउ यू हैव लॉस्ट योर सेल्फ रिस्पेक्ट इन द प्रोसेस यू नो और वो रिलाइजेशन बड़े साल बाद होता है कि यार मैं क्या कर रहा था क्या कर रहा था यार मतलब आई वुड टेल माय बेस्ट फ्रेंड कि ब्रो जस्ट होल्ड ऑन टू योर डिग्निटी ऐसे मत कर यू नो तो वो आई थिंक सबसे इंटरेस्टिंग चीज है ना प्यार के बारे में कि यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव और वो होता है बिकॉज योर बिहेवियर कैन बी लाइक दैट राइट सो ऑफकोर्स यू गो थ्रू दैट आल्सो अ एंड ऑफकोर्स यू लिसन टू द द बेस्ट हार्ट ब्रेक सोंग्स य य सम कॉल्ड बे खयाली सो वो भी होता है अ तो या वो होता है बट इट्स एलरी प्रोसेस यार इट्स हेल्पिंग यू दज आर द मोमेंट्स वे यू डिसाइड हु यू वांट टू बिकम एंड इफ इट हैजन हेल्प यू डिसाइड हु यू वा बिकम देन यू वेस्टेड द अपॉर्चुनिटी ब्रो और यनो यू नॉट गटन एनीथिंग गुड आउट ऑफ इट यू नो टड यू गट आउट ऑफ हार्डवे यू नो यू लर्न टू अंडरस्टैंड व्ट",
+      "flags": [],
+      "id": "mot2"
+    },
+    {
+      "category": "motivational",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "I still feel I don't belong here",
+      "why": "A superstar admits 'आईम शिटिंग माय पैंट्स हाफ द टाइम' ten days before release and repeats 'आई डोंट बिलंग हियर आई डोंट डिजर्व दिस' through his biggest successes. The private feeling the viewer carries — that they got more than they deserve — is named by someone with no reason to admit it. The ending even deepens it: overwhelm and hunger coexist.",
+      "category_hint": "private humiliation named",
+      "hook_strength": 9.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0193",
+      "end_line": "L0201",
+      "start_words": "स्टिल माय फिल्म कम्स आउट इन अ वीक",
+      "end_words": "और दे दो विय और चाहिए अभी दिल नहीं भरा है",
+      "start_s": 1519.12,
+      "end_s": 1578.04,
+      "duration_s": 58.92,
+      "source_start_s": 1519.12,
+      "source_end_s": 1578.04,
+      "one_liner": false,
+      "text": "स्टिल माय फिल्म कम्स आउट इन अ वीक 10 डेज एंड आईम शिटिंग माय पैंट्स हाफ द टाइम नेच एंड लिंग टू अपलिफ्टिंग म्यूजिक एंड टेलिंग माय सेल्फ य गोना किल इट बडी ग किल इट सो इट्स कांस्टेंटली देयर राइट दैट डुएलिटीज कांस्टेंटली देयर यू नो बट दैट गुड ट्स ट्स अ गुड थिंग दैट यू ऑलवेज फील दैट कभी इंपोस्टर सिंड्रोम हुआ है इन व्हाट वे लाइक गिव मी अ लिटिल लाइक जैसे यू यू गो टू अ प्लेस एंड यू फील लाइक कि यार ये मैं बिलंग नहीं करता आई डोंट डिजर्व दिस मतलब मेरे साथ क्यों हो गया ये आ डोंट डिजर्व दिस आई डोंट बिलंग हियर अच्छा आई डोंट डिजर्व दिस और मे बी आई डोंट बिलंग हियर आई डोंट बिलंग आई डोंट बिलंग हियर आई स्टिल फील कि कु ज्यादा मिल गया हो लाइक शट मतलब ज्यादा मिल गया यस कभी-कभी जब आपको बहुत प्यार मिलता है आपकी फिल्म के लिए तो आपको फील होता है यार मैंने तो हर फिल्म में मेहनत की थी इसमें इतना क्यों मिल रहा है वो फील हुआ था पहली फिल्म में फील हुआ था कबीर सिंह में फील हुआ था होता है देरा टाइम्स जब आपको बहुत ऐसा ओवर",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "mot3"
+    },
+    {
+      "category": "motivational",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "अगर आप अपनी इलेक्ट्रिसिटी खुद बना सकते हो तो बाहर से जरूरत नहीं",
+      "why": "Opens by indicting the exact activity the viewer is doing — getting inspired for two minutes and falling back — then hands over a small, believable instruction: become your own generator. A viewer typed the essence back in the comments ('we get motivated by watch some videos but after we don't do anything'), which is the exact behaviour this predicts.",
+      "category_hint": "discipline over feeling",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0161"
+      ],
+      "start_line": "L0159",
+      "end_line": "L0164",
+      "start_words": "दो मिनट इंस्पायर हो जाते हैं बट",
+      "end_words": "खुद अपना अपनी इलेक्ट्रिसिटी अपनी वाइब्रेशन खुद",
+      "start_s": 1258.88,
+      "end_s": 1305.52,
+      "duration_s": 46.64,
+      "source_start_s": 1258.88,
+      "source_end_s": 1305.52,
+      "one_liner": false,
+      "text": "दो मिनट इंस्पायर हो जाते हैं बट वो अगर आपकी अंदर की जो रेजोनेंस आपकी जो अंदर की एनर्जी है उससे अगर मैच नहीं करता तो वो दो मिनट बाद आप उसी एनर्जी पर चले जाओगे या जो आपको बाहर से मिल रहा है अगर आप कुछ किसी चीज के साथ कनेक्ट कर रहे हो दो मिनट के लिए भी और आपको लगता है वह आपके लिए आपको एलीवेट कर रही है थोड़ा सा तो फिर उस एलिवेशन को वापस ड्रॉप मत होने दो फिर उसको वापस पुश करो अपने अंदर से चन करो उसको यू नो फिर जब आप चन करोगे तो फिर इफ यू कैन बी र मशीन अगर आप अपनी इलेक्ट्रिसिटी खुद ही बना सकते हो तो फिर आपको बाहर से जरूरत नहीं होगी आप एंजॉय करोगे आप अप्रिशिएट करोगे आप कनेक्ट करोगे लेकिन अगर वो नहीं हुआ तो आप डाउन नहीं हो जाओगे य तो आपको खुद अपना अपनी इलेक्ट्रिसिटी अपनी वाइब्रेशन खुद",
+      "flags": [],
+      "id": "mot4"
+    },
+    {
+      "category": "motivational",
+      "rank": 5,
+      "finder_rank": 5.0,
+      "title": "टू टाइप्स ऑफ पीपल — बोज ऑन द वर्ल्ड या मेकिंग इट लाइटर",
+      "why": "Sets up the individual journey versus what you represent beyond yourself, then lands a daily identity choice: are you the weight on the world or the person who makes it slightly lighter by taking people's load off? A viewer wrote the line back word for word in the comments — the strongest confirmation available.",
+      "category_hint": "identity & self-narrative",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0610"
+      ],
+      "start_line": "L0605",
+      "end_line": "L0614",
+      "start_words": "एक होती है आपकी इंडिविजुअल जर्नी",
+      "end_words": "रिमाइंड योरसेल्फ ट एवरीडे ना ब्रो",
+      "start_s": 4855.72,
+      "end_s": 4927.92,
+      "duration_s": 72.2,
+      "source_start_s": 4855.72,
+      "source_end_s": 4927.92,
+      "one_liner": false,
+      "text": "एक होती है आपकी इंडिविजुअल जर्नी कि आपको पर्सनली सेल्फिश क्या अचीव करना है लाइफ में आपका अपना विजन आपकी अपनी एक जर्नी होती है और एक होता है हाउ ड यू डू समथिंग दैट इज बियोंड यू एंड इटस फॉर लार्जर पर्पस राइट एंड दैट इज व्ट यू रिप्रेजेंट इन लाइफ एंड ट स्टार्टस विथ बिहेवियर इट स्टार्टस विद एक्शन इट स्टार्टस विद द स्मालेस्ट थिंग्स इन लाइफ च गड़बड़ हो गया तो विल आई से अरे यार सब गड़बड़ हो गया और डू आई वा स्टैंड फॉर द गा से क्या गड़बड़ फिक्स कर लेते हैं इन दैट डू यू वांट टू स्टैंड अप एंड से क्या गड़बड़ हो गया मैं फिक्स करता हूं ड य वा बी लाइक गा जस्ट चिल ल फिक्स इट सिट डाउन लेट्स टॉक अबाउट इट एवरी लिटिल एक्शन ट यू टेक इन लाइफ रिप्रेजेंट्स समथिंग लार्जर देन जस्ट यू एंड एस यू ग्रो ओल्डर इ यू रिलाइज ट देर आर टू टाइप्स ऑफ पीपल इन द वर्ल्ड बेसिकली यू नो सो यू हैव टू डिसाइड विच वर्जन यू आर आर यू द वन हु इ द बोज ऑन द वर्ल्ड क्या आपके रि व से सबको आपको झेलना पड़ता है और यू आर द पर्सन हु मेकिंग द वर्ल्ड स्लाइटली लाइटर प्लेस बाय टेकिंग पीपल लोड ऑफ यू नो ट्स अ फंडामेंटल थिंग यू हैव टू नो इफ यू रिमाइंड योरसेल्फ ट एवरीडे ना ब्रो",
+      "flags": [],
+      "id": "mot5"
+    },
+    {
+      "category": "motivational",
+      "rank": 6,
+      "finder_rank": 6.0,
+      "title": "तू सर्वाइवल है यार — तू कहीं अटकता नहीं",
+      "why": "He takes the story of being made to feel lesser and flips it into a self-narrative spoken in second person, like a mantra he told himself: 'तू सर्वाइवल है यार तू निकल आता है मुश्किल सिचुएशन में, तू अटकता नहीं'. Closes on the method: 'नोबडी शुड डिफाइन यू, यू शुड डिफाइन योरसेल्फ'. The 'made to feel less' build sits just before L0183 if the editor wants it.",
+      "category_hint": "identity & self-narrative",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0183",
+      "end_line": "L0191",
+      "start_words": "इट बिकॉज ना यार मैं सरवाइवर हूं",
+      "end_words": "यू शुड डिफाइन योरसेल्फ यू टॉक",
+      "start_s": 1453.04,
+      "end_s": 1509.6,
+      "duration_s": 56.56,
+      "source_start_s": 1453.04,
+      "source_end_s": 1509.6,
+      "one_liner": false,
+      "text": "इट बिकॉज ना यार मैं सरवाइवर हूं जहां से लाइफ से मैं उठके आया हूं और जो मैंने लाइफ मेरी जो जर्नी रही है ना पिछले 21 सालों में मैंने अपने बारे में यह सीखा कि तू सर्वाइवल है यार तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में कॉम्प्लेक्टेड तू ना टक टक टक टक करके निकल जाता है तू अटकता नहीं कहीं पे यू नो एंड दैट स्टेड विथ मी बिकॉज आई यूज टू ऑलवेज सिंग द अपोजिट मुझे लगता था यार मैं फस जाता हूं यू नो एंड ही सेड नहीं तू सिचुएशन जो भी हो तू निकल जाता है उसम से यू नो एंड आई फेल्ट दैट दैट वाज अ रियली रियली गुड क्वालिटी या यू नो बिकॉज लाइफ विल कांस्टेंटली थ्रो न्यू थिंग्स एट यू इफ यू गेट स्टक ट्स नॉट गुड फॉर यू यू हैव टू लर्न टू बी निंबल फूटेड एंड मूव आउ आउट ऑफ दैट राइट सो आई टोल्ड माय सेल्फ एट दैट टाइम दैट नो शायद डोंट लेट दिस डिफाइन यू यू नो नोबडी शुड डिफाइन यू यू शुड डिफाइन योरसेल्फ यू टॉक",
+      "flags": [],
+      "id": "mot6"
+    },
+    {
+      "category": "motivational",
+      "rank": 7,
+      "finder_rank": 7.0,
+      "title": "व्हट एवर यू आर अफ्रेड ऑफ इज वेर द रेस्ट ऑफ यू लाइट्स",
+      "why": "He answers 'what's your biggest fear' honestly — darkness as a child, anything outside his comfort zone — and then delivers the quotable inversion: whatever you are afraid of is where the rest of you lives; go to your fear and you will find the rest of yourself there. A one-line reframe that carries its meaning alone.",
+      "category_hint": "one-liner / reframe",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0766",
+      "end_line": "L0770",
+      "start_words": "सो एस अ चाइल्ड आई हैड अ फियर",
+      "end_words": "बट यू सेड कंफर्ट जोन से बाहर निकल कंफर्ट जन से बाहर",
+      "start_s": 6204.24,
+      "end_s": 6244.08,
+      "duration_s": 39.84,
+      "source_start_s": 6204.24,
+      "source_end_s": 6244.08,
+      "one_liner": false,
+      "text": "सो एस अ चाइल्ड आई हैड अ फियर ऑफ डार्कनेस आई हैव ओवरकम ट टू अ ग्रेट डिग्री आई ऑलवेज वा अन कंफर्टेबल इन फ्लाइट्स एंड आई एम आल्सो नॉट द बेस्ट स्विमर सो आई डोंट लव बीइंग इन वाटर सो आई थिंक माय फियर इज एनीथिंग ट इज नॉट माय इमीडिएट कंफर्ट जोन दे रिली नाइस सेइंग च सेज ट व्ट एवर यू आर अफ्रेड ऑफ इज वेर द रेस्ट ऑफ यू लाइट्स यू चूज कक्टर डू ल यू हैव टू गो टू योर फियर यू विल फाइंड द रेस्ट ऑफ योरसेल्फ देयर बट यू सेड कंफर्ट जोन से बाहर निकल कंफर्ट जन से बाहर",
+      "flags": [],
+      "id": "mot7"
+    },
+    {
+      "category": "motivational",
+      "rank": 8,
+      "finder_rank": 8.0,
+      "title": "नोबडी इज बेटर, नोबडी इज वर्स — आई एम द बेस्ट वर्जन ऑफ माइसेल्फ",
+      "why": "After 21 years in the industry, his biggest learning in two sentences: nobody is better, nobody is worse, I am the best version of myself — that's all that matters. A screenshot-able one-liner; twelve viewers marked the exact moment. The second pass should cut at 'बेस्ट वर्जन ऑफ माइसेल्फ उतना ही है' before the trailing discontentment talk.",
+      "category_hint": "self-belief",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment on L0085"
+      ],
+      "start_line": "L0085",
+      "end_line": "L0086",
+      "start_words": "फॉर इट यू आर नॉट बेटर दन एनीबडी एल्स",
+      "end_words": "नो आई एम नॉट नेवर कंटेंट विद माइसेल्फ",
+      "start_s": 628.24,
+      "end_s": 645.24,
+      "duration_s": 17.0,
+      "source_start_s": 628.24,
+      "source_end_s": 645.24,
+      "one_liner": false,
+      "text": "फॉर इट यू आर नॉट बेटर दन एनीबडी एल्स आफ्टर 21 इयर्स माय बिगेस्ट लर्निंग व्हाट एवर यू माइट कॉल मी एज एन एक्टर व्हाट एवर यू माइट कॉल मी इन माय क्राफ्ट नोबडी इज बेटर नोबडी इज वर्स आई एम द बेस्ट वर्जन ऑफ माइसेल्फ उतना ही है मे को एंड यू कंटेंट विद दैट नो आई एम नॉट नेवर कंटेंट विद माइसेल्फ",
+      "flags": [],
+      "id": "mot8"
+    },
+    {
+      "category": "motivational",
+      "rank": 9,
+      "finder_rank": 9.0,
+      "title": "मैं फर्स्ट करूंगा और कोई नहीं कर रहा है — लेकिन मैं करूंगा",
+      "why": "Loneliness converted into appetite: the opening batsman who volunteers to face the first 148 kph ball, the lone ranger who wants the headwind. The closing repetition — 'खुद ही करूंगा मैं और मैं करूंगा और मैं फर्स्ट करूंगा और कोई नहीं कर रहा है लेकिन मैं करूंगा और उसी में मजा है' — is a war cry the viewer can borrow.",
+      "category_hint": "loneliness as strength",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0445",
+      "end_line": "L0451",
+      "start_words": "ऐसे फील हुआ है कि मुझे तो है ना",
+      "end_words": "मैं फोड दंगा हां बस",
+      "start_s": 3480.64,
+      "end_s": 3538.8,
+      "duration_s": 58.16,
+      "source_start_s": 3480.64,
+      "source_end_s": 3538.8,
+      "one_liner": false,
+      "text": "ऐसे फील हुआ है कि मुझे तो है ना रिस्पांसिबिलिटी है एक लीडर बनना है और मैं ही ये मेरा नेचुरल प्रोटोटाइप बन चुका है ब्रो क्या मुझे अगर कोई बोल दे ना अभी फॉलो करो या किसी का छोटा भाई बन जाओ मेरे से होगा ही नहीं अब मैं बड़ा भाई बन चुका हूं मतलब अभी सेट हो चुका है ये मामला यू नो एंड आई एम लाइक वेरी हैप्पी यू नो हा बोलते है ना ओपनिंग बैट्समैन को आदत है वो सामने वाला फर्स्ट बॉल 148 150 किमी प डाले लेगा और मैं फर्स्ट बॉल फेस करूंगा उसमें एक ट्रिप है या तो मैं अभी वैसा बन गया हूं ब्रो आई लाइक आई लाइक बीइंग अ लोन रेंजर आई लाइक डूइंग इट ऑन माय ओन आई डोंट वांट एनीबडी ब्रेकिंग द हेड विंड ऑन मी या बिकॉज देन इट्स नॉट फन एनी मोर आई वांट दैट ब्रिंग द हेड विंड कम ऑन ट्स व्हाट ड्राइव्स मी नाउ मैं पंगे लेना पसंद है मुझे हां खुद ही करूंगा मैं और मैं करूंगा और मैं फर्स्ट करूंगा और कोई नहीं और कर रहा है लेकिन मैं करूंगा और उसी में मजा है तो मेरे को मजा आता है हम आई एम सेम हां म मैं फोड दंगा हां बस और बट उसके बाद एक और",
+      "flags": [],
+      "id": "mot9"
+    },
+    {
+      "category": "motivational",
+      "rank": 10,
+      "finder_rank": 10.0,
+      "title": "कुछ करना है ना तो कूद जा — हो जाएगा",
+      "why": "A story that detonates: a grandfather who threw the non-swimming kid into the water every summer with two words — कूद जा — and the line that became his operating instruction for every new situation. The whole story is needed; the payoff only lands because you heard the build. Simple, warm, and it ends on 'तू कूदे तो बन जाएगा'.",
+      "category_hint": "story detonates",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0363",
+      "end_line": "L0373",
+      "start_words": "य मा आई हैव अ वेरी फंड मेमोरी",
+      "end_words": "गांव में तो मैं बन गया यस तो तू कूदे तो बन जाएगा",
+      "start_s": 2818.76,
+      "end_s": 2908.96,
+      "duration_s": 90.2,
+      "source_start_s": 2818.76,
+      "source_end_s": 2908.96,
+      "one_liner": false,
+      "text": "य मा आई हैव अ वेरी फंड मेमोरी ऑफ माय ग्रैंडफादर एज वेल ही स्टिल अलाइव विथ मी टर्नल ग्रैंडफादर टर्नल दादा जी मैं दादू हा जी तो वो हर समर हॉलीडेज में हमें हर नहीं मतलब आफ्टर एथ नाथ के बाद वो हमें स्विमिंग पूल लेके जाते थे कहीं पे बाहर ऐसे आई रिमेंबर दे र लाइक किसी आउटस्कर्ट फार्म्स होते थे जहां पर आप 2 देके एक घंटे में स्विम करने जा सकते हो मेरे उनके अलावा मेरी फैमिली किसी को स्विमिंग नहीं आती थी तो मुझे नहीं पता कि उनको क्यों ये लगा कि सिखाना बहुत जरूरी है बट ऑल वी लिव इन जॉइंट फैमिली या तो ऑल फोर किड्स वो लेके जाएंगे एंड देन बिकॉज आई वा आई वाज द एल्डेस्ट सन वो बोलेंगे कि कूद जा मतलब मुझे आती नहीं स् नहीं नहीं कूद जा कूद जा सो उन्होंने रोज इतना पुश किया दैट चिस्ट दैट बिकम अ मेमोरी एंड ट्स व्हाई प्रोबेबली आ नो स्विमिंग नहीं तो मुझे कभी आती नहीं ना मैं कभी सीखने जाता ना मेरे घर वालों को इंपॉर्टेंस है उसकी नथिंग सो इट्स मोर लाइक आई सी दैट एज अ लेसन कि कुछ करना है ना तो कूद जा हो जाएगा एंड वो मैं जब भी नई सिचुएशन जाता हूं दोस वर्ड्स लाइक जस्ट रिमाइंड मी इटल हैपन इटल हैपन एंड वो क्योंकि अपनी स्टोरी बताते हैं और वो हमेशा ना मेरे पापा और बड़े पापा को ऐसे गालियां देते थे कि ये देख ये ऐसे ही रह गए ये कूद ही नहीं कभी मैं कूद गया हमारी गांव में तो मैं बन गया यस तो तू कूदे तो बन जाएगा सो दैट वाज सच अ स्ट्रंग दैट हैड सच अ स्ट्रंग लली मेमरी",
+      "flags": [],
+      "id": "mot10"
+    },
+    {
+      "category": "motivational",
+      "rank": 11,
+      "finder_rank": 11.0,
+      "title": "बिफोर यू स्टार्ट वकिंग, डोंट आस्क व्हाई यू हैवनट रीच्ड द डेस्टिनेशन",
+      "why": "Kills the comparison excuse with his own 20-years-of-looking-clueless confession ('मेरे को लोखंड वाला में भी पैसे नहीं थे जाके कपड़े खरीदने'), then the instruction sized to start tonight: don't ask why you haven't arrived before you've started walking. Ends on the Sachin cover drive — anything that looks easy is not easy. A viewer in the audience block typed this exact line back with 240 likes.",
+      "category_hint": "excuse removed",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment on L0442"
+      ],
+      "start_line": "L0438",
+      "end_line": "L0443",
+      "start_words": "क्वेश्चन इज नेवर गोइंग टू हेल्प यू",
+      "end_words": "वा इ लु सो इजी एनीथिंग ट लुक्स इजी इ नॉट इजी",
+      "start_s": 3413.64,
+      "end_s": 3471.84,
+      "duration_s": 58.2,
+      "source_start_s": 3413.64,
+      "source_end_s": 3471.84,
+      "one_liner": false,
+      "text": "क्वेश्चन इज नेवर गोइंग टू हेल्प यू मूव ट्रू इट्स गो मेक यू फील वर्स अबाउट योरसेल्फ मैं भी करूंगा मुझे भी वैसा बनना है वो सोचो ना नो आई अग्री आई वा उसकी जर्नी देखो वो भी तो पैदा वैसे नहीं हुआ होगा ब्रो व वैसा पैदा नहीं हुआ होगा मैं 20 साल पहले जो कपड़े पहनता था ना तू हसेगा मेरे ऊपर टुडे एवरी बडी सेज यू नो शायद फैशन सेंस सो गुड फैशन गेम एंड आई एम लाफिंग आई एम लाइक मेरा टाइम था बॉस मेरे को लोखंड वाला में भी पैसे नहीं थे जाके कपड़े खरीदने इट्स 20 इयर्स ऑफ लुकिंग एंड लर्निंग एंड फीलिंग एंड अब एंड ट्रांग एंड अंडरस्टैंडिंग एंड फाइनली गेटिंग टू अ प्लेस यू नो सो इट्स 20 यर्स वक 20 यर्स देन टेल योरसेल्फ आई डों नो वई आईम नॉट देर इट्स फेर क्वेश्चन बिफोर यू स्टार्ट वकिंग डोंट आस्क योरसेल्फ वई यू नॉट रीच द डेस्टिनेशन ब्रो इट्स लग वक सचिन टकर कवर ड्राइव लुक सो इजी ना फम द एज ऑफ थ स्टार्टेड ट्स",
+      "flags": [],
+      "id": "mot11"
+    },
+    {
+      "category": "motivational",
+      "rank": 12,
+      "finder_rank": 12.0,
+      "title": "इफ समबडी इज बीइंग मीन, लेट देम बी मीन — बी नाइस एनीवेज",
+      "why": "A rule dismantled with standing: rudeness does not license rudeness back. 'बी काइंड एनीवेज' because everyone's own register will open one day and the question asked will be what YOU did, not what they did. Multiple viewers commented on this exact passage, one saying the clip brought them to the video.",
+      "category_hint": "spiritual / accountability",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment on L0317",
+        "comment on L0318"
+      ],
+      "start_line": "L0318",
+      "end_line": "L0321",
+      "start_words": "इफ सम बडी इज बीइंग मीन लेट देम बी मीन",
+      "end_words": "वेदर यू वांट टू कॉल इट गॉड वेदर",
+      "start_s": 2514.72,
+      "end_s": 2546.56,
+      "duration_s": 31.84,
+      "source_start_s": 2514.72,
+      "source_end_s": 2546.56,
+      "one_liner": false,
+      "text": "इफ सम बडी इज बीइंग मीन लेट देम बी मीन बी नाइस एनीवेज इफ सम बडी इज बीइंग रूड लेट देम बी रूड बी नाइस एनीवेज इफ सम इज बीइंग सेल्फिश लेट देम बी सेल्फिश बी काइंड एनीवेज बिकॉज इवेंचर देम इट वाज बिटवीन यू एंड हिम सबका अपना रजिस्टर खुलेगा ब्रो ऊपर जाके कोई यह नहीं पूछेगा कि उसने ये किया तो तुमने ऐसे क्यों किया वो डायरेक्ट यही पूछेगा कि तुमने ऐसे क्यों किया तुम्हें मुझे जवाब देना है सो वेदर यू वांट टू कॉल इट गॉड वेदर यू वांट टू कॉल इट योर ओन कॉन्शियस वेदर",
+      "flags": [],
+      "id": "mot12"
+    },
+    {
+      "category": "motivational",
+      "rank": 13,
+      "finder_rank": 13.0,
+      "title": "एवल्यूशन ओनली कम्स फ्रॉम मिस्टेक्स एंड इंजरी एंड फॉल",
+      "why": "A fresh image for failure: a baby's knee bone doesn't develop till age two because they keep falling and getting up — falling is literally how strength is built. 'यू कैन इफ यू कीप प्रोटेक्टिंग समबडी फ्रॉम फॉलिंग, दे डोंट बिकम स्ट्रंग'. The framing is about protecting a younger brother, but the principle is universal and quotable.",
+      "category_hint": "failure & comeback",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [],
+      "start_line": "L0459",
+      "end_line": "L0462",
+      "start_words": "माफ एंड ल्स दे हैव टूल्स हाउ दे हैव",
+      "end_words": "बस उतना बट दे हैव टू फॉल",
+      "start_s": 3602.8,
+      "end_s": 3648.28,
+      "duration_s": 45.48,
+      "source_start_s": 3602.8,
+      "source_end_s": 3648.28,
+      "one_liner": false,
+      "text": "माफ एंड ल्स दे हैव टूल्स हाउ दे हैव टू हैव देर ओन जर्नी यनो उनका हक बनता है मैं तो उल्टा बोलता हूं जा तीन गलती कर गिरेगा नहीं तो फिर स्ट्रंग कैसे बनेगा यू कैन इफ यू कीप प्रोटेक्टिंग सम बडी फ्रॉम फॉलिंग दे डोंट बिकम स्ट्रंग यू नो इन बेबी दे डोंट डिवेलप द द नी का बोन टिल द एज ऑफ टू बिकॉज दे आर गोंग टू कीप फॉलिंग एंड गेटिंग अप सो दैट इज दैट इज एवल्यूशन बिकॉज दे फेल एंड फेल एंड फेल देर ओन डीएनए इवॉल्वड ओवर टाइम टू बिकम सच दैट तो दैट इज एवल्यूशन एवोल्यूशन ओनली कम्स फ्रॉम मिस्टेक्स एंड इंजरी एंड फॉल यू जस्ट हैव टू ब्रेक द फॉल पीपल हु यू लव यू वांट टू ब्रेक द फॉल फॉर देम अ लिटिल बिट सो दैट इट्स मिनिमम",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "mot13"
+    },
+    {
+      "category": "motivational",
+      "rank": 14,
+      "finder_rank": 14.0,
+      "title": "देर इज नथिंग कॉल्ड अ परफेक्ट मैरिज",
+      "why": "He takes the phrase everyone was raised on — perfect marriage — and dismantles it: it's a dangerous term that usually leads to disappointment. The reframe that lands: 'वी आर ऑन सेपरेट ट्रैक्स चूसिंग टू मूव फॉरवर्ड टुगेदर', and your shared life experience cannot take away from your individual life experience. Aimed at people in or heading toward relationships, which is most of the audience. A replay peak sits in this passage.",
+      "category_hint": "reality check",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "REPLAYED near L0578"
+      ],
+      "start_line": "L0575",
+      "end_line": "L0582",
+      "start_words": "ना इट्स अ डेंजरस टर्म वी शुड",
+      "end_words": "गिव स्पेस टू द अदर पर्सन टू सेंस",
+      "start_s": 4558.4,
+      "end_s": 4639.76,
+      "duration_s": 81.36,
+      "source_start_s": 4558.4,
+      "source_end_s": 4639.76,
+      "one_liner": false,
+      "text": "आईडिया ऑफ अ परफेक्ट मैरिज ना इट्स अ डेंजरस टर्म वी शुड अवॉइड यूजिंग इट इट यूली लीड्स टू डिपॉट मेंट परफेक्ट मैरिज ओके देर इज नथिंग परफेक्ट ओके अ गुड मैरिज अ हेल्दी मैरिज फर्स्ट ऑफ ल इ अ मैरिज वे यू नो दे नथिंग कॉल्ड परफेक्ट मैरिज रूल नंबर वन इट इज अ ऑन गोइंग जर्नी ऑफ अंडरस्टैंडिंग एक्सेप्टेंस एंड म्यूचुअल रिस्पेक्ट आई थिंक दोस थिंग्स आर वेरी इंपोर्टेंट इफ आई कैन वरी अबाउट व्टक व्ट मैटर्स टू यू एंड यू कैन वरी अबाउट व्ट मैटर्स टू मी इट्स अ हेल्दी मैरिज इफ आई एम ट्राइट फोकस ऑन व्ट मैटर्स टू मी एंड लेट यू नो व्ट मैटर्स टू मी एंड यू आर ट्राइट लेट मी नो व्ट मैटर्स टू यू इट इज अ रेसिपी फॉर डिजास्टर एंड आव ट्राइड बोथ यू नो आई थिंक द फर्स्ट थिंग इन अ मैरिज ज यू हैव टू एक्सेप्ट दैट वी आर नॉट ऑन द सेम ट्रैक वी आर ऑन सेपरेट ट्रैक्स चूसिंग टू मूव फॉरवर्ड टुगेदर सो देयर इज अ सेंस ऑफ इंडिविजुअलिटी यू नो योर शेयर्ड लाइफ एक्सपीरियंस कैन नॉट टेक अवे फ्रॉम योर इंडिविजुअल लाइफ एक्सपीरियंस इट हैज टू ऐड टू दैट एंड एट टाइम्स यू हैव टू बी एबल टू गिव स्पेस टू द अदर पर्सन टू सेंस फील एक्सप्लोर देयर",
+      "flags": [],
+      "id": "mot14"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0136",
+      "end_line": "L0138",
+      "why_not": "The house-on-fire metaphor is genuinely striking but arrives half-built and garbled in the transcription; the vortex-dark-energy idea does not complete cleanly enough for a stranger to follow on its own."
+    },
+    {
+      "start_line": "L0284",
+      "end_line": "L0289",
+      "why_not": "The fatalistic first half — personality fixed by age seven, destiny decides the hand — outweighs the 'how well you play your hand' landing; the direction is uncertain and risks leaving the viewer smaller."
+    },
+    {
+      "start_line": "L0150",
+      "end_line": "L0157",
+      "why_not": "The flip is announced ('मैंने उस चीज को कंप्लीट फ्लिप किया') but the explanation of what actually changed never arrives before the passage dissolves into post-covid vagueness; the thought does not complete."
+    },
+    {
+      "start_line": "L0733",
+      "end_line": "L0735",
+      "why_not": "The quotable line about trusting your own read of people is embedded in fragmented host-guest ping-pong where the thought never finishes — only fragments are reachable and each is broken."
+    },
+    {
+      "start_line": "L0779",
+      "end_line": "L0793",
+      "why_not": "The 'child inside made me choose this' idea is real, but the delivery here is fragmented and the payoff about success living in the creation of art is quoted secondhand without its build."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0009",
+      "what": "cold-open montage; every line repeats later in the interview"
+    },
+    {
+      "from_line": "L0010",
+      "to_line": "L0026",
+      "what": "subscribe appeal and episode trailer"
+    },
+    {
+      "from_line": "L0027",
+      "to_line": "L0072",
+      "what": "self-definition, humility, operating out of love — reflective but slow and conversational"
+    },
+    {
+      "from_line": "L0073",
+      "to_line": "L0105",
+      "what": "power dynamics, star deliverables, fake humility — insider fame talk with no hand-off to the viewer"
+    },
+    {
+      "from_line": "L0109",
+      "to_line": "L0120",
+      "what": "host complimenting Shahid's aura — praise exchange, not motivation"
+    },
+    {
+      "from_line": "L0203",
+      "to_line": "L0252",
+      "what": "simplicity, universe relationship, cinema helping him process emotions — pleasant, no charge"
+    },
+    {
+      "from_line": "L0253",
+      "to_line": "L0316",
+      "what": "dark side, childhood memories, parents' separation — biography and sadness without a turn"
+    },
+    {
+      "from_line": "L0322",
+      "to_line": "L0362",
+      "what": "karma and accountability philosophical debate — rambling, no landing"
+    },
+    {
+      "from_line": "L0463",
+      "to_line": "L0507",
+      "what": "brotherhood, anger, self-control counts — decent values talk but diffuse"
+    },
+    {
+      "from_line": "L0507",
+      "to_line": "L0548",
+      "what": "parenting specifics, three-body problem, first vs second child — aimed at parents, administrative"
+    },
+    {
+      "from_line": "L0583",
+      "to_line": "L0604",
+      "what": "marriage veto lists and car decisions — relationship admin"
+    },
+    {
+      "from_line": "L0637",
+      "to_line": "L0692",
+      "what": "energy you put out, friends, alone time — pleasant conversation without a landing"
+    },
+    {
+      "from_line": "L0737",
+      "to_line": "L0762",
+      "what": "trusting directors and talent before success — career-specific industry talk"
+    },
+    {
+      "from_line": "L0796",
+      "to_line": "L0827",
+      "what": "closing courtesies, parting advice, outro and subscribe read"
+    }
+  ],
+  "video_read": "Shahid Kapoor on Raj Shamani's podcast — a long, unusually open Hindi-English conversation about his childhood, being made to feel less, failure, love, marriage and fatherhood. The motivational material is scattered through the middle and late portions: reframes about measuring success from where you started, heartbreak as the moment you decide who you become, generating your own motivation instead of borrowing it, and several hard-won identity claims. The opening three minutes are montage and subscribe reads.",
+  "coverage": 0.75,
+  "usage": {
+    "prompt_tokens": 118116,
+    "completion_tokens": 31240,
+    "total_tokens": 149356,
+    "cost": 0.0333374,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0333374,
+      "upstream_inference_prompt_cost": 0.0177174,
+      "upstream_inference_completions_cost": 0.01562
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 23915,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 23915
+  },
+  "error": null,
+  "seconds": 504.3,
+  "coverage_note": null,
+  "reasoning": "Let me read through this transcript carefully. It's a podcast with Shahid Kapoor (Raj Shamani's show), mostly in Hindi/Hinglish (transcribed phonetically in Devanagari). I need to find motivational moments — identity, self-belief, reframes, etc.\n\nKey stretches I noticed while reading:\n\n1. L0106-L0109: \"you can't be lost inside you, you must be clean in you... यू कांट बी लॉस्ट इनसाइड यू मस्ट बी क्लीन इन यू\" — big learning after 21 years. Identity claim.\n\n2. L0122-L0131: failure reframe — \"अगर आप फेलियर को फेलियर की तरह देखोगे तो वही आपको सराउंड करेगी... फ्यूल चाहिए\" — failure as fuel. Then L0137-L0138: \"अगर आपका घर जल गया है और आप वही आग जाके किसी और के घर प डालोगे...\" — dark energy vortexed into positive. Strong reframe.\n\n3. L0140-L0149: the 400m race experiment — \"इट्स नॉट बेस्ड ऑन वेर यू आर इट्स बेस्ड ऑन वेर यू स्टार्टेड एंड वेर यू रीच\" — success measured from where you started, not where you are. Strong. Comments on L0141, L0145 (2 comments each). This is a big one.\n\n4. L0153-L0157: victim mentality flip — \"मैंने उस चीज को कंप्लीट फ्लिप किया\" — brief though, ends in somewhat garbled.\n\n5. L0158-L0168: \"generate your own electricity\" — don't let motivation drop, be your own electricity machine. \"अगर आप अपनी इलेक्ट्रिसिटी खुद ही बना सकते हो तो फिर आपको बाहर से जरूरत नहीं होगी\" — strong instruction, the two-minute motivation comment on L0161 confirms a viewer related. Good clip.\n\n6. L0176-L0184: \"मैं लेसर मुझे ऐसा महसूस कराया गया\" — being made to feel less; then \"तू सर्वाइवल है यार तू निकल आता है\" — survivor identity. L0184: \"तू सर्वाइवल है यार तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में... तू अटकता नहीं\" — private humiliation named + identity. Good. L0191: \"नोबडी शुड डिफाइन यू यू शुड डिफाइन योरसेल्फ\" — quotable.\n\n7. L0193-L0195: \"माय फिल्म कम्स आउट इन अ वीक 10 डेज एंड आईम शिटिंग माय पैंट्स हाफ द टाइम\" — fear/duality, honest. \"इम्पोस्टर सिंड्रोम\" L0196-L0198: \"आई डोंट बिलंग हियर आई डोंट डिजर्व दिस\" — private humiliation named, very relatable.\n\n8. L0318-L0321: \"इफ सम बडी इज बीइंग मीन लेट देम बी मीन बी नाइस एनीवेज... सबका अपना रजिस्टर खुलेगा\" — be kind anyway, accountability. Comments at L0317, L0318. Decent.\n\n9. L0370-L0373: grandfather's \"कूद जा\" story — \"कुछ करना है ना तो कूद जा हो जाएगा\" — lovely story with a payoff. Story detonates. Good clip. L0370-L0374.\n\n10. L0445-L0451: opening batsman metaphor — \"आई लाइक आई लाइक बीइंग अ लोन रेंजर... मैं पंगे लेना पसंद है\" — loneliness as strength. \"खुद ही करूंगा मैं और मैं करूंगा और मैं फर्स्ट करूंगा और कोई नहीं और कर रहा है\" — strong.\n\n11. L0459-L0462: \"जा तीन गलती कर गिरेगा नहीं तो फिर स्ट्रंग कैसे बनेगा... एवल्यूशन ओनली कम्स फ्रॉम मिस्टेक्स एंड इंजरी एंड फॉल\" — reframe of failure via baby bones. Good.\n\n12. L0523-L0524: \"व्हाट देयर सरकमस्टेंसस आर आर नॉट अर्न बाय देम... दे हैव टू अर्न देयर सरकमस्टेंसस इन लाइफ\" — sense of achievement from what you do, not what you have. Decent.\n\n13. L0575-L0582: perfect marriage — \"देर इज नथिंग कॉल्ड परफेक्ट मैरिज... वी आर ऑन सेपरेट ट्रैक्स चूसिंग टू मूव फॉरवर्ड टुगेदर\" — permission granted / rule dismantled. REPLAYED tag. Relationship advice though — aimed at married people; audience includes? The 22-year-old? Hmm, it's advice about relationships. Could be category-straddling. Moderate.\n\n14. L0611-L0614: \"देर आर टू टाइप्स ऑफ पीपल इन द वर्ल्ड... यू द वन हु इ द बोज ऑन द वर्ल्ड या यू आर द पर्सन हु मेकिंग द वर्ल्ड स्लाइटली लाइटर प्लेस\" — identity choice. Good. Comment on L0610 \"important. 2 kinds of people. Aap duniya p bojh ho ya aap light banate ho\" — a viewer typed the line back. Strong confirmation.\n\n15. L0650: \"इफ दे आर गेटिंग अफेक्टेड बाय दैट दैट मींस दे लव यू सो मच\" — relationship advice.\n\n16. L0658-L0662: \"अपने लिए टाइम ही नहीं है... यू हैव टू लर्न टू मेक योर प्रायोरिटी\" — relatable for busy people. Moderate.\n\n17. L0697-L0707: heartbreak and dignity — \"आप किसी से इतना प्यार करते हो कि आपकी अपनी डिग्निटी टूट जाती है... यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव\" then \"दज आर द मोमेंट्स वे यू डिसाइड हु यू वांट टू बिकम एंड इफ इट हैजन हेल्प यू डिसाइड हु यू वा बिकम देन यू वेस्टेड द अपॉर्चुनिटी\" — REPLAYED at L0703. Strong: heartbreak as the moment you decide who you become. Very strong for young audience. Comments nearby.\n\n18. L0748-L0749: \"व्हेन आई स्टार्टेड आउट एज एन एक्टर आई ऑलवेज वांटेड समबीत बिलीव इन माय टैलेंट बिफोर आई हैड फाउंड सक्सेस... कैसे कोई मौका देगा\" — about needing someone to believe in you. Moderate.\n\n19. L0765-L0770: \"व्हट्स योर बिगेस्ट फियर... फियर इज एनीथिंग ट इज नॉट माय इमीडिएट कंफर्ट जोन\" and the line \"व्हट एवर यू आर अफ्रेड ऑफ इज वेर द रेस्ट ऑफ यू... लाइट्स... गो टू योर फियर यू विल फाइंड द रेस्ट ऑफ योरसेल्फ देयर\" — strong reframe. \"Whatever you are afraid of is where the rest of you lives\" — quotable. Good clip.\n\n20. L0779-L0781: \"देर इज अ चाइल्ड इनसाइड मी दैट मेड मी चूज दिस... ट चाइल्ड है टू ऑलवेज बी अलाइव\" — child imagination. Moderate.\n\n21. L0783-L0793: \"आपकी फटती है रिलीज से\" — the artist's anxiety, \"प्योर स्टेट आर्टिस्ट का वही होता है\" — names the private anxiety of wanting approval. \"सक्सेस इज इन द क्रिएशन ऑफ द आर्ट\" — good.\n\n22. L0800-L0802: \"डोंट टेक एवरी बडी रिस्पांसिबिलिटी इट यूजुअली लीड्स टू डिसइंटर\" — advice.\n\n23. L0805-L0811: Shahid about not opening fully — \"इज्जत का दायरा कभी क्रॉस नहीं करना चाहिए\" — integrity. Moderate.\n\n24. L0028-L0033: self-definition — \"हाउ ड यू डिफाइन योरसेल्फ यू मस्ट हैव हूमि अदर वाइज योर सेल्फ डेफिनिशन विल बी वेरी नेगेटिव\" — beginning of the interview; and \"अगर आप अपने आप को बोलो व्हाट एवर कम्स माय वे आई विल गेट आउट ऑफ इट तो आप अपने आप को एंपावर कर रहे हो\" — decent reframe. Cold-open though — these lines at L0001-L0007 are montage. L0028 onward is real interview. Actually L0027-L0033 is the real conversation? The cold open is roughly L0001-L0009. L0028 \"वेलकम न फिगरिंग आउट थंक यू हाउ ड यू डिफाइन योरसेल्फ\" — that's the real start. Hmm, L0001 says \"मोस्ट पीपल हु आर ड्रिवन... ड्राइव आती ही नेगेटिव इमोशंस\" which repeats at L0132-L0133, confirming cold open. L0004 repeats at L0379-L0382. L0005-L0007 repeats at L0532 and L0599. L0008 repeats at L0695. So yes, cold open confirmed.\n\n25. L0161 comment: \"i love this thing of shahid this is true we get motivated by watch some videos but after we don't do anything and he says u have elevate that energy with u\" — viewer typed the essence back. Strong signal for the electricity clip.\n\nNow pick the best set. Let me rank:\n\nA. The 400m race / where you started (L0140-L0149 or L0142-L0150). Comments on L0141 (7 likes \"most watch reel till date\") and L0145 (11 likes \"that is soo true\"). Very strong. Build: 250 auditions, race experiment, \"इट्स नॉट बेस्ड ऑन वेर यू आर इट्स बेस्ड ऑन वेर यू स्टार्टेड एंड वेर यू रीच\". End at L0149 \"दैट हैज टू बी देयर आई थिंक इट इट मेक्स थिंग्स अ लिटिल मोर\" — hmm, that trails. Better end at L0149 or L0150. L0149 ends \"दैट हैज टू बी देयर\" — the thought completes roughly at L0149. Take L0142-L0149. Start at L0142 (the experiment) — but L0141 sets up \"कुछ लोगों की स्ट्रुगल बीएड में होती है... मैं 250 ऑडिशन दे देके\" — that's context for the race. Start at L0141. Length: L0141(11.6)+L0142(10.2)+L0143(7.0)+L0144(6.7)+L0145(10.7)+L0146(9.2)+L0147(8.0)+L0148(7.9)+L0149(9.4) ≈ 80s. A bit long but build earns it. Could trim to L0142-L0148 (~66s). The landing \"वेर यू स्टार्टेड एंड वेर यू रीच\" is L0148. I'll do L0141-L0148.\n\nB. Failure-as-fuel + house on fire (L0121-L0138). Actually two moments: L0122-L0126 (failure→fuel) and L0136-L0138 (house on fire). The house-on-fire line is very quotable: \"अगर आपका घर जल गया है और आप वही आग जाके किसी और के घर प डालोगे...\" Dark energy vortex. L0136-L0138 alone: \"यू शुड बी एबल टू वोर्टेक्स डार्क एनर्जी इनटू पॉजिटिव एनर्जी इट्स लाइक अगर आप अगर आपका घर जल गया है...\" L0136(11.8)+L0137(11.0)+L0138(8.5) ≈ 31s. Good clip on its own? It starts with \"यार यू नो वो जो इमोशन है उससे मुझे ड्राइव मिलती है तो शायद वो फीलिंग्लेस मुझे ये फील हुआ कि नहीं यू शुड नॉट बी समबे डार्क इमोशन टू पुश थिंग्स आउट\" — a bit garbled but readable. The punchline is the house fire. Maybe start L0134 or L0136. Actually the preceding stretch L0132-L0136 sets up \"negative emotions drive most people... in my case I felt I shouldn't need dark emotions.\" Combined L0132-L0138 ≈ 61s. Hmm. Could return two: (1) failure→fuel L0121-L0126, (2) house on fire L0136-L0138. Let me think about failure→fuel: L0121-L0126: L0121(5.4)+L0122(7.6)+L0123(8.6)+L0124(9.5)+L0125(8.6)+L0126(9.1) ≈ 49s. \"अगर आप फेलियर को फेलियर की तरह देखोगे... वही एनर्जी आपको सराउंड करेगी... इन लाइफ यू ऑलवेज नीड फ्यूल टू एक्सलरेट\" — lands at L0125. Decent. The house fire one is sharper. I'll take the house fire as its own clip, L0134-L0138 maybe for context. Actually L0134-L0135 is about Deva character specifics (\"देवा भी वैसी टाइप का कैरेक्टर है\") — that's context but requires movie knowledge; still readable. Keep it tight: L0136-L0138. ~31s.\n\nC. Own electricity (L0158-L0168). L0159 starts mid — L0158 is music. Start L0159: \"दो मिनट इंस्पायर हो जाते हैं बट वो अगर आपकी अंदर की जो रेजोनेंस... उससे अगर मैच नहीं करता तो दो मिनट बाद आप उसी एनर्जी पर चले जाओगे\" — great opening hook actually (\"two minutes of inspiration doesn't last\"). End L0164: \"यू टा आपको खुद अपनी इलेक्ट्रिसिटी अपनी वाइब्रेशन खुद क्रिएट करनी होती है\" — L0164(8.4). L0159(7.9)+L0160(6.0)+L0161(6.0)+L0162(8.6)+L0163(9.4)+L0164(8.4) ≈ 46s. Good. Comment on L0161 confirms. Category: discipline/motivation. Strong.\n\nD. \"तू सर्वाइवल है\" / nobody should define you (L0182-L0191). L0182: \"नॉ गेटिंग इ टूट बट दैट इज व्ट आई वेंट थ्रू फॉर सम टाइम\" — start earlier L0177-L0178 \"मैं लेसर मुझे ऐसा महसूस कराया गया जबरदस्ती नहीं किया किसी ने...\" The naming of being made to feel less is the humiliation. Then L0183-L0184 \"यार मैं सरवाइवर हूं... तू सर्वाइवल है यार तू निकल आता है सिचुएशन में\" — L0184(10.2). Then L0186 \"तू अटकता नहीं\" L0188 \"तू सिचुएशन जो भी हो तू निकल जाता है उसम\" — then L0190-L0191 \"यू हैव टू लर्न टू बी निंबल फूटेड... नोबडी शुड डिफाइन यू यू शुड डिफाइन योरसेल्फ\". Start L0177, end L0191: L0177(9.4)+L0178(8.7)+L0179(8.5)+L0180(9.3)+L0181(7.1)+L0182(6.7)+L0183(7.2)+L0184(10.2)+L0186(6.2)+L0187(5.2)+L0188(4.4)+L0189(6.8)+L0190(4.5)+L0191(8.8) ≈ 102s. Too long. Split: survivor identity L0182-L0191 ≈ 82s. Still long. Or the humiliation naming L0177-L0184 ≈ 67s. Or tighter: L0183-L0191: \"ना यार मैं सरवाइवर हूं जहां से लाइफ से मैं उठके आया हूं...\" through \"नोबडी शुड डिफाइन यू यू शुड डिफाइन योरसेल्फ\" — L0183(7.2)+L0184(10.2)+[pause 3.3]+L0186(6.2)+L0187(5.2)+L0188(4.4)+L0189(6.8)+L0190(4.5)+L0191(8.8) ≈ 57s. That's a complete arc: I'm a survivor → situations, I don't get stuck → nobody should define you. Good. Actually L0184 is \"(slow) ना पिछले 21 सालों में मैंने अपने बारे में यह सीखा कि तू सर्वाइवल है यार...\" — wait L0183 ends with \"जर्नी रही है\" and L0184 starts \"ना पिछले 21 सालों में\". So starting L0183 works.\n\nE. Imposter syndrome / \"I don't belong here\" (L0193-L0201). \"स्टिल माय फिल्म कम्स आउट इन अ वीक... आईम शिटिंग माय पैंट्स हाफ द टाइम... आई डोंट बिलंग हियर आई डोंट डिजर्व दिस... होता है देरा टाइम्स जब आपको बहुत ऐसा ओवर वेल्मल है\" — names the private feeling. L0193(7.1)+L0194(6.0)+L0195(6.9)+L0196(5.7)+L0197(5.9)+L0198(7.6)+L0199(6.7)+L0200(4.1)+L0201(9.0) ≈ 59s. Ends at L0201 \"होता है देरा टाइम्स जब आपको बहुत ऐसा ओवर वेल्मल है तो यू फील लाइक दैट बट आई आल्सो फील और दे दो विय और चाहिए अभी दिल नहीं भरा है\" — the ending is a bit meandering (\"but I also feel I want more\"). Could end at L0198 \"आई डोंट बिलंग आई डोंट बिलंग हियर आई स्टिल फील कि\" — that doesn't complete. L0199-L0201 gives \"कभी-कभी जब आपको बहुत प्यार मिलता है... फील हुआ था कबीर सिंह में\" — completes with examples. End L0201. ~59s, honest admission clip. Good but maybe medium priority.\n\nF. Heartbreak: \"you can lose your self-respect in love\" + \"those are the moments you decide who you want to become\" (L0698-L0708). L0698(5.5)+L0699(7.5)+L0700(5.6)+L0701(6.6)+L0702(7.0)+L0703(6.5 REPLAYED)+L0704(6.0)+L0705(10.9)+L0706(3.6)+L0707(11.2)+L0708(12.5) ≈ 83s. Tighter: L0698-L0707 ends \"दज आर द मोमेंट्स वे यू डिसाइड हु यू वांट टू बिकम एंड इफ इट हैजन हेल्प यू डिसाइड हु यू वा बिकम देन यू वेस्टेड द अपॉर्चुनिटी ब्रो\" ≈ 71s. Hmm. Or split: (1) dignity L0698-L0704 (~45s): \"हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो कि... आपकी अपनी डिग्निटी टूट जाती है... यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव\" — L0704 ends \"बिकॉज योर बिहेवियर कैन बी लाइक दैट राइट सो ऑफकोर्स यू\" — incomplete. End L0703: \"सबसे इंटरेस्टिंग चीज है ना प्यार के बारे में कि यू कैन लूज\" — no. The dignity thought completes around L0704 (trails into \"ऑफकोर्स यू गो थ्रू दैट आल्सो\"). (2) the decision line L0707-L0708: \"इट्स हेल्पिंग यू दज आर द मोमेंट्स वे यू डिसाइड हु यू वांट टू बिकम एंड इफ इट हैजन हेल्प यू डिसाइड हु यू वा बिकम देन यू वेस्टेड द अपॉर्चुनिटी\" — that's a one-liner-ish clip but starts with \"तो या वो होता है बट\" — needs context. Return the whole L0698-L0708 as one clip (~83s) — the build (chasing, losing dignity, realizing years later) detonates at \"those are the moments you decide who you become.\" That's a story-shaped clip. REPLAYED signal. I'll return L0698-L0708. Actually the real start: L0697 \"वेल सम टाइम्स वन यर हार्ट ब्रेक्स लाइक यू सेड यू फील यूर नॉट गुड एनफ\" — \"like you said\" points outside. Start L0698. End L0708 ends \"यू नो टड यू गट आउट ऑफ हार्डवे यू नो यू लर्न टू अंडरस्टैंड व्ट\" — trails. End L0707 or L0708. L0708's thought \"यू लर्न टू अंडरस्टैंड व्ट [kind of person you can handle]\" continues into L0709-L0710. Hmm, L0709-L0710: \"मतलब आप किस तरह के इंसान को झेल सकते हो... ये ना दिल टूटने के बाद ही समझ में आता है\" — that's the host. End at L0707 \"यू वेस्टेड द अपॉर्चुनिटी ब्रो और यनो यू नॉट गटन एनीथिंग गुड आउट ऑफ इट यू नो टड यू गट आउट ऑफ हार्डवे\" — L0707 ends \"यू नो टड यू गट आउट ऑफ हार्डवे यू नो यू लर्न टू अंडरस्टैंड व्ट\" wait no that's L0708. L0707: \"तो या वो होता है बट इट्स एलरी प्रोसेस यार इट्स हेल्पिंग यू दज आर द मोमेंट्स वे यू डिसाइड हु यू वांट टू बिकम एंड इफ इट हैजन हेल्प यू डिसाइड हु\" — so the punchline \"दज आर द मोमेंट्स वे यू डिसाइड हु यू वांट टू बिकम\" is at L0707. L0708 completes it: \"यू वा बिकम देन यू वेस्टेड द अपॉर्चुनिटी ब्रो\". End at L0708. Good.\n\nG. \"Whatever you are afraid of is where the rest of you lives\" (L0765-L0772). L0765: \"इंटरेस्टिंग ओके बट आई वा आस्क यू लाइक टू थ्री क्वेश्च ओके लास्ट न डायरेक्शन चच इ लिटल फिलोसॉफिकल बट व्हट्स योर बिगेस्ट फियर माय बिगेस्ट फियर\" — start L0766: \"सो एस अ चाइल्ड आई हैड अ फियर ऑफ डार्कनेस...\" The punchline: L0767 end \"दे रिली नाइस सेइंग च सेज\" → L0768 \"ट व्हट एवर यू आर अफ्रेड ऑफ इज वेर द रेस्ट ऑफ यू\" → L0770 \"लाइट्स यू चूज कक्टर डू ल यू हैव टू गो टू योर फियर यू विल फाइंड द रेस्ट ऑफ योरसेल्फ देयर\". That's Shahid quoting something he read (\"दे रिली नाइस सेइंग दैट सेज\"). Start L0766, end L0770. L0766(9.7)+L0767(9.7)+L0768(6.0)+[pause 1.7]+L0770(12.6) ≈ 40s. \"Whatever you are afraid of is where the rest of you lives — go to your fear, you'll find the rest of yourself there.\" Excellent quotable. Good.\n\nH. Two kinds of people / bojh vs light (L0605-L0614). L0605: \"एक होती है आपकी इंडिविजुअल जर्नी... एक होता है हाउ ड यू डू समथिंग दैट इज बियोंड यू... यू रिप्रेजेंट इन लाइफ\" L0611: \"एस यू ग्रो ओल्डर इ यू रिलाइज ट देर आर टू टाइप्स ऑफ पीपल इन द वर्ल्ड... यू द वन हु इ द बोज ऑन द वर्ल्ड... और यू आर द पर्सन हु मेकिंग द वर्ल्ड स्लाइटली लाइटर प्लेस\" — comment on L0610 typed it back. Start L0605 or L0611. L0611 alone starts \"लाइफ रिप्रेजेंट्स समथिंग लार्जर देन जस्ट यू एंड एस यू ग्रो ओल्डर\" — good opening. L0611(9.0)+L0612(7.6)+L0613(8.2)+L0614(7.0) ≈ 32s. End L0614 \"यू रिमाइंड योरसेल्फ ट एवरीडे ना ब्रो\" — hmm L0614 ends \"यू हैव टू नो इफ यू रिमाइंड योरसेल्फ ट एवरीडे ना ब्रो\" which trails into L0615. End at L0613: \"और यू आर द पर्सन हु मेकिंग द वर्ल्ड स्लाइटली लाइटर प्लेस बाय टेकिंग पीपल लोड ऑफ यू नो ट्स अ फंडामेंटल थिंग\" — wait, \"बाय टेकिंग पीपल लोड ऑफ\" is L0613 end and L0614 begins \"यू नो ट्स अ फंडामेंटल थिंग यू हैव टू नो इफ यू रिमाइंड योरसेल्फ ट एवरीडे\". End L0614 then — \"रिमाइंड योरसेल्फ ट एवरीडे\" is a fine landing. Take L0605-L0614 (~60s) or L0611-L0614 (~32s). The two-journey setup (individual journey vs beyond-you) adds meaning. I'll take L0605-L0614. Actually L0604 ends \"एक चीज मैंने लाइफ में रिलाइज\" and L0605 begins \"एक होती है आपकी इंडिविजुअल जर्नी\" — starting L0605 is fine.\n\nI. \"कूद जा\" grandfather story (L0368-L0373). L0368: \"कि कूद जा मतलब मुझे आती नहीं स् नहीं नहीं कूद जा कूद जा सो उन्होंने रोज इतना पुश किया दैट चिस्ट दैट बिकम अ मेमोरी\" L0369: \"एंड ट्स व्हाई प्रोबेबली आ नो स्विमिंग नहीं...\" L0370: \"सो इट्स मोर लाइक आई सी दैट एज अ लेसन कि कुछ करना है ना तो कूद जा हो जाएगा\" L0371: \"एंड वो मैं जब भी नई सिचुएशन जाता हूं दोस वर्ड्स लाइक जस्ट रिमाइंड मी इटल हैपन इटल हैपन\" L0372-L0373: \"अपनी स्टोरी बताते हैं... ये देख ये ऐसे ही रह गए ये कूद ही नहीं कभी मैं कूद गया हमारी गांव में तो मैं बन गया यस तो तू कूदे तो बन जाएगा\" — story detonates. Start L0363 (the summer holidays memory) for full build ≈ 60s. L0363(13.0)+L0364(14.2)+[pause]+L0366(7.0)+L0367(8.3)+L0368(6.9)+L0369(7.8)+L0370(8.0)+L0371(7.8)+L0372(6.8)+L0373(8.8) ≈ 89s. Long but the story earns it. Or start L0366: \"मेरे उनके अलावा मेरी फैमिली किसी को स्विमिंग नहीं आती थी... तो मुझे नहीं पता कि उनको क्यों ये लगा कि सिखाना बहुत जरूरी है\" then jump story. L0366-L0373 ≈ 70s. Take L0364-L0373 maybe. Let me just take L0363-L0373 — the full story, whole form. ~89s. It's long; instructions say long is fine when the build does real work. Hmm, maybe trim: the essential is L0366-L0373. I'll do L0366-L0373 (~70s).\n\nJ. Opening batsman / lone ranger (L0445-L0451). L0445: \"ऐसे फील हुआ है कि मुझे तो है ना रिस्पांसिबिलिटी है एक लीडर बनना है और मैं ही ये मेरा नेचुरल प्रोटोटाइप बन चुका है ब्रो\" — starts with a host question tail. L0446: \"अभी फॉलो करो या किसी का छोटा भाई बन जाओ मेरे से होगा ही नहीं अब मैं बड़ा भाई बन चुका हूं\" L0447-L0450: \"ओपनिंग बैट्समैन को आदत है वो सामने वाला फर्स्ट बॉल 148 150 किमी प डालेगा और मैं फर्स्ट बॉल फेस करूंगा... आई लाइक बीइंग अ लोन रेंजर... मैं पंगे लेना पसंद है मुझे... खुद ही करूंगा मैं और मैं करूंगा और मैं फर्स्ट करूंगा और कोई नहीं और कर रहा है लेकिन मैं करूंगा और उसी में मजा है\" — loneliness as strength, first-ball fear. L0445-L0451 ≈ 52s. Good. Category: loneliness as strength. Take L0445-L0451.\n\nK. Mistakes/falling (L0459-L0462): \"जा तीन गलती कर गिरेगा नहीं तो फिर स्ट्रंग कैसे बनेगा... बेबी दे डोंट डिवेलप द नी का बोन टिल द एज ऑफ टू बिकॉज दे आर गोंग टू कीप फॉलिंग एंड गेटिंग अप... एवल्यूशन ओनली कम्स फ्रॉम मिस्टेक्स एंड इंजरी एंड फॉल\" — L0459(11.2)+L0460(12.4)+L0461(11.8)+L0462(9.9) ≈ 45s. Starts \"माफ एंड ल्स दे हैव टूल्स हाउ दे हैव टू हैव देर ओन जर्नी यनो उनका हक बनता है मैं तो उल्टा बोलता हूं\" — about parenting but the core is universal. The baby-bones image is a fresh angle on failure. Take L0459-L0462.\n\nL. Be kind anyway (L0317-L0321): \"इफ सम बडी इज बीइंग मीन लेट देम बी मीन बी नाइस एनीवेज... सबका अपना रजिस्टर खुलेगा\" — comments on L0317 (3 likes \"This brought me here\"). Good standalone. L0317(8.0)+L0318(6.9)+L0319(11.1)+L0320(7.2) ≈ 33s. Take L0317-L0321 (~41s incl L0321). Decent.\n\nM. Marriage: \"there's nothing called a perfect marriage... we're on separate tracks choosing to move forward together\" (L0575-L0582). REPLAYED at L0578. L0575(11.2)+L0576(10.7)+L0577(12.6)+L0578(7.4)+L0579(8.3)+L0580(5.6)+L0581(12.8)+L0582(12.0) ≈ 81s. It's relationship wisdom — permission granted / myth dismantled. The audience at 2am — some married, some not. \"Your shared life experience cannot take away from your individual life experience\" is identity-adjacent. I think it's a legit clip but I'd rank it lower. Given list size, maybe include as MEDIUM.\n\nHow many to return? The instructions push for generosity but honesty. Strong candidates: A (race), C (electricity), D (survivor/define yourself), F (heartbreak/dignity/decide who you become), G (fear/where the rest of you lives), H (two kinds of people), I (कूद जा), J (lone ranger/opening batsman), K (falling/baby bones), B (house on fire), E (imposter). That's 11. Maybe also L (be kind anyway), M (marriage). That's a lot. Let me be honest about which ones I'd actually believe in as reels.\n\nTop tier (would replay): A, D, F, G, H, J, C, I.\nSecond tier: B, K, E, L.\n\nI'll return ~9-10. Let me finalize:\n\n1. A — race/where you started (L0141-L0148). HIGH.\n2. F — heartbreak → decide who you become (L0698-L0708). HIGH. REPLAYED.\n3. G — fear is where the rest of you lives (L0766-L0770). HIGH.\n4. H — two kinds of people / bojh vs light (L0605-L0614). HIGH, comment confirms.\n5. C — generate your own electricity (L0159-L0164). HIGH, comment confirms.\n6. D — survivor / nobody should define you (L0183-L0191). HIGH.\n7. J — lone ranger / opening batsman (L0445-L0451). HIGH-ish/MEDIUM.\n8. I — कूद जा story (L0366-L0373). MEDIUM-HIGH.\n9. K — falling/baby bones (L0459-L0462). MEDIUM.\n10. B — house on fire / vortex dark energy (L0136-L0138). MEDIUM.\n11. E — imposter \"I don't deserve this\" (L0193-L0201). MEDIUM — actually this one is very relatable; \"आई डोंट बिलंग हियर\" repeated. Names private feeling. Include.\n12. L — be kind anyway (L0317-L0321). MEDIUM. Include? It's a nice one-liner-ish clip. I'll include with MEDIUM confidence.\n\nHmm, that's 12. Fine — the doc says rich hour can yield a dozen. But I should be careful not to pad. Let me re-verify each on the \"replay\" test.\n\nA: \"Do you recognize that about life — maybe you're already 200m ahead and someone is at 50m disadvantage... success is not based on where you are, it's based on where you started and where you reach.\" Yes, this reorganizes self-judgment. Keep.\n\nF: \"You love someone so much that when they reject you, you chase them to the degree your own dignity breaks... you can lose your own self-respect in love... those are the moments you decide who you want to become — and if it hasn't helped you decide, you wasted the opportunity.\" Strong for the 2am heartbroken viewer. Keep.\n\nG: \"My biggest fear is anything outside my comfort zone... there's a nice saying — whatever you are afraid of is where the rest of you lives... you have to go to your fear, you will find the rest of yourself there.\" Keep.\n\nH: \"As you grow older you realize there are two types of people in the world — you're the one who is the bojh on the world... or you're the person making the world slightly lighter by taking people's load off. It's a fundamental thing, you have to remind yourself every day.\" Keep.\n\nC: \"Two minutes of inspiration — if it doesn't match your inner resonance, two minutes later you're back... if you can be a generator, if you can make your own electricity, you won't need it from outside.\" Keep. Hook: \"दो मिनट इंस्पायर हो जाते हैं बट...\" — decent hook (motivational content meta).\n\nD: \"यार मैं सरवाइवर हूं... तू सर्वाइवल है यार तू निकल आता है मुश्किल सिचुएशन में... तू अटकता नहीं... nobody should define you, you should define yourself.\" Keep.\n\nJ: \"Being a lone ranger, doing it on my own... खुद ही करूंगा मैं और मैं करूंगा और मैं फर्स्ट करूंगा और कोई नहीं कर रहा है लेकिन मैं करूंगा और उसी में मजा है\" — Keep.\n\nI: कूद जा. Keep. Whole story form: start L0366 \"मेरे उनके अलावा मेरी फैमिली किसी को स्विमिंग नहीं आती थी\" — okay as start; the \"jump\" instruction lands L0370-L0373 \"तो तू कूदे तो बन जाएगा\". Complete. Keep.\n\nK: \"जा तीन गलती कर गिरेगा नहीं तो फिर स्ट्रंग कैसे बनेगा... evolution only comes from mistakes and injury and fall.\" Keep. Note start is slightly awkward: L0459 \"माफ एंड ल्स दे हैव टूल्स\" — hmm \"माफ\" — garbled. Readable enough: \"they have tools... they have to have their own journey, it's their right. I say the opposite — जा तीन गलती कर...\" Actually starting at L0459 is fine.\n\nB: \"यू शुड बी एबल टू वोर्टेक्स डार्क एनर्जी इनटू पॉजिटिव एनर्जी... अगर आपका घर जल गया है और आप वही आग जाके किसी और के घर प डालोगे — नहीं, आप किसी और के घर में आग लगी है तो जाकर उसको मदद करो क्योंकि आपका घर जल चुका है\" — wait, L0138: \"आपको लगेगा कि मैंने कुछ आप किसी और के घर में आग लगी है तो जाकर उसको मदद करो क्योंकि आपका घर जल चुका है वो पॉजिटिव होता\" — hmm, the metaphor: your house burned, don't set fire to someone else's house; help others. Direction: builds. Keep, medium confidence. Start: L0136 begins \"यार यू नो वो जो इमोशन है उससे मुझे ड्राइव मिलती है तो शायद वो फीलिंग्लेस मुझे ये फील हुआ कि नहीं यू शुड नॉट बी समबे डार्क इमोशन टू पुश थिंग्स आउट\" — a bit garbled mid (\"शायद वो फीलिंग्लेस\"). Start L0137: \"थिंग्स आउट यू शुड बी एबल टू वोर्टेक्स डार्क एनर्जी इनटू पॉजिटिव एनर्जी\" — starts mid-thought \"थिंग्स आउट\". Hmm. Start L0136 anyway; the second pass trims. End L0138.\n\nE: imposter. \"स्टिल माय फिल्म कम्स आउट इन अ वीक 10 डेज एंड आईम शिटिंग माय पैंट्स हाफ द टाइम\" — great honest opening hook actually. Keep, MEDIUM-HIGH.\n\nL: be kind anyway — keep? \"इफ सम बडी इज बीइंग मीन लेट देम बी मीन बी नाइस एनीवेज... सबका अपना रजिस्टर खुलेगा ब्रो ऊपर जाके कोई यह नहीं पूछेगा कि उसने ये किया तो तुमने ऐसे क्यों किया वो डायरेक्ट यही पूछेगा कि तुमने ऐसे क्यों किया\" — accountability + kindness. It's good, distinct. Keep with MEDIUM.\n\nThat's 12 clips. Hmm. Am I padding? Let me drop the weakest honestly. K (baby bones) — it's about parenting framing but the core line is universal and quotable (\"evolution only comes from mistakes and injury and fall\"). Keep. L (be kind anyway) — genuinely quotable and self-contained. Keep. E — keep. B — keep but LOW/MEDIUM.\n\nActually, 12 clips with honest whys is fine per the doc (\"A rich hour can yield a dozen\").\n\nSkipped ranges: cold open L0001-L0009 (montage), subscribe intro L0010-L0026, self-definition opening L0027-L0040 (moderate, generic-ish), power dynamics/who wants to fake it L0041-L0105 (relationship to fame, some good bits but conversational), Harvard discontentment study L0085-L0093 (interesting but about himself), aura compliment L0109-L0121 (host praising guest), victim flip L0150-L0157 (partially covered by race clip — no wait, I can't say that in why_not... those are skipped ranges, comparisons not allowed in why_not but skipped is coarse description — fine to just describe), parenting/second child L0507-L0548, marriage/individuality L0575-L0599 (relationship advice for married viewers — hmm should this be a near miss? It's genuinely good but aimed at married people; I'll note as skipped or near miss), trust in directors L0737-L0762 (career-specific), outro L0822-L0827.\n\nNear misses: \n- L0575-L0582 perfect marriage: genuinely quotable (\"वी आर ऑन सेपरेट ट्रैक्स चूसिंग टू मूव फॉरवर्ड टुगेदर\") but the build is long and much of the surrounding passage is logistical marriage management (veto lists, cars) — the clip's core is a myth-dismantle that stands alone but the reachable clean unit is hard to bound without the trailing admin. Hmm, actually I could just return it. Let me reconsider — is this my kind of thing? \"Permission granted / rule dismantled\" — \"there's nothing called a perfect marriage\" — yes, it reframes. The strongest unit: L0575-L0582. I'll return it as a clip actually rather than near-miss. That makes 13. Hmm. Let me decide: return it, MEDIUM confidence, category \"relationship reality-check\". Actually wait — L0579 \"आव ट्राइड बोथ यू\" trails. End L0582: \"योर शेयर्ड लाइफ एक्सपीरियंस कैन नॉट टेक अवे फ्रॉम योर इंडिविजुअल लाइफ एक्सपीरियंस\" — L0582 ends \"गिव स्पेस टू द अदर पर्सन टू सेंस फील एक्सप्लोर देयर\" — trails. End L0581: \"वी आर ऑन सेपरेट ट्रैक्स चूसिंग टू मूव फॉरवर्ड टुगेदर सो देयर इज अ सेंस ऑफ इंडिविजुअलिटी यू नो योर शेयर्ड लाइफ एक्सपीरियंस कैन नॉट टेक अवे फ्रॉम योर इंडिविजुअल लाइफ एक्सपीरियंस\" — wait that's L0581? Let me check: L0581 (12.8s): \"नॉट ऑन द सेम ट्रैक वी आर ऑन सेपरेट ट्रैक्स चूसिंग टू मूव फॉरवर्ड टुगेदर सो देयर इज अ सेंस ऑफ इंडिविजुअलिटी यू नो योर शेयर्ड लाइफ एक्सपीरियंस कैन नॉट टेक\" and L0582 continues \"अवे फ्रॉम योर इंडिविजुअल लाइफ एक्सपीरियंस इट हैज टू ऐड टू दैट...\" So end at L0582. OK: L0575-L0582 ≈ 81s. Fine.\n\nHmm, but do I believe in it as much? The audience is broad; marriage content does travel in India. Keep as clip #11-12 with MEDIUM.\n\nActually let me cap at 12 clips. Final list ranked:\n\n1. Race/where you started — L0141-L0148\n2. Heartbreak/decide who you become — L0698-L0708\n3. Fear/where the rest of you lives — L0766-L0770\n4. Own electricity — L0159-L0164\n5. Two kinds of people/bojh — L0605-L0614\n6. Survivor/define yourself — L0183-L0191\n7. Lone ranger/opening batsman — L0445-L0451\n8. कूद जा story — L0366-L0373\n9. Imposter/I don't belong here — L0193-L0201\n10. Baby bones/falling — L0459-L0462\n11. Be kind anyway/register — L0317-L0321\n12. House on fire/vortex — L0136-L0138\n13. Perfect marriage myth — L0575-L0582 — hmm, 13. Include or near-miss? The doc: two real moments beat eight defensible ones — but also no quota and gaps are expensive. I'll include it; it genuinely lands for its audience. Actually, let me weigh: is it \"expertise aimed at someone else\"? No — it's for anyone in/entering a relationship. Fine, include. 13 clips.\n\nHmm wait, also the \"Most people who are driven, their drive comes from negative emotions... I went through a long phase of feeling victimized... feeling less\" (L0132-L0140, L0176-L0182) — the \"I am lesser / made to feel less\" naming (L0176-L0182). That's the private humiliation. My clip 6 starts L0183. Should I extend 6 back to L0177? L0177: \"अ मेरे अंदर जो भी था मुझे ना ऐसा फील हुआ था मैं स्पेसिफिक्स में नहीं घुस आई एम लेसर मुझे ऐसा महसूस कराया गया\" — naming. But L0176 refers to Kabir Singh timing. L0177-L0182 ≈ 47s + L0183-L0191 ≈ 57s = 104s total. Too long as one. Two clips from same stretch: (a) \"मैं लेसर मुझे ऐसा महसूस कराया गया\" humiliation naming L0177-L0182, (b) survivor L0183-L0191. Per instructions, return several. OK add (a). That's 14. Getting heavy. Hmm.\n\nLet me prune to what I truly believe:\n- Merge 6a+6b? No — 104s. Keep both separately? The humiliation naming clip (a): L0177-L0182 ends \"आई फट इट बिकॉज ना यार मैं सरवाइवर हूं\" — actually L0182 ends \"...फॉर सम टाइम एंड आई वाज मेड टू फील लाइक दैट आई फट\" and L0183 begins \"इट बिकॉज ना यार मैं सरवाइवर हूं\" — so (a) ending at L0182 doesn't complete. Extend (a) to L0183 \"इट बिकॉज ना यार मैं सरवाइवर हूं जहां से लाइफ से मैं उठके आया हूं\" — completes with \"because I'm a survivor.\" So (a) = L0177-L0183 ≈ 54s, ending \"मैं सरवाइवर हूं जहां से लाइफ से मैं उठके आया हूं और जो मैंने लाइफ मेरी जो जर्नी रही है\" — hmm that trails into L0184. Ugh, the boundary is fuzzy. Honestly the second pass fixes edges. Simpler: return ONE clip L0177-L0191 but that's 104s... The doc says length is never grounds for discarding; return it and say so. Alternatively return (b) L0183-L0191 (57s) which is self-contained (\"यार मैं सरवाइवर हूं जहां से लाइफ से मैं उठके आया हूं\" opens fine — a claim about self) and covers the survivor+define-yourself arc. The humiliation naming (\"I was made to feel less\") is inside clip 9 (imposter) partially too. I'll just do (b) and mention in why that the \"made to feel less\" build sits just before it. Actually no — \"आई वाज मेड टू फील लाइक दैट\" is powerful. Hmm. Keep one clip: L0183-L0191. Fine.\n\nAlso consider the \"thinking of people closest to me, when they hurt me, to trigger\" (L0275-L0278) — actor craft, not for viewer. Skip.\n\n\"90% of personality formed by age 7\" (L0281-L0288) — science-ish, interesting but fatalistic-ish; \"that's why I'm a big believer in destiny... the hand is dealt, how well you play your hand\" — actually that ending (L0288-L0289) is decent: \"इट्स जस्ट अ मैटर ऑफ हाउ वेल यू प्ले योर हैंड\" — a reframe. Hmm, could be a clip: L0284-L0289 ≈ 40s: \"90% of your personality is formed till age seven, nothing that happened was empowered by you... that's why I believe in destiny... it's just a matter of how well you play your hand.\" It's a reality-check that lands with agency (\"how well you play your hand\"). MEDIUM. Include? I have 13 already. I'll leave it out and put it in near_misses? Near miss reason must be absolute: \"the fatalistic first half (your life was decided by age seven) outweighs the 'play your hand' landing for a 2am viewer; the direction is uncertain.\" That's an absolute fault-ish. OK near_miss.\n\nAlso L0085-L0086: \"नोबडी इज बेटर नोबडी इज वर्स आई एम द बेस्ट वर्जन ऑफ माइसेल्फ उतना ही है\" — \"after 21 years my biggest learning: nobody is better, nobody is worse, I am the best version of myself, that's all that matters\" — quotable! L0085(7.9)+L0086(9.1) ≈ 17s. One-liner clip. \"नोबडी इज बेटर नोबडी इज वर्स आई एम द बेस्ट वर्जन ऑफ माइसेल्फ\" — that's strong. Comment on L0085 (12 likes). Include! That's #14. Hmm.\n\nWait — L0085: \"फॉर इट यू आर नॉट बेटर दन एनीबडी एल्स आफ्टर 21 इयर्स माय बिगेस्ट लर्निंग व्हाट एवर यू माइट कॉल मी एज एन एक्टर...\" — starts with \"फॉर इट\" tail of previous thought (\"life has put you somewhere for it\"?). Actually L0084 ends \"बिकॉज यू हैव टू नो दैट लाइफ हैज पुट यू समवेद\" and L0085 \"फॉर इट यू आर नॉट बेटर दन एनीबडी एल्स आफ्टर 21 इयर्स माय बिगेस्ट लर्निंग...\" — starting at L0085 reads: \"You are not better than anybody else. After 21 years my biggest learning: whatever you might call me as an actor, whatever you might call me in my craft — nobody is better, nobody is worse. I am the best version of myself, that's all that matters.\" Wait but L0086 ends \"उतना ही है मे को एंड यू कंटेंट विद दैट नो आई एम नॉट नेवर कंटेंट विद माइसेल्फ\" — trails into discontentment. End at L0086's \"आई एम द बेस्ट वर्जन ऑफ माइसेल्फ उतना ही है\" — but the line continues. The second pass trims. Take L0085-L0086, note trailing. Fine, include. 14 clips total. That feels like too many? The doc explicitly warns against under-returning and says rich hour → dozen. 14 is above a dozen; let me cut the two weakest: B (house on fire — garbled setup, direction slightly muddled: \"help someone whose house is on fire because yours already burned\" — the metaphor is a bit confusing on the page) and L (be kind anyway — good but the tail about register/accountability wanders)? Hmm. Actually be-kind-anyway is genuinely one of the most shareable. House on fire: the punchline is confusing when transcribed. Drop B to near_miss (\"the house-on-fire metaphor arrives half-built; the transcription garbles the setup and the direction is unclear on the page\"). And keep the rest.\n\nAlso L (be kind anyway): keep as clip. Final count: 13.\n\nLet me also double check clip C start: L0158 is [music (youtube)] — can't start there. L0159: \"दो मिनट इंस्पायर हो जाते हैं बट वो अगर आपकी अंदर की जो रेजोनेंस आपकी जो अंदर की एनर्जी है उससे अगर मैच नहीं करता तो\" — wait, L0159 actually begins mid-thought? L0157: \"फोर्चुनेगीएंट्स तो यू आर स्टक ओनली ब्रो राइट सो आई गेस इफ यू आर चेंजिंग दैट मींस यू आर इवॉल्विंग...\" then [music], then L0159 \"दो मिनट इंस्पायर हो जाते हैं बट वो अगर...\" — this looks like a NEW topic beginning (post-music segment?). Actually the [music] at L0158 might be a chapter transition. \"दो मिनट इंस्पायर हो जाते हैं बट...\" as an opening: \"You get inspired for two minutes, but if it doesn't match your inner resonance, two minutes later you go back to that energy.\" That works as a hook — meta-commentary on motivation. Good.\n\nClip C end: L0164 \"य तो आपको खुद अपना अपनी इलेक्ट्रिसिटी अपनी वाइब्रेशन खुद क्रिएट करनी होती है\" — good landing. L0165-L0167 continues to \"joy is when you can share it\" — could extend to L0168 \"हैप्पीनेस नीड्स टू बी शेयर्ड\" — no, keep tight at L0164. Actually L0163: \"यू कैन बी र मशीन अगर आप अपनी इलेक्ट्रिसिटी खुद ही बना सकते हो तो फिर आपको बाहर से जरूरत नहीं होगी\" — the generator line. End L0164. Good.\n\nClip A start check: L0141: \"राइट लाइक थोड़ा एक्सप्लेन करो भाई कुछ लोगों की स्ट्रुगल बीएड में होती है उनकी शुरुआत फिल्म के टॉप टू थ्री डायरेक्टर देश की शुरुआत होती है मैं 250 ऑडिशन दे देके\" — wait, \"थोड़ा एक्सप्लेन करो भाई\" is the HOST asking. Then Shahid: \"कुछ लोगों की स्ट्रुगल बीएड में होती है... मैं 250 ऑडिशन दे देके आया हूं\" — actually L0141 might be host + guest start. The >> marker isn't shown here but \"थोड़ा एक्सप्लेन करो भाई\" is host. Fine — clip can start with host question. Actually starting with the host's question \"थोड़ा एक्सप्लेन करो भाई कुछ लोगों की स्ट्रुगल बीएड में होती है\" is a decent hook. Keep L0141 start. End L0148: \"वेर यू स्टार्टेड एंड वेर यू रीच ट्रू सो हम अपने साथ क्या करते हैं ना हम अपने सरकमस्टेंसस को हटा के वी वांट टू बी द बेस्ट इन कंपेरिजन टूू\" — hmm L0148 ends \"इन कंपेरिजन टूू\" — trails. The clean landing \"इट्स नॉट बेस्ड ऑन वेर यू आर इट्स बेस्ड ऑन वेर यू स्टार्टेड एंड वेर यू रीच\" is mid-L0148. End at L0148; second pass trims. Good.\n\nClip F start L0698: \"ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो कि आप जब वह\" — fine. End L0708: \"यू नो टड यू गट आउट ऑफ हार्डवे यू नो यू लर्न टू अंडरस्टैंड व्ट\" — trails badly. End L0707: \"एंड इफ इट हैजन हेल्प यू डिसाइड हु\" — no, mid. Ugh. The punchline \"दज आर द मोमेंट्स वे यू डिसाइड हु यू वांट टू बिकम\" is mid-L0707, and L0708 completes \"यू वा बिकम देन यू वेस्टेड द अपॉर्चुनिटी ब्रो\". End L0708, second pass trims the tail. OK.\n\nClip G: start L0766 \"सो एस अ चाइल्ड आई हैड अ फियर ऑफ डार्कनेस\" — fine. End L0770: \"यू हैव टू गो टू योर फियर यू विल फाइंड द रेस्ट ऑफ योरसेल्फ देयर बट यू सेड कंफर्ट जोन से बाहर निकल कंफर्ट जन से बाहर\" — ends with host echo \"बट यू सेड कंफर्ट जोन से बाहर\". End L0770, trim later. Actually end L0768+L0770 — L0769 is a pause row. End line must be spoken: L0770. Fine.\n\nClip H: L0605 start \"एक होती है आपकी इंडिविजुअल जर्नी कि आपको पर्सनली सेल्फिश क्या अचीव करना है लाइफ में आपका अपना विजन आपकी अपनी एक जर्नी\" — good. End L0614 \"यू रिमाइंड योरसेल्फ ट एवरीडे ना ब्रो\" — trails into host. Hmm, L0614: \"बाय टेकिंग पीपल लोड ऑफ यू नो ट्स अ फंडामेंटल थिंग यू हैव टू नो इफ यू रिमाइंड योरसेल्फ ट एवरीडे ना ब्रो\" — ends \"रिमाइंड योरसेल्फ ट एवरीडे\" which is a decent landing. OK.\n\nClip J: L0445 \"ऐसे फील हुआ है कि मुझे तो है ना रिस्पांसिबिलिटी है एक लीडर बनना है और मैं ही ये मेरा नेचुरल प्रोटोटाइप बन चुका है ब्रो\" — starts mid-answer (\"कभी ऐसे फील हुआ है कि...\" preceded by host question at L0444 end \"यू आर एन एल्डर ब्रदर ठीक कभी\"). Start L0445 fine. End L0451: \"तो मेरे को मजा आता है हम आई एम सेम हां म मैं फोड दंगा हां बस\" — lands okay (\"और उसी में मजा है\" is the landing). End L0451.\n\nClip I: L0366 start \"मेरे उनके अलावा मेरी फैमिली किसी को स्विमिंग नहीं आती थी\" — \"उनके अलावा\" refers to grandparents mentioned before — mild reference. Better start L0363: \"य मा आई हैव अ वेरी फंड मेमोरी ऑफ माय ग्रैंडफादर एज वेल ही स्टिल अलाइव विथ मी\" — self-contained story start. L0363(13.0)+L0364(14.2)+L0365 pause+L0366(7.0)+L0367(8.3)+L0368(6.9)+L0369(7.8)+L0370(8.0)+L0371(7.8)+L0372(6.8)+L0373(8.8) ≈ 89s. Long but whole story. OK.\n\nClip 9 (imposter): L0193 start \"स्टिल माय फिल्म कम्स आउट इन अ वीक 10 डेज एंड आईम शिटिंग माय पैंट्स हाफ द टाइम\" — actually begins \"स्टिल माय फिल्म कम्स आउट\" — \"still my film comes out in a week\" — fine as hook, very strong. End L0201. \n\nClip 10 (baby bones): L0459-L0462. Start L0459: \"माफ एंड ल्स दे हैव टूल्स हाउ दे हैव टू हैव देर ओन जर्नी यनो उनका हक बनता है मैं तो उल्टा बोलता हूं जा तीन गलती कर गिरेगा नहीं तो फिर स्ट्रंग कैसे बनेगा\" — \"माफ एंड ल्स\" garbled but readable-ish (\"after all, they have tools\"?). OK.\n\nClip 11 (be kind anyway): L0317 start \"इफ सम बडी इज बीइंग मीन लेट देम बी मीन बी नाइस एनीवेज\" — L0317 actually: \"सेइंग फॉर मी इजट यू नो इफ सम इज वट बी एबल टू से इट वेल बट मैं उसकी मेन थॉट समझा देता हूं\" — starts with host/guest meta \"but I'll explain the main thought\". Hmm, L0317 is Shahid: \"if someone is... let me explain the main thought\" then L0318: \"इफ सम बडी इज बीइंग मीन लेट देम बी मीन बी नाइस एनीवेज इफ सम बडी इज बीइंग रूड लेट देम बी रूड बी नाइस\". Start L0317 (the \"let me explain the main thought\" is a decent intro beat) or L0318 directly. Start L0318 — cleaner. End L0321: \"व्हट एवर रेसोनेट विद यू व्हाट एवर इ योर बिलीफ सिस्टम बट इफ यू फील दैट देयर\" — trails. L0320: \"वो डायरेक्ट यही पूछेगा कि तुमने ऐसे\" — hmm. L0319: \"एनीवेज इफ सम इज बीइंग सेल्फिश लेट देम बी सेल्फिश बी काइंड एनीवेज बिकॉज इवेंचर देम इट वाज बिटवीन यू एंड हिम सबका अपना\" and L0320 \"रजिस्टर खुलेगा ब्रो ऊपर जाके कोई यह नहीं पूछेगा कि उसने ये किया तो तुमने ऐसे क्यों किया वो डायरेक्ट यही पूछेगा कि तुमने ऐसे\" and L0321 \"क्यों किया तुम्हें मुझे जवाब देना है सो वेदर यू वांट टू कॉल इट गॉड वेदर यू वांट टू कॉल इट योर ओन कॉन्शियस वेदर\" — the accountability landing \"तुम्हें मुझे जवाब देना है\" is at L0321. End L0321. OK.\n\nClip 12 (best version one-liner): L0085-L0086. Confidence MEDIUM (tail trails into discontentment talk — second pass will cut at \"बेस्ट वर्जन ऑफ माइसेल्फ उतना ही है\").\n\nClip 13 (marriage): L0575-L0582. Hmm wait, L0574 is host question \"मैं वांटेड टू नो दिस ऑलवेज एंड आई एक्चुअली लाइक आस्किंग दिस क्वेश्चन टू मस्ट एवरीवन मेट इन लाइफ व्हट्स योर आईडिया ऑफ अ परफेक्ट मैरिज\" — starting at L0575 with Shahid's answer \"ना इट्स अ डेंजरस टर्म वी शुड अवॉइड यूजिंग इट\" — \"na, it's a dangerous term, we should avoid using it\" — decent hook. End L0582. Include, MEDIUM.\n\nOrder by rank. Hook strengths:\n1. Race — hook: \"थोड़ा एक्सप्लेन करो भाई कुछ लोगों की स्ट्रुगल बीएड में होती है...\" 7\n2. Heartbreak — \"ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो...\" 8\n3. Fear — \"सो एस अ चाइल्ड आई हैड अ फियर ऑफ डार्कनेस\" 6\n4. Electricity — \"दो मिनट इंस्पायर हो जाते हैं बट...\" 8\n5. Two kinds — \"एक होती है आपकी इंडिविजुअल जर्नी...\" 6\n6. Survivor — \"यार मैं सरवाइवर हूं जहां से लाइफ से मैं उठके आया हूं\" 7\n7. Lone ranger — \"ऐसे फील हुआ है कि मुझे तो है ना रिस्पांसिबिलिटी है एक लीडर बनना है\" 5\n8. कूद जा — \"आई हैव अ वेरी फंड मेमोरी ऑफ माय ग्रैंडफादर\" 5\n9. Imposter — \"स्टिल माय फिल्म कम्स आउट इन अ वीक 10 डेज एंड आईम शिटिंग माय पैंट्स हाफ द टाइम\" 9\n10. Baby bones — 5\n11. Best version — \"यू आर नॉट बेटर दन एनीबडी एल्स आफ्टर 21 इयर्स माय बिगेस्ट लर्निंग\" 7\n12. Be kind anyway — \"इफ सम बडी इज बीइंग मीन लेट देम बी मीन\" 7\n13. Marriage — \"इट्स अ डेंजरस टर्म\" 7\n\nRanking: put strongest first. My order:\n1. Race (A)\n2. Heartbreak (F)\n3. Imposter (E) — hook 9, very shareable\n4. Electricity (C)\n5. Two kinds (H)\n6. Survivor (D)\n7. Fear (G)\n8. Best version (one-liner)\n9. Lone ranger (J)\n10. कूद जा (I)\n11. Be kind anyway (L)\n12. Baby bones (K)\n13. Marriage (M)\n\nvideo_read: Shahid Kapoor on Raj Shamani's podcast, long Hindi-English conversation about childhood, self-worth, failure, love. Best material scattered through middle: reframes on where you started, heartbreak as identity decision, generating own motivation.\n\nsignals_used: comments on L0141/L0145 (race), L0161 (electricity), L0610 (two kinds), REPLAYED L0703 (heartbreak), comment on L0085 (best version), comments L0317-L0318, REPLAYED L0578 (marriage).\n\nnear_misses:\n- L0136-L0138 house on fire: \"the house-on-fire metaphor is half-built and garbled in the transcription; the vortex idea doesn't complete cleanly on its own.\"\n- L0281-L0289 destiny/hand dealt: \"the fatalistic half (personality fixed by age seven, destiny decides) outweighs the play-your-hand landing; direction uncertain.\"\n- L0150-L0157 victim flip: \"the flip is announced ('मैंने उस चीज को कंप्लीट फ्लिप किया') but the explanation of what changed never arrives clearly before the passage dissolves into post-covid vagueness.\"\n- L0733-L0734 trust your read: \"the trust-your-own-read line is quotable but the passage around it is fragmented host-guest ping-pong that never completes the thought.\"\n- L0779-L0793 child inside/artist anxiety: \"the 'child inside made me choose this' thought is real but the surrounding delivery is fragmented and the payoff ('सक्सेस इज इन द क्रिएशन ऑफ द आर्ट') is quoted secondhand without its build.\"\n\nskipped:\n- L0001-L0009 cold-open montage (repeats later)\n- L0010-L0026 subscribe intro\n- L0027-L0072 self-definition opening + operating out of love/power (reflective but slow, conversational)\n- L0073-L0105 power dynamics, deliverables, fame — insider talk\n- L0109-L0120 host praising Shahid's aura — compliment exchange\n- L0203-L0252 simplicity/universe relationship/cinema's effect — pleasant but no charge\n- L0253-L0316 dark side, childhood, parents — reflective biography\n- L0322-L0362 karma/accountability debate — philosophical rambling\n- L0374-L0444 parents, voids, love sources, comparison loop — some good lines but diffuse; comparison bit (L0420-L0444) partially good... hmm actually L0435-L0443 \"whatever you focus on is what you aspire to be... don't ask yourself why you haven't reached the destination before you start walking... anything that looks easy is not easy\" — that's decent! L0438-L0443: \"यू एडमायब्रांड क्वेश्चन इज नेवर गोइंग टू हेल्प यू... बिफोर यू स्टार्ट वकिंग डोंट आस्क योरसेल्फ वई यू नॉट रीच द डेस्टिनेशन ब्रो... लुक सचिन टकर कवर ड्राइव... एनीथिंग ट लुक्स इजी इ नॉट इजी\" — comment on L0442. Hmm, that's another candidate. \"Before you start walking don't ask yourself why you haven't reached the destination\" — good one-liner. Include as clip #14? The audience quote \"Anything that looks Easy, it's not easy...\" (240 likes) is in the audience block! That's a viewer typing the line back. Strong confirmation. Include: L0435-L0443. L0435(14.6)+L0436(13.2)+L0438(11.2)+L0439(7.6)+L0440(6.7)+L0441(9.4)+L0442(10.8)+L0443(12.4) ≈ 86s — long. Tighter: L0438-L0443 ≈ 58s: \"comparing question is never going to help you move through it, it'll make you feel worse about yourself... नो आई अग्री आई वा उसकी जर्नी देखो वो भी तो पैदा वैसे नहीं हुआ होगा... मैं 20 साल पहले जो कपड़े पहनता था ना तू हसेगा... 20 इयर्स ऑफ लुकिंग एंड लर्निंग... बिफोर यू स्टार्ट वकिंग डोंट आस्क योरसेल्फ वई यू नॉट रीच द डेस्टिनेशन... लुक सचिन टकर कवर ड्राइव... एनीथिंग ट लुक्स इजी इ नॉट इजी\" — good arc: envy of someone's journey → 20 years of looking and learning → don't ask why you haven't arrived before you start walking. Include. That's 14 clips. Okay — the doc says a dozen is plausible for rich hour; 14 is fine if I believe in each. Do I believe in all 14? Let me do a final honesty pass:\n\nRace ✓, Heartbreak ✓, Imposter ✓, Electricity ✓, Two kinds ✓, Survivor ✓, Fear ✓, Best version ✓ (17s one-liner, strong), Lone ranger ✓, कूद जा ✓, Be kind ✓, Baby bones — hmm, weakest. \"Evolution only comes from mistakes and injury and fall\" + baby knee bones — it's a fresh image. Keep, MEDIUM. Marriage ✓ MEDIUM. Journey/walking ✓.\n\nFine, 14 clips. Actually let me reconsider be-kind-anyway vs baby bones once more... both keep.\n\nNow write output. start_words/end_words copied exactly.\n\n1. Race: start L0141 \"राइट लाइक थोड़ा एक्सप्लेन करो भाई\" end L0148 \"इन कंपेरिजन टूू\" — last words of L0148: \"वी वांट टू बी द बेस्ट इन कंपेरिजन टूू\" — copy as written.\n2. Heartbreak: L0698 \"ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में\" end L0708 \"यू लर्न टू अंडरस्टैंड व्ट\".\n3. Imposter: L0193 \"स्टिल माय फिल्म कम्स आउट इन अ वीक\" end L0201 \"वेल्मल है तो यू फील लाइक दैट बट आई आल्सो फील और दे दो विय और चाहिए अभी दिल नहीं भरा है\" — copy \"और दे दो विय और चाहिए अभी दिल नहीं भरा है\".\n4. Electricity: L0159 \"दो मिनट इंस्पायर हो जाते हैं बट\" end L0164 \"खुद अपना अपनी इलेक्ट्रिसिटी अपनी वाइब्रेशन खुद\".\n5. Two kinds: L0605 \"एक होती है आपकी इंडिविजुअल जर्नी\" end L0614 \"रिमाइंड योरसेल्फ ट एवरीडे ना ब्रो\".\n6. Survivor: L0183 \"इट बिकॉज ना यार मैं सरवाइवर हूं\" end L0191 \"यू शुड डिफाइन योरसेल्फ यू टॉक\".\n7. Fear: L0766 \"सो एस अ चाइल्ड आई हैड अ फियर\" end L0770 \"बट यू सेड कंफर्ट जोन से बाहर निकल कंफर्ट जन से बाहर\".\n8. Best version: L0085 \"फॉर इट यू आर नॉट बेटर दन एनीबडी एल्स\" end L0086 \"नो आई एम नॉट नेवर कंटेंट विद माइसेल्फ\".\n9. Lone ranger: L0445 \"ऐसे फील हुआ है कि मुझे तो है ना\" end L0451 \"मैं फोड दंगा हां बस\".\n10. कूद जा: L0363 \"य मा आई हैव अ वेरी फंड मेमोरी\" end L0373 \"गांव में तो मैं बन गया यस तो तू कूदे तो बन जाएगा\".\n11. Journey/walking: L0438 \"क्वेश्चन इज नेवर गोइंग टू हेल्प यू\" end L0443 \"वा इ लु सो इजी एनीथिंग ट लुक्स इजी इ नॉट इजी\".\n12. Be kind: L0318 \"इफ सम बडी इज बीइंग मीन लेट देम बी मीन\" end L0321 \"वेदर यू वांट टू कॉल इट गॉड वेदर\".\n13. Baby bones: L0459 \"माफ एंड ल्स दे हैव टूल्स हाउ दे हैव\" end L0462 \"बस उतना बट दे हैव टू फॉल\".\n14. Marriage: L0575 \"ना इट्स अ डेंजरस टर्म वी शुड\" end L0582 \"गिव स्पेस टू द अदर पर्सन टू सेंस\".\n\nWrite the JSON."
+}

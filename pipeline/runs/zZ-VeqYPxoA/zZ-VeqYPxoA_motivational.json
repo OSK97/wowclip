@@ -1,0 +1,634 @@
+{
+  "category": "motivational",
+  "clips": [
+    {
+      "category": "motivational",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "Ideas are like sperms, only one in a million works",
+      "why": "The single most-marked moment in the video: five comments on the line plus a replay peak. It does two things at once — it laughs at the viewer's precious idea, and it removes the paralysis around it ('तुम्हारी मर्जी है'). The wannabe founder who has been sitting on an idea for a year hears that his odds were always one in a million and that this is normal, not a verdict on him. Shockingly quotable, funny, and it completes on its own. The word 'works' lands on the audio just past L0325 before the host speaks; the second pass can cut on the audio.",
+      "category_hint": "one-liner / reality check",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "5 viewer comments on L0325",
+        "3 viewer comments on L0324",
+        "[REPLAYED] on L0325",
+        "audience comment quoting the line verbatim (193 likes)"
+      ],
+      "start_line": "L0324",
+      "end_line": "L0325",
+      "start_words": "दिया बट वो कांसेप्ट वहां से आया",
+      "end_words": "आइडिया आर लाइक स्पर्म्स ओनली वन इन अ मिलियन",
+      "start_s": 2752.88,
+      "end_s": 2771.68,
+      "duration_s": 18.8,
+      "source_start_s": 2752.88,
+      "source_end_s": 2771.68,
+      "one_liner": false,
+      "text": "दिया बट वो कांसेप्ट वहां से आया ना तो हर कोई उम्मीद में कि एक भी लग गया तो जो वीसी इसलिए पैसा देता है कि एक भी लग गया तो सब उसका लाइफ निकल जाए सुनो पंच लाइन इसको तुम यार कर करोगे या नहीं करोगे तुम्हारी मर्जी है आइडिया आर लाइक स्पर्म्स ओनली वन इन अ मिलियन",
+      "flags": [],
+      "id": "mot1"
+    },
+    {
+      "category": "motivational",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "Poverty gives you the power to take decisions",
+      "why": "The audience's second-loudest comment (2534 likes) is this exact line typed back. Two reframes stacked: 'success is delta' — he was at zero so everything is upside — and the inversion that broke wealth brings: the rich hesitate because they have something to lose, the poor decide fast. A viewer who is ashamed of being broke walks out feeling his position is an advantage. Said flat, no performance needed.",
+      "category_hint": "money / reframe",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "audience comment quoting the line (2534 likes)"
+      ],
+      "start_line": "L0039",
+      "end_line": "L0042",
+      "start_words": "सक्सेस इन लाइफ इज डेल्टा ओके",
+      "end_words": "वन पॉवर्टी गिव्स यू पावर टू टेक डिसीजन",
+      "start_s": 390.36,
+      "end_s": 432.8,
+      "duration_s": 42.44,
+      "source_start_s": 390.36,
+      "source_end_s": 432.8,
+      "one_liner": false,
+      "text": "सक्सेस इन लाइफ इज डेल्टा ओके डेल्टा इज एक्सट माइनस एक्सव एक्सट में आज कहां हूं एक्सव में तभी कहां था मेरा एक्सव ही जीरो था कोने के लिए तो कुछ है ही नहीं है जबी खने के लिए कुछ नहीं होता है आप डिसीन जल्दी लेते हैं तो धनवान हमेशा खने का डर होता है तो डिसीन ले नहीं पाते हैं तो मेरा तो कुछ डिसीजन बिल्कुल जट जट से डिसीजन लिया हूं नंबर वन पॉवर्टी गिव्स यू पावर टू टेक डिसीजन दूसरा जब भी आप पुअर हो वो भी गांव में हो तो रोज सुबह से शाम तक प्रॉब्लम",
+      "flags": [],
+      "id": "mot2"
+    },
+    {
+      "category": "motivational",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "Do what you studied, you survive. Do what you didn't study, you lead.",
+      "why": "He set it up perfectly: in 1982 he did not know where the thyroid gland was, by 1992 a PhD in thyroid biochemistry, today he runs the world's largest thyroid lab. Then the inversion that viewers screenshot: the safe path makes you a survivor, the unqualified leap makes you the leader. It takes away the excuse 'I'm not trained for this' in one sentence. A viewer replayed this section and a commenter called it 'most powerful line ever'.",
+      "category_hint": "self-belief / reframe",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment 'most powerful line ever 🔥' (7 likes) on L0200",
+        "[REPLAYED] on L0198"
+      ],
+      "start_line": "L0197",
+      "end_line": "L0201",
+      "start_words": "ट्रस्ट मी र कम्स द मोस्ट पावरफुल पंच",
+      "end_words": "लीडर राइट आइम द लीडर",
+      "start_s": 1679.52,
+      "end_s": 1723.6,
+      "duration_s": 44.08,
+      "source_start_s": 1679.52,
+      "source_end_s": 1723.6,
+      "one_liner": false,
+      "text": "ट्रस्ट मी र कम्स द मोस्ट पावरफुल पंच लाइन इन 1982 आई ड नॉट नो वेर थायराइड वास एंड इन 1992 आई फिनिश पीएचडी इन थाइरोइड बायो केमिस्ट्री इन 22 आईम रनिंग वर्ल्ड लार्जेस्ट थायराइड टेस्टिंग लेबोरेटरी 20 यर्स द पंच लान स्टार्टस नाउ इफ यू डू व्ट य हैव स्टडीड इफ यू डू व्ट य स्टडीड यू विल सरवाइव बट इफ यू डू ट यू हैव नॉट स्टडीड यू विल बी द लीडर राइट आईम द लीडर फिल्म ट्रेनिंग इंस्टिट्यूट उस जमाने में नहीं था आज आया है और आज जो भी",
+      "flags": [],
+      "id": "mot3"
+    },
+    {
+      "category": "motivational",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "New mistake every day: billionaire. Same mistake every day: beggar.",
+      "why": "His closing gift and one of the most-quoted lines of the episode (528 likes, two people typed it word for word). 'फेलर से डरो मत, जो गिरा ही नहीं वो जर्नी ही नहीं कर पाएगा' earns the comfort, and then the mistake-asymmetry gives the viewer a rule they can apply tomorrow morning. Permission plus a usable instruction in under thirty seconds. Note the clip opens mid-sentence; the hook line sits inside L0465 and the editor can flash it.",
+      "category_hint": "failure & comeback",
+      "hook_strength": 5.0,
+      "self_contained": false,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0465",
+        "audience comment quoting the line (528 likes, 2 people)"
+      ],
+      "start_line": "L0465",
+      "end_line": "L0467",
+      "start_words": "शड यू कैन लर्न एंड डू",
+      "end_words": "यू आर गोइंग टू बी अ बेगर सून",
+      "start_s": 3868.4,
+      "end_s": 3895.92,
+      "duration_s": 27.52,
+      "source_start_s": 3868.4,
+      "source_end_s": 3895.92,
+      "one_liner": false,
+      "text": "शड यू कैन लर्न एंड डू एंड दिस थिंग्स वी मस्ट टीच पीपल एंड फेलर से डरो मत जो ग गिरा ही नहीं है वो जर्नी ही नहीं कर पाएगा सो आई कीप टेलिंग पीपल मेक मिस्टेक्स मेक ऑल मिस्टेक्स मेक देम वेरी फास्ट बट डोंट रिपीट इफ यू डू एवरी डे ए न्यू मिस्टेक यूर यू आर गोइंग टू बी अ बिलियने यू डू द सेम मिस्टेक एवरी डे यू आर गोइंग टू बी अ बेगर सून",
+      "flags": [
+        "finder marked it not self-contained"
+      ],
+      "id": "mot4"
+    },
+    {
+      "category": "motivational",
+      "rank": 5,
+      "finder_rank": 5.0,
+      "title": "Rejected in 50 interviews, so he hired only freshers — 25,000 of them",
+      "why": "This is aimed straight at the viewer who was rejected this month. Every interviewer asked the same dead-end question — 'do you have experience?' — and at nineteen, mid-losing, he made a vow: when I run a company, no experienced hires, ever. Then the number lands: 25,000 freshers. It converts rejection into a covenant and quietly indicts the system that rejected them. A fresher wrote under this exact moment about suffering to get a corporate job.",
+      "category_hint": "prove them wrong / rejection",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0100 about freshers and corporate jobs (11 likes)",
+        "comment 'this still happens' on L0093 (5 likes)"
+      ],
+      "start_line": "L0091",
+      "end_line": "L0100",
+      "start_words": "अलेजो 19 यर्स बीएससी फर्स्ट क्लांस मैं सोचा",
+      "end_words": "आईव नेवर रिक्रूटेड एन एक्सपीरियंस मैन इनटू माय ऑर्गना ली",
+      "start_s": 863.92,
+      "end_s": 935.76,
+      "duration_s": 71.84,
+      "source_start_s": 863.92,
+      "source_end_s": 935.76,
+      "one_liner": false,
+      "text": "अलेजो 19 यर्स बीएससी फर्स्ट क्लास मैं सोचा कोयर में बहुत एंटरप्राइस से बहुत सारा कंपनी से फैक्ट्री से नौकरी मिलनी चाहिए लेकिन 50 इंटरव्यू में लगभग 50 इंटरव्यू में मैं फेल होता ही जा रहा था कारण यह था कि सभी यही सवाल पूछ रहा था कि डू यू हैव एक्सपीरियंस अरे गदे एग्जाम मे महीना में खत्म हुआ जून महीना में अटेंड कर रहा हूं इंटरव्यू क से लेके इट्स ऑलमोस्ट लाइक सिटिंग इन फ्रंट ऑफ गर्ल म य आर लाइक टू मैरी एंड आस्किंग हर तुम्हारे कितने बच्चे हैं सो इरिटेटिंग इ द क्वेश्चन सो 1978 में जब मेरा उम्र 19 था एक डिसीजन लिया था अगर एक दिन मैं खुद कंपनी चलाऊ सिर्फ प्रेशर को ही काम पर लूंगा एक्सपीरियंस को काम पर नहीं लूंगा ट्रस्ट आईव नेवर रिक्रूटेड एन एक्सपीरियंस मैन इनटू माय ऑर्गना ली",
+      "flags": [],
+      "id": "mot5"
+    },
+    {
+      "category": "motivational",
+      "rank": 6,
+      "finder_rank": 6.0,
+      "title": "जीने आया या जीतने आया?",
+      "why": "Fifteen seconds, pure question hook. 'Came to live or came to win? I could have lived in Coimbatore. I came to Mumbai, so I have to win.' It forces the viewer scrolling at 2am to answer for themselves — did you come this far to merely live? Commenters marked this exact second as 'punch line ⚡'.",
+      "category_hint": "hustle / question hook",
+      "hook_strength": 9.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment 'punch line ⚡' (14 likes) on L0214"
+      ],
+      "start_line": "L0214",
+      "end_line": "L0217",
+      "start_words": "थ्री तभी मुझे ऐसा लगा",
+      "end_words": "मुंबई तक आया तो जीतना जीतना है",
+      "start_s": 1797.04,
+      "end_s": 1821.52,
+      "duration_s": 24.48,
+      "source_start_s": 1797.04,
+      "source_end_s": 1821.52,
+      "one_liner": false,
+      "text": "थ्री तभी मुझे ऐसा लगा कि एक पंचलाइन है बताओ जीने आया या जीतने आया जीना तो को मत में भी जी सकता था मुंबई तक आया तो जीतना जीतना है अभी लग नहीं रहा था कि जीत गए",
+      "flags": [],
+      "id": "mot6"
+    },
+    {
+      "category": "motivational",
+      "rank": 7,
+      "finder_rank": 7.0,
+      "title": "She killed her identity to make sure I win",
+      "why": "He rang the NSE bell alone because his wife died of grade-four pancreatic cancer fifty days before the IPO — the wife who quit her job, became his first employee, and, in his words, 'killed her identity to make sure I win'. Then the Everest image: scaling with your best companion, fifty metres from the summit, and losing them. It is grief, but it moves in the right direction — it makes the viewer want to go and earn what someone believed in. Straddles the emotional category, but the fuel is real and viewers marked it.",
+      "category_hint": "the price they paid",
+      "hook_strength": 10.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment 'very emosional part' (4 likes) on L0436",
+        "[REPLAYED] neighbourhood"
+      ],
+      "start_line": "L0433",
+      "end_line": "L0437",
+      "start_words": "एक्सचेंज आई डिड इट अलोन आई लस्ट माइ वाइफ",
+      "end_words": "50 मोर मीटर्स लेफ्ट आउट एंड य",
+      "start_s": 3571.6,
+      "end_s": 3629.64,
+      "duration_s": 58.04,
+      "source_start_s": 3571.6,
+      "source_end_s": 3629.64,
+      "one_liner": false,
+      "text": "एक्सचेंज आई डिड इट अलोन आई लस्ट माय वाइफ फॉर पक्रिया कैंसर ग्रेड फोर जस्ट 50 डेज बिफोर माय आईपीओ एंड शी वास डायग्नोज टू हैव ट प्रॉब्लम ओनली 50 डेज बिफोर द डेथ ली 100 डे इट ओवर ट वास ह्यूज शॉक फर आई आल्सो सेड सी आल्सो लेफ्ट हर जॉब सी किल्ड हर आइडेंटिटी टू मेक शर आई विन सो मोस्ट पावरफुल लेडी साइलेंट हु वास नेवर रगना एस कोफाउंडर एंड सी वास द बैक बोन बिहाइंड माय एंटा जर्नी एंड लूजिंग हर वास लाइक यू नो यू आर स्केलिंग द एवरेस्ट विथ यर बेस्ट कंपन एंड ओनली 54 मीटर लेफ्ट 50 मोर मीटर्स लेफ्ट आउट एंड य",
+      "flags": [],
+      "id": "mot7"
+    },
+    {
+      "category": "motivational",
+      "rank": 8,
+      "finder_rank": 8.0,
+      "title": "You can take your risk. You should not take your family's risk.",
+      "why": "The permission a scared 30-year-old needs, with a floor under it. He opens the drawer, does the arithmetic out loud — 2 crore in the passbook, 5000 a month of expenses, 400 months of family safety — then the rule: risk yourself, never risk the people who didn't sign up for your greed. It removes the excuse 'risk is irresponsible' while giving them a way to start that doesn't feel reckless. A struggling viewer with no income commented under this exact stretch.",
+      "category_hint": "risk / permission with a guardrail",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment from a struggling viewer on L0235 (2 likes)",
+        "[REPLAYED] on L0229"
+      ],
+      "start_line": "L0227",
+      "end_line": "L0233",
+      "start_words": "रिस्क टेक अ रिस्क सो माय माइंड सेड",
+      "end_words": "आपकी लालच में वो फस",
+      "start_s": 1894.48,
+      "end_s": 1957.8,
+      "duration_s": 63.32,
+      "source_start_s": 1894.48,
+      "source_end_s": 1957.8,
+      "one_liner": false,
+      "text": "रिस्क टेक अ रिस्क सो माय माइंड सेड आई मस्ट नाउ टेक सम काइंड ऑफ रिस्क वन फ्राइडे ऑफिस आई गो इन द मॉर्निंग आफ्टर लंच आई ओपन माय ड्रॉयर एंड आई स माय पास बुक एंड पास बुक हैड लाख र क्लोजिंग बैलेंस 1996 लाख क्लोजिंग बैलेंस इज इक्वल ट ट करोस आईम टॉकिंग अबाउट 30 यर्स बैक 1967 य राइट लाख माय मंथली एक्सपेंडिचर वास 5000 सो व्ट इस द नंबर ऑफ मंथ्स माय फैमिली सेफ म िक नंबर वन आई हैव एन एडवाइस टू ल एंटरप्र यू कैन टेक यर रिस्क यू शड नॉट टेक फैमिली रिस्क य नॉट एंटाइटल टू ट्र उनकी क्या गलती था उनको क्यों रास्ता प लाना आपकी लालच में वो फस",
+      "flags": [],
+      "id": "mot8"
+    },
+    {
+      "category": "motivational",
+      "rank": 9,
+      "finder_rank": 9.0,
+      "title": "Landed in Mumbai like a Don with 500 rupees in my body",
+      "why": "The most cinematic image in the video, and viewers replayed and quoted it: the train, the coach, berth number 41, arriving 'like a Don' with nothing, then three nights sleeping on VT station. It hands the broke viewer a new story about what arriving with nothing can look like — not shame, swagger. The details are what make it travel; none of them are generic.",
+      "category_hint": "identity / come-from-nothing",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0118 and L0123",
+        "audience comment quoting the line (165 likes)",
+        "comment on L0121 about sleeping on the railway station"
+      ],
+      "start_line": "L0118",
+      "end_line": "L0121",
+      "start_words": "1982 कन्याकुमारी टू मुंबई जयंती जनता एक्सप्रेस",
+      "end_words": "फॉर थ्री नाइट्स बिकॉज वा नो फ्रेंड टू रिसीव मी",
+      "start_s": 1051.72,
+      "end_s": 1086.16,
+      "duration_s": 34.44,
+      "source_start_s": 1051.72,
+      "source_end_s": 1086.16,
+      "one_liner": false,
+      "text": "1982 कन्याकुमारी टू मुंबई जयंती जनता एक्सप्रेस बोर्डेड इट इन कोयंबटूर एस ना कोच बर्थ नंबर 41 एंड आ लैंड इन मुंबई लाइक अ डन विथ 00 र इन माय बॉडी बॉडी बिक कीप इन पॉकेट पिक पकेट आई स्टेड इन वीटी रेलवे स्टेशन फॉर थ्री नाइट्स बिकॉज वा नो फ्रेंड टू रिसीव मी विथ",
+      "flags": [],
+      "id": "mot9"
+    },
+    {
+      "category": "motivational",
+      "rank": 10,
+      "finder_rank": 10.0,
+      "title": "I thank my parents for giving me nothing except freedom",
+      "why": "Two hits in one breath. First the quiet indictment — a pampered child has no capability — then the line two viewers called powerful in the comments: 'I thank my parents for giving me nothing except freedom', against today's parents who give everything other than freedom. It reframes the viewer's own deprivation as the thing that built them, and it lands on every young Indian suffocating under provided-for love.",
+      "category_hint": "identity / anti-society",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment 'Very powerful line... Awesome 🎉' (47 likes) on L0049",
+        "comment 'TRUE WORDS ❤' on L0048"
+      ],
+      "start_line": "L0047",
+      "end_line": "L0048",
+      "start_words": "लॉट ऑफ कैपेबिलिटी",
+      "end_words": "आई थैंक माय पेरेंट्स फॉर गिविंग मी नथिंग एक्सेप्ट फ्रीडम",
+      "start_s": 485.04,
+      "end_s": 513.64,
+      "duration_s": 28.6,
+      "source_start_s": 485.04,
+      "source_end_s": 513.64,
+      "one_liner": false,
+      "text": "नीड टू बी टोटली कर्ड फॉर लेट मी टेल यू हियर बिकॉज आई वास पुअर आई वास नॉट पैंपर्ड एंड पैंपर्ड चाइल्ड हैज नो कैपेबिलिटी अ पैरेंटेड चाइल्ड लॉट ऑफ कैपेबिलिटी मैं एक मेरा पीएचडी थीसिस में लास्ट एक अनोले जमेंट किया हूं उसके वर्ड्स समझाता हूं आई थैंक माय पेरेंट्स फॉर गिविंग मी नथिंग एक्सेप्ट फ्रीडम",
+      "flags": [
+        "start_words not in start line"
+      ],
+      "id": "mot10"
+    },
+    {
+      "category": "motivational",
+      "rank": 11,
+      "finder_rank": 11.0,
+      "title": "We both left our jobs on the same day",
+      "why": "The resignation story detonates on the wife's line — 'from tomorrow if you don't go to duty, I won't either; we'll live together, we'll die together' — and lands on the title of his life's talk: romance with risk, bigger risk, bigger reward. Two people resetting their entire life overnight is the exact leap the viewer is frozen in front of, shown as survivable and even romantic. Clip opens mid-thought after his decision; the second pass may want a beat earlier.",
+      "category_hint": "risk / story",
+      "hook_strength": 4.0,
+      "self_contained": false,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "[REPLAYED] on L0248",
+        "comment on L0249 'that was epic'"
+      ],
+      "start_line": "L0242",
+      "end_line": "L0248",
+      "start_words": "बैठता सो आई वेंट होम रात को",
+      "end_words": "उतना बड़ा रिवर्ड भी मिलता है",
+      "start_s": 2034.36,
+      "end_s": 2094.28,
+      "duration_s": 59.92,
+      "source_start_s": 2034.36,
+      "source_end_s": 2094.28,
+      "one_liner": false,
+      "text": "बैठता सो आई वेंट होम रात को कुछ डिनर डिनर का समय कुछ बताया नहीं है रात को 2 बजे मेरे बीवी पूछा क्या आप आज सोया नहीं है आई टोल्ड हर आई हैव रि साइंड एंड शी लुक्ड एट माय आई एंड शी सेड कल से आप ड्यूटी पर नहीं जाएगा तो मैं भी नहीं जाऊंगी एंड आई टोल्ड हर चलो साथ जिएंगे साथ मरेंगे यू आल्सो डोंट गो आई विल आल्सो नॉट गो ट्रस्ट मी वी बोथ लेफ्ट जॉब ऑन द सेम डे बिगेस्ट रिस्क समटाइम द टाइटल ऑफ माय टॉक रोमांस विथ रिस्क राइट जितना बड़ा रिस्क होता है उतना बड़ा रिवर्ड भी मिलता है सो वी देन रिसेट अवर लाइफ एंड",
+      "flags": [
+        "finder marked it not self-contained"
+      ],
+      "id": "mot11"
+    },
+    {
+      "category": "motivational",
+      "rank": 12,
+      "finder_rank": 12.0,
+      "title": "Either you discuss or you decide. You can't do both.",
+      "why": "A hidden mechanism stated in one line that reorganises how the viewer reads every decision they've been sitting on: 'एक बार यू डिस्कस, यू कैन नॉट डिसाइड'. Listeners ranked it among their favourite punch lines and the joke at the end (if I'd told my wife three days earlier, her father would have moved in) gives it the laugh that carries the share.",
+      "category_hint": "one-liner / decision-making",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "audience comment listing this as a favourite punch line (1623 likes)",
+        "audience comment quoting it (77 likes)"
+      ],
+      "start_line": "L0238",
+      "end_line": "L0240",
+      "start_words": "माय वाइफ इ वर्किंग विथ स्टेट बैंक ऑफ इंडिया",
+      "end_words": "बोलता आईम वांटिंग टू रिजाइनिंग मेरा फदर लाके घर",
+      "start_s": 1990.88,
+      "end_s": 2030.2,
+      "duration_s": 39.32,
+      "source_start_s": 1990.88,
+      "source_end_s": 2030.2,
+      "one_liner": false,
+      "text": "माय वाइफ इ वर्किंग विथ स्टेट बैंक ऑफ इंडिया और क्या चाहिए एक प में जिंदगी चलनी चाहिए दूसरी पग क्यों चाहिए तो आई हैव रिइन न फ्राइडे इवनिंग एंड वेंट होम आ ड न डिकस वि वाइफ टू टेक दिस डिन य टक इट विदाउट टेलिंग ट हाउ द पंच लाइन केम इन लाइफ इदर यू कैन डिस्कस और यू कैन डिसाइड यू कान डू बोथ बिकॉज वनस यू डिस्कस यू कैन नॉ डिसाइड अगर मैं मेरे बीवी बीवी को तीन दिन पहले बोलता आईम वांटिंग टू रिजाइनिंग मेरा फदर लाके घर",
+      "flags": [],
+      "id": "mot12"
+    },
+    {
+      "category": "motivational",
+      "rank": 13,
+      "finder_rank": 13.0,
+      "title": "बड़ा बनना है या बुड्ढा बनना है?",
+      "why": "Eighteen seconds of pure choice. 'Become big or become old? Old happens by itself — faster in a government job. To become big, take risk.' It makes ageing itself the cost of inaction, which is a clock the viewer cannot un-see after hearing it. Sits right after the jeene-aaya line and is its own reel.",
+      "category_hint": "hustle / reality check",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0218",
+      "end_line": "L0220",
+      "start_words": "राइट नेक्स्ट वन बड़ा बनना है या बुड्ढा बनना",
+      "end_words": "बड़ा बनना है तो रिस्क लेना ट वास वेरी क्लियर टू मी",
+      "start_s": 1821.64,
+      "end_s": 1841.24,
+      "duration_s": 19.6,
+      "source_start_s": 1821.64,
+      "source_end_s": 1841.24,
+      "one_liner": false,
+      "text": "राइट नेक्स्ट वन बड़ा बनना है या बुड्ढा बनना है बुड्ढा तो अपने आप बनता है वो भी सरकार नौकरी में जल्दी बनता है बड़ा बनना है तो रिस्क लेना ट वास वेरी क्लियर टू मी",
+      "flags": [],
+      "id": "mot13"
+    },
+    {
+      "category": "motivational",
+      "rank": 14,
+      "finder_rank": 14.0,
+      "title": "Biryani came out good — why experiment with the recipe?",
+      "why": "Asked what he'd change if he relived his life, he refuses the whole premise: there are two kinds of people — those who think only they suffer while others enjoy, and those who think only they enjoy while others suffer — and he has always been the second. Then the punch: 'brother, the biryani came out good, why experiment with the recipe? Nothing will change; this is first class.' Self-acceptance delivered as swagger, which is why it lands instead of sounding like comfort.",
+      "category_hint": "identity / reframe",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment 'goosebumps moment' (11 likes) on L0071 nearby"
+      ],
+      "start_line": "L0074",
+      "end_line": "L0079",
+      "start_words": "बट लेट मी आल्सो टेल यू देर आर टू कांड्स ऑफ पीपल",
+      "end_words": "ये बढ़िया है जो है फर्स्ट क्लास",
+      "start_s": 728.44,
+      "end_s": 778.48,
+      "duration_s": 50.04,
+      "source_start_s": 728.44,
+      "source_end_s": 778.48,
+      "one_liner": false,
+      "text": "बट लेट मी आल्सो टेल यू देर आर टू कांड्स ऑफ पीपल दिस इ अनदर पंचल एक सोचता है आई एम ओनली सफरिंग ल अदर्स आर एंजॉय दूसरा सोचता है आई एम ओनली एंजॉयिंग ल अदर्स आर सफरिंग आई लवेज फेल्ट आई एम ओनली एंजॉय एंड ऐसा एटीट्यूड बचपन से था बचपन से था इनफैक्ट कभी-कभी इंटरव्यूज में यह पूछते हैं डॉक्टर अवेल मनी इमेजिन यू हैव अपॉर्चुनिटी टू रिलीव योर लाइफ च पोर्शन ऑफ इट यू विल चेंज अरे भाई साहब बिरयानी तो अच्छी आई है तो रेसिपी में क्यों एक्सपेरिमेंट करनी है कुछ नहीं ब कुछ बदलेगा तो ये बिरयानी नहीं आएगा ये बढ़िया है जो है फर्स्ट क्लास ओके कमिंग बैक",
+      "flags": [],
+      "id": "mot14"
+    },
+    {
+      "category": "motivational",
+      "rank": 15,
+      "finder_rank": 15.0,
+      "title": "A bus conductor becomes the superstar — what you do matters less than how you do it",
+      "why": "A build the viewer follows — degree-holders never become heroes, but a bus conductor became Rajnikanth — ending on the quiet mechanism: 'व्ट डू यू डू इज नॉट एस इंपोर्टेंट एस हाउ ड यू डू'. It reorganises how the viewer sees their own unglamorous job tonight. Delivered flat; the idea is the entire event. The final word 'डू' completes on the audio at the top of the next spoken line.",
+      "category_hint": "reframe / one-liner",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "[REPLAYED] on L0202",
+        "comment 'Rajnikanth' on L0202"
+      ],
+      "start_line": "L0202",
+      "end_line": "L0209",
+      "start_words": "उधर डिप्लोमा डिग्री लेता है वह एक भी पिक्चर में हीरो नहीं बनता है",
+      "end_words": "एस इंपोर्टेंट एस हाउ ड यू",
+      "start_s": 1723.6,
+      "end_s": 1776.64,
+      "duration_s": 53.04,
+      "source_start_s": 1723.6,
+      "source_end_s": 1776.64,
+      "one_liner": false,
+      "text": "उधर डिप्लोमा डिग्री लेता है वह एक भी पिक्चर में हीरो नहीं बनता है और बस कंडक्टर ही सुपरस्टार बनता है ऐसा ऐसा क्यों लगता है ऐसा क्यों होता है लाइफ में ऐसा है कि यू आर गुड एट समथिंग यूर स्टडी यू डिड इट बिकॉज ऑफ योर पेरेंट्स कंपल्शन बिकॉज सम फैंटेसी बट देन फाइनली व्ट आर यू गुड एट देखो इफ रजनीकांत इज मोस्ट पावरफुल हीरो इवन इफ टुडे अमिताभ बच्चन और इवन इफ यू टेक हु एवर इज ड्रा विड र हु एवर इट इज इट इज द इंटेलिजेंस दैट मेक्स देम मोस्ट पावरफुल व्हाट एवर दे हैव डन दे वड बिकम इंटेलिजेंस रहेगा तो आदमी बड़ा बनता ही है पंचलाइन व्ट डू यू डू इज नॉट एस इंपोर्टेंट एस हाउ ड यू",
+      "flags": [],
+      "id": "mot15"
+    },
+    {
+      "category": "motivational",
+      "rank": 16,
+      "finder_rank": 16.0,
+      "title": "आया तो पहाड़, गया तो बाल",
+      "why": "The Tamil risk proverb viewers keep quoting: tie a knot in one long hair, throw it over the mountain — pull and it's a mountain behind you, let go and you've lost only a hair. It reframes the downside of risk as trivially small. Warning: the Devanagari transcription of the Tamil is heavily garbled on the page, but the audience quotes it verbatim and three people commented on this exact second, so the audio carries it cleanly.",
+      "category_hint": "shayari / risk",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "3 viewer comments on L0224 including the quote 'aya to pahad'",
+        "[REPLAYED] on L0224",
+        "audience comment quoting the line (105 likes)"
+      ],
+      "start_line": "L0222",
+      "end_line": "L0226",
+      "start_words": "अरे किधर था मैं किधर आ गया मैं किधर जा सकता हूं",
+      "end_words": "हाड च सेज",
+      "start_s": 1850.16,
+      "end_s": 1893.6,
+      "duration_s": 43.44,
+      "source_start_s": 1850.16,
+      "source_end_s": 1893.6,
+      "one_liner": false,
+      "text": "अरे किधर था मैं किधर आ गया मैं किधर जा सकता हूं दिस इ अनदर वे ऑफ लुकिंग एट आई लुक एट लाइक द देर सेइंग इन तमिल आई विल फर्स्ट टेल ट इन तमिल बिकॉज यू नो माय तमिल ऑडियंस प्लेंटी अक्रस द वर्ल्ड उनको भी एक हैप्पीनेस आनी चाहिए मर कटी मल इकद वंद मले अंद मयर च से एक लंबा बाल कीचो उसम एक नाट बांधो एक पहाड़ के ऊपर डालो खचो आया तो हाड च सेज",
+      "flags": [],
+      "id": "mot16"
+    },
+    {
+      "category": "motivational",
+      "rank": 17,
+      "finder_rank": 17.0,
+      "title": "Living life with low resources is luxury",
+      "why": "He paints the specific childhood — the torn chappal adjusted with a pin, the fee, the siblings' food — and then flips the whole thing: 'if you have mastered your life in no resources, living life with low resources is luxury.' The viewer who is currently embarrassed about having less hears scarcity described as a mastered skill. Shares the opening line with the success-is-delta clip but is a separate landing of its own.",
+      "category_hint": "money / reframe",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0045 (35 likes)"
+      ],
+      "start_line": "L0042",
+      "end_line": "L0045",
+      "start_words": "वन पॉवर्टी गिव्स यू पावर टू टेक डिसीजन",
+      "end_words": "लिविंग लाइफ विथ लो रिसोर्सेस इ लगजरी",
+      "start_s": 420.44,
+      "end_s": 470.4,
+      "duration_s": 49.96,
+      "source_start_s": 420.44,
+      "source_end_s": 470.4,
+      "one_liner": false,
+      "text": "वन पॉवर्टी गिव्स यू पावर टू टेक डिसीजन दूसरा जब भी आप पुअर हो वो भी गांव में हो तो रोज सुबह से शाम तक प्रॉब्लम सॉल्व और जबी पांच उम्र से त प्रॉब्लम सॉल्व करने लगा एग्जांपल प्रॉब्लम सॉल्विंग का घर में यह नहीं रहेगा वो नहीं रहेगा उसको लेके आना है कम पड़ेगा ब्रदर सिस्टर्स को खाना नहीं रहेगा फीस भरने के लिए पैसा नहीं रहेगा एक जूता फटा हुआ रहेगा नट जूता चप्पल उसमें एक पिन मार के दूसरा वाला को अजस्ट करके जिंदगी चलाना पंचलाइन बताता हूं इफ यू हैव मास्टर्ड यर लाइफ इन नो रिसोर्सेस लिविंग लाइफ विथ लो रिसोर्सेस इ लगजरी माय फादर वास नीदर",
+      "flags": [],
+      "id": "mot17"
+    },
+    {
+      "category": "motivational",
+      "rank": 18,
+      "finder_rank": 18.0,
+      "title": "लेने वाला कभी जीतता नहीं है, देने वाला ही जीतता है",
+      "why": "His warning that pampered kids can't build businesses ends on the inversion viewers saved: the taker never wins, the giver wins. The middle of this stretch is badly transcribed on the page (the audio is clean), so confidence is MEDIUM, but the closing line stands completely alone and a commenter marked it 'best one!'.",
+      "category_hint": "one-liner / reality check",
+      "hook_strength": 5.0,
+      "self_contained": false,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment 'best one!' (6 likes) on L0424"
+      ],
+      "start_line": "L0420",
+      "end_line": "L0426",
+      "start_words": "चुका था टुडे आई एम टेलिंग यू",
+      "end_words": "लेने वाला कभी जीतता नहीं है देने वाला ही जीतता",
+      "start_s": 3466.12,
+      "end_s": 3526.76,
+      "duration_s": 60.64,
+      "source_start_s": 3466.12,
+      "source_end_s": 3526.76,
+      "one_liner": false,
+      "text": "चुका था टुडे आई एम टेलिंग यू व्हाट इज द प्रॉब्लम दि वेरी इंपोर्टेंट आई एम गोइंग टू ड्राइव यूजिंग माय सोशल मीडिया हैंडल देर आर टू कांड्स ऑफ पीपल वन इस पैंपर्ड अनदर इ पैरेंटेड पैंपर्ड शड नॉट गेट इनटू बिजनेस पैरेंटेड ओनली ब य थक पमप कैन नॉट बिल्ड बिजनेस दे कां लर्न टू बिल्ड बिजनेस नो ड नो रिलिटी बिकॉज उसका घर में एक ही बच्चा था डैडी मम्मी डैडी का डैडी मम्मी मम्मी का डैडी मम्मी और दो सर्वेंट एंड ल र ट्राइट हेल्प हिम ही ओनली लर्न टू गेट हेल्प ही ज नेवर नोन टू डू हेल्प तुम क्या बिजनेस बनाएगा लेने वाला कभी जीतता नहीं है देने वाला ही जीतता",
+      "flags": [
+        "finder marked it not self-contained"
+      ],
+      "id": "mot18"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0110",
+      "end_line": "L0112",
+      "why_not": "'If you don't love your spouse your neighbour will' — the payload is the laugh, not a change in the viewer; nothing in it makes anyone larger or hands them an instruction."
+    },
+    {
+      "start_line": "L0179",
+      "end_line": "L0180",
+      "why_not": "'Expectation zero, life became gold' depends on the in-law story before it; stripped alone it reads as generic positivity."
+    },
+    {
+      "start_line": "L0183",
+      "end_line": "L0195",
+      "why_not": "The blind-boss story is warm and true, but the payoff is his own biography; there is no reframe or instruction the viewer picks up and carries."
+    },
+    {
+      "start_line": "L0096",
+      "end_line": "L0098",
+      "why_not": "The marriage/children interview joke is a comedy beat with no mindset payload."
+    },
+    {
+      "start_line": "L0285",
+      "end_line": "L0287",
+      "why_not": "'Standing man is a liability' is a business aphorism aimed at founders running operations, not at the person on the other side of the screen at 2am."
+    },
+    {
+      "start_line": "L0382",
+      "end_line": "L0384",
+      "why_not": "'Job wants experience, marriage wants experience' is a savage joke; it belongs to the humour cut, it changes nothing about who the viewer is."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0021",
+      "what": "cold-open montage and host intro — fragments of later moments; the real versions are further down and taken"
+    },
+    {
+      "from_line": "L0022",
+      "to_line": "L0037",
+      "what": "guest introduction and career summary, setup only"
+    },
+    {
+      "from_line": "L0050",
+      "to_line": "L0066",
+      "what": "childhood labour and first earnings — background anecdote, no standalone landing"
+    },
+    {
+      "from_line": "L0080",
+      "to_line": "L0090",
+      "what": "BCom-vs-BSc story — charming but the payoff is the professor's kindness, not a carried principle"
+    },
+    {
+      "from_line": "L0134",
+      "to_line": "L0177",
+      "what": "the matchmaking and proposal comedy — humour finder's territory"
+    },
+    {
+      "from_line": "L0249",
+      "to_line": "L0266",
+      "what": "thyroid reagent insight and a repeat of the discuss/decide theme in business context, garbled on the page"
+    },
+    {
+      "from_line": "L0267",
+      "to_line": "L0344",
+      "what": "business model, volume, pricing, franchising, marketing — sharp expertise aimed at entrepreneurs, not at the 2am viewer"
+    },
+    {
+      "from_line": "L0346",
+      "to_line": "L0377",
+      "what": "goat, tomato and sweets business ideas — consultative advice for founders"
+    },
+    {
+      "from_line": "L0378",
+      "to_line": "L0419",
+      "what": "fresher training system and employee evaluation — HR expertise"
+    },
+    {
+      "from_line": "L0427",
+      "to_line": "L0464",
+      "what": "the exit and retirement story — narrative wrap-up; the wife segment was taken separately"
+    },
+    {
+      "from_line": "L0469",
+      "to_line": "L0475",
+      "what": "outro, contact details, subscribe ask"
+    }
+  ],
+  "video_read": "A Raj Shamani podcast episode with Dr. Velumani, the village-poor founder of Thyrocare who built and sold a 5000-crore company. He narrates his life as a series of self-styled 'punch lines', so the motivational material is not concentrated in one place — it is salted through the whole hour: poverty and decision-making, risk, rejection, freedom, and a closing run on failure and mistakes. Almost every stretch I returned is backed by viewers who stopped and commented on that exact second.",
+  "coverage": 0.901,
+  "usage": {
+    "prompt_tokens": 61503,
+    "completion_tokens": 30176,
+    "total_tokens": 91679,
+    "cost": 0.02431345,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.02431345,
+      "upstream_inference_prompt_cost": 0.00922545,
+      "upstream_inference_completions_cost": 0.015088
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 22222,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 22222
+  },
+  "error": null,
+  "seconds": 596.1,
+  "coverage_note": null,
+  "reasoning": "Let me read the transcript. This is a Raj Shamani podcast with Dr. Velumani of Thyrocare. The transcript is Devanagari phonetic English/Hindi. Let me identify motivational moments.\n\nKey candidates:\n\n1. L0038–L0045: \"Success is delta\" — success in life is delta, xt minus xv, my xv was zero, so poverty gives you power to take decisions. Comments: \"Poverty gives you the power to take fast decisions\" was loudest comment (2534 likes). L0039 starts \"सक्सेस इन लाइफ इज डेल्टा...\" through L0042 \"वन पॉवर्टी गिव्स यू पावर टू टेक डिसीजन\". Also L0045 punchline \"if you have mastered your life in no resources, living life with low resources is luxury\". Actually the audience comment praised \"Poverty gives you the power to take fast decisions\". This is a self-contained reframe. Clip: L0039–L0042 (or extend to L0045). Let me check lines:\n\nL0038 (13.0s): host question \"तो ऐसे क्यों बोला कि फॉर्चूनेटली मैं पुअर था...\" — starting at L0039 with the answer is fine but \"सक्सेस इन लाइफ इज डेल्टा\" stands alone well. L0039: \"सक्सेस इन लाइफ इज डेल्टा ओके डेल्टा इज एक्सट माइनस एक्सव एक्सट में आज कहां हूं एक्सव में तभी कहां था मेरा एक्सव ही जीरो\" L0040: \"था कोने के लिए तो कुछ है ही नहीं है जबी खने के लिए कुछ नहीं होता है आप डिसीन जल्दी लेते हैं तो धनवान\" L0041: \"हमेशा खने का डर होता है तो डिसीन ले नहीं पाते हैं तो मेरा तो कुछ डिसीजन बिल्कुल जट जट से डिसीजन लिया हूं नंबर\" L0042: \"वन पॉवर्टी गिव्स यू पावर टू टेक डिसीजन दूसरा जब भी आप पुअर हो वो भी गांव में हो तो रोज सुबह से शाम तक प्रॉब्लम\". Good clip L0039–L0042. ~40s.\n\n2. L0044–L0045 punchline: \"इफ यू हैव मास्टर्ड यर लाइफ इन नो रिसोर्सेस लिविंग लाइफ विथ लो रिसोर्सेस इ लगजरी\" — \"if you have mastered your life in no resources, living life with low resources is luxury.\" Strong one-liner but needs a little setup (L0042–L0045 describes solving problems from age five, torn chappal). Clip L0042–L0045 maybe. Comment on L0045 (35 likes).\n\n3. L0048: \"आई थैंक माय पेरेंट्स फॉर गिविंग मी नथिंग एक्सेप्ट फ्रीडम\" — \"I thank my parents for giving me nothing except freedom\" + L0049 \"आजकल की पेरेंट्स दे गिव एवरीथिंग अदर देन फ्रीडम\" — \"today's parents give everything other than freedom\". Comments: \"TRUE WORDS ❤\", \"Very powerful line... Awesome 🎉\" (47 likes). Strong. Clip: L0047–L0050 maybe. L0047: \"बिकॉज आई वास पुअर आई वास नॉट पैंपर्ड एंड पैंपर्ड चाइल्ड हैज नो कैपेबिलिटी अ पैरेंटेड चाइल्ड\" L0048: \"लॉट ऑफ कैपेबिलिटी...\" with the thank-parents line. Hmm, the transcription is garbled (\"पैरेंटेड\" vs \"पैंपर्ड\"). The line: \"because I was poor, I was not pampered, and pampered child has no capability, a parented child [has] lot of capability... I thank my parents for giving me nothing except freedom.\" Then L0049 \"very powerful one, today's parents give everything other than freedom.\" That's a clip: L0047–L0049.\n\n4. L0072–L0077: pyramid of economy, two kinds of people — \"एक सोचता है आई एम ओनली सफरिंग अन्डर्स आर एंजॉय, दूसरा सोचता है आई एम ओनली एंजॉयिंग अन्डर्स आर सफरिंग\" and biryani line: \"अरे भाई साहब बिरयानी तो अच्छी आई है तो रेसिपी में क्यों एक्सपेरिमेंट करनी\" — \"if I could relive my life I wouldn't change anything — biryani came out good, why experiment with the recipe.\" That's a great reframe/self-acceptance moment. L0074–L0079. Comments at L0071 \"goosebumps moment\" (11 likes). Clip L0072–L0077 or L0074–L0079. Actually L0072 starts \"ही मैं दोस्त लोगों के साथ घूमने जा सकता था ना लेट मी टेल यू इन अ पिरामिड ऑफ इकोनॉमी मेक 10\" — the pyramid needs context. Better clip: L0074–L0079: \"देर आर टू कांड्स ऑफ पीपल दिस इ अनदर पंचल एक सोचता है आई एम ओनली सफरिंग...\" through biryani line L0077, L0078 pause, L0079 \"है कुछ नहीं ब कुछ बदलेगा तो ये बिरयानी नहीं आएगा ये बढ़िया है जो है फर्स्ट क्लास\". That's a landing. ~45s.\n\n5. L0096: \"इट्स ऑलमोस्ट लाइक सिटिंग इन फ्रंट ऑफ गर्ल ... आस्किंग हर तुम्हारे कितने बच्चे हैं\" — funny but humor, not mindset. Comment \"savage\". Skip — belongs to humor finder maybe.\n\n6. L0098–L0100: \"इन 1978 में जब मेरा उम्र 19 था एक डिसीजन लिया था अगर एक दिन मैं खुद कंपनी चलाऊ सिर्फ प्रेशर को ही काम पर लूंगा एक्सपीरियंस को काम पर नहीं लूंगा\" — decision at 19 to only hire freshers. Comment on L0100: \"hats of you sir.. only person have kind mindset for freshers 🥺 today we are very suffered to get a corporate job\" (11 likes). This hits the 22-year-old rejected viewer. Clip L0093–L0100 or L0098–L0101. The context: 50 interviews failed because everyone asked \"do you have experience.\" L0091–L0093: \"19 यर्स बीएससी फर्स्ट क्लास मैं सोचा... 50 इंटरव्यू में मैं फेल होता ही जा रहा था कारण यह था कि सभी यही सवाल पूछ रहा था कि डू यू हैव एक्सपीरियंस\". That's the revenge/prove-them-wrong setup: rejected 50 times → at 19 decided: when I run my company I'll hire only freshers → employed 25000 freshers. That's a story that detonates and it hits the job-rejected viewer dead center. Clip: L0091–L0101. Length: 8.6+7.4+8.5+9.0+7.3+6.1+9.6+11.3+3.6 ≈ 81s. Bit long. Could trim to L0092–L0101 ≈ 73s. Or start L0091. Hmm. Alternatively split: (a) rejection story L0091–L0098 with the marriage joke landing... the joke is the punch but it's humor. (b) decision L0098–L0103. I'll take L0091–L0101 as one, ~72s, it's a build story. Actually instructions say under a minute preferred but longer is right when build does real work. Maybe return L0092–L0100 and let editors trim. Or return the whole thing L0091–L0102 (ends \"आई हैव डन ट ए\" — garbled). End at L0101 \"25000 फ्रश आई हैव\" — awkward. End at L0100 \"आईव नेवर रिक्रूटेड एन एक्सपीरियंस मैन इनटू माय ऑर्गना ली\" — that lands. ~66s from L0091 to L0100. Acceptable.\n\nAlso L0105–L0107: \"इफ यू योरसेल्फ हैव ट्रेन यर एंप्लॉई... तुम्हारा कंपट से हजार दिन ट्रेन हुआ एंप्लॉई से भी बेहतर है ट्रेन\" — \"if you train your employee yourself, your trained employee is better than a thousand-days trained employee from competitor\" — business advice aimed at entrepreneurs; borderline expertise-aimed-at-someone-else. Skip or near-miss.\n\nL0110–L0112: \"इफ यू डोंट लव यर स्पाउस यर नेबर विल... डोंट लव यर एप्ल यर कपटर\" — \"if you don't love your spouse your neighbor will; if you don't train your employee your competitor will.\" Famous punchline, audience quoted it (77 likes comment). It's business-flavored but the marriage half is universal and quotable. Comments at L0111 (3 marks). It's humor+business. Hmm. It lands as quotable. I could return it — it's a one-liner that people screenshot. Category: one-liner/humor. I'll return it: L0110–L0112. Actually L0110 ends \"...ट्रेन योरसेल्फ और\" then L0111 \"भी लोग पूछते हैं सब अच्छा ट्रेनिंग होने के बाद व निकल जाता है क्या करना है उसके लिए भी समझाता हूं इफ यू डोंट लव यर स्पाउस यर नेबर विल\" L0112 \"डोंट लव यर एप्ल यर\". Then pause, then L0114 continues with \"कपटर\". So clip L0111–L0114. ~29s. It's punchy, heavily commented. Return it.\n\n7. L0118–L0119: \"1982 कन्याकुमारी टू मुंबई जयंती जनता एक्सप्रेस... लैंड इन मुंबई लाइक अ डन विथ 00 र इन माय बॉडी\" — iconic image, audience quoted it (165 likes). It's a story beat, motivational-ish but more narrative color. REPLAYED on L0118, comment at L0119. \"Landed in Mumbai like a Don with 500 rupees in my body.\" Could pair with L0121 (slept at VT railway station three nights). It's a \"price they paid / come-from-nothing\" moment. Hmm — is it a mindset change? It's swagger: arriving with nothing like a Don. For the broke viewer it reframes poverty as swagger. Maybe. I'd rank it lower but include as MEDIUM? Consider. It's atmospheric rather than a self-narrative change... actually it IS a story about himself, not an instruction. The viewer takeaway: broke ≠ small; you can arrive broke like a Don. I think it's a real reel — comments and replay confirm. Clip L0117–L0121? L0117 is \"18\" (1.2s, fragment). Start at L0118. End L0121 \"आई स्टेड इन वीटी रेलवे स्टेशन फॉर थ्री नाइट्स बिकॉज वा नो फ्रेंड टू रिसीव मी विथ\". ~28s. Include.\n\n8. L0200: \"इफ यू डू व्ट य हैव स्टडीड इफ यू डू व्ट य स्टडीड यू विल सरवाइव बट इफ यू डू ट यू हैव नॉट स्टडीड यू विल बी द लीडर\" — \"If you do what you have studied you will survive, but if you do what you have not studied you will be the leader.\" Comment: \"most powerful line ever 🔥🔥🔥🔥\" (7 likes), REPLAYED on L0202 area. Build: L0197–L0200: \"1982 आई ड नॉट नो वेर थायराइड वास एंड इन 1992 आई फिनिश पीएचडी इन थाइरोइड बायो केमिस्ट्री इन 22 आइम रनिंग वर्ल्ड लार्जेस्ट थायराइड टेस्टिंग लेबोरेटरी... पंच लाइन स्टार्ट्स नाउ...\" That's an excellent counterintuitive reframe — doing what you haven't studied makes you a leader. Clip: L0198–L0201. Start L0198 \"[REPLAYED] लाइन इन 1982 आई ड नॉट नो वेर थायराइड वास...\" Hmm, L0197 \"ट्रस्ट मी र कम्स द मोस्ट पावरफुल पंच\" — fragment. Start L0198, end L0200 (the line itself lands). L0200 ends \"यू विल बी द\" and L0201 \"लीडर राइट आइम द लीडर फिल्म ट्रेनिंग इंस्टिट्यूट...\" So end L0201. ~30s. Include, HIGH.\n\nAlso L0209: \"व्ट डू यू डू इज नॉट एस इंपोर्टेंट एस हाउ ड यू डू\" — \"what you do is not as important as how you do it.\" Another quotable. Part of the same roll. Could return separately: L0206–L0209 build with Rajnikanth/Amitabh... The build: \"you're good at something you studied because of parents' compulsion... what are you good at... it is the intelligence that makes them most powerful... आदमी बड़ा बनता ही है पंचलाइन व्ट डू यू डू इज नॉट एस इंपोर्टेंट एस हाउ ड यू डू\" — messy. Maybe return L0201–L0209 as a separate clip? L0201-L0204: \"आज जो भी उधर डिप्लोमा डिग्री लेता है वह एक भी पिक्चर में हीरो नहीं बनता है और बस कंडक्टर ही सुपरस्टार बनता है\" — bus conductor becomes superstar (Rajnikanth). Then L0206–L0209. That's a fun build. Could be its own clip: \"bus conductor becomes the superstar — what you do is not as important as how you do it.\" ~35s. I'll include as a second clip from this vein. Actually keep it — instructions explicitly say return separate landings. Clip L0201–L0209, but L0202 has [REPLAYED] prefix — fine, it's the spoken line. End L0209 \"डू\" wait L0209 ends \"...एस हाउ ड यू\" and L0210 is pause, L0211 \"डू तो ट इ हाउ द जर्नी...\" Hmm L0209 ends with \"हाउ ड यू\" then L0211 starts \"डू\". So end at L0209 with \"...एस हाउ ड यू\" — incomplete. Include L0211's \"डू\"? L0211 continues \"डू तो ट इ हाउ द जर्नी ऑफ मी...\" So the landing word \"do\" is split. End at L0209 and note it; the second pass can cut on \"how you do\" — the word \"डू\" opens L0211. Slightly awkward. Alternatively end at L0209 anyway; the audio completes. I'll end L0209 and mention it. Or include L0210 pause + L0211 first part — no, can't cut mid-line. I'll end at L0209; editor can cut on the audio's completion. Fine.\n\n9. L0214–L0224: \"जीने आया या जीतने आया\" — \"बताओ जीने आया या जीतने आया जीना तो कोम्बाटो में भी जी सकता था मुंबई तक आया तो जीतना है\" — \"came to live or came to win? I could have lived in Coimbatore; I came to Mumbai, so I have to win.\" Then \"बड़ा बनना है या बुड्ढा बनना है — बुड्ढा तो अपने आप बनता है\" — \"become big or become old — old happens by itself.\" Comment on L0214: \"punch line ⚡\" (14 likes). Then the Tamil \"लंबा बाल कीचो\" risk line — \"आया तो पहाड़, गया तो बाल\" (came = mountain, went = hair) — audience quoted (105 likes \"Aaya Toh Pahad, gaya toh baal\"). Comments on L0224 (3). These are several separate landings:\n\n- L0215–L0217: \"जीने आया या जीतने आया\" — strong short clip. L0215 \"कि एक पंचलाइन है बताओ जीने आया या जीतने\" L0216 \"आया जीना तो को मत में भी जी सकता\" (garbled: \"जीना तो कोयंबटूर में भी जी सकता था\") L0217 \"था मुंबई तक आया तो जीतना जीतना है अभी लग नहीं रहा था कि जीत गए\". ~15s. Good clip.\n- L0218–L0220: \"बड़ा बनना है या बुड्ढा बनना है... बुड्ढा तो अपने आप बनता है... बड़ा बनना है तो रिस्क लेना\" ~19s. Good clip.\n- L0220–L0226: the Tamil risk line \"एक लंबा बाल... पहाड़ के ऊपर डालो आया तो पहाड़ गया तो बाल\" — \"take a risk: if you make it, it's a mountain; if you fall, it's just a hair.\" Actually the meaning: \"आया तो पहाड़, गया तो बाल\" — if it works it's a mountain, if it fails it's just a hair (nothing lost). Clip L0222–L0226. L0222 \"अरे किधर था मैं किधर आ गया मैं किधर जा सकता हूं दिस इ अनदर वे ऑफ लुकिंग एट आई लुक एट लाइक द देर सेइंग इन\" L0223 \"तमिल आई विल फर्स्ट टेल ट इन तमिल...\" L0224 \"[REPLAYED] मर कटी मल इकद वंद मले... एक लंबा बाल कीचो उसम एक नाट बांधो एक पहाड़ के ऊपर डालो खचो आया तो\" L0226 \"हाड च सेज\" (garbled). The Tamil is heavily garbled in transcription. But audience quoted it and 3 comments. The meaning is recoverable from audience: \"Aaya Toh Pahad, gaya toh baal.\" Include with note that Tamil is garbled on page but audio carries it. Clip L0222–L0226 (~33s). MEDIUM confidence re readability; but the audio will carry it. Include.\n\n10. L0230–L0235: risk math — \"my passbook had 2 crore, monthly expense 5000, number of months family is safe: 400 months. Advice: you can take your risk, you should not take family risk.\" Comment on L0235: a struggling viewer. This is practical wisdom, strong for the scared 30-year-old: permission to take risk WITH a guardrail. Clip L0228–L0235? L0228 \"ड्रॉयर एंड आई स माय पास बुक...\" L0229 \"1967 य राइट लाख माय मंथली एक्सपेंडिचर वास\" L0230 \"5000 सो व्ट इस द नंबर ऑफ मंथ्स माय फैमिली\" L0231 \"सेफ म िक नंबर\" L0232 \"वन आई हैव एन एडवाइस टू ल एंटरप्र यू कैन टेक यर रिस्क यू शड नॉट टेक फैमिली रिस्क\" L0233 \"य नॉट एंटाइटल टू ट्र उनकी क्या गलती था उनको क्यों रास्ता प लाना आपकी लालच में वो फस\" — \"you are not entitled to risk them; what was their fault, why drag them in because of your greed.\" Clip L0229–L0233 ~35s. Include. It removes an excuse (risk is scary) while giving a guardrail — permission with a floor. Good.\n\nAlso L0239–L0240: \"इदर यू कैन डिस्कस और यू कैन डिसाइड यू कान डू बोथ बिकॉज वनस यू डिस्कस यू कैन नॉ डिसाइड\" — \"either you can discuss or you can decide, you can't do both, because once you discuss you cannot decide.\" Audience quoted (1623 likes list item 3, and 77-like comment). That's a hidden-mechanism line that reorganizes how the viewer reads their own stalled decisions. Clip: L0239–L0240 includes the wife discussion story setup... L0239: \"चाहिए तो आई हैव रिइन न फ्राइडे इवनिंग एंड वेंट होम आ ड न डिकस वि वाइफ टू टेक दिस डिन य टक इट विदाउट टेलिंग ट हाउ द पंच लाइन केम इन लाइफ इदर यू\" L0240: \"कैन डिस्कस और यू कैन डिसाइड यू कान डू बोथ बिकॉज वनस यू डिस्कस यू कैन नॉ डिसाइड अगर मैं मेरे बीवी बीवी को तीन दिन पहले बोलता...\" Then the resignation story L0242–L0248: wife says \"कल से आप ड्यूटी पर नहीं जाएगा तो मैं भी नहीं जाऊंगी... साथ जिएंगे साथ मरेंगे\" — both left job same day. \"Romance with risk. जितना बड़ा रिस्क होता है उतना बड़ा रिवर्ड भी मिलता है.\" Then L0250: \"फर एवरी सक्सेसफुल मैन द वाइफ बिकम द सेक्रेटरी एंड फॉर एवरी फेल्ड मैन द सेक्रेटरी बिकम द वाइफ\" — heavily commented (3 comments), laughter, REPLAYED. That's humor mostly.\n\nAlso L0261–L0263: \"दिस इनसाइट अबाउट थायराइड रिएजेंट चीपर वास द मेन रीजन... डोंट डिस्कस इफ यू नो व्ट इट इ... एवरी बडी शड नॉट थिंक यनो टेक द न इफ यू आर डिपेंडिंग अपन न द मर्सी ऑफ यर वाइफ फादर और फादर इन लॉ यू कां टेक डिसीज विदाउट डिस्कसिंग एंड इफ यू आर इंडिपेंडेंट... किसी के पूछने की जरूरत ही नहीं होती\" — \"if you're dependent on the mercy of your wife/father/father-in-law you can't take decisions without discussing; if you're independent, nobody needs to ask.\" Freedom as the enabler. That's the \"freedom is the biggest blessing\" the audience listed. Clip L0261–L0264? L0264 ends \"...अरवाज पीपल शड नॉट गेट कन्फ्यूज सो आई हैड एन एडवांटेज आई\". Hmm ends awkward. The landing: \"if you are independent... no need to ask anyone\" lands around L0263–L0264. Take L0261–L0264 ~53s. Or trim L0262–L0264. Messy transcription. Include as MEDIUM maybe. Actually the cleaner version of the discuss/decide line is L0239–L0240. I'll do that one and maybe skip the L0261 variant... but rule: \"covered\" is not a reason. The L0239 line is \"either you discuss or you decide\" (the quotable), the L0262–L0264 is \"if you're dependent you must discuss, if independent you decide alone\" — different landing (independence/freedom). Return both? The L0261 build is about the thyroid reagent business detail — context-heavy. Self-contained-ness poor. I'll include the discuss/decide one via L0239–L0247 including the resignation story? That's ~45s and ends with \"romance with risk\"... Actually L0239–L0248: discuss/decide → wife story → both quit same day → \"biggest risk... जितना बड़ा रिस्क उतना बड़ा रिवर्ड\". That's a story that detonates. Length: 15.8+14.8+8.6+10.0+9.0+10.5+2.2+6.3+11.1 ≈ 88s. Too long. Split: (a) L0239–L0240 discuss/decide quotable with resignation setup (~30s, ends \"you cannot decide... if I told my wife three days before...\")— ends mid. Hmm L0240 ends \"...मेरा फदर लाके घर\" then laughter. The line \"either you can discuss or you can decide\" is at the end of L0239/start of L0240. Clip L0238–L0240: L0238 \"माय वाइफ इ वर्किंग विथ स्टेट बैंक ऑफ इंडिया और क्या चाहिए एक प में जिंदगी चलनी चाहिए दूसरी पग क्यों\" L0239 L0240. Ends with \"अगर मैं मेरे बीवी को तीन दिन पहले बोलता आईम वांटिंग टू रिजाइनिंग मेरा फदर लाके घर बैठता\" + laughter — that lands as joke. ~40s. OK include L0238–L0240. hook moderate.\n\n(b) The resignation story L0242–L0248: \"रात को 2 बजे मेरे बीवी पूछा क्या आप आज सोया नहीं है आई टोल्ड हर आई हैव रि साइंड एंड शी लुक्ड एट माय आई एंड शी सेड कल से आप ड्यूटी पर नहीं जाएगा तो मैं भी नहीं जाऊंगी... ट्रस्ट मी वी बोथ लेफ्ट जॉब ऑन द सेम डे बिगेस्ट रिस्क समटाइम द टाइटल ऑफ माय टॉक रोमांस विथ रिस्क राइट जितना बड़ा रिस्क होता है उतना बड़ा रिवर्ड भी मिलता है\" — that's a landing. L0242–L0248 ≈ 8.6+10+9+10.5+2.2+6.3+11.1 ≈ 58s. Include. Actually start L0242 \"बैठता सो आई वेंट होम...\" — needs the \"I resigned\" context. Start L0242 includes \"बैठता\" leftover. Better start L0242 anyway; second pass handles. Or start L0241? laughter row, not speech. Start L0242, self_contained false-ish. Note it.\n\n11. L0285: \"स्टैंडिंग मन लायबिलिटी एंड रनिंग मन\" — \"standing man is a liability and running man [is an asset]\" — business-ish. Skip/near-miss.\n\n12. L0297–L0298: \"व्ट इस द पावर ऑफ मैन रिफ्यूजिंग... रिफ्यूजिंग वर्क\" — power of refusing work? Context: customers refused tests, he refused... garbled. Skip.\n\n13. L0312: \"बिजनेस इज नथिंग बट कीपिंग द प्राइस लो कंट्रोलिंग द कॉस्ट\" — business advice, skip (expertise).\n\n14. L0321–L0325: VC funding critique → \"आइडिया आर लाइक स्पर्म्स ओनली वन इन अ मिलियन वर्क्स\" — heavily commented (L0325: 5 comments + replay; L0324: 3 comments). \"Ideas are like sperms, only one in a million works.\" This is THE most-marked moment. It's quotable, funny, and lands. Clip: L0324–L0325: L0324 \"दिया बट वो कांसेप्ट वहां से आया ना तो हर कोई उम्मीद में कि एक भी लग गया तो जो वीसी इसलिए पैसा देता है कि एक भी लग\" L0325 \"गया तो सब उसका लाइफ निकल जाए सुनो पंच लाइन इसको तुम यार कर करोगे या नहीं करोगे तुम्हारी मर्जी है आइडिया आर लाइक स्पर्म्स ओनली वन इन अ मिलियन\" then L0326 long gap, L0327 \"वर्क्स ओके...\" So the word \"works\" completes in L0327. End at L0325 (\"...वन इन अ मिलियन\") — the audio continues \"works\" at start of L0327. Include L0324–L0325 and note. Or extend to L0327 (\"वर्क्स ओके वी शुड कम बैक...\") — L0327 continues into host question, bad. End at L0325. ~19s. Include HIGH, signals: comments.\n\n15. L0328: \"प्राइस काटोगे कट करोगे तो चलोगे तब जीत जाओगे\" — pricing, skip.\n\n16. L0382–L0384: \"फॉर जॉब एवरी बडी वांट्स एक्सपीरियंस बट दे ओनली गेट फ्रेश बट फॉर मैरिज एक्सपीरियंस [वांट्स] सोस द प्रॉब्लम इन सोसाइटी\" — \"For a job everybody wants experience but they only get fresh; for marriage everybody wants experience... that's the problem in society\" — savage joke, humor finder. Skip (mention as near-miss? it's humor).\n\n17. L0393–L0409: employee evaluation (stamina, discipline, intelligence, focus) — HR advice, skip.\n\n18. L0411: \"अब अस ऊपर जो भी कुर्सी काली है मेरे लिए जाने के लिए है मोस्ट पावरफुल मोटिवेशन इन एन एर्ग\" — \"the empty chair above me, which I have to leave, is the most powerful motivation in any organization\" — hmm, interesting but niche.\n\n19. L0420–L0426: \"पैंपर्ड शड नॉट गेट इनटू बिजनेस पैरेंटेड ओनली ब य थक पमप कैन नॉट बिल्ड बिजनेस... लेने वाला कभी जीतता नहीं है देने वाला ही जीतता है\" — \"pampered can't build business... the one who takes never wins, the one who gives wins.\" Comment on L0424: \"best one!\" (6 likes). The \"देने वाला ही जीतता है\" line at L0426 is quotable. Clip L0422–L0426: L0422 \"पैरेंटेड पैंपर्ड शड नॉट गेट इनटू\" L0423 \"बिजनेस पैरेंटेड ओनली...\" (garbled but audio fine) L0424 (garbled \"ट्राइट हेल्प हिम...\") L0425 \"हेल्प तुम क्या बिजनेस\" L0426 \"बनाएगा लेने वाला कभी जीतता नहीं है देने वाला ही जीतता\" — the giving line lands. Garbled middle. Include as MEDIUM? The transcription is rough but audio will carry. ~31s. Hmm, \"lenewala kabhi jeet-ta nahi, denewala jeet-ta hai\" — giver wins — that's a genuine quotable. Include, MEDIUM confidence due to garble.\n\n20. L0433–L0441: wife's death story — \"आई लास्ट माइ वाइफ फॉर पक्रिया कैंसर ग्रेड फोर जस्ट 50 डेज बिफोर माइ आईपीओ... शी किल्ड हर आइडेंटिटी टू मेक शर आई विन सो मोस्ट पावरफुल लेडी साइलेंट हु वास नेवर रगना एस कोफाउंडर एंड सी वास द बैक बोन बिहाइंड माइ एंटा जर्नी एंड लूजिंग हर वास लाइक यू नो यू आर स्केलिंग द एवरेस्ट विथ यर बेस्ट कंपन एंड ओनली 50 मोर मीटर्स लेफ्ट आउट एंड य [लूजिंग वास]\" — powerful, emotional, but is it MY kind (motivation) or the emotional finder's? It has direction: \"लूजिंग हर वास वेरी बिग फ्रस्टे आई थट आई मस्ट सेल द कंपनी एंड गो रिलक्स किसके लिए अभी किसके लिए बनाना है\" — \"losing her was very big frustration, I thought I must sell the company and relax — build for whom now?\" That's grief, pain with a turn into purpose (\"for whom do I build now\" → sold). Hmm. The \"she killed her identity to make sure I win, most powerful lady, silent, was never raging as cofounder, she was the backbone\" — that's PARENTS-AS-FUEL-like (spouse as fuel). It makes viewer get up. Comment \"very emosional part\" (4 likes). Borderline with emotional finder. The straddle rule says return it. I'll include L0433–L0437 or L0432–L0436. Clip L0433–L0437: 12.3+12.4+10.2+12.5+10.4 ≈ 58s. Include MEDIUM/HIGH. Actually the line \"she killed her identity to make sure I win\" is devastating and honoring — good reel. Include.\n\n21. L0465–L0467: closing: \"फेलर से डरो मत जो ग गिरा ही नहीं है वो जर्नी ही नहीं कर पाएगा... मेक मिस्टेक्स मेक ऑल मिस्टेक्स मेक देम वेरी फास्ट बट डोंट रिपीट इफ यू डू एवरी डे ए न्यू मिस्टेक यूर गोइंग टू बी अ बिलियने यू डू द सेम मिस्टेक एवरी डे यू आर गोइंग टू बी अ बेगर सून\" — \"Don't fear failure; one who never fell won't complete the journey. Make mistakes, make them fast, don't repeat. New mistake every day → billionaire; same mistake every day → beggar.\" Audience: \"Last punch line... if you make a new mistake everyday you will be billionaire...\" (528 likes, 2 people). Comment on L0465 marks this. Strong closer. Clip L0465–L0467 ≈ 10.4+9.2+7.9 ≈ 28s. Start L0465 begins \"नी इक्ट जनी ट्रसम पीपल मेक शर दे अंडरस्टैंड व्ट न टू डरर ली...\" garbled host-ish? Actually L0464 is Velumani's closing advice \"मनी थैंक यू सो मच ली एज य ल\" — garbled. L0465 \"[REPLAYED] शड यू कैन लर्न एंड डू एंड दिस थिंग्स वी मस्ट टीच पीपल एंड फेलर से डरो मत...\" starts mid-thought \"शड यू कैन लर्न\". Hmm. Start at L0465 anyway — \"and failure se daro mat\" comes mid-line. The reel can start at \"फेलर से डरो मत\" via second pass. Return L0465–L0467, note hook is mid-line. Fine.\n\n22. L0336–L0338: upid hotel coffee story — minor.\n\n23. L0302–L0305: \"25 साल पहले ब्लड टेस्ट होम डिलीवरी... अमेजन होम डिलीवरी\" — flex of innovation. Skip.\n\n24. L0346–L0374: goat business idea, laddu/sweets brand — business ideas for entrepreneurs, expertise-aimed. Skip. Though \"इट इस डूबल नंबर वन\"... skip.\n\n25. L0180: \"एक्सपेक्टेशन इज द बिगेस्ट प्रॉब्लम... अनवांटेड एक्सपेक्टेशन मैं तो एक्सपेक्टेशन को जीरो कर दिया लाइफ चांडी बना सोन\" — \"Expectation is the biggest problem... I made expectations zero, life became gold from silver.\" That's a reframe about marriage/daughters-in-law context. It's quotable: \"expectation zero kar diya, life sona ban gaya.\" Clip L0179–L0180: L0179 \"दिया तो सभी लोग हल्ला गुल्ला मचा रहे है एक्सपेक्टेशन इज द बिगेस्ट प्रॉब्लम फॉर ऑल डावर्स एंड रेसिग्नेशन स रीजन\" L0180 \"अनवांटेड एक्सपेक्टेशन मैं तो एक्सपेक्टेशन को जीरो कर दिया लाइफ चांडी बना सोन वट एंड टस हाउ द स्टोरी ऑफ हाउ ड आई फाइंड अ वाइफ\" — context is the bahu/expectation story. \"Expectation zero, life becomes gold\" is universal. ~24s. Include? It's decent — hits anyone carrying resentment about expectations. I'll include as a lower-rank clip. Hmm, list is getting long. Let me prioritize.\n\nCandidate list (rank order):\n1. Ideas are like sperms (L0324–L0325) — most marked, hilarious+true. HIGH.\n2. Do what you haven't studied → leader (L0198–L0201). HIGH.\n3. Poverty gives you power to take decisions / success is delta (L0039–L0042). HIGH (audience's 2nd loudest comment).\n4. Failure se daro mat / new mistake billionaire (L0465–L0467). HIGH.\n5. 50 interviews rejected → hired only freshers, 25000 (L0091–L0100). HIGH — hits job-rejected viewer.\n6. Jine aaya ya jeetne aaya (L0215–L0217). ~15s.\n7. Bada banna ya buddha banna (L0218–L0220). ~19s.\n8. Aaya toh pahad gaya toh baal (L0222–L0226). MEDIUM (garbled Tamil on page).\n9. Take your risk, not family risk (L0229–L0233).\n10. Discuss or decide (L0238–L0240) + resignation story (L0242–L0248).\n11. Thank my parents for giving nothing except freedom (L0047–L0049).\n12. Low resources is luxury (L0044–L0045) — maybe fold into #3? Separate landing. Clip L0042–L0045. Hmm #3 ends at L0042 and this starts L0042. They're back-to-back landings — could return both parts individually AND the pair. The pair L0039–L0045 ≈ 12.5+7.8+9.8+12.4+13.3+14.5 ≈ 70s — under a minute? ~70s, slightly over. I'll return them separately; maybe skip the pair.\n13. Biryani line (L0074–L0079) — self-acceptance.\n14. Arrived like a Don with 500 rupees (L0118–L0121).\n15. She killed her identity to make sure I win (L0433–L0437).\n16. Expectation zero (L0179–L0180).\n17. Don't love your spouse, neighbor will (L0111–L0114).\n18. Giver wins (L0422–L0426).\n\nThat's a lot. \"No quota\" — a rich hour can yield a dozen. But I should only return ones I believe in. Let me trim honestly:\n\n- #17 (spouse/neighbor/competitor): funny, quotable, commented 3x. But is it motivation? It's a punchline — humor category mostly. It also carries \"train your employee yourself\" business. I'd say it's humor — borderline. Given the audience adores his punchlines and the instruction says a duplicate is free... but \"does it do MY kind of thing\" — mindset change? Not really; it's a joke. Pass to humor finder. Near-miss it.\n- #16 expectation zero — context is mother-in-law/bahu story; somewhat self-contained actually (\"Expectation is the biggest problem... I made expectation zero, life sona\"). Decent. Include at low rank? I'll include — it's a real reframe people share. Actually the surrounding context: L0178 \"आजकल मेरा थोड़ा इंस्टा में रील चल रहा है इसका बारे में एक दो बोल\" — he's responding to reels about in-laws. L0179-L0180 stands okay. Include MEDIUM. Hmm, I'll include.\n- #13 biryani — self-acceptance reframe, \"wouldn't change a thing about my life.\" Good. Include.\n- #14 Don with 500 rupees — include, swagger/come-from-nothing identity.\n- #15 wife story — include (straddles emotional but has the \"backbone/killed her identity to make sure I win\" fuel direction).\n- #10 discuss-or-decide: I'll take just the quotable clip L0238–L0240, and skip the separate resignation-story clip (the story's payoff \"we both left job same day\" is nice but its landing \"romance with risk... bigger risk bigger reward\" is a bit generic). Actually \"साथ जिएंगे साथ मरेंगे... वी बोथ लेफ्ट जॉब ऑन द सेम डे\" is a real landing moment, REPLAYED on L0248. Hmm. The couple quitting together is touching + bold. I'll return it too — the rule about back-to-back landings. But they're not back-to-back; L0241 laughter between. The pair rule applies to continuous run. L0239–L0248 is continuous speech (~88s, over a minute). I'll return L0242–L0248 as its own (resignation story, \"romance with risk\") and L0238–L0240 as the quotable. OK.\n\n- #9 family risk: include.\n- #6, #7, #8: three landings in the jeene-aaya roll. Include all three? #7 \"buddha toh apne aap banta hai\" is funny+true. #8 is the most-quoted Tamil line (3 comments + replay). Include all three; they're short.\n\nTotal clips: ~17. That may be too many... \"A rich hour can yield a dozen.\" This is a 66-minute video absolutely stuffed with punchlines. I'll return maybe 14, and near-miss a few with honest reasons. Let me finalize:\n\nCLIPS (rank order by belief):\n1. Ideas are like sperms — L0324–L0325. HIGH.\n2. If you do what you studied you survive; what you haven't studied → leader — L0198–L0201. HIGH.\n3. Poverty gives you power to take decisions — L0039–L0042. HIGH.\n4. New mistake billionaire, same mistake beggar — L0465–L0467. HIGH.\n5. 50 rejections → only freshers — L0091–L0100. HIGH.\n6. Jeene aaya ya jeetne aaya — L0215–L0217. HIGH-ish.\n7. Family risk / 400 months — L0229–L0233. HIGH.\n8. Aaya toh pahad gaya toh baal — L0222–L0226. MEDIUM.\n9. Bada banna ya buddha banna — L0218–L0220.\n10. Discuss or decide — L0238–L0240.\n11. We both left the job the same day / romance with risk — L0242–L0248.\n12. Biryani — wouldn't change my life — L0074–L0079.\n13. Arrived like a Don with 500 rupees — L0118–L0121.\n14. Parents gave nothing except freedom — L0047–L0049.\n15. She killed her identity to make sure I win — L0433–L0437.\n16. Low resources is luxury — L0042–L0045. (back-to-back with #3)\n17. Expectation zero — L0179–L0180. (maybe drop? I'll include at 17... hmm. Actually I'll drop this one — the context is specifically about in-laws/daughters-in-law, and \"expectation zero\" without it is generic-ish. Near-miss.)\n\nAlso consider \"what you do is not as important as how you do it\" (L0201–L0209). That's another quotable in the same roll as #2. Include? It has the conductor/superstar build. I'll include as a clip too — it's a separate landing. L0201–L0209 ≈ 11.7+8.0+1.2+10.4+12.1+7.7+10.3 ≈ 61s. Hmm, messy middle (\"film training institute... उस जमाने में नहीं था आज आया है\"). The meaning: diplomas don't make heroes; a bus conductor became a superstar; what you do matters less than how you do it. I'll include MEDIUM, ending L0209.\n\nThat's 17-18 clips. Am I overdoing it? The instructions scream against under-returning and explicitly say a dozen is fine for a rich hour, and this video is a punchline factory with tons of comment evidence. But each must genuinely land alone. Let me do a final honest pass:\n\n- #16 \"low resources is luxury\": \"If you have mastered your life in no resources, living life with low resources is luxury.\" Yes, standalone quotable, comment on L0045 (35 likes). Keep.\n- #12 biryani: keep.\n- #14 freedom: keep — \"I thank my parents for giving me nothing except freedom. Today's parents give everything other than freedom.\" Comment 47 likes. Keep. Start: L0047 \"बिकॉज आई वास पुअर आई वास नॉट पैंपर्ड...\" begins with \"because\" — fine. End L0049 \"ट्रू सो आई वास अगेन दो इलिटरेट पेरेंट्स दे ट्रस्टेड मी...\" — L0049 ends \"...आई बिकम अ हेड ऑफ\" continuing to L0050. End at L0049's comment-anchored part? The landing is \"today's parents give everything other than freedom\" mid-L0049, then continues \"so I was... illiterate parents they trusted me, I became head of the family at age of 10\". End at L0049 anyway (mid-flow but the landing is inside). OK.\n- #13 Don: keep, MEDIUM (it's swagger/story; REPLAYED + comments).\n- #15 wife: keep.\n- Conductor/how you do it: keep, MEDIUM.\n\nFinal count: 17. Fine — I'll note in video_read.\n\nSkipped ranges: intro montage L0001–L0021; host intro/questions; marriage matchmaking comedy L0135–L0177 (humor); blind boss MSC/PHD story L0183–L0196 (good story but more narrative; actually \"I am MSC PhD powerful scientist only because I agreed to work under a blind man\" — humility/lesson... it's a gratitude story. Near-miss it? It's nice but landing is soft. Skip as near-miss); business model/pricing/franchise L0267–L0344 (expertise); goat/tomato business ideas L0346–L0377 (expertise); HR evaluation L0393–L0415 (expertise); pampered vs parented L0420–L0426 (I'm returning giver line? I earlier wavered). Let me decide on giver-wins: \"लेने वाला कभी जीतता नहीं है देने वाला ही जीतता है\" (L0426). One-liner, quotable, but surrounded by heavily garbled text and context of pampered kids. The sentence itself stands alone fine. Comment \"best one!\" on L0424. Include as clip 17? The garble: L0423-L0424 unreadable-ish but meaning reconstructable (\"pampered can't build business; parented can learn... he only learnt to get help, how will he build business\"). I can read it. Include, MEDIUM.\n\nAlright, final: 17 clips. That's a lot of JSON but fine.\n\nLet me now write start/end words exactly.\n\n1. L0324 start_words: \"दिया बट वो कांसेप्ट\" — hmm, L0324 starts \"(fast) दिया बट वो कांसेप्ट वहां से आया ना तो हर कोई उम्मीद में कि एक भी लग गया तो जो वीसी इसलिए पैसा देता है कि एक भी लग\". start_words: \"दिया बट वो कांसेप्ट वहां से\". end L0325: \"गया तो सब उसका लाइफ निकल जाए सुनो पंच लाइन... आइडिया आर लाइक स्पर्म्स ओनली वन इन अ मिलियन\" end_words: \"आइडिया आर लाइक स्पर्म्स ओनली वन इन अ मिलियन\".\n\n2. L0198 start: \"[REPLAYED] लाइन इन 1982 आई ड नॉट नो वेर थायराइड वास\" start_words \"लाइन इन 1982 आई ड\" — hmm \"line in 1982 I did not know where thyroid was\". Actually better start L0197? \"ट्रस्ट मी र कम्स द मोस्ट पावरफुल पंच\" (3.2s) then L0198. Start L0197 \"ट्रस्ट मी र कम्स द मोस्ट पावरफुल पंच\" — \"trust me, this comes [as] the most powerful punch [line]\". That's a decent hook actually. Start L0197, end L0201 \"लीडर राइट आइम द लीडर\". end_words \"लीडर राइट आइम द लीडर\". Length ≈ 3.2+8.5+7.6+11.8+11.7 = 42.8s.\n\n3. L0039 start \"सक्सेस इन लाइफ इज डेल्टा ओके\" end L0042 \"वन पॉवर्टी गिव्स यू पावर टू टेक डिसीजन दूसरा...\" end_words: \"पॉवर्टी गिव्स यू पावर टू टेक डिसीजन\". Length 12.5+7.8+9.8+12.4=42.5s.\n\n4. L0465 start \"शड यू कैन लर्न एंड डू एंड दिस थिंग्स\" — actually starts mid; but \"फेलर से डरो मत\" inside. start_words: \"शड यू कैन लर्न एंड डू\". end L0467 end_words: \"यू आर गोइंग टू बी अ बेगर सून\". Length 10.4+9.2+7.9=27.5s.\n\n5. L0091 start \"अलेजो 19 यर्स बीएससी फर्स्ट क्लांस मैं सोचा\" end L0100 \"आईव नेवर रिक्रूटेड एन एक्सपीरियंस मैन इनटू माय ऑर्गना ली\". Length: 8.6+7.4+8.5+9.0+7.3+6.1+9.6+11.3=67.8s. A bit long but a story build. OK.\n\n6. L0215 start \"कि एक पंचलाइन है बताओ जीने आया या जीतने\" end L0217 \"था मुंबई तक आया तो जीतना जीतना है अभी लग नहीं रहा था कि जीत गए\" — end_words \"जीतना जीतना है\". Length 6.5+3.9+7.2=17.6s. Start L0214? \"थ्री तभी मुझे ऐसा लगा\" (4.2s) — \"at that time I felt\" — include for lead-in? L0214 ends \"तभी मुझे ऐसा लगा\" which flows into L0215 \"कि एक पंचलाइन है\". Start L0214. end_words \"जीतना है\".\n\n7. L0229 start \"[REPLAYED] (slow) 1967 य राइट लाख माय मंथली एक्सपेंडिचर वास\" — hmm starts with garbled \"1967 य राइट लाख\" (means \"2 crore right? lakh\" — actually passbook 2 crore closing balance from L0228). Start L0228? \"ड्रॉयर एंड आई स माय पास बुक एंड पास बुक हैड लाख र क्लोजिंग बैलेंस 1996 लाख क्लोजिंग बैलेंस इज इक्वल टू करोस आइम टॉकिंग अबाउट 30 यर्स बैक\" — begins mid (\"drawer and I saw my passbook\"). The moment really begins at \"Friday office, opened my drawer\": L0227 \"रिस्क टेक अ रिस्क सो माय माइंड सेड आई मस्ट नाउ टेक सम काइंड ऑफ रिस्क वन फ्राइडे ऑफिस आई गो इन द मॉर्निंग आफ्टर लंच आई ओपन माय\" — start L0227. End L0233 \"य नॉट एंटाइटल टू ट्र उनकी क्या गलती था उनको क्यों रास्ता प लाना आपकी लालच में वो फस\" — ends \"वो फस\" (they got trapped) mid... L0234 pause, L0235 \"चाए सो 40 मंथ्स फैमिली सेफ ्र एंड हाफ यर्स कर दिया...\" Hmm. The landing \"you can take your risk, you should not take family risk... you are not entitled... why drag them in because of your greed\" is L0232–L0233. End L0233. Length 13.4+16.0+7.0+5.2+3.1+8.0+8.4=61s. Long-ish; fine, or trim start to L0229. I'll keep L0227–L0233 and note.\n\n8. L0222 start \"अरे किधर था मैं किधर आ गया मैं किधर जा सकता हूं\" end L0226 \"हाड च सेज\". The Tamil line L0224 garbled. end_words \"हाड च सेज\" — that's the Tamil phrase garbled (\"आया तो पहाड़ गया तो सेज\"?). Hmm the actual punch \"आया तो पहाड़, गया तो बाल\" is inside L0224: \"एक लंबा बाल कीचो उसम एक नाट बांधो एक पहाड़ के ऊपर डालो खचो आया तो\" then L0226 \"हाड च सेज\" then L0227 \"रिस्क टेक अ रिस्क\". So the punch per audience: \"आया तो पहाड़ गया तो बाल\". Garbled. End L0226. MEDIUM confidence; note transcription garble, audio carries it. Length 10.4+12.3+15.0+2.6=40.3s.\n\n9. L0218 start \"राइट नेक्स्ट वन बड़ा बनना है या बुड्ढा बनना\" end L0220 \"है बुड्ढा तो अपने आप बनता है वो भी सरकार नौकरी में जल्दी बनता है बड़ा बनना है तो रिस्क लेना ट वास वेरी क्लियर टू मी\". end_words \"बड़ा बनना है तो रिस्क लेना\". Length 4.6+5.1+8.0=17.7s.\n\n10. L0238 start \"माय वाइफ इ वर्किंग विथ स्टेट बैंक ऑफ इंडिया\" end L0240 \"...मेरा फदर लाके घर\" — end_words \"आईम वांटिंग टू रिजाइनिंग मेरा फदर लाके घर\". Hmm ends on joke cut. Actually the quotable \"इदर यू कैन डिस्कस और यू कैन डिसाइड यू कान डू बोथ बिकॉज वनस यू डिस्कस यू कैन नॉ डिसाइड\" sits at L0239-end/L0240-start. End at L0240 includes trailing wife joke — fine, it's a laugh landing. Length 8.2+15.8+14.8=38.8s.\n\n11. L0242 start \"बैठता सो आई वेंट होम रात को\" end L0248 \"रिस्क राइट जितना बड़ा रिस्क होता है उतना बड़ा रिवर्ड भी मिलता है सो वी देन रिसेट अवर लाइफ एंड\" end_words \"उतना बड़ा रिवर्ड भी मिलता है\". Length 8.6+10.0+9.0+10.5+2.2+6.3+11.1=57.7s.\n\n12. L0074 start \"बट लेट मी आल्सो टेल यू देर आर टू कांड्स ऑफ पीपल\" end L0079 \"है कुछ नहीं ब कुछ बदलेगा तो ये बिरयानी नहीं आएगा ये बढ़िया है जो है फर्स्ट क्लास\" end_words \"ये बढ़िया है जो है फर्स्ट क्लास\". Length 7.0+9.2+10.3+10.2+9.5=46.2s. Hmm L0074 \"दिस इ अनदर पंचल एक सोचता है आई एम ओनली सफरिंग ल अदर्स आर एंजॉय दूसरा सोचता है...\" Good.\n\n13. L0118 start \"1982 कन्याकुमारी टू मुंबई जयंती जनता एक्सप्रेस\" end L0121 \"आई स्टेड इन वीटी रेलवे स्टेशन फॉर थ्री नाइट्स बिकॉज वा नो फ्रेंड टू रिसीव मी विथ\". end_words \"फॉर थ्री नाइट्स\". Length 12.1+9.8+7.2=29.1s.\n\n14. L0047 start \"लॉट ऑफ कैपेबिलिटी मैं...\" — wait L0047: \"लॉट ऑफ कैपेबिलिटी मैं एक मेरा पीएचडी थीसिस में लास्ट एक अनोले जमेंट किया हूं उसके वर्ड्स समझाता हूं आई थैंक माय पेरेंट्स फॉर गिविंग मी नथिंग एक्सेप्ट फ्रीडम\" — starts \"lot of capability\" (continuing from L0046 \"pampered child has no capability, a parented child [has] lot of capability\"). Start L0046? L0046: \"एन एंप्लॉयर तो फिर क्या करते थे पापा पापा का पैपड चाइल्ड था...\" garbled. Start L0047 anyway; the key lines are inside L0047-L0049. end L0049 end_words: \"दे ट्रस्टेड मी आई बिकम अ हेड ऑफ\" — awkward. Maybe end L0049 but end_words \"आजकल की पेरेंट्स दे गिव एवरीथिंग अदर देन फ्रीडम\" — that's mid-L0049. end_words field wants last few words of end line. Hmm. End at L0048 instead? L0048 ends \"आई थैंक माय पेरेंट्स फॉर गिविंग मी नथिंग एक्सेप्ट फ्रीडम\" — that's a perfect landing! End L0048. But then we lose \"today's parents give everything other than freedom\" (start of L0049). Both landings. Take L0047–L0049 anyway with end_words \"आई बिकम अ हेड ऑफ\"? The continuation \"head of the family at age 10\" is fine content. L0049 ends \"...आई बिकम अ हेड ऑफ\" and L0050 continues \"द फैमिली एट एन एज ऑफ 10\". Ugh, split. I'll end at L0048 — clean landing, and note the follow-up line exists. Actually rule: never drop the quotable to save seconds — but here the quotable at L0049 start (\"today's parents give everything other than freedom\") would be cut mid-line either way. Second pass can lift hooks from anywhere. End L0048. Length 14.2+13.8? wait L0047 14.4s, L0048 14.2s = 28.6s. Start L0047 begins \"लॉट ऑफ कैपेबिलिटी\" — mid-thought-ish but readable (\"a parented child — lot of capability... I thank my parents for giving me nothing except freedom\"). OK.\n\n15. L0433 start \"एक्सचेंज आई डिड इट अलोन आई लस्ट माइ वाइफ\" — hmm starts mid (\"I went to ring the bell in the national stock exchange\" is L0432). Start L0432 \"न आई वेंट टू रिंग द बेल इन द नेशनल स्टॉक\" end L0437 \"आर स्केलिंग द एवरेस्ट विथ यर बेस्ट कंपन एंड ओनली 54 मीटर लेफ्ट 50 मोर मीटर्स लेफ्ट आउट एंड य\" — ends \"and you lost was...\" continuing L0438 \"लेफ्ट वास द वन हु मेड मी एमएससी\". Hmm. End L0436? L0436: \"वास नेवर रगना एस कोफाउंडर एंड सी वास द बैक बोन बिहाइंड माय एंटा जर्नी एंड लूजिंग हर वास लाइक यू नो यू\" — ends \"like you know you\". The Everest metaphor spans L0436–L0437. End L0437. Start L0432. Length 3.3+12.3+12.4+10.2+12.5+10.4=61s. Hmm long. Could start L0433: \"एक्सचेंज आई डिड इट अलोन\" — \"I did it alone, I lost my wife for pancreatic cancer grade four just 50 days before my IPO...\" — that's a strong cold opening actually. Start L0433, end L0437: 57.7s. Good.\n\n16. L0201 start \"लीडर राइट आइम द लीडर फिल्म ट्रेनिंग इंस्टिट्यूट\" — starts continuing \"leader\". Hmm. Start L0202 \"उधर डिप्लोमा डिग्री लेता है वह एक भी पिक्चर में हीरो नहीं बनता है और बस कंडक्टर ही सुपरस्टार बनता\" — \"today whoever takes diploma/degree, none becomes a hero in a picture, but a bus conductor becomes a superstar\" — good opening! Start L0202, end L0209 \"व्ट डू यू डू इज नॉट एस इंपोर्टेंट एस हाउ ड यू\". Length 8.0+1.2+10.4+12.1+7.7+10.3=49.7s. Note ending word splits to L0211 \"डू\" — mention in why.\n\n17. L0422 start \"पैरेंटेड पैंपर्ड शड नॉट गेट इनटू\" hmm L0422 is \"पैरेंटेड पैंपर्ड शड नॉट गेट इनटू\" (3.5s)? Wait: L0421 pause, L0422 \"पैरेंटेड पैंपर्ड शड नॉट गेट इनटू\" — no: L0420 ends \"देर आर टू कांड्स ऑफ पीपल वन इस पैंपर्ड अनदर इ\" L0422 \"पैरेंटेड पैंपर्ड शड नॉट गेट इनटू\" — wait that reads \"parented... pampered should not get into\" — transcription scrambled (\"pampered should not get into business, parented only by y...\"). Start L0420? L0420 is long (14.3s) about social media driving... \"टुडे आई एम टेलिंग यू व्हाट इज द प्रॉब्लम... आई एम गोइंग टू ड्राइव यूजिंग माय सोशल मीडिया हैंडल देर आर टू कांड्स ऑफ पीपल वन इस पैंपर्ड अनदर इ\". Start L0420, end L0426 \"बनाएगा लेने वाला कभी जीतता नहीं है देने वाला ही जीतता\". Length 14.3+3.5+15.4+15.6+2.8+5.2=56.8s. MEDIUM, garbled middle. Include.\n\nThat's 17 clips. Let me also sanity check I'm not missing the \"40% profit margin, cheapest healthcare\" etc. — business flex, skip.\n\nNear misses:\n- L0110–L0114 (spouse/neighbor/competitor punchline): humor punchline, no mindset shift — belongs to comedy. Actually it's heavily commented... it IS quotable. Ugh. It's a joke about marriage/employees. My kind? No — it makes people laugh, not larger. Near-miss with reason \"punchline whose payload is the laugh; nothing in it changes how the viewer sees themselves.\"\n- L0096 marriage/children joke — humor.\n- L0179–L0180 expectation zero — context is in-law story; without it the line floats generic. Near-miss: \"landing depends on the in-law story before it; alone it reads as generic positivity.\" Hmm, actually it's semi self-contained. I'll near-miss it.\n- L0183–L0195 blind boss story — gratitude narrative, landing soft (\"I am scientist only because I agreed to work under a blind man\") — actually that's decent... but it's about him, lesson = humility/opportunity. Leave as near-miss: \"warm story, payoff is his own biography, no instruction or reframe the viewer carries.\"\n- L0285 standing man liability — business aphorism.\n- L0382–L0384 marriage experience joke — humor.\n- L0302–L0305 Amazon comparison — flex.\n- L0411 empty chair — org-specific.\n\nSkipped ranges:\n- L0001–L0021: cold-open montage + host intro.\n- L0022–L0037: intro of guest, career summary.\n- L0050–L0071: childhood work, cotton picking — actually has \"25 paise, 4 hours\" first earning... some of it covered by clips.\n- L0080–L0090: BSc/BCom story — good anecdote (poverty chose his degree) but landing is the professor kindness; narrative.\n- L0115–L0133: job failure, Mumbai arrival.\n- L0134–L0177: matchmaking comedy.\n- L0178–L0181: expectation (near miss).\n- L0183–L0196: blind boss MSC/PHD.\n- L0211–L0214: transition.\n- L0249–L0266: thyroid reagent insight, discuss/decide repeat (I took it earlier), business context.\n- L0267–L0344: business model, pricing, franchise, marketing — expertise.\n- L0346–L0377: goat/tomato/sweets business ideas — expertise aimed at entrepreneurs.\n- L0378–L0419: freshers HR system, underpaid assets — expertise.\n- L0427–L0459: exit story, wife's death aftermath, selling company, retirement — partly clipped.\n- L0469–L0475: outro/contact.\n\nhook_strength: score honestly.\n1. sperms: opening \"दिया बट वो कांसेप्ट वहां से आया ना तो हर कोई उम्मीद में...\" — slow-ish start; the hook \"ideas are like sperms\" is at the end but editor lifts it. hook 5.\n2. studied/leader: starts \"trust me, this is the most powerful punch line\" — decent hook 6.\n3. success is delta: \"success in life is delta\" — hook 7.\n4. failure se daro mat: mid-line start, hook 5.\n5. 50 interviews: \"19 years, BSc first class, I thought I'd get a job... failed 50 interviews\" — hook 7.\n6. jeene aaya: \"एक पंचलाइन है बताओ जीने आया या जीतने आया\" — great question hook 9.\n7. family risk: starts \"my mind said I must take some kind of risk, one Friday...\" hook 6.\n8. pahad/baal: starts \"arey kidhar tha main...\" hook 6.\n9. bada/buddha: \"next one: bada banna hai ya buddha banna hai\" — hook 8.\n10. discuss/decide: starts \"my wife is working with State Bank of India...\" hook 5.\n11. both left job: starts mid \"बैठता सो आई वेंट होम\" hook 4.\n12. biryani: \"let me also tell you there are two kinds of people\" hook 5.\n13. Don 500 rupees: \"1982 Kanyakumari to Mumbai Jayanti Janta express...\" hook 8.\n14. freedom: \"because I was poor, I was not pampered...\" hook 5.\n15. wife IPO: \"I did it alone, I lost my wife for pancreatic cancer grade four just 50 days before my IPO\" — hook 10.\n16. conductor: \"आज जो भी डिप्लोमा डिग्री लेता है वह एक भी पिक्चर में हीरो नहीं बनता\" hook 7.\n17. giver wins: \"there are two kinds of people, one is pampered...\" hook 5.\n\nOrder by rank: I'll rank roughly by belief×evidence. Rank 1: sperms (most marked). Then success delta (audience 2534-like comment), studied→leader, failure/billionaire, 50 interviews, jeene aaya, wife IPO (emotional power), family risk, Don, freedom, both-left-job, discuss/decide, bada/buddha, biryani, conductor/how-you-do, pahad/baal, giver wins.\n\nActually keep it simple; ordering is editorial.\n\nsignals_used: list comments/replays per clip.\n\nvideo_read: \"Raj Shamani podcast with Dr. Velumani, founder of Thyrocare, a self-made village-poor entrepreneur telling his rags-to-5000-crore story in punchline form. The material lives throughout — he salts nearly every anecdote with a quotable 'punch line' — richest in the poverty/decision, risk-taking, freshers, and closing failure sections.\"\n\nWrite the JSON now. Ensure start/end lines exist and are spoken lines (not pause rows). L0227 is speech yes. L0433 speech yes. L0242 speech yes.\n\nCheck L0215: \"कि एक पंचलाइन है बताओ जीने आया या जीतने\" — start L0214 \"(slow) थ्री तभी मुझे ऐसा लगा\" — start_words \"थ्री तभी मुझे ऐसा लगा\". Hmm \"थ्री\" is garbled (\"three\"). Fine, copy exactly.\n\nFor clip 2, start L0197 start_words \"ट्रस्ट मी र कम्स द मोस्ट पावरफुल पंच\".\n\nClip 5 end L0100 end_words: \"आईव नेवर रिक्रूटेड एन एक्सपीरियंस मैन इनटू माय ऑर्गना ली\".\n\nClip 7 (family risk) start L0227 start_words \"रिस्क टेक अ रिस्क सो माय माइंड सेड\" end L0233 end_words \"आपकी लालच में वो फस\".\n\nClip 12 biryani end_words \"ये बढ़िया है जो है फर्स्ट क्लास\".\n\nClip 16 end L0209 end_words \"एस इंपोर्टेंट एस हाउ ड यू\".\n\nClip 15 start_words \"एक्सचेंज आई डिड इट अलोन आई लस्ट माइ वाइफ\" end_words \"50 मोर मीटर्स लेफ्ट आउट एंड य\". Hmm ends with \"य\" — awkward but the second pass fixes edges. OK.\n\nClip 17 start L0420 start_words \"चुका था टुडे आई एम टेलिंग यू\" — L0420: \"चुका था टुडे आई एम टेलिंग यू व्हाट इज द प्रॉब्लम...\" end L0426 end_words \"लेने वाला कभी जीतता नहीं है देने वाला ही जीतता\".\n\nClip 10 end L0240 end_words \"बोलता आईम वांटिंग टू रिजाइनिंग मेरा फदर लाके घर\".\n\nClip 11 start_words \"बैठता सो आई वेंट होम रात को\" end L0248 end_words \"उतना बड़ा रिवर्ड भी मिलता है\".\n\nClip 13 start_words \"1982 कन्याकुमारी टू मुंबई जयंती जनता एक्सप्रेस\" end L0121 end_words \"फॉर थ्री नाइट्स बिकॉज वा नो फ्रेंड टू रिसीव मी\".\n\nClip 14 start L0047 start_words \"लॉट ऑफ कैपेबिलिटी\" end L0048 end_words \"आई थैंक माय पेरेंट्स फॉर गिविंग मी नथिंग एक्सेप्ट फ्रीडम\".\n\nClip 3 end L0042 end_words \"वन पॉवर्टी गिव्स यू पावर टू टेक डिसीजन\".\n\nClip 6 end L0217 end_words \"मुंबई तक आया तो जीतना जीतना है\".\n\nClip 8 end L0226 end_words \"हाड च सेज\".\n\nClip 9 start L0218 start_words \"राइट नेक्स्ट वन बड़ा बनना है या बुड्ढा बनना\" end L0220 end_words \"बड़ा बनना है तो रिस्क लेना ट वास वेरी क्लियर टू मी\".\n\nClip 1 (sperms) — I decided start L0324. start_words \"दिया बट वो कांसेप्ट वहां से आया\" end_words \"आइडिया आर लाइक स्पर्म्स ओनली वन इन अ मिलियन\".\n\nClip 4 start_words \"शड यू कैन लर्न एंड डू\" end_words \"यू आर गोइंग टू बी अ बेगर सून\".\n\nAlso low-resources luxury clip (#16 earlier) — I had it as clip but then dropped? I listed 17 with freedom=14, wife=15, conductor=16, giver=17. Low-resources got dropped in final ranking. Let me re-add? The pair rule: L0042–L0045 \"living life with low resources is luxury\" — comment 35 likes on L0045. It's a real landing. Add as clip 18. start L0042 start_words \"वन पॉवर्टी गिव्स यू पावर टू टेक डिसीजन\" end L0045 end_words \"लिविंग लाइफ विथ लो रिसोर्सेस इ लगजरी\". Length 12.4+13.3+14.5=40.2s. Overlaps clip 3 at L0042 — fine, they're separate reels.\n\n18 clips total. OK, acceptable given the density and instructions.\n\nNow write the JSON, in ```json fence per system instruction (\"use ``` to end the code block\"). Output one JSON object in a code block."
+}

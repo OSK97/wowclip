@@ -1,0 +1,2297 @@
+{
+  "meta": {
+    "duration_s": 1562.0,
+    "transcript": "C:\\Users\\DP\\Desktop\\App\\website\\pipeline\\runs\\4jYmKjXI06A\\4jYmKjXI06A_final.json",
+    "clip_start_s": 0.0,
+    "video": {
+      "video_id": "4jYmKjXI06A",
+      "title": "Anand Mahindra's Class Day Keynote at The Fletcher School | Mahindra Group",
+      "channel": "Mahindra Group",
+      "duration_s": 1562.0,
+      "views": "79376"
+    },
+    "comments_placed": 0,
+    "replay_peaks": 14,
+    "comment_stats": {
+      "raw": 12,
+      "pages": 1,
+      "duplicates_folded": 0,
+      "promo_dropped": 0,
+      "chapter_indexes": 0,
+      "empty": 0,
+      "timestamped": 0,
+      "summarised": 0,
+      "general_seen": 12,
+      "general_kept": 12,
+      "top_liked_spared": 12,
+      "llm": {
+        "triage": {},
+        "themes": {
+          "cost_usd": 0.00041
+        },
+        "promo": {
+          "batches": 1,
+          "failed": 0,
+          "cost_usd": 2e-05
+        },
+        "summarise": {},
+        "cost_usd": 0.00043
+      }
+    }
+  },
+  "audience": {
+    "themes": {
+      "mood": "Viewers express pride and admiration for Mahindra and his leadership",
+      "themes": [
+        {
+          "what": "Expressions of national pride and congratulations",
+          "n": 3,
+          "quote": "Proud moment for all Mahindrites. Heartiest congratulations sir. Surely Indians are second to none in the World.",
+          "likes": 0
+        },
+        {
+          "what": "Inquiries and mentions of specific vehicle models",
+          "n": 3,
+          "quote": "Hello Sir 🙏🏻, Mahindra-7005 (65-Hp) Non-Turbo INDIA Mein Launch Hona Chahiye ABC-gear Aur Flat-Platform Ke Sath",
+          "likes": 2
+        },
+        {
+          "what": "Personal admiration and gratitude for leadership",
+          "n": 3,
+          "quote": "Samoogathin meethu alapariya akkaraiyum anbum konda mamanidhar...Anand sir ungalin miga periya rasigai nan ,ungalin sevai menmelum sirrakka vazhthkkal sir.",
+          "likes": 1
+        },
+        {
+          "what": "Reflections on inspiration and motivation",
+          "n": 2,
+          "quote": "Pilgrim real meaning is a wanderer with purpose. Great inspiration to all 👏👏👏",
+          "likes": 0
+        }
+      ]
+    },
+    "general": [
+      {
+        "text": "Hello Sir 🙏🏻, Mahindra-7005 (65-Hp) Non-Turbo INDIA Mein Launch Hona Chahiye ABC-gear Aur Flat-Platform Ke Sath",
+        "likes": 2,
+        "replies": 0,
+        "dupes": 0,
+        "id": 7
+      },
+      {
+        "text": "Samoogathin meethu alapariya akkaraiyum anbum konda mamanidhar...Anand sir ungalin miga periya rasigai nan ,ungalin sevai menmelum sirrakka vazhthkkal sir.",
+        "likes": 1,
+        "replies": 0,
+        "dupes": 0,
+        "id": 0
+      },
+      {
+        "text": "Proud moment for all Mahindrites. Heartiest congratulations sir. Surely Indians are second to none in the World.",
+        "likes": 0,
+        "replies": 1,
+        "dupes": 0,
+        "id": 11
+      },
+      {
+        "text": "Sir, I'm in worst phase of my life without work. Ready to work as house staff, mopping floor to pay bills and survive with my mother.",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 9
+      },
+      {
+        "text": "Pilgrim real meaning is a wanderer with purpose. Great inspiration to all 👏👏👏",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 2
+      },
+      {
+        "text": "Blessed to have a great business leader like Mr Anand Mahindra",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 1
+      },
+      {
+        "text": "Congratulations Sir...It is proud moment to us....#mahindrarise",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 3
+      },
+      {
+        "text": "Love you Sir Mahindra for making Us #Proud",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 4
+      },
+      {
+        "text": "My Favorite Car XUV300... My Dream",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 8
+      },
+      {
+        "text": "Great motivation sir salute sir",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 6
+      },
+      {
+        "text": "I am ready to drive pinian",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 10
+      },
+      {
+        "text": "Sir anand Mahindra sir 🖤❤🔥",
+        "likes": 0,
+        "replies": 0,
+        "dupes": 0,
+        "id": 5
+      }
+    ]
+  },
+  "baselines": {
+    "SPK1": {
+      "wpm_hi": 186.98360655737707,
+      "wpm_lo": 120.92324805339182,
+      "wpm_mid": 150.4178272980488,
+      "lines": 190
+    }
+  },
+  "rows": [
+    {
+      "kind": "line",
+      "start": 22.48,
+      "end": 31.92,
+      "tags": [],
+      "text": "As Dean of the Fletcher School, it is an honor and a privilege to present our highest award, the Dean's Medal, to Anand Mahindra.",
+      "reactions": [],
+      "id": "L0001",
+      "seconds": 9.4
+    },
+    {
+      "kind": "event",
+      "start": 31.92,
+      "end": 49.04,
+      "text": "[long gap 17.1s]",
+      "id": "L0002"
+    },
+    {
+      "kind": "line",
+      "start": 49.04,
+      "end": 52.56,
+      "tags": [],
+      "text": "Mr. Mahindra is one of the world's most influential industrialists.",
+      "reactions": [],
+      "id": "L0003",
+      "seconds": 3.5
+    },
+    {
+      "kind": "line",
+      "start": 53.0,
+      "end": 67.88,
+      "tags": [],
+      "text": "A magna laude graduate of Harvard College, he received his MBA from the Harvard Business School. Since then, he has grown the Mahindra Group into a diversified global conglomerate, which now employs more than 250,000 people in 100 countries.",
+      "reactions": [],
+      "id": "L0004",
+      "seconds": 14.9
+    },
+    {
+      "kind": "line",
+      "start": 68.0,
+      "end": 78.04,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "He has created successful business operations in renewable energy, agriculture, automotive, IT, aerospace, real estate, education, and more.",
+      "reactions": [],
+      "id": "L0005",
+      "seconds": 10.0
+    },
+    {
+      "kind": "line",
+      "start": 78.2,
+      "end": 82.92,
+      "tags": [],
+      "text": "He has been a pioneer in the evolving role of business, its responsibilities,",
+      "reactions": [],
+      "id": "L0006",
+      "seconds": 4.7
+    },
+    {
+      "kind": "line",
+      "start": 83.08,
+      "end": 93.12,
+      "tags": [],
+      "text": "and its necessary partnership with government. He has led the dialogue and action from the private sector on critical issues of sustainability and social responsibility.",
+      "reactions": [],
+      "id": "L0007",
+      "seconds": 10.0
+    },
+    {
+      "kind": "line",
+      "start": 93.64,
+      "end": 98.92,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "The Mahindra Group is commonly considered one of the leading firms in the response to climate change.",
+      "reactions": [],
+      "id": "L0008",
+      "seconds": 5.3
+    },
+    {
+      "kind": "line",
+      "start": 99.6,
+      "end": 109.08,
+      "tags": [],
+      "text": "Social responsibility is an important part of his business philosophy. He is a strong supporter of education and health programs, maximizing social impact.",
+      "reactions": [],
+      "id": "L0009",
+      "seconds": 9.5
+    },
+    {
+      "kind": "line",
+      "start": 109.56,
+      "end": 115.88,
+      "tags": [],
+      "text": "For example, Project Nanhi Kali has increased access to high-quality education for more than 350,000",
+      "reactions": [],
+      "id": "L0010",
+      "seconds": 6.3
+    },
+    {
+      "kind": "line",
+      "start": 116.52,
+      "end": 119.4,
+      "tags": [],
+      "text": "girls from rural, tribal, and urban areas.",
+      "reactions": [],
+      "id": "L0011",
+      "seconds": 2.9
+    },
+    {
+      "kind": "line",
+      "start": 119.96,
+      "end": 127.52,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "Mr. Mahindra is a UN Global Compact board member, as well as a member of the World Economic Forum's Alliance of CEO Climate Leaders.",
+      "reactions": [],
+      "id": "L0012",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 127.68,
+      "end": 139.88,
+      "tags": [],
+      "text": "He has served on the global board of advisors of the Council on Foreign Relations. He has been named to Barron's list of top 30 CEOs worldwide and noted on Fortune magazine's list of the world's 50 greatest leaders.",
+      "reactions": [],
+      "id": "L0013",
+      "seconds": 12.2
+    },
+    {
+      "kind": "line",
+      "start": 140.28,
+      "end": 146.84,
+      "tags": [],
+      "text": "A global CEO influencer on social media, his Twitter followers also number in the millions.",
+      "reactions": [],
+      "id": "L0014",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 147.72,
+      "end": 154.0,
+      "tags": [],
+      "text": "But to me, on a personal note, you have been an inspiration as we grapple with today's polycrises",
+      "reactions": [],
+      "id": "L0015",
+      "seconds": 6.3
+    },
+    {
+      "kind": "line",
+      "start": 154.16,
+      "end": 164.44,
+      "tags": [],
+      "text": "in a flat and fast-moving world, and where the hallmark of a successful leader, not only in the corporate sector, is one whose integrity is intact.",
+      "reactions": [],
+      "id": "L0016",
+      "seconds": 10.3
+    },
+    {
+      "kind": "line",
+      "start": 165.36,
+      "end": 172.84,
+      "tags": [],
+      "text": "But you have a close personal connection to the Fletcher family. Many of you may not know that Harish Mahindra,",
+      "reactions": [],
+      "id": "L0017",
+      "seconds": 7.5
+    },
+    {
+      "kind": "line",
+      "start": 173.08,
+      "end": 178.68,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "Mr. Mahindra's father, was Fletcher's first graduate from India in 1946.",
+      "reactions": [],
+      "id": "L0018",
+      "seconds": 5.6
+    },
+    {
+      "kind": "event",
+      "start": 178.68,
+      "end": 179.92,
+      "text": "[pause 1.2s]",
+      "id": "L0019"
+    },
+    {
+      "kind": "line",
+      "start": 179.92,
+      "end": 182.4,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "Earlier, I was able",
+      "reactions": [],
+      "id": "L0020",
+      "seconds": 2.5
+    },
+    {
+      "kind": "event",
+      "start": 182.4,
+      "end": 189.76,
+      "text": "[long gap 7.4s]",
+      "id": "L0021"
+    },
+    {
+      "kind": "line",
+      "start": 189.76,
+      "end": 202.12,
+      "tags": [],
+      "text": "Earlier, I was able to give Anand, if I may, from our archives copies of his father's application letter, the transcript, and the recommendation to Fletcher from the Dean at Harvard.",
+      "reactions": [],
+      "id": "L0022",
+      "seconds": 12.4
+    },
+    {
+      "kind": "line",
+      "start": 202.68,
+      "end": 209.52,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "In his Fletcher application, Anand's father wrote, \"If India achieves dominion status",
+      "reactions": [],
+      "id": "L0023",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 209.76,
+      "end": 212.159,
+      "tags": [],
+      "text": "or a state of complete independence,",
+      "reactions": [],
+      "id": "L0024",
+      "seconds": 2.4
+    },
+    {
+      "kind": "line",
+      "start": 212.36,
+      "end": 223.719,
+      "tags": [],
+      "text": "she will need the help of men trained in foreign affairs to see that she establishes friendly and economic relations with other nations of the world.\"",
+      "reactions": [],
+      "id": "L0025",
+      "seconds": 11.4
+    },
+    {
+      "kind": "line",
+      "start": 224.8,
+      "end": 232.4,
+      "tags": [],
+      "text": "Just a year after he wrote that, India celebrated its independence on August the 15th, 1947.",
+      "reactions": [],
+      "id": "L0026",
+      "seconds": 7.6
+    },
+    {
+      "kind": "event",
+      "start": 232.4,
+      "end": 233.68,
+      "text": "[pause 1.3s]",
+      "id": "L0027"
+    },
+    {
+      "kind": "line",
+      "start": 233.68,
+      "end": 239.36,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "And now, as India's 75th anniversary of independence approaches,",
+      "reactions": [],
+      "id": "L0028",
+      "seconds": 5.7
+    },
+    {
+      "kind": "line",
+      "start": 239.6,
+      "end": 245.0,
+      "tags": [],
+      "text": "Anand Mahindra today becomes the first Indian national to address our graduates",
+      "reactions": [],
+      "id": "L0029",
+      "seconds": 5.4
+    },
+    {
+      "kind": "line",
+      "start": 245.76,
+      "end": 250.0,
+      "tags": [],
+      "text": "following just 75 years after his own father's graduation.",
+      "reactions": [],
+      "id": "L0030",
+      "seconds": 4.2
+    },
+    {
+      "kind": "line",
+      "start": 250.76,
+      "end": 265.36,
+      "tags": [],
+      "text": "There is a symmetry here and a connection to this award, which exemplifies what we aspire to. A community proud of its past, enriched by deep and binding connections, yet focused on the future.",
+      "reactions": [],
+      "id": "L0031",
+      "seconds": 14.6
+    },
+    {
+      "kind": "line",
+      "start": 265.76,
+      "end": 278.0,
+      "tags": [],
+      "text": "So, on behalf of the Fletcher School and our wider community, it is my pleasure to, in a sense, welcome you home here today. And please join me so I can give you the Dean's Medal. Thank you.",
+      "reactions": [],
+      "id": "L0032",
+      "seconds": 12.2,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 278.0,
+      "end": 299.44,
+      "text": "[long gap 21.4s]",
+      "id": "L0033"
+    },
+    {
+      "kind": "line",
+      "start": 299.44,
+      "end": 302.56,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "Dean Kite, Dr. Tarullo,",
+      "reactions": [],
+      "id": "L0034",
+      "seconds": 3.1
+    },
+    {
+      "kind": "line",
+      "start": 303.2,
+      "end": 308.32,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "Dean Gallagher, Dean Blanco, Captain Galeano,",
+      "reactions": [],
+      "id": "L0035",
+      "seconds": 5.1,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 309.0,
+      "end": 313.8,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "members of the class of 2022, 2021, and 2020,",
+      "reactions": [],
+      "id": "L0036",
+      "seconds": 4.8
+    },
+    {
+      "kind": "line",
+      "start": 314.56,
+      "end": 316.0,
+      "tags": [],
+      "text": "proud families,",
+      "reactions": [],
+      "id": "L0037",
+      "seconds": 1.4
+    },
+    {
+      "kind": "line",
+      "start": 316.48,
+      "end": 318.24,
+      "tags": [],
+      "text": "friends, and guests.",
+      "reactions": [],
+      "id": "L0038",
+      "seconds": 1.8
+    },
+    {
+      "kind": "line",
+      "start": 318.64,
+      "end": 328.56,
+      "tags": [],
+      "text": "First of all, I must tell you I'm delighted to be here on what by Mumbai, India standards is a wonderfully cool and pleasant afternoon, you know.",
+      "reactions": [],
+      "id": "L0039",
+      "seconds": 9.9,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 328.56,
+      "end": 330.28,
+      "text": "[pause 1.7s]",
+      "id": "L0040"
+    },
+    {
+      "kind": "line",
+      "start": 330.28,
+      "end": 337.2,
+      "tags": [],
+      "text": "And I want to thank you, Rachel, for that glowing introduction. I have to admit, whenever I receive",
+      "reactions": [],
+      "id": "L0041",
+      "seconds": 6.9,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 337.64,
+      "end": 345.16,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "such a glowing introduction, I'm always reminded of a not so memorable introduction",
+      "reactions": [],
+      "id": "L0042",
+      "seconds": 7.5
+    },
+    {
+      "kind": "line",
+      "start": 345.48,
+      "end": 348.8,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "when many years ago somebody",
+      "reactions": [],
+      "id": "L0043",
+      "seconds": 3.3
+    },
+    {
+      "kind": "line",
+      "start": 349.0,
+      "end": 354.28,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "obviously wanted to say Mr. Mahendra needs no introduction.",
+      "reactions": [],
+      "id": "L0044",
+      "seconds": 5.3,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 354.64,
+      "end": 358.92,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "What he did end up saying was the less said the better what Mr. Mahendra.",
+      "reactions": [],
+      "id": "L0045",
+      "seconds": 4.3
+    },
+    {
+      "kind": "event",
+      "start": 358.92,
+      "end": 363.64,
+      "text": "[long gap 4.7s]",
+      "id": "L0046"
+    },
+    {
+      "kind": "line",
+      "start": 363.64,
+      "end": 369.24,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "But I come to Fletcher primarily as a pilgrim.",
+      "reactions": [],
+      "id": "L0047",
+      "seconds": 5.6,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 369.88,
+      "end": 374.04,
+      "tags": [],
+      "text": "I come to retrace the steps of my father",
+      "reactions": [],
+      "id": "L0048",
+      "seconds": 4.2
+    },
+    {
+      "kind": "line",
+      "start": 374.52,
+      "end": 382.2,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "who as Rachel mentioned 76 years ago passed through the portals of this great institution.",
+      "reactions": [],
+      "id": "L0049",
+      "seconds": 7.7
+    },
+    {
+      "kind": "event",
+      "start": 382.2,
+      "end": 383.56,
+      "text": "[pause 1.4s]",
+      "id": "L0050"
+    },
+    {
+      "kind": "line",
+      "start": 383.56,
+      "end": 392.84,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "He was a member of the class of '46 and as she said the first Indian student to attend the Fletcher School. So you can imagine the pride I feel",
+      "reactions": [],
+      "id": "L0051",
+      "seconds": 9.3
+    },
+    {
+      "kind": "line",
+      "start": 393.12,
+      "end": 399.48,
+      "tags": [],
+      "text": "to be treading the grounds where he once walked. To be part of the graduation exercises",
+      "reactions": [],
+      "id": "L0052",
+      "seconds": 6.4
+    },
+    {
+      "kind": "line",
+      "start": 399.72,
+      "end": 406.64,
+      "tags": [],
+      "text": "that for him in his time embodied all his hopes and dreams for the future.",
+      "reactions": [],
+      "id": "L0053",
+      "seconds": 6.9
+    },
+    {
+      "kind": "line",
+      "start": 406.88,
+      "end": 411.36,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "And I'm terribly embarrassed to say this is the first time I'm in Fletcher.",
+      "reactions": [],
+      "id": "L0054",
+      "seconds": 4.5
+    },
+    {
+      "kind": "line",
+      "start": 411.52,
+      "end": 426.2,
+      "tags": [],
+      "text": "Indeed in Medford the closest I ever got to Fletcher or Tufts was when as an impoverished scholarship student at Harvard I would go to Chinatown to get the finest and cheapest dental service by the Tufts University Dental School.",
+      "reactions": [],
+      "id": "L0055",
+      "seconds": 14.7
+    },
+    {
+      "kind": "event",
+      "start": 426.2,
+      "end": 429.08,
+      "text": "[pause 2.9s]",
+      "id": "L0056"
+    },
+    {
+      "kind": "line",
+      "start": 429.08,
+      "end": 432.32,
+      "tags": [],
+      "text": "There's another member of the class of '46",
+      "reactions": [],
+      "id": "L0057",
+      "seconds": 3.2
+    },
+    {
+      "kind": "line",
+      "start": 432.72,
+      "end": 441.88,
+      "tags": [],
+      "text": "who would have been equally pleased at seeing me on this campus. And that's the late Frederick Irving, my father's best friend at Fletcher.",
+      "reactions": [],
+      "id": "L0058",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 442.12,
+      "end": 448.64,
+      "tags": [],
+      "text": "Uncle Fred as we referred to him enjoyed a distinguished career as the United States Ambassador",
+      "reactions": [],
+      "id": "L0059",
+      "seconds": 6.5
+    },
+    {
+      "kind": "line",
+      "start": 448.8,
+      "end": 456.6,
+      "tags": [],
+      "text": "to Iceland and to Jamaica. And to the end of his days my father used to keep a framed photograph by his bedside which",
+      "reactions": [],
+      "id": "L0060",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 456.6,
+      "end": 465.76,
+      "tags": [],
+      "text": "was a picture taken at Uncle Fred's wedding. And in the photograph standing next to Uncle Fred as his best man is my father.",
+      "reactions": [],
+      "id": "L0061",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 466.04,
+      "end": 473.88,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "Their friendship lasted their entire lives. And it's been bequeathed to two subsequent generations.",
+      "reactions": [],
+      "id": "L0062",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 474.0,
+      "end": 480.36,
+      "tags": [],
+      "text": "In fact, Uncle Fred's grandson on his farm in Massachusetts drives a Mahindra tractor.",
+      "reactions": [],
+      "id": "L0063",
+      "seconds": 6.4,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 481.52,
+      "end": 492.16,
+      "tags": [],
+      "text": "I'm particularly delighted that some of Uncle Fred's family members, his son Rick and his daughter-in-law Gita, are here with us today in honor of our shared memories. Thank you.",
+      "reactions": [],
+      "id": "L0064",
+      "seconds": 10.6
+    },
+    {
+      "kind": "event",
+      "start": 492.16,
+      "end": 498.4,
+      "text": "[long gap 6.2s]",
+      "id": "L0065"
+    },
+    {
+      "kind": "line",
+      "start": 498.4,
+      "end": 509.92,
+      "tags": [],
+      "text": "I I hope all of you graduating today would also have formed such friendships during your time here. Friendships forged at the Greenhouse, perhaps.",
+      "reactions": [],
+      "id": "L0066",
+      "seconds": 11.5
+    },
+    {
+      "kind": "line",
+      "start": 510.68,
+      "end": 517.28,
+      "tags": [],
+      "text": "Or at the Mugar Cafe. Or through a common affection for the Flotcheros, maybe.",
+      "reactions": [],
+      "id": "L0067",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 517.76,
+      "end": 524.32,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "I hope those friendships in some small way will help to unite the world, just as my father and Uncle Fred did.",
+      "reactions": [],
+      "id": "L0068",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 524.88,
+      "end": 535.04,
+      "tags": [],
+      "text": "On a light-hearted note, I must share that um I'm part of the undergraduate class of '77 at at Harvard, and many years ago, my daughters",
+      "reactions": [],
+      "id": "L0069",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 535.04,
+      "end": 545.28,
+      "tags": [],
+      "text": "asked me whether there was anyone in my class who was really now famous. And very excitedly, I said, \"Yes, Bill Gates was in my year.\"",
+      "reactions": [],
+      "id": "L0070",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 545.4,
+      "end": 551.32,
+      "tags": [],
+      "text": "At which they quickly pointed out in their typically teasing manner, and said, \"Dad,",
+      "reactions": [],
+      "id": "L0071",
+      "seconds": 5.9
+    },
+    {
+      "kind": "line",
+      "start": 551.6,
+      "end": 555.36,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "in that case, you might as well just give up and retire now.\"",
+      "reactions": [],
+      "id": "L0072",
+      "seconds": 3.8
+    },
+    {
+      "kind": "line",
+      "start": 555.839,
+      "end": 570.48,
+      "tags": [],
+      "text": "So, today is a moment of redemption for me, frankly. Because I know that my father would have believed that despite whatever else I may have achieved, being invited to speak at Fletcher's Class Day is my finest hour.",
+      "reactions": [],
+      "id": "L0073",
+      "seconds": 14.6
+    },
+    {
+      "kind": "event",
+      "start": 570.48,
+      "end": 580.8,
+      "text": "[long gap 10.3s]",
+      "id": "L0074"
+    },
+    {
+      "kind": "line",
+      "start": 580.8,
+      "end": 593.6,
+      "tags": [],
+      "text": "Now, now I'm I'm not the usual suspect class day speaker for sure. I come from another profession, the often undiplomatic world of commerce. I come from halfway around the world. I'm not an alumnus.",
+      "reactions": [],
+      "id": "L0075",
+      "seconds": 12.8
+    },
+    {
+      "kind": "line",
+      "start": 594.0,
+      "end": 600.96,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "But when I asked Dean Kite, she said the reasons for which they invited me were in fact all of the above.",
+      "reactions": [],
+      "id": "L0076",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 601.44,
+      "end": 606.2,
+      "tags": [],
+      "text": "But I'm not here to try and dispense any unique wisdom.",
+      "reactions": [],
+      "id": "L0077",
+      "seconds": 4.8
+    },
+    {
+      "kind": "line",
+      "start": 606.36,
+      "end": 609.76,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "As the proverbial schoolgirl wrote,",
+      "reactions": [],
+      "id": "L0078",
+      "seconds": 3.4
+    },
+    {
+      "kind": "line",
+      "start": 609.88,
+      "end": 616.72,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "Socrates was a wise Greek philosopher and he went around dispensing gratuitous advice.",
+      "reactions": [],
+      "id": "L0079",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 617.24,
+      "end": 619.08,
+      "tags": [],
+      "text": "And they poisoned him.",
+      "reactions": [],
+      "id": "L0080",
+      "seconds": 1.8
+    },
+    {
+      "kind": "line",
+      "start": 620.2,
+      "end": 626.6,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "So I deeply fear that fate. So what I will do is to just throw some ideas at you based on",
+      "reactions": [],
+      "id": "L0081",
+      "seconds": 6.4
+    },
+    {
+      "kind": "line",
+      "start": 626.6,
+      "end": 632.52,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "my own life experience and my own word that I hope will be relevant to any profession and to every life.",
+      "reactions": [],
+      "id": "L0082",
+      "seconds": 5.9
+    },
+    {
+      "kind": "line",
+      "start": 633.08,
+      "end": 639.6,
+      "tags": [],
+      "text": "Now picture if you will the world in 1946 when my father stood here.",
+      "reactions": [],
+      "id": "L0083",
+      "seconds": 6.5
+    },
+    {
+      "kind": "line",
+      "start": 639.8,
+      "end": 649.48,
+      "tags": [],
+      "text": "The Second World War had just ended. Independence for India was just around the corner as Rachel mentioned. The beginning of the end of colonialism was in sight.",
+      "reactions": [],
+      "id": "L0084",
+      "seconds": 9.7
+    },
+    {
+      "kind": "line",
+      "start": 649.48,
+      "end": 659.84,
+      "tags": [],
+      "text": "And details of the full extent of the deaths and the destruction and the horrors of the Holocaust of Hiroshima and Nagasaki they they Nagasaki they were just emerging.",
+      "reactions": [],
+      "id": "L0085",
+      "seconds": 10.4
+    },
+    {
+      "kind": "line",
+      "start": 660.32,
+      "end": 664.76,
+      "tags": [],
+      "text": "The problems of peace were every bit as convoluted",
+      "reactions": [],
+      "id": "L0086",
+      "seconds": 4.4
+    },
+    {
+      "kind": "line",
+      "start": 664.96,
+      "end": 669.68,
+      "tags": [],
+      "text": "as the problems of war. And to my father in 1946,",
+      "reactions": [],
+      "id": "L0087",
+      "seconds": 4.7
+    },
+    {
+      "kind": "line",
+      "start": 670.64,
+      "end": 675.36,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "the world must have looked hopeful but immensely complicated.",
+      "reactions": [],
+      "id": "L0088",
+      "seconds": 4.7
+    },
+    {
+      "kind": "line",
+      "start": 676.04,
+      "end": 680.48,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "And yet I wonder what my father would say about the world as we see it today.",
+      "reactions": [],
+      "id": "L0089",
+      "seconds": 4.4
+    },
+    {
+      "kind": "line",
+      "start": 680.72,
+      "end": 688.32,
+      "tags": [],
+      "text": "We are wrestling with climate change, pandemics, terrorism, energy crisis, social inequities to name just a few. And because",
+      "reactions": [],
+      "id": "L0090",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 688.32,
+      "end": 697.84,
+      "tags": [],
+      "text": "of their transborder impact, these issues too now fall within the ambit of diplomacy of international affairs of international law.",
+      "reactions": [],
+      "id": "L0091",
+      "seconds": 9.5
+    },
+    {
+      "kind": "line",
+      "start": 698.48,
+      "end": 703.44,
+      "tags": [],
+      "text": "And what would my father have made of the impact of technology?",
+      "reactions": [],
+      "id": "L0092",
+      "seconds": 5.0
+    },
+    {
+      "kind": "event",
+      "start": 703.44,
+      "end": 704.84,
+      "text": "[pause 1.4s]",
+      "id": "L0093"
+    },
+    {
+      "kind": "line",
+      "start": 704.84,
+      "end": 712.8,
+      "tags": [],
+      "text": "In many cowboy movies the appearance of the hero or villain is often preceded by his shadow.",
+      "reactions": [],
+      "id": "L0094",
+      "seconds": 8.0
+    },
+    {
+      "kind": "line",
+      "start": 713.52,
+      "end": 720.84,
+      "tags": [],
+      "text": "We now have a new cowboy in town. Heralded by a lengthening shadow. The shadow of the metaverse.",
+      "reactions": [],
+      "id": "L0095",
+      "seconds": 7.3
+    },
+    {
+      "kind": "line",
+      "start": 721.64,
+      "end": 729.2,
+      "tags": [],
+      "text": "Entrepreneurs are buying up real estate on it. Countries are opening up virtual embassies in it.",
+      "reactions": [],
+      "id": "L0096",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 729.48,
+      "end": 736.16,
+      "tags": [],
+      "text": "And through the metaverse we can live not just a virtual second life but also a parallel life",
+      "reactions": [],
+      "id": "L0097",
+      "seconds": 6.7
+    },
+    {
+      "kind": "line",
+      "start": 736.36,
+      "end": 738.56,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "where the virtual intersects",
+      "reactions": [],
+      "id": "L0098",
+      "seconds": 2.2
+    },
+    {
+      "kind": "line",
+      "start": 738.8,
+      "end": 744.16,
+      "tags": [],
+      "text": "with reality and the boundaries between the two grow more and more blurred.",
+      "reactions": [],
+      "id": "L0099",
+      "seconds": 5.4
+    },
+    {
+      "kind": "line",
+      "start": 745.24,
+      "end": 750.12,
+      "tags": [],
+      "text": "Now in many ways it may actually enhance the effectiveness of diplomacy.",
+      "reactions": [],
+      "id": "L0100",
+      "seconds": 4.9
+    },
+    {
+      "kind": "line",
+      "start": 750.68,
+      "end": 753.16,
+      "tags": [],
+      "text": "Virtual face-to-face negotiations",
+      "reactions": [],
+      "id": "L0101",
+      "seconds": 2.5
+    },
+    {
+      "kind": "line",
+      "start": 753.6,
+      "end": 769.24,
+      "tags": [],
+      "text": "may become as effective as in-person ones. Global summits and indeed side conversations where you can interact virtually where you can smell the coffee almost can lead to both quicker responses and actually make a dent in climate change.",
+      "reactions": [],
+      "id": "L0102",
+      "seconds": 15.6
+    },
+    {
+      "kind": "line",
+      "start": 770.08,
+      "end": 775.08,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "On the other hand the metaverse is likely to turn out to be the new wild west.",
+      "reactions": [],
+      "id": "L0103",
+      "seconds": 5.0
+    },
+    {
+      "kind": "line",
+      "start": 775.36,
+      "end": 785.12,
+      "tags": [],
+      "text": "What laws will govern it? Who will have jurisdiction and over what? Who will own the new forms of data that the metaverse metaverse is going to generate?",
+      "reactions": [],
+      "id": "L0104",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 785.36,
+      "end": 792.32,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "Pupil dilation, heartbeat rates, biometric data. What happens to free speech and to privacy?",
+      "reactions": [],
+      "id": "L0105",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 792.72,
+      "end": 800.6,
+      "tags": [],
+      "text": "The metaverse and indeed the technology driven world of the future is going to be like the force from Star Wars of course. But",
+      "reactions": [],
+      "id": "L0106",
+      "seconds": 7.9
+    },
+    {
+      "kind": "line",
+      "start": 800.6,
+      "end": 809.24,
+      "tags": [],
+      "text": "as all of you know by itself the force is neither good nor bad. It depends on who uses it and towards what end.",
+      "reactions": [],
+      "id": "L0107",
+      "seconds": 8.6
+    },
+    {
+      "kind": "line",
+      "start": 809.92,
+      "end": 815.28,
+      "tags": [],
+      "text": "So, these are all the portentous issues that your generation will have to grapple with.",
+      "reactions": [],
+      "id": "L0108",
+      "seconds": 5.4
+    },
+    {
+      "kind": "line",
+      "start": 815.68,
+      "end": 819.12,
+      "tags": [],
+      "text": "But, yours is not the usual graduating class.",
+      "reactions": [],
+      "id": "L0109",
+      "seconds": 3.4
+    },
+    {
+      "kind": "line",
+      "start": 819.36,
+      "end": 827.04,
+      "tags": [],
+      "text": "You have all experienced the disruption caused by COVID. You witnessed the absurdity of a brutal war taking place",
+      "reactions": [],
+      "id": "L0110",
+      "seconds": 7.7
+    },
+    {
+      "kind": "line",
+      "start": 827.04,
+      "end": 836.2,
+      "tags": [],
+      "text": "in the 21st century between affluent nations. You're seeing a world where few leaders are true or permanent role models.",
+      "reactions": [],
+      "id": "L0111",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 836.4,
+      "end": 838.16,
+      "tags": [],
+      "text": "And in such a situation,",
+      "reactions": [],
+      "id": "L0112",
+      "seconds": 1.8
+    },
+    {
+      "kind": "line",
+      "start": 838.68,
+      "end": 847.04,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "this where there seems to be no certainty, but only shades of gray, how does it make sense for me to tell you to go out into the world",
+      "reactions": [],
+      "id": "L0113",
+      "seconds": 8.4
+    },
+    {
+      "kind": "line",
+      "start": 847.36,
+      "end": 849.84,
+      "tags": [],
+      "text": "holding fast to your ideals?",
+      "reactions": [],
+      "id": "L0114",
+      "seconds": 2.5
+    },
+    {
+      "kind": "line",
+      "start": 850.12,
+      "end": 863.92,
+      "tags": [],
+      "text": "But, my answer to that would be a resounding yes. Because it may in fact be the only way to make sense of a world in which the ground under your feet feels like quicksand.",
+      "reactions": [],
+      "id": "L0115",
+      "seconds": 13.8
+    },
+    {
+      "kind": "line",
+      "start": 864.32,
+      "end": 871.24,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "And because all of you are in a unique position to apply those ideals to your work right away. Cuz you've all taken",
+      "reactions": [],
+      "id": "L0116",
+      "seconds": 6.9
+    },
+    {
+      "kind": "line",
+      "start": 871.24,
+      "end": 879.12,
+      "tags": [],
+      "text": "a decision to follow a career path that is going to have a wider impact on global issues than almost any other career.",
+      "reactions": [],
+      "id": "L0117",
+      "seconds": 7.9
+    },
+    {
+      "kind": "line",
+      "start": 880.12,
+      "end": 887.6,
+      "tags": [],
+      "text": "So, my first exhortation to you would be to embrace the ought, not the is.",
+      "reactions": [],
+      "id": "L0118",
+      "seconds": 7.5
+    },
+    {
+      "kind": "line",
+      "start": 887.96,
+      "end": 894.84,
+      "tags": [],
+      "text": "Shape the world as it ought to be, rather than accepting it as it is.",
+      "reactions": [],
+      "id": "L0119",
+      "seconds": 6.9
+    },
+    {
+      "kind": "line",
+      "start": 895.04,
+      "end": 901.56,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "And human beings have never stopped aspiring to this ideal, no matter how messy the reality may be. And that's why",
+      "reactions": [],
+      "id": "L0120",
+      "seconds": 6.5
+    },
+    {
+      "kind": "line",
+      "start": 901.56,
+      "end": 908.24,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "the whole world loves it when David beats Goliath, when the good guy wins and the bad guy gets his comeuppance.",
+      "reactions": [],
+      "id": "L0121",
+      "seconds": 6.7
+    },
+    {
+      "kind": "line",
+      "start": 908.52,
+      "end": 918.52,
+      "tags": [],
+      "text": "May not always work that way in real life, but that's how we, as human beings, want it to be. And we make heroes out of those who make that happen.",
+      "reactions": [],
+      "id": "L0122",
+      "seconds": 10.0
+    },
+    {
+      "kind": "line",
+      "start": 919.32,
+      "end": 927.32,
+      "tags": [],
+      "text": "Yet, in a jagged and a paradoxical, often brutal world, how can you hold fast to that ideal to the ought?",
+      "reactions": [],
+      "id": "L0123",
+      "seconds": 8.0
+    },
+    {
+      "kind": "line",
+      "start": 927.56,
+      "end": 931.96,
+      "tags": [],
+      "text": "And that's where I think the centrality of purpose comes in.",
+      "reactions": [],
+      "id": "L0124",
+      "seconds": 4.4
+    },
+    {
+      "kind": "line",
+      "start": 933.04,
+      "end": 940.72,
+      "tags": [],
+      "text": "Cynics scoff at phrases like the power of purpose, but I have to tell you in my experience it works.",
+      "reactions": [],
+      "id": "L0125",
+      "seconds": 7.7
+    },
+    {
+      "kind": "line",
+      "start": 941.16,
+      "end": 943.68,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "Let me share the story of my own business.",
+      "reactions": [],
+      "id": "L0126",
+      "seconds": 2.5
+    },
+    {
+      "kind": "line",
+      "start": 944.08,
+      "end": 949.84,
+      "tags": [],
+      "text": "Mahindra and Mahindra was founded by two brothers as Rachel mentioned around the time of independence.",
+      "reactions": [],
+      "id": "L0127",
+      "seconds": 5.8
+    },
+    {
+      "kind": "event",
+      "start": 949.84,
+      "end": 951.08,
+      "text": "[pause 1.2s]",
+      "id": "L0128"
+    },
+    {
+      "kind": "line",
+      "start": 951.08,
+      "end": 959.16,
+      "tags": [],
+      "text": "It was a time when Indian industry was practically non-existent and many people, most notably Winston Churchill,",
+      "reactions": [],
+      "id": "L0129",
+      "seconds": 8.1
+    },
+    {
+      "kind": "line",
+      "start": 959.28,
+      "end": 966.2,
+      "tags": [],
+      "text": "did not expect India to survive or to be able to mold itself into a viable country.",
+      "reactions": [],
+      "id": "L0130",
+      "seconds": 6.9
+    },
+    {
+      "kind": "line",
+      "start": 966.44,
+      "end": 969.52,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "And we Indians begged to disagree.",
+      "reactions": [],
+      "id": "L0131",
+      "seconds": 3.1
+    },
+    {
+      "kind": "event",
+      "start": 969.52,
+      "end": 971.72,
+      "text": "[pause 2.2s]",
+      "id": "L0132"
+    },
+    {
+      "kind": "line",
+      "start": 971.72,
+      "end": 980.0,
+      "tags": [],
+      "text": "Our founder started the company with a high sense of idealism, setting out to pre- to prove that Indians could in fact build a new",
+      "reactions": [],
+      "id": "L0133",
+      "seconds": 8.3
+    },
+    {
+      "kind": "line",
+      "start": 980.0,
+      "end": 989.52,
+      "tags": [],
+      "text": "nation. And in fact when the company commenced business, the first advertisement they came out with in 1945 had nothing to do with products or services.",
+      "reactions": [],
+      "id": "L0134",
+      "seconds": 9.5
+    },
+    {
+      "kind": "line",
+      "start": 989.76,
+      "end": 999.2,
+      "tags": [],
+      "text": "They only articulated their dreams for India, a set of principles and ideals with which they were starting business. And that was in 1945.",
+      "reactions": [],
+      "id": "L0135",
+      "seconds": 9.4
+    },
+    {
+      "kind": "line",
+      "start": 1000.04,
+      "end": 1007.84,
+      "tags": [],
+      "text": "Over the years, obviously India has confounded the naysayers and shaped itself into the world's largest democracy.",
+      "reactions": [],
+      "id": "L0136",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 1008.08,
+      "end": 1013.64,
+      "tags": [],
+      "text": "And the Mahindra Group of Companies initially flourished as well since in a bid for self-sufficiency,",
+      "reactions": [],
+      "id": "L0137",
+      "seconds": 5.6
+    },
+    {
+      "kind": "line",
+      "start": 1014.08,
+      "end": 1018.12,
+      "tags": [],
+      "text": "much of Indian industry was protected from external competition.",
+      "reactions": [],
+      "id": "L0138",
+      "seconds": 4.0
+    },
+    {
+      "kind": "line",
+      "start": 1018.64,
+      "end": 1023.92,
+      "tags": [],
+      "text": "However, in the early '90s, India and Indian industry were both in crisis.",
+      "reactions": [],
+      "id": "L0139",
+      "seconds": 5.3
+    },
+    {
+      "kind": "line",
+      "start": 1024.24,
+      "end": 1035.88,
+      "tags": [],
+      "text": "Faced with the prospect of running out of foreign exchange reserves, India took the radical step of radical of liberalizing its closed economy. And after decades of being protected,",
+      "reactions": [],
+      "id": "L0140",
+      "seconds": 11.6
+    },
+    {
+      "kind": "line",
+      "start": 1036.04,
+      "end": 1046.36,
+      "tags": [],
+      "text": "suddenly the world's most powerful companies were at our doorstep, anxious to get a temptingly large piece of the Indian pie.",
+      "reactions": [],
+      "id": "L0141",
+      "seconds": 10.3
+    },
+    {
+      "kind": "line",
+      "start": 1046.88,
+      "end": 1055.32,
+      "tags": [],
+      "text": "For old economy companies like ours, which had prospered under a protectionist regime, and had forgotten really how to compete,",
+      "reactions": [],
+      "id": "L0142",
+      "seconds": 8.4
+    },
+    {
+      "kind": "line",
+      "start": 1055.48,
+      "end": 1070.52,
+      "tags": [],
+      "text": "the opening up of the Indian economy was like the Grim Reaper knocking at the door. And seriously, there were people around, large consultancy firms, who were busy writing our epitaph. And yet, three decades later,",
+      "reactions": [],
+      "id": "L0143",
+      "seconds": 15.0
+    },
+    {
+      "kind": "line",
+      "start": 1070.96,
+      "end": 1080.8,
+      "tags": [],
+      "text": "here we are, a multi-billion dollar group, still chugging along and earning goodwill while we do so. So, how did we do it? Well, obviously, there were many ingredients.",
+      "reactions": [],
+      "id": "L0144",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 1081.0,
+      "end": 1086.56,
+      "tags": [],
+      "text": "But to my mind, the most important one was to harness the power of purpose.",
+      "reactions": [],
+      "id": "L0145",
+      "seconds": 5.6
+    },
+    {
+      "kind": "line",
+      "start": 1087.0,
+      "end": 1091.52,
+      "tags": [],
+      "text": "We found ourselves in a very strange, back to the future kind of situation,",
+      "reactions": [],
+      "id": "L0146",
+      "seconds": 4.5
+    },
+    {
+      "kind": "line",
+      "start": 1091.96,
+      "end": 1102.0,
+      "tags": [],
+      "text": "where once again, we had to prove that we as an Indian company could do it. That we could not just survive, but thrive in the changed economic landscape.",
+      "reactions": [],
+      "id": "L0147",
+      "seconds": 10.0
+    },
+    {
+      "kind": "line",
+      "start": 1102.4,
+      "end": 1114.24,
+      "tags": [],
+      "text": "And drawing upon an Indian narrative and upon our corporate history, we first elucidated a core purpose that would galvanize people to come to work in the morning and give off their best.",
+      "reactions": [],
+      "id": "L0148",
+      "seconds": 11.8
+    },
+    {
+      "kind": "line",
+      "start": 1115.04,
+      "end": 1127.76,
+      "tags": [],
+      "text": "Now, that core purpose was simply to say, \"Indians are second to none, and we will make products that will prove that to the world.\" I know that sounds terribly parochial.",
+      "reactions": [],
+      "id": "L0149",
+      "seconds": 12.7
+    },
+    {
+      "kind": "line",
+      "start": 1128.32,
+      "end": 1129.96,
+      "tags": [],
+      "text": "But please understand,",
+      "reactions": [],
+      "id": "L0150",
+      "seconds": 1.6
+    },
+    {
+      "kind": "line",
+      "start": 1130.12,
+      "end": 1138.72,
+      "tags": [],
+      "text": "at that time, it was a cry to shed the most invisible, pernicious, and lingering feelings of inferiority,",
+      "reactions": [],
+      "id": "L0151",
+      "seconds": 8.6
+    },
+    {
+      "kind": "line",
+      "start": 1139.36,
+      "end": 1144.28,
+      "tags": [],
+      "text": "and a lack of self-belief, which was the bequest of colonialism.",
+      "reactions": [],
+      "id": "L0152",
+      "seconds": 4.9
+    },
+    {
+      "kind": "line",
+      "start": 1145.36,
+      "end": 1147.16,
+      "tags": [],
+      "text": "And that really",
+      "reactions": [],
+      "id": "L0153",
+      "seconds": 1.8
+    },
+    {
+      "kind": "line",
+      "start": 1147.32,
+      "end": 1155.44,
+      "tags": [],
+      "text": "had an electrifying effect on our people. It triggered the David versus Goliath sentiment. It tapped into our collective memories of",
+      "reactions": [],
+      "id": "L0154",
+      "seconds": 8.1
+    },
+    {
+      "kind": "line",
+      "start": 1155.44,
+      "end": 1162.52,
+      "tags": [],
+      "text": "our founding days where we had succeeded against all odds because we had something to prove. And it fueled our self-belief.",
+      "reactions": [],
+      "id": "L0155",
+      "seconds": 7.1
+    },
+    {
+      "kind": "line",
+      "start": 1163.28,
+      "end": 1168.0,
+      "tags": [],
+      "text": "I know that sounds warm and fuzzy, but it contributed to concrete results.",
+      "reactions": [],
+      "id": "L0156",
+      "seconds": 4.7
+    },
+    {
+      "kind": "line",
+      "start": 1168.84,
+      "end": 1183.56,
+      "tags": [],
+      "text": "Between 2002 and 2013, our profits went up 33 times. Our stock price went up 72 times. Uh that took a lot of hard work. But that hard work came about because people were motivated by a sense of purpose.",
+      "reactions": [],
+      "id": "L0157",
+      "seconds": 14.7
+    },
+    {
+      "kind": "line",
+      "start": 1183.88,
+      "end": 1190.64,
+      "tags": [],
+      "text": "Today, our core purpose has changed. We recognize that as we became transnational,",
+      "reactions": [],
+      "id": "L0158",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 1191.08,
+      "end": 1195.24,
+      "tags": [],
+      "text": "we needed a more global and a more inclusive rallying cry.",
+      "reactions": [],
+      "id": "L0159",
+      "seconds": 4.2
+    },
+    {
+      "kind": "line",
+      "start": 1195.84,
+      "end": 1208.28,
+      "tags": [],
+      "text": "Now, our purpose our core purpose is almost as compact. It is to drive positive change in the lives of our communities to enable them to rise.",
+      "reactions": [],
+      "id": "L0160",
+      "seconds": 12.4
+    },
+    {
+      "kind": "line",
+      "start": 1208.48,
+      "end": 1213.28,
+      "tags": [],
+      "text": "And we often encapsulate that in just the one single word, rise.",
+      "reactions": [],
+      "id": "L0161",
+      "seconds": 4.8
+    },
+    {
+      "kind": "line",
+      "start": 1213.76,
+      "end": 1220.4,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "Now, how that credo precisely evolved is a longer story, but let me tell you that if you ask any one of our 250,000",
+      "reactions": [],
+      "id": "L0162",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 1220.64,
+      "end": 1234.8,
+      "tags": [],
+      "text": "strong global family what it is that differentiates our company, what it is that gets them to come into work every day, they will say it's our purpose. There's extraordinary alignment around that credo.",
+      "reactions": [],
+      "id": "L0163",
+      "seconds": 14.2
+    },
+    {
+      "kind": "line",
+      "start": 1235.88,
+      "end": 1240.76,
+      "tags": [],
+      "text": "And I want to underscore the fact that we adapted our purpose to new realities.",
+      "reactions": [],
+      "id": "L0164",
+      "seconds": 4.9
+    },
+    {
+      "kind": "line",
+      "start": 1241.08,
+      "end": 1253.6,
+      "tags": [],
+      "text": "I believe it's important to accept that purpose can evolve and it can transform. Because many of the problems of the world that I alluded to earlier simply arose out of rigid and immutable mindsets.",
+      "reactions": [],
+      "id": "L0165",
+      "seconds": 12.5
+    },
+    {
+      "kind": "line",
+      "start": 1254.64,
+      "end": 1263.48,
+      "tags": [],
+      "text": "Now, I'm a hard-headed businessman, not an armchair philosopher, but personal experience has taught me never to underestimate the power of",
+      "reactions": [],
+      "id": "L0166",
+      "seconds": 8.8
+    },
+    {
+      "kind": "line",
+      "start": 1263.48,
+      "end": 1273.6,
+      "tags": [],
+      "text": "purpose in business or in life. And there's no shortage of role models. But I'm not talking about larger-than-life clichéd icons.",
+      "reactions": [],
+      "id": "L0167",
+      "seconds": 10.1
+    },
+    {
+      "kind": "line",
+      "start": 1273.92,
+      "end": 1285.4,
+      "tags": [],
+      "text": "And even before you set out to change the world, which Fletcher no doubt has prepared you to do, I urge you all to take small steps to change the world around you.",
+      "reactions": [],
+      "id": "L0168",
+      "seconds": 11.5
+    },
+    {
+      "kind": "line",
+      "start": 1285.64,
+      "end": 1291.08,
+      "tags": [],
+      "text": "Perhaps your purpose, like Mahendra's, will also evolve over the course of your life.",
+      "reactions": [],
+      "id": "L0169",
+      "seconds": 5.4
+    },
+    {
+      "kind": "line",
+      "start": 1291.32,
+      "end": 1300.4,
+      "tags": [],
+      "text": "But one of the privileges of attending an institution like this is the opportunity to step outside the familiarity of your lived experiences,",
+      "reactions": [],
+      "id": "L0170",
+      "seconds": 9.1
+    },
+    {
+      "kind": "line",
+      "start": 1300.64,
+      "end": 1311.32,
+      "tags": [],
+      "text": "make sense of the bigger picture and of the space that you occupy within it. I myself am inspired almost every single day by people who possess this understanding, who are committed",
+      "reactions": [],
+      "id": "L0171",
+      "seconds": 10.7
+    },
+    {
+      "kind": "line",
+      "start": 1311.32,
+      "end": 1322.84,
+      "tags": [],
+      "text": "every day to living with empathy, and possibly without ever knowing how impactful they have been. So, let me share with you one more personal story. Decades ago, we were in a taxi",
+      "reactions": [],
+      "id": "L0172",
+      "seconds": 11.5
+    },
+    {
+      "kind": "line",
+      "start": 1323.64,
+      "end": 1330.8,
+      "tags": [],
+      "text": "rushing to get my then 1-year-old daughter to surgery for a hand injury that she had suffered. And my wife and I",
+      "reactions": [],
+      "id": "L0173",
+      "seconds": 7.2
+    },
+    {
+      "kind": "line",
+      "start": 1330.8,
+      "end": 1342.0,
+      "tags": [],
+      "text": "were beside ourselves with anxiety. My daughter was throwing a tantrum, and the taxi driver clearly picked up on our anxious, intense state.",
+      "reactions": [],
+      "id": "L0174",
+      "seconds": 11.2,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1342.76,
+      "end": 1350.12,
+      "tags": [],
+      "text": "\"May I share an old saying with you?\" he quietly asked us. And he said, \"If everyone's problems",
+      "reactions": [],
+      "id": "L0175",
+      "seconds": 7.4
+    },
+    {
+      "kind": "line",
+      "start": 1350.52,
+      "end": 1352.16,
+      "tags": [],
+      "text": "were like laundry",
+      "reactions": [],
+      "id": "L0176",
+      "seconds": 1.6,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1352.44,
+      "end": 1356.24,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "hanging out to dry in an open field, and you had the opportunity",
+      "reactions": [],
+      "id": "L0177",
+      "seconds": 3.8
+    },
+    {
+      "kind": "line",
+      "start": 1356.44,
+      "end": 1360.2,
+      "tags": [],
+      "text": "to go out into that field and exchange your laundry,",
+      "reactions": [],
+      "id": "L0178",
+      "seconds": 3.8
+    },
+    {
+      "kind": "line",
+      "start": 1360.36,
+      "end": 1366.88,
+      "tags": [],
+      "text": "your problems in other words, with anyone else's, you would still choose your own problems.\"",
+      "reactions": [],
+      "id": "L0179",
+      "seconds": 6.5,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1367.52,
+      "end": 1372.84,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "And he paused, and he just said quietly, \"Don't worry, I'll get you there safe and sound and in time.\"",
+      "reactions": [],
+      "id": "L0180",
+      "seconds": 5.3
+    },
+    {
+      "kind": "line",
+      "start": 1373.48,
+      "end": 1377.72,
+      "tags": [],
+      "text": "And at that moment, it was precisely the perspective that I needed.",
+      "reactions": [],
+      "id": "L0181",
+      "seconds": 4.2
+    },
+    {
+      "kind": "line",
+      "start": 1377.96,
+      "end": 1382.4,
+      "tags": [],
+      "text": "The surgery was a success, and to this day, I look gratefully",
+      "reactions": [],
+      "id": "L0182",
+      "seconds": 4.4,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1382.8,
+      "end": 1394.48,
+      "tags": [],
+      "text": "to that cab driver's wise act of comfort. A man who has no idea that he provided me with a view and a resilience that has helped me throughout my career",
+      "reactions": [],
+      "id": "L0183",
+      "seconds": 11.7
+    },
+    {
+      "kind": "line",
+      "start": 1394.68,
+      "end": 1398.24,
+      "tags": [],
+      "text": "to deal with the roller coaster ride of business fortunes.",
+      "reactions": [],
+      "id": "L0184",
+      "seconds": 3.6,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1398.48,
+      "end": 1405.28,
+      "tags": [],
+      "text": "You will similarly have no difficulty in finding such inspirational people. You may look around this room",
+      "reactions": [],
+      "id": "L0185",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 1405.6,
+      "end": 1412.84,
+      "tags": [],
+      "text": "and recognize a fellow student who stayed up with you all night to support you when life seemed overwhelming.",
+      "reactions": [],
+      "id": "L0186",
+      "seconds": 7.2
+    },
+    {
+      "kind": "line",
+      "start": 1413.28,
+      "end": 1420.16,
+      "tags": [],
+      "text": "A professor who postponed an exam when COVID anxiety was at its peak. Parents",
+      "reactions": [],
+      "id": "L0187",
+      "seconds": 6.9
+    },
+    {
+      "kind": "line",
+      "start": 1420.36,
+      "end": 1428.4,
+      "tags": [],
+      "text": "who have worked tirelessly and sacrificed much to enable you to celebrate today. These are people who commit themselves to",
+      "reactions": [],
+      "id": "L0188",
+      "seconds": 8.0
+    },
+    {
+      "kind": "line",
+      "start": 1428.4,
+      "end": 1438.64,
+      "tags": [],
+      "text": "helping others rise in small but meaningful ways every single day. People who have come to understand the significance of empathy.",
+      "reactions": [],
+      "id": "L0189",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 1438.92,
+      "end": 1452.2,
+      "tags": [],
+      "text": "They find ways to shape their world into what it ought to be. And I ask you, why can't the next individual who brings the is closer to the ought be you?",
+      "reactions": [],
+      "id": "L0190",
+      "seconds": 13.3
+    },
+    {
+      "kind": "line",
+      "start": 1452.36,
+      "end": 1455.08,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "So, in closing, let me come back to my father.",
+      "reactions": [],
+      "id": "L0191",
+      "seconds": 2.7
+    },
+    {
+      "kind": "line",
+      "start": 1455.6,
+      "end": 1459.96,
+      "tags": [],
+      "text": "And I've often asked myself, why did he come to Fletcher?",
+      "reactions": [],
+      "id": "L0192",
+      "seconds": 4.4
+    },
+    {
+      "kind": "line",
+      "start": 1460.48,
+      "end": 1473.08,
+      "tags": [],
+      "text": "He had already been with been away from his family and home for 4 years as an undergraduate at Harvard. Why didn't he simply choose to go home after such a long absence?",
+      "reactions": [],
+      "id": "L0193",
+      "seconds": 12.6
+    },
+    {
+      "kind": "line",
+      "start": 1473.92,
+      "end": 1481.48,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "And if I were to guess what went through his mind, I would say he stayed on because he saw a new world in the making.",
+      "reactions": [],
+      "id": "L0194",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 1482.08,
+      "end": 1487.48,
+      "tags": [],
+      "text": "He wanted to understand that world, and he wanted to be part of the solution.",
+      "reactions": [],
+      "id": "L0195",
+      "seconds": 5.4
+    },
+    {
+      "kind": "line",
+      "start": 1488.12,
+      "end": 1492.6,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "He came as the original pilgrim seeking answers.",
+      "reactions": [],
+      "id": "L0196",
+      "seconds": 4.5
+    },
+    {
+      "kind": "line",
+      "start": 1493.36,
+      "end": 1500.0,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "In a way, so are you all. pilgrims in search of answers.",
+      "reactions": [],
+      "id": "L0197",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 1500.8,
+      "end": 1504.2,
+      "tags": [],
+      "text": "All pilgrims in search of a better world.",
+      "reactions": [],
+      "id": "L0198",
+      "seconds": 3.4
+    },
+    {
+      "kind": "line",
+      "start": 1504.68,
+      "end": 1511.2,
+      "tags": [],
+      "text": "I once read the perfect definition of a pilgrim, which says that a pilgrim is a wanderer",
+      "reactions": [],
+      "id": "L0199",
+      "seconds": 6.5
+    },
+    {
+      "kind": "line",
+      "start": 1511.56,
+      "end": 1513.04,
+      "tags": [],
+      "text": "with a purpose.",
+      "reactions": [],
+      "id": "L0200",
+      "seconds": 1.5
+    },
+    {
+      "kind": "line",
+      "start": 1513.48,
+      "end": 1519.44,
+      "tags": [],
+      "text": "And I think that pretty much sums up your present and your future.",
+      "reactions": [],
+      "id": "L0201",
+      "seconds": 6.0
+    },
+    {
+      "kind": "line",
+      "start": 1520.08,
+      "end": 1521.88,
+      "tags": [],
+      "text": "You are all pilgrims",
+      "reactions": [],
+      "id": "L0202",
+      "seconds": 1.8
+    },
+    {
+      "kind": "line",
+      "start": 1522.24,
+      "end": 1528.24,
+      "tags": [],
+      "text": "who in the course of your careers will wander through an uncharted world.",
+      "reactions": [],
+      "id": "L0203",
+      "seconds": 6.0,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1528.8,
+      "end": 1532.84,
+      "tags": [],
+      "text": "May you wander through it with purpose. Thank you and congratulations.",
+      "reactions": [],
+      "id": "L0204",
+      "seconds": 4.0,
+      "marks": [
+        "replayed"
+      ]
+    }
+  ]
+}

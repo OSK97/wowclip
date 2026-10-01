@@ -1,0 +1,13 @@
+{
+  "model": "z-ai/glm-5.3-flash",
+  "effort": "medium",
+  "provider": {
+    "sort": "throughput",
+    "allow_fallbacks": true,
+    "require_parameters": true
+  },
+  "system_chars": 26371,
+  "task_chars": 5391,
+  "payload_chars": 119145,
+  "started_utc": "2026-09-30T17:30:52Z"
+}

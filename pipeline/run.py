@@ -132,18 +132,23 @@ def main() -> int:
     no_captions = False
     lane_start = time.time()
 
+    def timed_call(fn, *call_args):
+        begun = time.monotonic()
+        return fn(*call_args), time.monotonic() - begun
+
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:
         future_fetch = pool.submit(
+            timed_call,
             ytdlp_fetch.fetch,
             video_id,
             args.audio_lang or "",
             True,  # always prefer speech recognition over uploaded captions
         )
-        future_comments = pool.submit(comments_mod.fetch, video_id)
+        future_comments = pool.submit(timed_call, comments_mod.fetch, video_id)
 
         # -- lane A: subtitles + heatmap (required) --
         try:
-            fetched = future_fetch.result()
+            fetched, fetch_duration = future_fetch.result()
             kind_label = (
                 "speech recognition"
                 if fetched["kind"] == "auto"
@@ -163,6 +168,7 @@ def main() -> int:
                     "automatic_tracks": fetched["automatic_track_count"],
                     "manual_tracks": fetched["manual_track_count"],
                 },
+                duration_seconds=fetch_duration,
             )
             events.note(fetched["selection_note"])
             if fetched["kind"] == "manual":
@@ -186,7 +192,7 @@ def main() -> int:
 
         # -- lane B: comments (optional) --
         try:
-            comments_data = future_comments.result()
+            comments_data, comments_duration = future_comments.result()
             costs["youtube_api_units"] += comments_data["quota_units"]
             if comments_data.get("disabled"):
                 events.step_skip(
@@ -216,6 +222,7 @@ def main() -> int:
                         "with_timestamp": comments_data["with_timestamp"],
                         "cap": MAX_COMMENTS_FOR_LLM,
                     },
+                    duration_seconds=comments_duration,
                 )
         except Exception as exc:  # noqa: BLE001
             events.step_fail("comments", "Fetching comments", str(exc))

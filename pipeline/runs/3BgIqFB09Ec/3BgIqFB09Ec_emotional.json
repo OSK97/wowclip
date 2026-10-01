@@ -1,0 +1,386 @@
+{
+  "category": "emotional",
+  "clips": [
+    {
+      "category": "emotional",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "Roles reverse: पहले आप बेटे हो, फिर आप बाप बनते हो",
+      "why": "He names the hole plainly — 'from the age of three I lived with my mom, I would see my father only once in a year, the male presence in my life was much less than what is normal' — and then lands the reframe that only a parent can deliver: now that he has children he can see how even a couple of days away affects his own son, and he understands his father for the first time. 'Roles reverse, first you are a son and then you are a father... life is completing a cycle.' A viewer with an absent or half-present parent feels seen, and a viewer who is now the parent feels the forgiveness arrive. A viewer comment on this exact line says 'part of my life hits my heart' — the behaviour we are predicting, already performed.",
+      "category_hint": "parents / generational",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0313"
+      ],
+      "start_line": "L0308",
+      "end_line": "L0313",
+      "start_words": "दैट हैव डीप शेप्ड हु आई एम यस आई डिड कम फ्रॉम अ होम",
+      "end_words": "हैपेंस इट्स लाइक लाइफ इज कंपलीटिंग अ साइकल",
+      "start_s": 2416.88,
+      "end_s": 2477.4,
+      "duration_s": 60.52,
+      "source_start_s": 2416.88,
+      "source_end_s": 2477.4,
+      "one_liner": false,
+      "text": "दैट हैव डीप शेप्ड हु आई एम यस आई डिड कम फ्रॉम अ होम वे माय पेरेंट्स र नॉट टुगेदर फ्रॉम द एज ऑफ थ्री आई लिव अ लॉट विथ माय मॉम आई वुड सी माय फादर ओनली वंस इन द ईयर अ सो द मेल प्रेजेंस इन माय लाइफ वाज लेस मच मच मच लेस देन व्ट इज नॉर्मल नाउ बिकॉज आई हैव चिल्ड्रन एंड आई कैन सी व्हेन आई एम नॉट देयर और इवन फॉर अ कपल ऑफ डेज हाउ दैट अफेक्ट्स माय सन एंड माय डॉटर इट वेरी क्लीयरली गिव्स मी पर्सपेक्टिव टू कंपेयर टू मे बी हाउ आई माइट हैव फेल्ट एज अ चाइल्ड अ सो दोस दोज थिंग्स बिकम अपेरेंट बिकॉज ट्स द ब्यूटी ऑफ लाइफ राइट लाइक रोल्स रिवर्स फर्स्ट यू आर अ सन एंड देन यूर अ फादर यू नो फ ूर अ अ डॉटर एंड देन यू आर अ मदर यू नो सो दैट दैट रोल रिवर्सल विल हैपन एंड व्हेन दैट रोल रिवर्सल हैपेंस इट्स लाइक लाइफ इज कंपलीटिंग अ साइकल सो यू हैव टू डायमेंशन और टू साइड्स टू कंपेयर हम यू नो एंड अ लॉट ऑफ टाइम्स इट ब्रिंग्स अबाउट बोथ टाइप्स ऑफ फीलिंग्लेस",
+      "flags": [],
+      "id": "emo1"
+    },
+    {
+      "category": "emotional",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "प्यार में अपनी डिग्निटी टूट जाती है — और पता भी नहीं चलता",
+      "why": "The most precise thing said about heartbreak in the whole episode: 'you love someone so much that when they reject you, you chase them to the degree where your own dignity breaks — you sacrifice it and you don't even realise you've lost your self-respect, and the realisation comes years later, yaar, what was I doing.' Then the landing line 'the most interesting thing about love is that you can lose your own self-respect in it.' It names something an enormous number of people did and only understood late; the delayed realisation is the ache. Replay data peaks right on the landing line.",
+      "category_hint": "heartbreak",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0703",
+        "comment on L0694",
+        "comment on L0699"
+      ],
+      "start_line": "L0698",
+      "end_line": "L0703",
+      "start_words": "ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में",
+      "end_words": "यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव",
+      "start_s": 5634.2,
+      "end_s": 5673.0,
+      "duration_s": 38.8,
+      "source_start_s": 5634.2,
+      "source_end_s": 5673.0,
+      "one_liner": false,
+      "text": "ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो कि आप जब वह आपको रिजेक्ट कर देते हैं तो आप उनके पीछे भागते हो टू अ डिग्री जहां आपकी अपनी डिग्निटी टूट जाती है आप अपनी डिग्निटी सैक्रिफाइस कर देते हो और आपको रिलाइज भी नहीं होता कि अब नाउ यू हैव लॉस्ट योर सेल्फ रिस्पेक्ट इन द प्रोसेस यू नो और वो रिलाइजेशन बड़े साल बाद होता है कि यार मैं क्या कर रहा था क्या कर रहा था यार मतलब आई वुड टेल माय बेस्ट फ्रेंड कि ब्रो जस्ट होल्ड ऑन टू योर डिग्निटी ऐसे मत कर यू नो तो वो आई थिंक सबसे इंटरेस्टिंग चीज है ना प्यार के बारे में कि यू कैन लूज",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "emo2"
+    },
+    {
+      "category": "emotional",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "नाना जी की घड़ी और स्कूल छोड़ने वाला हाथ",
+      "why": "A story carried entirely by physical detail: the grandfather's watch with a cracked glass that he wore every day, the big Ashok Kumar glasses, the very loving eyes — and the fact that he held his hand and walked him to school every single day through rain and through his own illness. 'I don't remember a single day he missed. That became my standard as a parent. That became my definition.' One quiet detail does the whole thing; the viewer immediately thinks of the person who did this for them, or whether anyone did.",
+      "category_hint": "tenderness / grandparents",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0349",
+      "end_line": "L0361",
+      "start_words": "फॉर मी यू नो सो ही इज माय स्ट्रांगेस्ट मेमोरी",
+      "end_words": "बिकम माय डेफिनेशन सो यू हैव टू टेक द डेफिनेशन",
+      "start_s": 2720.44,
+      "end_s": 2817.2,
+      "duration_s": 96.76,
+      "source_start_s": 2720.44,
+      "source_end_s": 2817.2,
+      "one_liner": false,
+      "text": "फॉर मी यू नो सो ही इज माय स्ट्रांगेस्ट मेमोरी एज अ चाइल्ड इज विथ माय मैटरनल ग्रैंडफादर माय नाना जी मुझे कोई कोई अच्छी मेमोरी बताओ जोट इंपैक्टेड ना यह समझाना बड़ा मुश्किल है उनकी एक ट्वीट की गोल्फर हैट थी वो मेरे लिए बहुत बड़ी मेमरी है उनकी एक घड़ी थी जिसमें क्रैक था और वह घड़ी पहनते थे रोज वही वाली और उसका ग्लास क्रैक हो गया था वो मेरे लिए बहुत बड़ी विजुअल मेमोरी है उनके बड़े-बड़े चश्मे ब्लैक वाले यू नो किशोर कुमार टाइप किशोर कुमार नहीं अशोक कुमार सर वैसे पहनते थे उस टाइप के बड़े चश्मे ही हैड वेरी काइंड वेरी लविंग आईज एंड ही वास अ वेरी ब्यूटीफुल राइटर तो उनकी जबान बहुत बहुत बहुत बहुत अच्छी थी और व बहुत एजुकेटेड और बहुत इवॉल्वड थे बहुत फिलोसॉफिकल थे एक्सट्रीमली वेल रेड तो जब भी मैं स्कूल जाता था मुझे याद है जब तक मैं बम्बे शिफ्ट नहीं हुआ मैं आई थिंक आई वाज ऑलमोस्ट 11 न आ 10 एंड हाफ और 11 मुझे आज तक याद नहीं कि बारिश हो रही होगी कि उनकी तबीयत खराब होगी कि मैं अकेला स्कूल चल के गया इट वा 10 मिनट्स वाकिंग डिस्टेंस ही वुड होल्ड माय हैंड एंड ड्रॉप मी टू स्कूल एवरी डे आई डोंट रिमेंबर अ सिंगल डे ही हैज मिस्ड वा सो फॉर मी दैट इज माय स्टैंडर्ड एज अ पेरेंट च आईल नेवर मीट यू नो बट दैट फॉर मी डिफाइन माय स्टैंडर्ड सो ही वाज डूइंग द दैट फॉर मी सो दैट बिकम माय डेफिनेशन सो यू हैव टू टेक द डेफिनेशन दैट वर्क्स फॉर यू ट्रू आई कुड हैव टेकन अनदर वन",
+      "flags": [],
+      "id": "emo3"
+    },
+    {
+      "category": "emotional",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "जो बच्चा पूरे घर को खुश रखता है, वो खुद को भूल जाता है",
+      "why": "He defines the parentified eldest child from the inside: knowingly and unknowingly the parents have expectations, and the elder kid spends full time trying to keep impressing them — 'maybe he never even said it but I want to do it, and the extra thing — if mamma is sad, then I am there, because of me she will stay happy.' Then the two sentences that name the cost: 'for the longest time I did that... and in this situation you forget yourself.' The person everyone leaned on as a child hears their childhood described back to them accurately for the first time.",
+      "category_hint": "parentified child / eldest kid",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0300",
+      "end_line": "L0304",
+      "start_words": "दैट बी ओके सो इन ब्रॉडर टर्म्स",
+      "end_words": "आप फॉरगेट योरसेल्फ यस",
+      "start_s": 2334.36,
+      "end_s": 2390.92,
+      "duration_s": 56.56,
+      "source_start_s": 2334.36,
+      "source_end_s": 2390.92,
+      "one_liner": false,
+      "text": "दैट बी ओके सो इन ब्रॉडर टर्म्स जो लूज डेफिनेशन होती है कि नोइंग्ली और अननोइंग्ली आपके पेरेंट्स की आपसे कुछ एक्सपेक्टेशन होती है एंड देन एज एन एल्डर किड मोस्टली र ल्स तो फिर आप उस एक्सपेक्टशंस को फुलफिल करने की कोशिश कर दे तो मे बी वो डायरेक्टली नहीं बोलते बट आप चाहते हो फुल टाइम कि उन्हें इंप्रेस करते रहो फुल टाइम आप चाहते हो कि ओके पापा कोई अच्छा लगता है तो मैं ये करूंगा मे बी ही इज नॉट इवन सेड इट बट आई वाना डू इट एन एक्स्ट्रा थिंग कि मम्मी अगर दुखी है या उनको अच्छा नहीं लग रहा है तो मैं हूं मेरी वजह से ही वो खुश रहेंगी तो आई टेक लाइक फुल डिपेंडेंसी एंड लाइक रिस्पांसिबिलिटी ऑफ द फैमिलीज इमोशनल नीड्स एंड ट्राई टू जस्ट मेक इट अप या तो मैं कुछ भी ऐसा नहीं करूंगा जिनसे उनको थोड़ा सा भी बुरा लगे एंड फॉर द लांगेस्ट टाइम आई डिड दैट जस्ट ट्रा टू इंप्रेस एंड इन दिस सिचुएशन में आपको कता है यू फॉरगेट योरसेल्फ यस बिकॉज यू आर जस्ट ट्राइम टू लिव अप टू योर पेरेंट्स एक्सपेक्टेशन सो दैट्ची",
+      "flags": [],
+      "id": "emo4"
+    },
+    {
+      "category": "emotional",
+      "rank": 5,
+      "finder_rank": 5.0,
+      "title": "'मुझे ऐसा महसूस कराया गया कि मैं कम हूं'",
+      "why": "A star admitting a very un-star feeling, said carefully: 'I felt lesser. I was made to feel that way — nobody forced anything, but as an artist, as a star, as an individual, I was put in situations where I felt I was less. And being less means your stardom is less, your acting is less — it's like your clothes are better than mine.' Then the survival landing from his own journey. The specificity — being made to feel small while standing next to someone — is what travels; it is not about films, it is about every room where someone was quietly diminished.",
+      "category_hint": "men's silent pain / dignity",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0177",
+      "end_line": "L0184",
+      "start_words": "अ मेरे अंदर जो भी था मुझे ना ऐसा फील हुआ था",
+      "end_words": "तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में",
+      "start_s": 1403.32,
+      "end_s": 1470.44,
+      "duration_s": 67.12,
+      "source_start_s": 1403.32,
+      "source_end_s": 1470.44,
+      "one_liner": false,
+      "text": "अ मेरे अंदर जो भी था मुझे ना ऐसा फील हुआ था मैं स्पेसिफिक्स में नहीं घुस आई एम लेसर मुझे ऐसा महसूस कराया गया जबरदस्ती नहीं किया किसी ने एज एन आर्टिस्ट एस अ स्टार एस एन इंडिविजुअल मुझे ऐसा सिचुएशन में डाला गया कि मुझे यह फील हो कि मैं कम हूं और यह ना यह मैं कभी एक्सेप्ट नहीं करू कम मतलब योर स्टारडम इज लेस की एक्टिंग इ लेस इट्स लाइक योर क्लोथ आर बेटर देन माइन ओ इट्स जस्ट अ क नो इट्स कंपैरेटिव सम टाइम्स लाइफ पुट्स यू इन सिचुएशन वेर इट प्लेज आउट इन वे र सम बडी इ यर इन क्लोस प्रॉक्सिमिटी ए य मेड टू फील लेसर इट्स नोबडी फल्ट आम नॉ गेटिंग इ टूट बट दैट इज व्ट आई वेंट थ्रू फॉर सम टाइम एंड आई वाज मेड टू फील लाइक दैट आई फट इट बिकॉज ना यार मैं सरवाइवर हूं जहां से लाइफ से मैं उठके आया हूं और जो मैंने लाइफ मेरी जो जर्नी रही है ना पिछले 21 सालों में मैंने अपने बारे में यह सीखा कि तू सर्वाइवल है यार तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में",
+      "flags": [],
+      "id": "emo5"
+    },
+    {
+      "category": "emotional",
+      "rank": 6,
+      "finder_rank": 6.0,
+      "title": "आठ साल के बच्चे बहुत मीन होते हैं",
+      "why": "The social cost of growing up with one parent, said without self-pity: 'eight year old kids are very mean. If you don't have one parent, they make you feel about it — that you are not normal. They don't even know what they're doing, they're just being stupid, but at that time you feel — meri to life khatam ho gayi.' Anyone who grew up different in any way recognises the cruelty of children who meant nothing by it, and how enormous it felt at eight.",
+      "category_hint": "childhood / loneliness",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0377",
+      "end_line": "L0382",
+      "start_words": "ऑफ कोर्स क्या वॉइड फील",
+      "end_words": "मेरी तो लाइफ खत्म हो गई ऐसा फील होता है",
+      "start_s": 2942.36,
+      "end_s": 2983.6,
+      "duration_s": 41.24,
+      "source_start_s": 2942.36,
+      "source_end_s": 2983.6,
+      "one_liner": false,
+      "text": "कोर्स क्या वॉइड फील क्या क्या लगा कि यार मेरी लाइफ में ये तो मिसिंग है यार एक तो क्या होता है ना जब आप बच्चे बड़े मीन होते हैं यार यू नो ये आठन साल के बच्चे जो होते हैं ना बहुत मीन होते हैं तो उस टाइम पे अगर आपका एक पेरेंट नहीं है तो वो आपको ना ऐसे फील कराते है उसके बारे में कि तू नॉर्मल नहीं है यू नो ये बहुत फील कराते थे मुझे दूसरे बच्चे हां कराते हैं यू नो उनको पता थोड़ी होता है वो क्या कर रहे हैं ऐसे करके स्टूपिडिटी करते हैं बट आपको उस टाइम प ऐसा लगता है मेरी तो लाइफ खत्म हो गई ऐसा फील होता है सो डेफिनेटली सोशली आपको फील होता",
+      "flags": [],
+      "id": "emo6"
+    },
+    {
+      "category": "emotional",
+      "rank": 7,
+      "finder_rank": 7.0,
+      "title": "400 मीटर की दौड़ — सबको अलग-अलग लाइन से खड़ा किया गया",
+      "why": "The running-track experiment: everyone told it's a race, then deliberately placed at different points — someone at 200 metres, someone 50 metres behind the start line — and everyone crying 'this is so unfair.' 'But that is life, na. Do you recognise that about your own life? Success is not based on where you are, it's based on where you started and where you reached.' The image does the work; the viewer involuntarily places themselves and the people they compare themselves to on the same track. Strong viewer agreement in the comments on this exact stretch.",
+      "category_hint": "deep thought / fairness of life",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0145",
+        "comment on L0141"
+      ],
+      "start_line": "L0142",
+      "end_line": "L0149",
+      "start_words": "आया हूं तो जब आप जैसे एक बड़ा",
+      "end_words": "वेर दे आर स्टार्टिंग फ्रॉम दैट",
+      "start_s": 1112.28,
+      "end_s": 1181.36,
+      "duration_s": 69.08,
+      "source_start_s": 1112.28,
+      "source_end_s": 1181.36,
+      "one_liner": false,
+      "text": "आया हूं तो जब आप जैसे एक बड़ा इंटरेस्टिंग एग्जांपल है कि 400 मीटर का एक रनिंग का एरिया होता है यू नो लाइक अ प्रॉपर ट्रैक इ 400 मीटर लाइक तो एक एक्सपेरिमेंट हुआ था बड़ा इंटरेस्टिंग वर्कशॉप था जहां मैंने वीडियो देखा था जहां पे उन लोगों ने सब लोगों को बोला कि ये रेस है आपको सबको यू ल हैव टू रन दिस रेस एंड उन्होंने अलग-अलग लोगों को अलग-अलग पॉइंट्स प खड़ा कर दिया तो एवरी बडी वाज लाइक दिस इज सो अनफेयर यू नो सम बडी स्टैंडिंग एट 200 मीटर यू मेड मी स्टैंड 50 मीटर द स्टार्टिंग लाइन सो दे सेड बट दैट इज लाइफ ना डू यू रिकॉग्नाइज दैट अबाउट लाइफ क्या आप ये रिकॉग्नाइज करते हो के शायद आप ऑलरेडी 200 मीटर के एडवांटेज पे हो और कोई बंदा 50 मीटर के डिसएडवांटेज पे है जीरो स्टार्टिंग लाइन से भी तो जब आप बाहर जाके दुनिया में लोगों से मिलते हो जब आप अपने बारे में सोचते हो न य न यू आस्क योरसेल्फ एम आई अ सक्सेस और फेलियर इट्स नॉट बेस्ड ऑन वेर यू आर इट्स बेस्ड ऑन वेर यू स्टार्टेड एंड वेर यू रीच ट्रू सो हम अपने साथ क्या करते हैं ना हम अपने सरकमस्टेंसस को हटा के वी वांट टू बी द बेस्ट इन कंपेरिजन टूू एवरीबॉडी एल्स विदाउट टेकिंग इन टू कॉन्टेक्स्ट एक्चुअली वेर वीी स्टार्टेड फ्रॉम एंड वर दे आर स्टार्टिंग फ्रॉम दैट हैज टू बी देयर आई थिंक इट इट मेक्स थिंग्स अ लिटिल मोर",
+      "flags": [],
+      "id": "emo7"
+    },
+    {
+      "category": "emotional",
+      "rank": 8,
+      "finder_rank": 8.0,
+      "title": "हम सब प्यार के भूखे हैं — सोर्स को मत बांधो",
+      "why": "A reframe that costs something: 'if you look at a void as a void you will always feel a void... there is always love in the world. Even seeking is love. Don't define the source, leave the source open, it will come.' Then the plain truth underneath it: 'we are all hungry for love, brother. Why do we want love? Because we want to feel accepted.' Anyone waiting for love from one specific person who isn't giving it hears the door they had welded shut open slightly.",
+      "category_hint": "deep thought / longing",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [],
+      "start_line": "L0398",
+      "end_line": "L0404",
+      "start_words": "टॉक अबाउट फेलर राइट सो वी सर्कलिंग",
+      "end_words": "वी वांट टू फील एक्सेप्टेड",
+      "start_s": 3123.96,
+      "end_s": 3181.12,
+      "duration_s": 57.16,
+      "source_start_s": 3123.96,
+      "source_end_s": 3181.12,
+      "one_liner": false,
+      "text": "टॉक अबाउट फेलर राइट सो वी सर्कलिंग बैक टू दैट दैट इफ यू लुक एट अ वॉइड एज अ वॉइड देन यू विल ऑलवेज फील अ वॉइड इफ यू लुक एट इट एज एन अपॉर्चुनिटी एंड इफ यू बिलीव दैट यू कैन फिल इट ब्रो देर इज ऑलवेज लव इन द वर्ल्ड या इवेंचर सीकिंग इज लव डोंट डिफाइन द सोर्स लिमिटिंग योरसेल्फ लीव द सोर्स ओपन इट विल कम आई गट सो मच फ्रॉम माय ग्रैंडफादर एंड माय ग्रैंडमदर आई गट सो मच मोर फ्रॉम माय मदर माय मदर्स ब्रदर एंड आई एम गेटिंग सो मच मोर फ्रॉम माय फादर नाउ बिकॉज़ वी कुडंट बी देन टुगेदर यू गेट लाइक यू नो सो वो होता है व्हेन इज इट गोइंग टू कम हाउ इज इट गोइंग टू कम दोज आर डेफिनेशंस एंड एक्सपेक्टशंस राइट एज वी मूव फॉरवर्ड वी रिलाइज दैट इफ यू गेट लिमिटेड टू इट इट विल नेवर कम बट इफ यू जस्ट ड्रॉप दैट ना इट जस्ट कम्स ब्रो सो आई लव द लाइन फॉरगेट द सोर्स या फॉरगेट फॉरगेट द सोर्स वी आर ऑल हंग्री फॉर लव ब्रदर हम सबको प्यार चाहिए प्यार क्यों चाहिए बिकॉज वी वांट टू फील एक्सेप्टेड वी वांट टू फील क वही चाहिए ब्रो और क्या",
+      "flags": [],
+      "id": "emo8"
+    },
+    {
+      "category": "emotional",
+      "rank": 9,
+      "finder_rank": 9.0,
+      "title": "सबकी रिस्पॉन्सिबिलिटी मत उठाओ",
+      "why": "The final advice, aimed at exactly the person nobody says this to — the one carrying everyone: 'Don't take everybody's responsibility, it usually leads to disappointment at a deeper level later. Take as much as you feel you can do, without expecting anything in return, and with a sense of happiness. When it starts making you feel a little loaded — don't do it.' It straddles advice and recognition, but the recognition is the dominant thing: permission to put the load down. A viewer marked this as their biggest learning from the whole episode.",
+      "category_hint": "the one everybody leans on",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment summary on L0805"
+      ],
+      "start_line": "L0800",
+      "end_line": "L0801",
+      "start_words": "यू कुड इंप्रूव लर्न टू वर्क",
+      "end_words": "अ लिटिल लोडेड डोंट डू इट",
+      "start_s": 6473.08,
+      "end_s": 6495.72,
+      "duration_s": 22.64,
+      "source_start_s": 6473.08,
+      "source_end_s": 6495.72,
+      "one_liner": false,
+      "text": "यू कुड इंप्रूव लर्न टू वर्क आउटसाइड योर स्टूडियो बॉज आई थिंक वी हैड अ ग्रेट कन्वर्सेशन वीड वी ड नो आई मीन आथ इ वन एडवाइस इफ यू कुड डोंट टेक डोंट टेक एवरी बडी रिस्पांसिबिलिटी इट यूजुअली लीड्स टू डिसइंटर डीपर लेवल एट अ लेटर स्टेज टेक एज मच एज यू फील दैट यू कैन डू विदाउट एक्सपेक्टिंग",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "emo9"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0281",
+      "end_line": "L0289",
+      "why_not": "The claim that 90 percent of personality is formed by age seven and the rest is managing that 90 percent is a real, quotable idea, but it stays a finding — the viewer's response is 'huh, interesting' rather than being seen, and the destiny extension dilutes it."
+    },
+    {
+      "start_line": "L0133",
+      "end_line": "L0139",
+      "why_not": "Negative emotions as fuel, with the burnt-house metaphor — the thought is honest but the transcription is garbled enough that the metaphor half-lands and the passage never settles into one clean feeling."
+    },
+    {
+      "start_line": "L0409",
+      "end_line": "L0417",
+      "why_not": "'Be your own favourite' is warm and quotable but reads as a pleasant instruction rather than something the viewer recognises painfully in their own life."
+    },
+    {
+      "start_line": "L0513",
+      "end_line": "L0523",
+      "why_not": "Parenting philosophy about letting children fall softly and unconditional love — true and well meant, but it stays general parenting guidance without naming a specific lived feeling."
+    },
+    {
+      "start_line": "L0458",
+      "end_line": "L0464",
+      "why_not": "The kneecap-bone image about children needing to fall to become strong is vivid, but the passage is a debate exchange about his brother and the landing is instruction-shaped rather than felt."
+    },
+    {
+      "start_line": "L0712",
+      "end_line": "L0715",
+      "why_not": "The honest admission of neediness in love is real, but the thought completes only with the surrounding heartbreak discussion and on its own it reads as a fragment of a bigger point."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0026",
+      "what": "cold open montage, channel subscribe read and episode trailer"
+    },
+    {
+      "from_line": "L0027",
+      "to_line": "L0110",
+      "what": "humility, faking it, stardom and power dynamics — career/motivation territory"
+    },
+    {
+      "from_line": "L0110",
+      "to_line": "L0132",
+      "what": "aura anecdote and failure-as-fuel framing"
+    },
+    {
+      "from_line": "L0153",
+      "to_line": "L0175",
+      "what": "victim mindset flip and energy/electricity metaphor — motivational register"
+    },
+    {
+      "from_line": "L0204",
+      "to_line": "L0278",
+      "what": "simplicity, universe feedback, cinema's emotional power, craft and imagination talk"
+    },
+    {
+      "from_line": "L0314",
+      "to_line": "L0348",
+      "what": "kindness register, destiny, male energy and the two-feet parenting image"
+    },
+    {
+      "from_line": "L0362",
+      "to_line": "L0375",
+      "what": "host's grandfather swimming-pool story — charming but motivational in shape"
+    },
+    {
+      "from_line": "L0383",
+      "to_line": "L0397",
+      "what": "relationships, maturity and Dhoni captain-cool analogy"
+    },
+    {
+      "from_line": "L0418",
+      "to_line": "L0444",
+      "what": "comparison loop, fashion-sense and Sachin cover-drive — advice register"
+    },
+    {
+      "from_line": "L0445",
+      "to_line": "L0512",
+      "what": "elder brother, anger control, Nietzsche morality, parenting three-body problem"
+    },
+    {
+      "from_line": "L0539",
+      "to_line": "L0604",
+      "what": "second child, values for kids, emotional maturity study and marriage setup"
+    },
+    {
+      "from_line": "L0605",
+      "to_line": "L0693",
+      "what": "two kinds of people, ambition vs family debate, friendship and alone time"
+    },
+    {
+      "from_line": "L0718",
+      "to_line": "L0745",
+      "what": "asking in relationships, trust and betting on talent — interview/insight territory"
+    },
+    {
+      "from_line": "L0746",
+      "to_line": "L0798",
+      "what": "directors he trusted, fears, the artist's inner child and creation talk"
+    },
+    {
+      "from_line": "L0798",
+      "to_line": "L0827",
+      "what": "farewell exchange, respect-boundary moment and outro subscribe read"
+    }
+  ],
+  "video_read": "A ~112 minute Raj Shamani podcast with Shahid Kapoor. Most of the runtime is career, stardom and mindset talk, but the emotional core lives in three pockets: the childhood-and-parents stretch around L0298-L0361 (parentified son, a home with one parent, the nana ji memory), the vulnerability stretch around L0177-L0184 (being made to feel lesser), and the heartbreak conversation around L0694-L0730. Several clips are confirmed by viewer comments and replay data.",
+  "coverage": 0.911,
+  "usage": {
+    "prompt_tokens": 116187,
+    "completion_tokens": 19915,
+    "total_tokens": 136102,
+    "cost": 0.02738555,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.02738555,
+      "upstream_inference_prompt_cost": 0.01742805,
+      "upstream_inference_completions_cost": 0.0099575
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 14764,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 14764
+  },
+  "error": null,
+  "seconds": 352.5,
+  "coverage_note": null,
+  "reasoning": "Let me read through this transcript. It's a Raj Shamani podcast episode with Shahid Kapoor, ~112 minutes. Looking for emotional clips — recognition, deep truth, parents, childhood, vulnerability.\n\nKey stretches:\n\n1. L0140–L0150: \"I went through a very long phase of feeling victimized by my circumstances... 250 auditions... 400 meter running track experiment... life is not based on where you are, it's based on where you started and where you reach.\" The 400m race experiment (L0142–L0149) is a strong clip: people placed at different points on the track, \"that is life na.\" Comments at L0145 (11 likes, \"that is soo true ❤\"). That's a strong deep-thought clip. Start around L0141 or L0142. L0141 mentions \"मैं 250 ऑडिशन दे देके आया हूं\" — context for the outsider struggle. Actually the experiment starts L0142. End L0149 (\"वेर दे आर स्टार्टिंग फ्रॉम दैट हैज टू बी देयर\"). Length: L0142 10.2 + L0143 7.0 + L0144 6.7 + L0145 10.7 + L0146 9.2 + L0147 8.0 + L0148 7.9 + L0149 9.4 ≈ 69s. A bit long but acceptable; could trim to L0145–L0149 (~53s). Maybe start at L0144 (people standing at different points) — but the setup \"400 meter track\" is needed. Include L0142–L0149.\n\n2. L0308–L0313: childhood, parents not together, seeing father once a year, male presence less than normal — \"now because I have children I can see when I am not there even for a couple of days how that affects my son and my daughter... roles reverse, first you are a son and then you are a father... life is completing a cycle.\" That's genuinely emotional — role reversal. Comment at L0313 \"part of my life hits my heart\". Strong clip. Start L0308 \"yes I did come from a home where my parents are not together from the age of three...\" through L0313. Length: L0308 7.6 + L0309 10.4 + L0310 10.1 + L0311 10.2 + L0312 9.4 + L0313 12.8 ≈ 60.5s. Good.\n\n3. L0351–L0361: grandfather memory — the cracked watch, the big glasses, walking him to school every day, \"I don't remember a single day he missed. That is my standard as a parent... that became my definition.\" That's very tender — one detail carries the whole thing. L0351–L0361. Length: 6.8+9.1+9.0+6.8+9.7+8.0+9.4+6.0+6.9+6.7+6.9 ≈ 79s. Long. Could trim: the memory is L0351–L0360. Actually L0356–L0361: \"जब भी मैं स्कूल जाता था... बारिश हो रही होगी... उनकी तबीयत खराब होगी... मैं अकेला स्कूल चल के गया... ही वुड होल्ड माय हैंड एंड ड्रॉप मी टू स्कूल एवरी डे आई डोंट रिमेंबर अ सिंगल डे ही हैज मिस्ड... फॉर मी दैट इज माय स्टैंडर्ड एज अ पेरेंट... दैट बिकम माय डेफिनेशन\" — that's the landing. Start L0352 maybe (watch memory) — but self-contained needs context that it's about nana ji. Start L0349 \"my strongest memory as a child is with my maternal grandfather\" — L0349 7.3s. Then L0350 pause 3.6, L0351–L0361. Total ~85s. It's a story that needs its build; justified. Maybe end at L0360 (\"सो ही वाज डूइंग द दैट फॉर मी सो दैट\") — actually L0360 ends \"सो दैट\" which leads to L0361 \"बिकम माय डेफिनेशन\" — need L0361 for landing: \"that became my definition.\" End L0361. ~85s, justified as story build.\n\n4. L0363–L0374: host's (Raj's) grandfather story — \"कूद जा... it will happen\" — cute but it's the host's story; it's about taking the leap, motivational-ish. It has some charm (\"so beautifully simplest memories make the deep impact\"). Borderline. It's Raj's story, less emotional weight. Skip.\n\n5. L0376–L0382: void felt — \"जब आप बच्चे बड़े मीन होते हैं... अगर आपका एक पेरेंट नहीं है तो वो आपको ऐसे फील कराते हैं कि तू नॉर्मल नहीं है... आपको उस टाइम पे ऐसा लगता है मेरी तो लाइफ खत्म हो गई\" — the childhood pain of other kids making you feel abnormal for having one parent. That's a private thing named accurately. Also appears in cold open (L0004–L0005). The real version is here. Start L0376? The question is at L0375–L0377: \"you were asking one question... did you ever feel a void?\" The answer starts L0377 \"of course. क्या वॉइड फील...\" Let's start L0377 and end L0382 (\"मेरी तो लाइफ खत्म हो गई ऐसा फील होता है\"). Length: 7.3+6.3+6.1+7.6+6.7+7.3 ≈ 41s. Good. But does the question get asked? L0376 \"क्या वॉइड फील हुआ या ऑफ\" — garbled. Starting at L0377 \"of course, क्या वॉइड फील\" — \"of course, what void did I feel\" — answers the question within. Actually L0377 says \"ऑफ कोर्स क्या वॉइड फील क्या क्या लगा कि यार मेरी लाइफ में ये तो मिसिंग है\" — starts with \"of course [I felt a] void\". That's understandable. Good clip.\n\n6. L0398–L0405: \"if you look at a void as a void you will always feel a void. If you look at it as an opportunity and believe you can fill it... there is always love in the world. Even seeking is love. Don't define the source, leave the source open, it will come... वी आर ऑल हंग्री फॉर लव ब्रदर\" — deep thought / reframe. Also \"मैंने स्टार्टेड गिविंग मायसेल्फ लॉट ऑफ लव\" L0405. Could return L0398–L0405 (~50s). It's slightly motivational-adjacent but the \"we are all hungry for love\" naming is emotional. Also there's L0409–L0417 \"be your own favourite\" — that's the \"अपनी फेवरेट\" line — motivational/self-worth. \"जब आप लाइक योरसेल्फ यू कैन अप्रिशिएट अदर्स मोर\" — self-worth territory. Borderline; could be a clip: L0409–L0417 (~48s). Hmm, \"यू शुड बी अबल टू बी द गिवर\" is L0716 in a different stretch about love. Let me not over-collect.\n\n7. L0508–L0517: parenting — \"no rules, three body problem... our role as parents is to allow them to fall softly and make every mistake without getting the major punishment for it\" — parenting wisdom, maybe more general. Skip.\n\n8. L0522–L0529: \"गिव देम अनकंडिशनल लव एंड सपोर्ट... लेट देम नो दैट व्हाट देयर सरकमस्टेंसस आर नॉट अर्न बाय देम... दे हैव टू अर्न देयर सरकमस्टेंसस\" — parenting. Skip.\n\n9. L0694–L0704: heartbreak — \"हार्ट ब्रेक में आप किसी से इतना प्यार करते हो कि आप जब वो आपको रिजेक्ट कर देते हैं तो आप उनके पीछे भागते हो टू अ डिग्री जहां आपकी अपनी डिग्निटी टूट जाती है... आपको रिलाइज भी नहीं होता कि आपने अपना सेल्फ रिस्पेक्ट लॉस्ट कर दिया... वो रिलाइजेशन बड़े साल बाद होता है कि यार मैं क्या कर रहा था... यू कैन लूज योर ओन सेल्फ रिस्पेक्ट इन लव\" — this is a strong one. Comments around L0694 (\"the best part\", 7 likes), L0699 (❤), [REPLAYED] at L0703. Start: question at L0693–L0694 \"have you ever had heartbreak?\" Then answer L0695 \"of course यार कितने सारे हुए हैं\" then L0697–L0704 the dignity part. Best unit: L0697–L0704 or L0698–L0704. Actually the strong bit starts L0698 \"ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में\" — wait, who says L0698? \"ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो...\" — could be Shahid or Raj. L0697 is Shahid answering (\"some times when you have heartbreaks you feel you're not good enough\"). L0698–L0701 sounds like Shahid continuing (he says \"आई वुड टेल माय बेस्ट फ्रेंड\"). L0702–L0704 \"[REPLAYED] यू नो तो वो आई थिंक सबसे इंटरेस्टिंग चीज है ना प्यार के बारे में कि यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव\" — Shahid. So clip L0697–L0704: length 9.7+5.5+7.5+5.6+6.6+7.0+6.5+6.0+10.9 ≈ 65s. Maybe trim to L0698–L0704 (~60s). The opening \"ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो\" is a good clear opening — heartbreak is stated, understandable. Start L0698, end L0704 (\"यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव और वो होता है बिकॉज योर बिहेवियर कैन बी लाइक दैट\"). ~55s.\n\n10. L0707–L0711: \"दोस आर द मोमेंट्स वेर यू डिसाइड हु यू वांट टू बिकम\" — more motivational. Skip.\n\n11. L0709–L0711: \"आप किस तरह के इंसान को झेल सकते हो... ये ना दिल टूटने के बाद ही समझ में आता है... वह इंसान आपके अंदर के अच्छे इंसान को बाहर निकाल रहा है या बुरे इंसान को खींच रहा है\" — who says this? L0709–L0710 sounds like Raj (host asking/pontificating) — \"ये ना दिल टूटने के बाद ही समझ में आता है यह बहुत इंपॉर्टेंट है समझना क्योंकि आपको किसी से प्यार हो जाए वो अलग चीज है बट वह इंसान आपके अंदर के अच्छे इंसान को बाहर निकाल रहा है\" — could be either. Actually it's a decent line but ambiguous speaker. It follows L0708. Could combine with heartbreak clip: L0698–L0711. Hmm, that adds the \"वह इंसान आपके अंदर के अच्छे इंसान को बाहर निकाल रहा है\" line which is quotable. Length L0698–L0711: ~55+5.1+10.8+6.9 ≈ 78s. A bit long. I'll keep L0698–L0704 as the main and maybe a second clip L0709–L0711? No — L0709–L0711 alone: \"व्ट मतलब आप किस तरह के इंसान को झेल सकते हो / ये ना दिल टूटने के बाद ही समझ में आता है...\" that's decent: \"what kind of person you can endure — you only understand after your heart breaks.\" Actually a nice short clip: L0709–L0711, ~23s. Hmm, who's speaking is unclear — L0711 ends \"वह समझो आप क्योंकि इवेंचर जीना है\" then L0712 \"और जब भी आप किसी रिश्ते में होते हो ना आई फील मुझे जो प्यार ने सिखाया\" — that's Shahid again. If L0709–L0711 is Raj, then the guest's next answer follows. It's ambiguous. I could return L0712–L0715: \"मुझे जो प्यार ने सिखाया यही सिखाया कि आई शुड नॉट बी नीडी ऑफ समथिंग फ्रॉम द अदर पर्सन... व्हेन यू वांट समथिंग फ्रॉम अ रिलेशनशिप इट्स एक्चुअली सेल्फिश रीजन... आई एम नीडी आई नीड टू बी कंफर्टेड\" — honest admission. Decent but mid.\n\n12. L0718–L0722: \"जब आप मांगने लगते हो ना वहीं पे रिलेशनशिप्स बिगड़ने लगती हैं... आपको लगता है आपका हक है ब अगर आपका हक होता तो वो आ जाता ना\" — Raj asking maybe. Ambiguous.\n\n13. L0800–L0805: last advice — \"डोंट टेक एवरी बडी रिस्पॉन्सिबिलिटी... टेक एज मच एज यू कैन डू विदाउट एक्सपेक्टिंग एनीथिंग इन रिटर्न... व्हेन यू फील इट स्टार्ट्स मेकिंग यू फील अ लिटिल लोडेड डोंट डू इट\" — advice about carrying everyone's responsibility; this is the \"one everybody leans on\" territory. Comment: \"1:48:40 to 1:50:00 — My biggest learning from the episode.\" Strong signal. Clip L0800–L0802: 12.3+9.7+8.0 ≈ 30s. Or extend to L0803–L0805 where he turns it to Raj: \"आई कुड सी द मोमेंट्स वेर यू र होल्डिंग योरसेल्फ\" — that's the meta moment but harder to use. Keep L0800–L0803. End at L0802 \"डोंट डू इट बिकॉज देन\" — ends mid-sentence \"because then...\" Hmm. L0802 ends \"व्हेन यू फील इट स्टार्ट्स मेकिंग यू फील अ लिटिल लोडेड डोंट डू इट बिकॉज देन\" — cut on \"don't do it\" — but transcript has trailing \"बिकॉज देन\". The pause 1.6s then L0803 \"इट सेल्फलेसली ट ू सोट्स\" — garbled. End at L0802 is fine-ish; the \"because then\" dangles. Maybe end L0801: \"टेक एज मच एज यू फील दैट यू कैन डू विदाउट एक्सपेक्टिंग एनीथिंग इन रिटर्न एंड विथ अ सेंस ऑफ हैप्पीनेस व्हेन यू फील इट स्टार्टस मेकिंग यू फील अ लिटिल लोडेड डोंट डू इट\" — that's a complete thought actually (the \"बिकॉज देन\" is at start of L0802's end... let me recheck). L0801: \"रिस्पांसिबिलिटी इट यूजुअली लीड्स टू डिसइंटर डीपर लेवल एट अ लेटर स्टेज टेक एज मच एज यू फील दैट यू कैन डू विदाउट एक्सपेक्टिंग एनीथिंग इन रिटर्न एंड विथ अ सेंस ऑफ हैप्पीनेस व्हेन यू फील इट स्टार्टस मेकिंग यू फील अ लिटिल लोडेड डोंट डू इट बिकॉज देन\" — ends with \"बिकॉज देन\" then L0802 \"इट सेल्फलेसली ट ू सोट्स द ओनली थिंग आई वड से एंड नाउ द सेम क्वेचन फॉर यू ब्रदर...\" Hmm, actually re-reading: L0801 ends \"...डोंट डू इट बिकॉज देन\" and L0802 begins \"इट सेल्फलेसली...\" — garbled but the landing \"डोंट डू इट\" is there. End L0801. Start L0800 (question setup: \"one advice if you could, don't take everybody responsibility\") — L0800 contains the question AND answer start: \"यू कुड इंप्रूव लर्न टू वर्क आउटसाइड योर स्टूडियो बॉज आई थिंक वी हैड अ ग्रेट कन्वर्सेशन... वन एडवाइस इफ यू कुड डोंट टेक डोंट टेक एवरी बडी\" — hmm the \"don't take everybody responsibility\" is at the end of L0800 and continues into L0801. So start L0800, end L0801: 12.3+9.7 ≈ 22s. But L0800 starts with garbage (\"learn to work outside your studio boss, I think we had a great conversation\"). Not ideal but only the first few words; the second pass can trim edges. Actually the question \"वन एडवाइस इफ यू कुड\" is inside L0800. It's fine — start L0800, the reel can start at \"one advice\". Hook: \"Don't take everybody's responsibility\" — that's actually a strong hook for the lean-on-everyone person. Good.\n\n14. L0176–L0184: \"कबीर सिंह के पहले हुआ था मेरे साथ... मैं लेसर मुझे ऐसा महसूस कराया गया जबरदस्ती नहीं किया किसी ने... एज एन आर्टिस्ट एस अ स्टार एस एन इंडिविजुअल मुझे ऐसा सिचुएशन में डाला गया कि मुझे यह फील हो कि मैं कम हूं\" — the vulnerability of being made to feel lesser. Strong. L0176–L0182: \"मैं स्पेसिफिक्स में नहीं घुस... मैं लेसर मुझे ऐसा महसूस कराया गया जबरदस्ती नहीं किया किसी ने एज एन आर्टिस्ट एस अ स्टार एस एन इंडिविजुअल मुझे ऐसा सिचुएशन में डाला गया कि मुझे यह फील हो कि मैं कम हूं और यह ना यह मैं कभी एक्सेप्ट नहीं करूं कम मतलब योर स्टारडम इज लेस की एक्टिंग इ लेस इट्स लाइक योर क्लोथ आर बेटर देन माइन\" — good. Then L0183–L0184: \"यार मैं सरवाइवर हूं... तू सर्वाइवल है यार तू निकल आता है सिचुएशन में\" — landing. Clip L0176–L0186: 10.1+9.4+8.7+8.5+9.3+7.1+7.2+10.2+3.3(pause)+6.2 ≈ 80s. Trim to L0176–L0184 ≈ 71s. Hmm. Or start L0177: \"अ मेरे अंदर जो भी था मुझे ना ऐसा फील हुआ था मैं स्पेसिफिक्स में नहीं घुस आई एम लेसर मुझे ऐसा महसूस कराया गया\" — clear. End L0184 \"तू सर्वाइवल है यार तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में\" — wait, L0183–L0184: \"इट बिकॉज ना यार मैं सरवाइवर हूं जहां से लाइफ से मैं उठके आया हूं... मैंने अपने बारे में यह सीखा कि तू सर्वाइवल है यार तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में\" — decent landing. Length L0177–L0184: 8.7+8.5+9.3+7.1+7.2+10.2 ≈ 51s. Good clip. Comment at L0178-0179 about Padmaavat — \"saheed talking about padmabati 100%\". Context hint but clip stands alone (\"I was made to feel lesser as an artist, as a star, as an individual\").\n\n15. L0298–L0304: parentified son definition — \"नोइंग्ली और अननोइंग्ली आपके पेरेंट्स की आपसे कुछ एक्सपेक्टेशन होती है एंड देन एज एन एल्डर किड... आप चाहते हो फुल टाइम कि उन्हें इंप्रेस करते रहो... एन एक्स्ट्रा थिंग कि मम्मी अगर दुखी है या उनको अच्छा नहीं लग रहा है तो मैं हूं मेरी वजह से ही वो खुश रहेंगी... फॉर द लांगेस्ट टाइम आई डिड दैट... इन दिस सिचुएशन में आप फॉरगेट योरसेल्फ\" — this is the parentified child / eldest kid territory. Strong. Who says L0300–L0304? L0300 \"(slow) दैट बी ओके सो इन ब्रॉडर टर्म्स जो लूज डेफिनेशन होती है कि...\" — this seems to be Shahid defining it (answering \"how do you define that\"). Actually L0299 is Raj asking \"how do you define that\". L0300 Shahid: \"in broader terms the loose definition is that knowingly and unknowingly your parents have some expectations and then as an elder kid mostly...\" L0301–L0304 continue: \"आप उस एक्सपेक्टशंस को फुलफिल करने की कोशिश कर दे... आप चाहते हो फुल टाइम कि उन्हें इंप्रेस करते रहो... मम्मी अगर दुखी है... तो मैं हूं मेरी वजह से ही वो खुश रहेंगी... आई टेक लाइक फुल डिपेंडेंसी... फॉर द लांगेस्ट टाइम आई डिड दैट जस्ट ट्रा टू इंप्रेस एंड इन दिस सिचुएशन में आपको कता है यू फॉरगेट योरसेल्फ\" — \"you forget yourself.\" Very strong for eldest children. Clip L0300–L0304: 12.9+11.7+8.7+11.6+11.4 ≈ 56s. Start L0300 — but need to know what \"that\" is (parentified son). The question was asked L0298–L0299: \"ए पार्ट ऑफ माय चाइल्डहुड वाज वेरी एज पेरेंट फाइड सन जैसा फील होता था\" (L0298, Shahid: \"part of my childhood was very parentified son\") then Raj \"how do you define that\" (L0299). Hmm wait — who says L0298? Shahid says \"I feel like a part of my childhood was very parentified son.\" Raj asks \"how do you define that?\" L0300 Shahid defines. For self-containment, start at L0298: \"अ पार्ट ऑफ माय चाइल्डहुड वाज वेरी एज पेरेंट फाइड सन जैसा फील होता था मुझे\" — a stranger hears \"a part of my childhood was very parentified son\" — understandable-ish, then definition follows. Include L0298–L0304: 10.5+7.8+12.9+11.7+8.7+11.6+11.4 ≈ 75s. Or start L0300 with the definition itself — \"इन ब्रॉडर टर्म्स जो लूज डेफिनेशन होती है कि नोइंग्ली और अननोइंग्ली आपके पेरेंट्स की आपसे कुछ एक्सपेक्टेशन होती है एंड देन एज एन एल्डर किड...\" — that's actually self-contained: \"in broader terms the loose definition is that knowingly and unknowingly your parents have expectations and as an elder kid you try to fulfil them...\" Then ends \"you forget yourself.\" Start L0300, end L0304: ~56s. The pronoun \"that\" refers to parentified but the definition itself explains. Good enough — set self_contained true-ish.\n\n16. L0133–L0136: \"मोस्ट पीपल हु आर ड्रिवन आर मोटिवेटेड वो ड्राइव आती नेगेटिव इमोशन्स है\" — same as cold open L0001. Real version here. \"मुझे कभी-कभी ऐसे लगता था कि यू नो मेरी एंग्स के अंदर सेक मैंने कुछ ऐसे परफॉर्मेंसेस भी दे... वो जो इमोशन है उससे मुझे ड्राइव मिलती है... यू शुड नॉट बी समबे डार्क इमोशन टू पुश थिंग्स आउट यू शुड बी एबल टू वोर्टेक्स डार्क एनर्जी इनटू पॉजिटिव एनर्जी इट्स लाइक अगर आपका घर जल गया है और आप वही आग जाके किसी और के घर प डालोगे\" — the burnt house metaphor. Interesting but a bit messy in transcript. Borderline. The metaphor \"अगर आपका घर जल गया है तो किसी और के घर में आग मत लगाओ\" is decent. Could return L0133–L0139. Length ~60s. It's more deep-thought/motivation hybrid. Hmm — I think the strongest are the childhood/family ones. Let me pick maybe 5-6 clips.\n\n17. L0399–L0405 void/love clip. \"इफ यू लुक एट अ वॉइड एज अ वॉइड देन यू विल ऑलवेज फील अ वॉइड इफ यू लुक एट इट एज एन अपॉर्चुनिटी... ब्रो देर इज ऑलवेज लव इन द वर्ल्ड या इवेंचर सीकिंग इज लव डोंट डिफाइन द सोर्स लिमिटिंग योरसेल्फ लीव द सोर्स ओपन इट विल कम... वी आर ऑल हंग्री फॉर लव ब्रदर हम सबको प्यार चाहिए प्यार क्यों चाहिए बिकॉज वी वांट टू फील एक्सेप्टेड\" — that's good deep thought. Start L0398 \"(fast) टॉक अबाउट फेलर राइट सो वी सर्कलिंग बैक टू दैट दैट इफ यू लुक एट अ वॉइड एज अ वॉइद...\" — start at L0398, end L0404 \"वी आर ऑल हंग्री फॉर लव ब्रदर हम सबको प्यार चाहिए प्यार क्यों चाहिए बिकॉज वी वांट टू फील एक्सेप्टेड\" — landing. Length: L0398 6.4 + L0399 10.2 + L0400 8.3 + L0401 7.0 + L0402 8.5 + L0403 8.8 + L0404 7.3 ≈ 56.5s. Good.\n\nNow decide final list. Candidates:\n\nA. 400m track experiment (L0142–L0149) — deep thought, life fairness. Comments at L0145 (11 likes). HIGH.\nB. Parentified son / \"you forget yourself\" (L0300–L0304). HIGH — eldest child recognition.\nC. Male presence / role reversal (L0308–L0313) — \"part of my life hits my heart\" comment. HIGH.\nD. Grandfather walking to school (L0349–L0361) — tenderness, one detail. HIGH.\nE. Void felt as a kid — other kids made him feel abnormal (L0377–L0382). Good.\nF. Made to feel lesser (L0177–L0184). Good, vulnerable.\nG. Heartbreak dignity (L0698–L0704). HIGH, replayed.\nH. We are all hungry for love / void as opportunity (L0398–L0404). Good.\nI. Don't take everybody's responsibility (L0800–L0801). Good, comment-flagged.\nJ. Burnt house / negative emotions driving (L0133–L0139) — messy, skip or near-miss.\n\nThat's a lot. Guidance says no quota; rich hour can yield a dozen. But I should only return what I believe in. All of A–I are real. Maybe drop the weakest. E and C overlap somewhat (both about one-parent childhood void). But per rules, sameness of theme isn't sameness of moment; each lands differently. E is about social humiliation as a kid; C is about role reversal as a father. Both land. Keep both? E is ~41s, C ~60s. Keep both.\n\nD is long (~85s) but \"a story that needs its build can justify more.\" Keep.\n\nH vs E/H: fine.\n\nLet me finalize ~7 clips ranked:\n\n1. C (L0308–L0313) — role reversal, hits hardest, comment \"part of my life hits my heart\".\n2. D (L0349–L0361) — grandfather, \"I don't remember a single day he missed... that became my definition.\"\n3. G (L0698–L0704) — heartbreak dignity, [REPLAYED].\n4. B (L0300–L0304) — parentified son, \"you forget yourself\".\n5. F (L0177–L0184) — made to feel lesser, survivor.\n6. E (L0377–L0382) — kids made him feel abnormal.\n7. A (L0142–L0149) — 400m track.\n8. H (L0398–L0404) — hungry for love.\n9. I (L0800–L0801) — don't take everybody's responsibility.\n\nHmm, nine. Are all truly believed? I: is it emotional or motivational? \"Don't take everybody responsibility, it usually leads to disappointment at a deeper level... take as much as you feel you can do without expecting anything in return\" — it names the caretaker, advice-ish but the recognition (\"it starts making you feel a little loaded, don't do it\") — this is example 9/12 territory (says the thing nobody says to the one everybody leans on). Comment says \"my biggest learning from the episode.\" Keep, with note it also reads as advice.\n\nH: \"we are all hungry for love... you want to feel accepted\" — good. Keep.\n\nA: the track experiment — good deep thought. Keep.\n\nE: hmm, it does stand alone: \"जब आप बच्चे बड़े मीन होते हैं... अगर आपका एक पेरेंट नहीं है तो वो आपको ऐसे फील कराते हैं कि तू नॉर्मल नहीं है\" — wait L0378: \"यार यू नो ये आठन साल के बच्चे जो होते हैं ना बहुत मीन होते हैं\" — \"eight year old kids are very mean\" — clear. Keep.\n\nF: keep.\n\nThat's 9 clips. Maybe that's fine for a 112-min rich episode. But let me double-check quality of B — B and C are adjacent (B at L0300–L0304, C at L0308–L0313, with L0305–L0307 between: Raj asks \"have you been parentified... \" Shahid: \"I always try and shy away from this term because everybody's association to the term is different, so I would not use that term, but are there things that have happened in my childhood that have deep shaped who I am — yes. I did come from a home where my parents are not together...\"). Interesting — Shahid actually shies away from the term at L0306–L0307. So clip B (L0300–L0304) is Shahid's generic definition of parentified; then he disclaims it. Hmm. The generic definition \"you forget yourself\" is still strong for eldest kids. But the disclaimer right after is part of the honesty. Should B include L0306–L0307? That would make it: definition + \"I shy away from the term... but yes, things shaped who I am. I did come from a home where my parents are not together\" → flows into C. Actually L0298–L0313 is one continuous arc: \"part of my childhood was parentified\" → define → \"I did come from a home where parents weren't together\" → role reversal. Per back-to-back landings, return parts and possibly the whole. The whole L0298–L0313 is ~145s — too long. Return B (L0300–L0304) and C (L0308–L0313) separately. B's generic definition stands on its own. Fine.\n\nCheck C start: L0308 \"दैट हैव डीप शेप्ड हु आई एम यस आई डिड कम फ्रॉम अ होम वे माय पेरेंट्स र नॉट टुगेदर फ्रॉम द एज ऑफ थ्री...\" — \"yes I did come from a home where my parents are not together, from the age of three I lived a lot with my mom\" — self-contained enough. End L0313 \"...लाइफ इज कंपलीटिंग अ साइकल\" — good landing. Comment \"part of my life hits my heart\" at L0313.\n\nCheck D start L0349: \"फॉर मी यू नो सो ही इज माय स्ट्रांगेस्ट मेमोरी एज अ चाइल्ड इज विथ माय मैटरनल ग्रैंडफादर माय नाना जी\" — clear. But actually L0348 ends \"ही वाज अनकंडिशनली देयर फॉर मी\" — about grandfather filling father's shoes (L0346–L0348: \"I was very close to my grandfather, my mom's father... he was filling in the shoes of my dad not being there every day\"). Including L0346 adds context: he was filling dad's shoes. Start L0346? Length grows. The nana ji memory stands on its own with \"my strongest memory as a child is with my maternal grandfather, my nana ji.\" Start L0349. End L0361 \"बिकम माय डेफिनेशन\" — \"so that became my definition.\" Landing. Actually L0360–L0361: \"सो फॉर मी दैट इज माय स्टैंडर्ड एज अ पेरेंट च आईल नेवर मीट यू नो बट दैट फॉर मी डिफाइन माय स्टैंडर्ड सो ही वाज डूइंग द दैट फॉर मी सो दैट\" / \"बिकम माय डेफिनेशन सो यू हैव टू टेक द डेफिनेशन दैट वर्क्स फॉर यू ट्रू\" — ends L0361 \"सो यू हैव टू टेक द डेफिनेशन दैट वर्क्स फॉर यू\" — okay ending there. \"That became my definition\" is the landing.\n\nCheck G: start L0698 \"ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो कि आप जब वह आपको रिजेक्ट कर देते हैं तो आप उनके पीछे भागते हो टू अ डिग्री जहां आपकी अपनी डिग्निटी टूट जाती है\" — excellent opening. End L0704 \"...यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव और वो होता है बिकॉज योर बिहेवियर कैन बी लाइक दैट राइट सो ऑफकोर्स यू\" — hmm ends with \"so of course you\" trailing into L0705. End at L0703? L0703: \"[REPLAYED] मत कर यू नो तो वो आई थिंक सबसे इंटरेस्टिंग चीज है ना प्यार के बारे में कि यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव\" — wait L0703 starts \"मत कर\" — that's the end of L0702 (\"ब्रो जस्ट होल्ड ऑन टू योर डिग्निटी ऐसे मत कर\"). So L0703: \"यू नो तो वो आई थिंक सबसे इंटरेस्टिंग चीज है ना प्यार के बारे में कि यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव और वो होता है बिकॉज योर बिहेवियर कैन बी लाइक दैट राइट सो ऑफकोर्स यू\" — ends \"so of course you\" trailing. End L0704? L0704: \"गो थ्रू दैट आल्सो अ एंड ऑफकोर्स यू लिसन टू द द बेस्ट हार्ट ब्रेक सोंग्स\" — hmm that's lighter. The landing \"you can lose your own self-respect in love\" is mid-L0703. End on L0703; trailing \"so of course you\" can be cut by second pass. Good — end L0703.\n\nCheck A start: L0142 \"आया हूं तो जब आप जैसे एक बड़ा इंटरेस्टिंग एग्जांपल है कि 400 मीटर का एक रनिंग का एरिया होता है\" — starts \"आया हूं तो\" trailing from L0141 (\"मैं 250 ऑडिशन दे देके आया हूं\"). Slightly awkward but second pass trims. Start L0142, end L0149. End words: \"वेर दे आर स्टार्टिंग फ्रॉम दैट हैज टू बी देयर\" — landing \"that has to be there\" about context. Decent.\n\nCheck F: L0177–L0184. Start words \"अ मेरे अंदर जो भी था मुझे ना ऐसा फील हुआ था मैं स्पेसिफिक्स में नहीं घुस आई एम लेसर मुझे ऐसा महसूस कराया गया\" — hmm \"I felt lesser, I was made to feel that way, nobody forced it...\" clear. End L0184 \"तू सर्वाइवल है यार तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में\" — landing \"you're a survivor, you come out of situations.\" Good.\n\nCheck E: L0377–L0382. Start \"ऑफ कोर्स क्या वॉइड फील\" — \"of course, what void\" — answer to \"did you feel a void\" — understandable (\"Of course. What void did I feel — things like, yaar, this is missing in my life\"). End L0382 \"मेरी तो लाइफ खत्म हो गई ऐसा फील होता है\" — landing. Good.\n\nCheck H: L0398–L0404. Start L0398: \"टॉक अबाउट फेलर राइट सो वी सर्कलिंग बैक टू दैट दैट इफ यू लुक एट अ वॉइड एज अ वॉइद देन यू विल ऑलवेज फील अ वॉइद\" — starts with \"talk about failure right, so we're circling back to that\" — slightly contextual but then \"if you look at a void as a void you will always feel a void\" is clear. Maybe start L0399? L0399: \"एट इट एज एन अपॉर्चुनिटी एंड इफ यू बिलीव दैट यू कैन फिल इट ब्रो देर इज ऑलवेज लव इन द वर्ल्ड या इवेंचर सीकिंग इज लव डोंट डिफाइन द सोर्स...\" — starts mid-thought. Keep L0398. End L0404 \"प्यार क्यों चाहिए बिकॉज वी वांट टू फील एक्सेप्टेड\" — good landing.\n\nCheck I: L0800–L0801. Good.\n\nOrdering by rank: strongest first. I'd rank: C (role reversal) or D (grandfather) or G (heartbreak). Let me rank:\n\n1. C — parents/role reversal (comment-confirmed \"hits my heart\")\n2. G — heartbreak dignity (replayed, comments)\n3. D — grandfather\n4. B — parentified/eldest child\n5. F — made to feel lesser\n6. E — abnormal kid\n7. A — 400m track\n8. H — hungry for love\n9. I — don't take everybody's responsibility\n\nHmm, maybe I trim to those I most believe. All nine I believe. OK.\n\nHook strengths: G opening \"ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो कि...\" — 8. C opening \"yes I did come from a home where my parents are not together\" — 8. D \"my strongest memory as a child is with my nana ji\" — 6. B \"in broader terms the loose definition...\" — 5. F \"मुझे ऐसा महसूस कराया गया... आई एम लेसर\" — 7. E \"of course, what void...\" — 6. A \"400 मीटर का रनिंग एरिया\" — 6. H \"if you look at a void as a void\" — 7. I \"don't take everybody responsibility\" — 8.\n\nsignals_used: C → comment on L0313. G → [REPLAYED] L0703, comment L0694/L0699. A → comments L0145. I → comment L0804-805 (\"my biggest learning\"). D → none (empty). F → none. E → none. B → none... actually L0299 has a joke comment; not relevant. Empty is fine.\n\nNear misses: J (L0133–L0139 negative emotions drive / burnt house — garbled, metaphor half-baked). L0409–L0417 \"be your own favourite\" — self-worth but reads as advice/lighter. L0522–L0528 parenting unconditional love — general parenting advice. L0712–L0715 needy love admission — honest but mid.\n\nSkipped ranges: cold open L0001–L0026; subscribe/intro; stardom/fake-it L0027–L0060; power dynamics L0061–L0110; movies/cinema L0233–L0270; childhood shapes 90% by seven L0279–L0296 (actually that's decent deep thought — \"90% of your personality is formed by age of seven, the other 10% is just you trying to manage that 90%\" L0281–L0282. Hmm, that's a real quotable. Is it mine? It's a fact with an arc — viewer applies it to their own childhood. Borderline general/deep-thought. I'll put it as near miss or clip? \"आई रियली बिलीव 90 पर ऑफ योर पर्सनालिटी इज फॉर्म्ड टिल द एज ऑफ सेवन द अदर 10 पर इज जस्ट यू ट्राइम टू मैनेज दैट 90 पर\" — that's punchy and lands on parents. It connects to destiny discussion. It's example-16-adjacent (a finding that becomes feeling). Could return L0281–L0289 (~40s: L0281 5.5 + L0282 8.6 + gap 4.6 + L0284 6.0 + L0285 7.5 + gap 4.4 + L0287 8.0 ≈ 45s). The \"that's why I'm a big believer in destiny\" extension is nice. Hmm — I already have 9 clips. This one is real but it's more of an interesting fact; the emotional charge is moderate. Near miss it? It genuinely makes a parent think about their kid's first seven years. I'll add as clip 10? No — I'll keep as near miss with honest why: \"a real claim that turns informative rather than felt; the emotional weight lives in the clips nearby.\" Hmm, but the rule says a reason can't compare to other clips. Fine: \"it states a finding about personality formation; the viewer's response is 'huh, interesting' more than being seen.\" OK, near miss.\n\nAlso L0444–L0464 elder brother / breaking the fall — \"उल्टा बोलता हूं जा तीन गलती कर गिरेगा नहीं तो फिर स्ट्रंग कैसे बनेगा... बेबी दे डोंट डिवेलप द नी का बोन टिल द एज ऑफ टू बिकॉज दे आर गोंग टू कीप फॉलिंग\" — parenting insight. Near miss/skip.\n\nL0646–L0656 ambition vs family — decent but more debate.\n\nL0775–L0795 artist's child / creation moment — \"देर वुड बी नथिंग टू एक्सप्रेस... अचीवमेंट ऑन सिनेमा\" — artistic, skip.\n\nNow check start_words/end_words copied exactly.\n\nClip 1 (C): start L0308 \"दैट हैव डीप शेप्ड हु आई एम यस आई डिड कम फ्रॉम अ होम\" — end L0313 \"हैपेंस इट्स लाइक लाइफ इज कंपलीटिंग अ साइकल\".\n\nClip 2 (G): start L0698 \"ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में\" — end L0703 \"यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव\".\n\nClip 3 (D): start L0349 \"फॉर मी यू नो सो ही इज माय स्ट्रांगेस्ट मेमोरी\" — end L0361 \"बिकम माय डेफिनेशन सो यू हैव टू टेक द डेफिनेशन\".\n\nClip 4 (B): start L0300 \"दैट बी ओके सो इन ब्रॉडर टर्म्स\" — end L0304 \"आप फॉरगेट योरसेल्फ यस\".\n\nClip 5 (F): start L0177 \"अ मेरे अंदर जो भी था\" — end L0184 \"तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में\".\n\nClip 6 (E): start L0377 \"ऑफ कोर्स क्या वॉइड फील\" — end L0382 \"मेरी तो लाइफ खत्म हो गई ऐसा फील होता है\".\n\nClip 7 (A): start L0142 \"आया हूं तो जब आप जैसे एक बड़ा\" — end L0149 \"वेर दे आर स्टार्टिंग फ्रॉम दैट\".\n\nClip 8 (H): start L0398 \"टॉक अबाउट फेलर राइट सो वी सर्कलिंग\" — end L0404 \"वी वांट टू फील एक्सेप्टेड\".\n\nClip 9 (I): start L0800 \"यू कुड इंप्रूव लर्न टू वर्क\" — end L0801 \"मेकिंग यू फील अ लिटिल लोडेड डोंट डू इट\". Hmm L0801's end_words: last few words of L0801 are \"...लोडेड डोंट डू इट बिकॉज देन\". I'll copy \"अ लिटिल लोडेड डोंट डू इट\".\n\nLengths (approx): C ~60s, G ~54s, D ~85s, B ~56s, F ~51s, E ~41s, A ~69s, H ~56s, I ~22s. All fine.\n\nvideo_read: Raj Shamani podcast with Shahid Kapoor, ~112 min; emotional material concentrated in childhood/parents discussion (~L0298–L0361), heartbreak discussion (~L0694–L0730), and vulnerability about feeling lesser.\n\nWrite JSON now."
+}

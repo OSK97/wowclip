@@ -20,10 +20,14 @@ environment and never touches that file.
 import os
 import sys
 
-# Where final_transcript sits, relative to website/pipeline/.
-_DEFAULT = os.path.normpath(
+# Where final_transcript sits. Check within repository first, then sibling workspace folder.
+_CANDIDATE_LOCAL = os.path.normpath(
+    os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "final_transcript")
+)
+_CANDIDATE_PARENT = os.path.normpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "final_transcript")
 )
+_DEFAULT = _CANDIDATE_LOCAL if os.path.isdir(_CANDIDATE_LOCAL) else _CANDIDATE_PARENT
 
 CLIPS_DIR = os.environ.get("CLIPS_PROJECT_DIR") or _DEFAULT
 PROMPTS_DIR = os.path.join(CLIPS_DIR, "prompts")

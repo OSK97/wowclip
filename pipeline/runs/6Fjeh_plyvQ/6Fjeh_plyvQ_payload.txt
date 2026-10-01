@@ -1,0 +1,147 @@
+DURATION 549s
+
+HOW TO READ
+  L0001 = line id. Refer to clips by id, never by time.
+  The number after the id = how many seconds that line takes to say. A passage's length is the sum of the numbers on its lines, plus any [pause] printed between them. This is the only thing in the document that measures length, and it is exact -- never estimate a duration any other way.
+  A row with a BLANK number column is not speech. It carries an id but no words, so a clip can never begin or end on one.
+  (fast)(slow) = measured pace, against this video's own normal.
+  [pause 2.1s] = measured silence.
+  [applause (youtube)] = YouTube's own captions marked a sound here; no duration given.
+  [COMMENT] = a viewer comment about THIS exact moment, on its own indented line. Rare and strong.
+  [COMMENT summary] = the same, but the comment was too long to quote, so this is a machine summary of it, not the viewer's own words. Weigh it as testimony, never quote it.
+  +N more viewers marked this moment = N other people commented on this same line. The number is the signal.
+  >> inside a line = YouTube's caption marker for the OTHER PERSON STARTING TO TALK. A speaker change, not a comment, not a word. Never copy it into start_words or end_words.
+  [REPLAYED] = YouTube's replay data peaks somewhere near this line. It marks a neighbourhood, not a word.
+  THE WORDS ARE THE TRUTH. If any tag contradicts them, ignore the tag.
+
+
+MOST-MARKED MOMENTS (line ids where viewer comments landed, busiest first)
+  L0038  2 viewer comments
+  L0042  2 viewer comments
+  L0043  2 viewer comments
+
+
+AUDIENCE (about the video overall, no fixed moment)
+  mood: Fans deeply moved by poetry and voice, eager for live shows.
+
+  loudest comments, verbatim:
+  "Her voice is like saruu in Sanam Teri kasam❤" (847 likes)
+  "my two fav poet in one frame❤😇" (89 likes)
+  "If any student is over here always keep in mind:- jis kavi ki zindagi me kalpana ho prem geet uss kavi ko ajj tum nakar do 🔥🔥" (46 likes)
+  "Kya khoobsurat ehsaason ko lafzon ka roop diya hai #Nayab Ma'am 🙏🏻❤️🩹☺️" (35 likes)
+  "They both are gem❤❤❤❤❤" (29 likes)
+  "Perhaps, the difference between what is miserable and that which is spectacular, lies in the leap of faith" please give the deep explanation 🥺😞😢" (25 likes)
+  "Love you both of you ❤❤❤❤❤❤❤❤❤❤❤❤❤" (15 likes)
+  "Wow her voice superb ❤" (13 likes)
+  "Kaha hain ki Ishq aur pyar ek hi to baat hain Ki ishq or pyaar ek hi to bat h Bas fark itna hain ki Ek din hain aur ek raat hain Or is din se raat tak ka faasla Sirf junuun tay karta hai Or ye kisko kisse ho wo ajkl kanu" (11 likes)
+  "Pls rate my shyari❤❤❤❤❤ Is gaar duniya ma raha nahi jata. Kisi gaar ko apna kaha nahi jata. Log milta to bahut ha par apna mil na pata." (9 likes)
+  "Best duo ❤❤" (8 likes)
+  "Really a huge fan of you ❤" (8 likes)
+  "Ishq aur pyaar ek hi toh baat h Farq bs itna h ki ek din h aur ek raat h Aur raat se din k fasla sirf junoon tay krta h aur yeh kisko kisse ho aajkll kannon tay krta h" (7 likes)
+  "the depth in her voice🥰🥰🥰🥰" (7 likes)
+  "Sabut nahi hota pyaar mein hone ka, Sabut nahi hota pyaar mein hone ka Wo tho shahjahan tha jise dar tha mumtaz ko khone ka ❤" (6 likes)
+  "RIP for audience 😂😂😂... Who buyer tickets for this show😂" (6 likes)
+  "I like your voice very much ❤❤" (6 likes)
+  "I start my day with the sweet voice of this beautiful ❤️😍 girl 💖" (5 likes)
+  "Taj Mahal kha aur prabhu shreeram ka pyar kha jo duniya se lad pda maiya sita ke liye. Jay Shree Ram ❤" (4 likes)
+  "Your voice like killer ❤❤" (4 likes)
+  "Maturity is when You realize both of them are not an actual poet." (2 likes)
+  "Kya krein video dekh ke aapne to kisi ko propose kar dia hai ab😅" (3 likes)
+  "Nayab je ap na sach ma bohot nayab ho matlob bilkul alg" (3 likes)
+  "Yrr mujhe ye achha lga ki mumtaz kaha se laoge❤❤❤" (3 likes)
+  "ap ke live voice suno ko di lkart ha" (3 likes)
+  "manhar ke sath our video lao pls🙂😍" (3 likes)
+  "Nayab midha di I love your Poetry's❤❤❤😊" (3 likes)
+  "Please give a show in dehradun" (3 likes)
+  "Nayab sis so beautiful ❤" (3 likes)
+  "She is so mesmerizing ❤" (3 likes)
+
+
+TRANSCRIPT
+L0001    8.0s  हाय एवरीबॉडी नमस्ते। जल्दी से वीडियो शुरू करेंगे। आई विल नॉट टेक अ लॉट ऑफ योर टाइम। बट मैं सिर्फ आपको यह बताना चाहती थी कि आपने लंदन वाले
+L0002    8.1s  शो को इतना प्यार दिया। वी हैव पुट वन शो ऑन 29th ऑफ़ जून जो ऑलमोस्ट सोल्ड आउट हो गया है। तो हमने पूरा का पूरा मतलब हिम्मत दिखा
+L0003    7.8s  के पूरा का पूरा टूर डाल दिया है। सो नाउ 28थ ऑफ़ जून इज़ डबलिंग। 29 इज़ लंदन एंड फोर्थ इज़ बर्मिंगम। फिफ्थ इज़ रेडिंग इफ आई सेइंग द
+L0004    9.0s  नेम राइट। एंड सिक्स्थ इज़ लंदन अगेन इन हैरो। एंड देन वी आर गोइंग ऑन अ यूरोप टूर व्हिच इज बर्लिन, फ्रैंकफर्ट एंड एमस्टरडम। मैंने सारी डिटेल्स लास्ट में
+       [COMMENT] "0:30 I only know frankfurt because waha Germany ka एकीकरण karne ki pehel hui thi - class 10th desease. 😅" (4 likes)
+L0005    9.6s  लगा दी है। सो बस आप टिकट्स ले लो और इंडिया टूर जारी है। इंडिया टूर के टिकट्स भी यहां पे है। बॉम्बे, हैदराबाद एंड एंड एंड एंड बोर
+L0006    6.5s  (fast) हैव बीन अनाउंस्ड। बस मुझे यही कहना था कि आप जल्दी से अपने टूर के टिकट्स ले लो। मिलते हैं शोज़ पे एंड एंजॉय द वीडियो। एक दादा और भी
+L0007    9.8s  [REPLAYED] सरप्राइज है मेरे पास जो कि शायद लड़कियों का एंगल ज्यादा खूबसूरत से बता पाएंगी। आपकी इजाजत के साथ मैं किसी स्टेज पर किसी को आमंत्रित कर रहा हूं।
+L0008   12.2s  आपने रील्स वगैरह में उन्हें देखा होगा। वह भी बड़ी खूबसूरत पोएट्री करती हैं। आपकी जोरदार तालियों के बीच जोरदार तालियों के बीच स्टेज पे बुला रहा हूं नायाब मिदा
+L0009    3.3s  (slow) को। जोरदार तालियां बजनी चाहिए।
+L0010          [pause 1.3s]
+L0011    9.3s  (slow) नायाब दोस्तों प्लीज आओ नायाब जी। आहा हा क्या बात है गर्ल्स गर्ल्स गर्ल्स गर्ल्स बताएंगी
+L0012    3.2s  कहां है मेरी गर्ल गैंग ये रही ये रही ये रही
+L0013    9.1s  (fast) थैंक गॉड मैं तो डर गई थी कि मनर की ऑडियंस मुझे जानती है कि भी नहीं जानती अरे नहीं नहीं सब सारी ऑडियंसेस जानती है हां रहने दो साल दो साल पहले मैं मन के शो
+L0014   12.1s  में गई मुंबई में और क्या एलिट ऑडियंस थी मैंने इतने कलेक्टिवली रईस लोग ही नहीं देखे और मैं देख रही हूं मनर मतलब ताली कैसे बजा रहे हैं ना मैं बताती हूं एक मिनट माइक पकड़ो
+L0015          [long gap 4.5s]
+L0016    8.8s  कुछ भी नायाब कुछ भी मन में आ रहा हो इनके लिए कुछ भी कपल्स इन द हाउस गिव मी अ चेयर कपल्स कपल्स सिंगल्स इन द हाउस गिव मी अ चेयर
+L0017          [pause 1.4s]
+L0018    7.3s  सी क्या क्यों है तुम्हारे पास इतनी एनर्जी है मैं बताती हूं इनका टाइम वेस्ट करने वाला कोई इंसान ही
+L0019    7.4s  नहीं है ये सुबह 5:00 बजे तक किसी से बातें नहीं कर रहे ये किसी से इनकी नींद पूरी यार पूरी
+L0020    5.4s  (fast) है भाई। नया बट व्हाट इज योर टेक ऑन लव दीज़ डेज। व्हाट इज हैप्पेनिंग? मेरे पास ना एक बहुत अच्छा
+       [COMMENT] "2:25 jab se i am committed mai time se sone laga" (0 likes)
+L0021    5.6s  ऐसे मैं ये स्टूल खींच लूं। हां हां हां हां प्लीज प्लीज स्टूल। मेरे मेरा रुको रुको रुको। लड़कियों को काम नहीं करने
+       [COMMENT] "2:30 the way he........❤" (21 likes)
+L0022   10.5s  देते। जब मैं छोटी थी तो ये बात मेरे मां-बाप को नहीं पता थी। मेरे को एक ऐसा ना आई जस्ट वांट टू शेयर दिस थॉट कि मुझे ऐसा लगता है कि अक्सर ना लोग
+       [COMMENT] "2:36 his laugh was terrible 😂" (0 likes)
+L0023    9.8s  जुनून को प्रेम समझ लेते हैं। है ना? इफ यू थिंक अबाउट इट दैट व्हेन यू टॉक अबाउट लव ना कि हम लोगों को प्रेम का जो कोटा है प्यार का वो भरपूर मिला है। इट्स
+L0024    9.6s  इनफाइनाइट टू अस बिकॉज़ वो हमें हर चीज से करना है इस दुनिया में। जैसे हमें दुनिया से तो प्यार करना ही है। इसके हर इंसान से जो दो जो अल्टीमेट थॉट है कि आपको अपनी
+L0025   10.2s  नौकरी से प्यार करना चाहिए। अपने परिवार से, दोस्तों से तो उसका कोटा बड़ा इनफाइनाइट टाइप का है। बट वेयर एस जुनून पैशन इट्स लाइक फायर उसका बड़ा लिमिटेड मिला है। तो आप एक आधे शक
+L0026    9.6s  से एक आधे सपने से कर लेते हैं। उतनी ही कैपेसिटी होती है हमारे पास खुद को बर्न करने की। और जब प्यार और जुनून का एक बैलेंस बैठता है तो वो इश्क बनता है। है
+L0027    9.1s  (fast) ना? जो आपको इसीलिए इश्क आपको एक ही शख्स से होता है। कैपेसिटी ही उतनी है। सम टाइम्स व्हाट हैपेंस इन हम जुनून को प्यार समझ लेते हैं कि इफ बिकम पैशनेट अबाउट वन पर्सन और
+       [COMMENT] "3:25 ❤" (1 likes)
+L0028    9.6s  [REPLAYED] हमें लगता है यही है जो है कि ये जुनून एंड इट सॉर्ट ऑफ़ एंड्स अप बर्निंग अस। कहा है कि इश्क और प्यार एक ही तो बात है। कि इश्क और प्यार एक ही तो
+       [COMMENT] "3:35 shayri ❤" (3 likes)
+L0029   11.3s  [REPLAYED] बात है। फर्क बस इतना है कि एक दिन है और एक रात है। और इस दिन से रात का फासला सिर्फ जुनून तय करता है। और ये किसको किससे हो आजकल कानून तय करता है।
+L0030          [प्रशंसा (youtube)]
+L0031   10.3s  [REPLAYED] और मैंने सुना है मैंने सुना है एक दफा शाहजहां ने मुमताज के लिए ताजमहल बनवाया था। कि मैंने सुना है एक दफा शाहजहां ने मुमताज के
+       [COMMENT] "4:02 ❤" (4 likes)
+L0032    8.4s  लिए ताजमहल बनवाया था। अपने इश्क में होने का सबूत पूरी दुनिया को दिखाया था। मगर मैंने यह भी सुना है कि काट दिए थे ताज बनाने वालों
+       [COMMENT] "4:13.. The way he listens to her 🫶😇.... Huge fan of uhh 💓" (179 likes)
+L0033    7.7s  के हाथ और साथ ही काट दिए थे हौसले कि ताज कोई और बना ना सके उससे ऊपर अपने इश्क की दास्तान कोई और सुना ना सके
+L0034   11.8s  [REPLAYED] (slow) मैं सोचती हूं मैं सोचती हूं उस जुनून में अगर थोड़ा प्यार जुड़ जाता तो इश्क का सबूत वो सातवां जुबा यहां का हर घर कहलाता आहा आहा
+       [COMMENT] "4:35❤❤❤❤" (0 likes)
+L0035          [pause 1.7s]
+L0036    9.0s  [REPLAYED] (slow) उससे मिलती जुलती आवाज कहां से लाओगे ताजमहल तो बनवा लोगे मुमताज कहां से? आय हाय क्या बात
+       [COMMENT] "4:38 hits❤" (0 likes)
+L0037    8.5s  [REPLAYED] है। क्या इसी पे ना बशीर साहब का एक बहुत सुंदर शेर है। वो कहते हैं कि अगर तलाश करूं कि अगर तलाश करूं तो कोई मिल ही जाएगा।
+       [COMMENT] "The shayari at 4:50" (2 likes)
+L0038   13.1s  [REPLAYED] (slow) कि अगर तलाश करूं तो कोई मिल ही जाएगा। मगर तुम्हारी तरह कौन मुझको चाहेगा कि चाहतों से देखेगा जरूर तुमको कोई। मगर वो आंखें हमारी कहां से लाएगा।
+       [COMMENT] "4:58" (0 likes)
+       [COMMENT] "5:06 best" (0 likes)
+L0039          [pause 3.5s]
+L0040    7.3s  (slow) आंखों से वो याद आया कि हमने तुझको इतना देखा जितना देखा जा सकता
+L0041    9.7s  लेकिन फिर भी इन दो आंखों से कितना देखा जा सकता यार क्या बात है यार एक बार अपने लिए जोरदार तालियां बजा दो यार पोएट्री ऑडियंस यार मजा आ
+L0042   10.3s  रहा है वाह यार बहुत सुंदर नायाब कुछ और एक मेरी वो रिक्वेस्ट तो है ही वो मुस्कुराओ वाली वो सबको सबको मुस्कुराओ जब मैं मरूंगी ना मेरे खून से निकलेगी
+       [COMMENT] "5:40 This piece hits different every time💗" (8 likes)
+       [COMMENT] "5:41" (0 likes)
+L0043   10.0s  मुस्कुराओ मुस्कुराओ अगर आज कहीं से हार गए हो। उस जीत की जरूरत तुमसे ज्यादा किसी को थी शायद। मुस्कुराओ अगर कुछ खो गया है।
+       [COMMENT] "muskarao kavita @ 5:42" (0 likes)
+       [COMMENT] "5:42 mushkarao" (0 likes)
+L0044    9.6s  जिसके नसीब का था उसको मिल गया है शायद। मुस्कुराओ अगर दिल टूट गया है। किसी का जोड़ने के लिए किसी का तोड़ना पड़ता होगा शायद।
+L0045    8.3s  और फिर भी रह जाए अगर दिल में दर्द कहीं तो बांट कर मुस्कुराओ। और है अगर दिल में खुशी ज्यादा तो सेम प्रोसेस दोहराओ।
+L0046    7.6s  मुस्कुराओ अगर सर पर है छत बदन पर है कपड़ा और है थाली में खाना और है अगर जरूरत से ज्यादा तो बांट कर घर जाना।
+L0047    7.3s  मुस्कुराओ जब बार-बार यह सोच कर हताश हो जाते हो कि इससे अच्छा यह हो जाता, इससे अच्छा वो हो जाता। तब यह सोच कर
+L0048    9.3s  मुस्कुराओ कि इससे बुरा हो जाता तो क्या हो जाता। मुस्कुराओ जब पूछे कोई कि जिंदगी जीने का है क्या सलीका। मुस्कुराओ यह कह कर कि
+L0049    8.8s  [REPLAYED] हमने जिंदगी से मुस्कुराना ही सीखा। मुस्कुराओ। वो दुनिया जो तुमसे पूछती रहती है ना ग्लास तुम आधा खाली देखते हो, भरा देखते हो। मुस्कुराओ इवन
+L0050    7.3s  इफ यू हैव टू वर्क माइल्स एंड माइल्स बिकॉज़ इट्स ओके इफ द ग्लास इज हाफ एम्प्टी यू कैन ऑलवेज ऑलवेज फिल इट विथ स्माइल्स। मुस्कुराओ।
+L0051          [long gap 5.3s]
+L0052    8.4s  भाई ग्लास हाफ एम्प्टी भाई। देयर इज ऑलवेज रूम फॉर शराब। याह। देयर इज़ ऑलवेज देयर इज ऑलवेज रूम फॉर स्माइल्स। राहत
+L0053    5.8s  (fast) इंदौरी साहब की एक यह गज़ल है बहुत सुंदर। वो जब आप जब आप अपने लोएस्ट पे होते हो ना, तो आपको
+L0054    6.0s  असलियत पता लगती है कि कौन तुम्हारा सच्चा दोस्त है। मुझे ऐसा लगता है उन्होंने इसी इसी भावना पे कहीं लिखा था
+       [COMMENT] "7:10😪💕💕" (6 likes)
+L0055    9.0s  कि मेरे अपने मुझे मिट्टी में मिलाने आए। आ मेरे अपने मुझे मिट्टी में मिलाने आए। अब जाकर कहीं मेरे होश दिखाने आए।
+L0056    7.2s  कि मेरे अपने मुझे मिट्टी में मिलाने आए। अब जाकर कहीं मेरे होश ठिकाने आए। तूने बालों में सजा रखा था कागज
+L0057    8.2s  का गुलाब। आहा कि तूने बालों में सजा रखा था कागज का गुलाब। मैं समझा कि बहारों के जमाने आए। और दोस्त होकर
+L0058    9.3s  भी महीनों नहीं मिलता मुझसे। और दोस्त होकर भी महीनों नहीं मिलता मुझसे। उसे कहो किसी दिन जख्म लगाने आए। कि फुर्सतें
+L0059    8.7s  चाट रही है मेरी हस्ती का लहू। कि फुर्सतें चाट रही है मेरी हस्ती का लहू। मुंतज़िर हूं कि कोई मुझे बुलाने आए।
+L0060    1.7s  कोई मुझे बुलाने
+L0061   10.9s  आए। बालों की बात करी ना इन्होंने याद आ गया। वो एक शेर है ना कि उधर जुल्फों में कंघी हो रही है। कि उधर जुल्फों में कंघी हो रही है। खम
+L0062   13.5s  (slow) निकलता है। इधर रुक-रुक के खींच खींच के हमारा दम निकलता है। और इलाही खैर हो उलझन पे उलझन बढ़ती जाती है। ना उनका गम निकलता है ना हमारा दम निकलता है।
+       [COMMENT] "8:22 ✨🥀" (1 likes)
+L0063          [long gap 4.4s]
+L0064    7.6s  (fast) हां और जाने से पहले तुम सब दिल टूटे आशिकों को यही कह के जाऊंगी कि नेवर नेवर गिव योर लव अवे उस इंसान के साथ छोड़ नहीं देना है
+L0065    5.8s  (fast) जो इंसान जा रहा है तुम्हारे जीवन से उसे वापस एक ही चीज लेनी होती है झगड़े वगड़े नहीं उससे वो प्रेम वापस लेना होता है खुद के लिए जो
+L0066    9.9s  [REPLAYED] तुमने उसको दिया था। इन्वेस्टमेंट हैज़ टू बी टेकन बैक ताकि तुम भी ये कह सको कि गिला नहीं इरशाद इरशाद इरशाद इरशाद के गिला नहीं अगर पीठ में खंजर
+L0067   12.0s  [REPLAYED] लगे लाखों मेरे इस खौफ से मैं अपनी मोहब्बत का सौदा नहीं करूंगी थैंक यू गाइस कैन मी प्लीज कीप इट गोइंग कौन आया मेरा तालियां रुकनी नहीं चाहिए दोस्तों
+L0068          [music (youtube)]

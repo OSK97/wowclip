@@ -1,0 +1,5960 @@
+{
+  "meta": {
+    "duration_s": 3976.0,
+    "transcript": "C:\\Users\\DP\\Desktop\\App\\website\\pipeline\\runs\\zZ-VeqYPxoA\\zZ-VeqYPxoA_final.json",
+    "clip_start_s": 0.0,
+    "video": {
+      "video_id": "zZ-VeqYPxoA",
+      "title": "Dr. Velumani On Building ₹5000 Crore Business, Poverty, Risk & Success | FO174 | Raj Shamani",
+      "channel": "Raj Shamani",
+      "duration_s": 3976.0,
+      "views": "6159097"
+    },
+    "comments_placed": 63,
+    "replay_peaks": 16,
+    "comment_stats": {
+      "raw": 1000,
+      "pages": 11,
+      "duplicates_folded": 25,
+      "promo_dropped": 0,
+      "chapter_indexes": 6,
+      "empty": 0,
+      "timestamped": 65,
+      "summarised": 0,
+      "general_seen": 904,
+      "general_kept": 557,
+      "top_liked_spared": 24,
+      "llm": {
+        "triage": {
+          "batches": 15,
+          "failed": 0,
+          "cost_usd": 0.00133
+        },
+        "themes": {
+          "cost_usd": 0.00075
+        },
+        "promo": {
+          "batches": 1,
+          "failed": 0,
+          "cost_usd": 4e-05
+        },
+        "summarise": {},
+        "cost_usd": 0.00212
+      }
+    }
+  },
+  "audience": {
+    "themes": {
+      "mood": "An audience deeply engaged by Velumani's humor, punchlines, and entrepreneurial journey.",
+      "themes": []
+    },
+    "general": [
+      {
+        "text": "I have worked for 3 years in Thyrocare They hired me as a fresher, I am very proud of you Sir",
+        "likes": 3918,
+        "replies": 41,
+        "dupes": 0,
+        "id": 65
+      },
+      {
+        "text": "Kon kon reels dekh ke aya he ?? 😂😂",
+        "likes": 3095,
+        "replies": 188,
+        "dupes": 0,
+        "id": 77
+      },
+      {
+        "text": "Best line for me and many young Indians was \" Poverty gives you the power to take fast decisions\" 💪",
+        "likes": 2534,
+        "replies": 12,
+        "dupes": 0,
+        "id": 66
+      },
+      {
+        "text": "Behind every successful man, there is a wife turned secretary,behind every failed man is a secretary turned wife😂",
+        "likes": 1731,
+        "replies": 55,
+        "dupes": 0,
+        "id": 79
+      },
+      {
+        "text": "My favorite punch line is 1. Keeping the price low 2. Let your competitors do marketing for you 3. You can never take decision when you discuss be independent and take decision alone. 4. Freedom is the biggest blessing. 5. Fortunately born poor 6. Take risk when you feel you have nothing to lose. ( Count this as blessings) 7. When his wife said \"i want to be the greatest person of a struggling family rather then a mediocre person of a established family\" 8. Hire more freshers and train them by your self it's better then hiring experienced persons. And on the lighter note \"Everyone wants an experienced employee but no one wants an experienced wife 😂😂\" very Halirous ☺️☺️",
+        "likes": 1623,
+        "replies": 49,
+        "dupes": 0,
+        "weak": true,
+        "id": 76
+      },
+      {
+        "text": "Grandpa is more savage then today's teens 😞🤣🤣♥️🔥🔥",
+        "likes": 688,
+        "replies": 6,
+        "dupes": 0,
+        "id": 70
+      },
+      {
+        "text": "Any 18 year old here",
+        "likes": 579,
+        "replies": 68,
+        "dupes": 0,
+        "id": 254
+      },
+      {
+        "text": "Last punch line... If you do new mistake everyday you will be billionaire, and if you make a same mistake everyday you will be beggar...😊....such a inspiring talk...👌👌👍",
+        "likes": 528,
+        "replies": 1,
+        "dupes": 1,
+        "id": 69
+      },
+      {
+        "text": "Velumani sir 🎉youngster need a person like you to guide u 😊😊😊😊",
+        "likes": 448,
+        "replies": 14,
+        "dupes": 0,
+        "id": 83
+      },
+      {
+        "text": "My punch line on this great man: He is not Dr.Velumani, but Dr. VALUE-MONEY!😊",
+        "likes": 421,
+        "replies": 4,
+        "dupes": 0,
+        "id": 71
+      },
+      {
+        "text": "I am also a 68 yrs old young man.Rebuilt my 34 yrs old business at the age of 63.But i have learnt alot after watching this podcast.This interview will inspire many new comers in near future.Also i Salute Dr.Velumani sir for his courage and his punch lines.",
+        "likes": 400,
+        "replies": 6,
+        "dupes": 0,
+        "id": 84
+      },
+      {
+        "text": "His sense of Humour is too high 👌👌👌",
+        "likes": 363,
+        "replies": 1,
+        "dupes": 0,
+        "id": 73
+      },
+      {
+        "text": "Best podcast ever, when he told \"there are Tamil audience across the world unko happiness aana chahiye\" proud as a tamilian ❤ such a great man",
+        "likes": 353,
+        "replies": 7,
+        "dupes": 0,
+        "id": 87
+      },
+      {
+        "text": "I started my business after watching DR. Velumani sir in 2020 .. a big thank you 🙏.. FOCUS-LEARN-GROW-ENJOY..",
+        "likes": 340,
+        "replies": 4,
+        "dupes": 0,
+        "id": 81
+      },
+      {
+        "text": "\"Success is delta\" what a line",
+        "likes": 336,
+        "replies": 6,
+        "dupes": 0,
+        "id": 106
+      },
+      {
+        "text": "Why does our schools not teach about this person.. Such a fantastic person with vast knowledge❤",
+        "likes": 320,
+        "replies": 4,
+        "dupes": 0,
+        "id": 88
+      },
+      {
+        "text": "\"Jeena tha toh Coimbatore mein bhi jee sakta tha par Mumbai aya toh jeetna hai\" ek filmy dialogue hai yeh toh lekin bohat zabardast motivation. Very inspiring journey",
+        "likes": 248,
+        "replies": 2,
+        "dupes": 0,
+        "id": 96
+      },
+      {
+        "text": "Personally, Enjoy It. He's actually a Storyteller and his punches are Mindblowing.. Never saw this type of Entrepreneur..♥️ A Man With Simple Mind..",
+        "likes": 197,
+        "replies": 0,
+        "dupes": 0,
+        "id": 92
+      },
+      {
+        "text": "Kon kon reels dekh kar aya hai?😅",
+        "likes": 180,
+        "replies": 21,
+        "dupes": 0,
+        "id": 260
+      },
+      {
+        "text": "I found the real definition of alpha male😮😮😮 Hats off to you sir..❤ Thankyou very much raj bhaia.",
+        "likes": 172,
+        "replies": 0,
+        "dupes": 0,
+        "id": 80
+      },
+      {
+        "text": "\"August 18, 1982 Kanyakumari to Mumbai Jayanti Janta express, boarded at Coimbatore, s9 coach berth number 41 and landed in Mumbai like a Don with 500 rupees in my body \" 😌.. I could literally imagine in mind watching a movie. He is such a great story teller ❤",
+        "likes": 165,
+        "replies": 3,
+        "dupes": 0,
+        "id": 103
+      },
+      {
+        "text": "First time I saw Raj has no questions to ask. He's just stunned. Velumani sir is genius because of his background he learned many things in early age. Understanding of things, decision-making is the best way.. Loved it❤",
+        "likes": 166,
+        "replies": 0,
+        "dupes": 0,
+        "id": 78
+      },
+      {
+        "text": "This is best Indian podcast page because shamani invites his Guest to speak not like other's to listen.",
+        "likes": 125,
+        "replies": 2,
+        "dupes": 0,
+        "id": 91
+      },
+      {
+        "text": "Best Line : \"Aaya Toh Pahad , gaya toh baal \" , What a Man , Very inspiring talk🔥🔥🔥",
+        "likes": 105,
+        "replies": 1,
+        "dupes": 0,
+        "id": 67
+      },
+      {
+        "text": "Is it just me or when he said pampered kids can’t run business Raj got pinched , his face sulked 😅😅😂",
+        "likes": 94,
+        "replies": 1,
+        "dupes": 0,
+        "id": 74
+      },
+      {
+        "text": "Truly inspiring. In a world that is running behind the exploitative and toxic corporate culture, man chose to stick to his words of recruiting only freshers! Mad respect ! Raj, get more such iconic people. Thanks 🙏🏼❤️",
+        "likes": 80,
+        "replies": 0,
+        "dupes": 0,
+        "id": 107
+      },
+      {
+        "text": "Raj's happyness in this podcast was another level. He really loved talking to him.",
+        "likes": 80,
+        "replies": 0,
+        "dupes": 0,
+        "id": 99
+      },
+      {
+        "text": "He remembers every incident of his life so vividly...Only some one who is fully involved with life can do so",
+        "likes": 78,
+        "replies": 0,
+        "dupes": 0,
+        "id": 94
+      },
+      {
+        "text": "Best punch line\"if you don't love your spouse your neighbour will,if you don't train your employee your compdeter will. either you can discuss or you can decide you can't do both because once you discuss you cannot decide.\"",
+        "likes": 77,
+        "replies": 0,
+        "dupes": 0,
+        "id": 90
+      },
+      {
+        "text": "The way he acknowledges Dr. Kartikeyan and says \" Agar woh nahi hota to main aaj Raj Shamani ke samne baitha nahi hota \" is the epic moment of this interview. Simple line but deep meaning ❤",
+        "likes": 70,
+        "replies": 1,
+        "dupes": 0,
+        "id": 133
+      },
+      {
+        "text": "the words he said ''Todays parents give everything but freedom '' this is sooo trueee , and all we need is freedom and we will earn everything else .",
+        "likes": 62,
+        "replies": 0,
+        "dupes": 0,
+        "id": 75
+      },
+      {
+        "text": "Best podcast, On intelligence. On life. On punch line. On journey. On mistakes . On bussines. Everything with lots of enjoyment",
+        "likes": 58,
+        "replies": 0,
+        "dupes": 0,
+        "id": 95
+      },
+      {
+        "text": "Landed here from the shorts, skipping dozen of celebrities, scroll 12 rows to find this interview. This is a healthy food for hunger intellectual, a businessman or any curious heart (not mind :) ). His every punchline is drives to rethinking, motivate to work smart and enjoy the life. Love from PK. Thanks Raj for producing one of your best content.",
+        "likes": 54,
+        "replies": 0,
+        "dupes": 0,
+        "id": 119
+      },
+      {
+        "text": "Truly a teacher with no conditions....Only wisdom full of punch lines😂❤❤❤",
+        "likes": 54,
+        "replies": 0,
+        "dupes": 0,
+        "id": 98
+      },
+      {
+        "text": "AAYA TO PAHAD, GAYA TO BAAL was inspiring...❤❤",
+        "likes": 51,
+        "replies": 4,
+        "dupes": 0,
+        "id": 194
+      },
+      {
+        "text": "I loved all of the punchlines, my favourite was \"If you do what you studied for, you will survive. But if you work on what you didn't , you will become a leader\"",
+        "likes": 50,
+        "replies": 1,
+        "dupes": 0,
+        "id": 115
+      },
+      {
+        "text": "Jeene aaya ya jitne aaya..",
+        "likes": 49,
+        "replies": 0,
+        "dupes": 0,
+        "id": 238
+      },
+      {
+        "text": "In 1982 i did not know where is thrid Was, In 1992 I finish a PHD in Thyroid in Chemistry In 2002 i am running a world 's largest Thyroid laboratory Here Comes the Punch Line If You do what you have studied you will survive But If you do what you have not studied You will be the Leader !",
+        "likes": 45,
+        "replies": 0,
+        "dupes": 0,
+        "id": 261
+      },
+      {
+        "text": "I love the way he keeps throwing in his punchlines (and telegraphing them beforehand) - very inspirational",
+        "likes": 41,
+        "replies": 0,
+        "dupes": 0,
+        "id": 104
+      },
+      {
+        "text": "Raj I'm from tamilnadu, I was badly waiting for him to be a guest absolutelyy loved it Thank you so much❤",
+        "likes": 41,
+        "replies": 0,
+        "dupes": 0,
+        "id": 109
+      },
+      {
+        "text": "This has to be the best podcast in the globe. Goosebumps.. Hands down Sir... \"Jeena hein ya Jitna hein?\" 💪🏻 If I become someone in this planet, I will always remain grateful to this man's journey and risk taking abilities and down to earth attitude. God bless all. ❤️",
+        "likes": 37,
+        "replies": 0,
+        "dupes": 0,
+        "id": 100
+      },
+      {
+        "text": "Another Brilliant podcast Raj... Velumani Sir is the best story teller I have heard till date. His punchlines will not let you skip a single second of what he is saying... My fav punchline : For every successful man the wife becomes the secretary and for every failed man the secretary becomes the wife...😂😂😂",
+        "likes": 33,
+        "replies": 0,
+        "dupes": 0,
+        "id": 225
+      },
+      {
+        "text": "Legend's word \"If u don't love ur spouse ,ur neighbor will\" 😂",
+        "likes": 31,
+        "replies": 1,
+        "dupes": 0,
+        "id": 248
+      },
+      {
+        "text": "Currently, I'm feeling like I'm at a low point in my life with no clarity on what I'm doing. This podcast really boosted me, Dr. Velumani Sir! You are amazing and a true inspiration for many. Thank you!!",
+        "likes": 28,
+        "replies": 1,
+        "dupes": 0,
+        "id": 155
+      },
+      {
+        "text": "Poverty is a fortune. Pampered child can not be a good enterpreneur. There is a time tp quit from Mad race. Freshers are like blank paper in which one can draw futuristic image. Thanks Raj & Mani sir both.",
+        "likes": 27,
+        "replies": 0,
+        "dupes": 0,
+        "id": 116
+      },
+      {
+        "text": "In life either you can discuss or you can decide , you can not do both because once you discuss you can't decide 💯",
+        "likes": 22,
+        "replies": 0,
+        "dupes": 0,
+        "id": 112
+      },
+      {
+        "text": "The end was a shocker when he told us about why he exited. What a man ! Thank you for such a great podcast. A lot of takeaways, will have to listen to it again ! Keep on going!",
+        "likes": 21,
+        "replies": 0,
+        "dupes": 0,
+        "id": 211
+      },
+      {
+        "text": "One Rare Thing I learn from Dr. Velumani sir Is That If You Have patience \"every Thing, That Is Unfortunate Become A FORTUNATE\"❤❤",
+        "likes": 18,
+        "replies": 0,
+        "dupes": 0,
+        "id": 135
+      },
+      {
+        "text": "By the ending I was emotional for them. Their punches made me pause the video, digest & note the points. We can indeed listen to them non-stop for days! 👏🏻 May God shower them so much health, happiness & long life! ❤❤",
+        "likes": 17,
+        "replies": 1,
+        "dupes": 0,
+        "id": 222
+      },
+      {
+        "text": "I respect and pray for his Blind Boss who have made him a great entrepreneur... Very inspiring Velumani Sir",
+        "likes": 15,
+        "replies": 1,
+        "dupes": 0,
+        "id": 174
+      },
+      {
+        "text": "I'm just half way through n I haven't met a more dynamic and visionary Man like u ....d way u laugh ur heart out brings Joy...God bless you Raj u can't do better than this.... awesome",
+        "likes": 15,
+        "replies": 0,
+        "dupes": 0,
+        "id": 123
+      },
+      {
+        "text": "Thanks from bottom of my heart for having this podcast... I can't tell in words how valuable this is ❤❤",
+        "likes": 15,
+        "replies": 0,
+        "dupes": 0,
+        "id": 163
+      },
+      {
+        "text": "He is the master of punch line 😂❤",
+        "likes": 14,
+        "replies": 0,
+        "dupes": 0,
+        "id": 129
+      },
+      {
+        "text": "Truly...He Is A GREAT STORY TELLER 👏👏",
+        "likes": 13,
+        "replies": 0,
+        "dupes": 0,
+        "id": 172
+      },
+      {
+        "text": "It is true that his exit from Thyrocare is best case scenario.. Dr. Velumani has exited when the stock price was 1200.. the company's stock has never seen that price ever again. He knew his business and he could forecast it so well, exiting the business that time was perhaps the best decision one could make....",
+        "likes": 12,
+        "replies": 0,
+        "dupes": 0,
+        "id": 124
+      },
+      {
+        "text": "What an amazing person he is. Coming to this podcast by watching just a 10 seconds reel and I decided then to watch whole podcast and it’s worth watching ❤. Love from 🇵🇰",
+        "likes": 10,
+        "replies": 3,
+        "dupes": 0,
+        "id": 186
+      },
+      {
+        "text": "I have left with words to describe Dr. Velumani sir, he is a genius himself and a Happy man. This is the bestest podcast i have ever listened to, the energy sir has and his sense of humour is next level. All he can do now is to disrupt the Stand Up comedy shows, this should be his next goal. I wish him a good health and long life. Raj thank you this wonderful podcast 😊",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 224
+      },
+      {
+        "text": "punch line is ''everyone want experienced employee but during marriage time no anyone want like that '' super line",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 121
+      },
+      {
+        "text": "My favourite punch line was like - Ideas are like spearms one in a million works 👍",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 110
+      },
+      {
+        "text": "Superb Podcast.. The Best Punch line is Bada Banna hai toh Risk Lena padega..",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 171
+      },
+      {
+        "text": "\"Kidhar tha ,aur kidhar agaya, aur kidhar ja sakta hu \"👌💥",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 117
+      },
+      {
+        "text": "Learnings • Positive outlook on everything • If you don't love your spouse neighbour will • Unrealistic expectations are problem • Intelligance makes you powerful • How you do is more important than what you do Bada Bano bhudhha nahi • Take calculated risk Don't discuss take decisions if you are independent • Never copy exceptions Ideas are like sperm, only in million work",
+        "likes": 10,
+        "replies": 0,
+        "dupes": 0,
+        "id": 204
+      },
+      {
+        "text": "I just love the punch line. Same had happened with me many a times, today I have got the words. Either you can discuss or decide, you can't do both.",
+        "likes": 10,
+        "replies": 0,
+        "dupes": 0,
+        "id": 218
+      },
+      {
+        "text": "Shamani accha handle kiya. Ye admi to hira hai. Overload of experience, storytelling, comic timing.",
+        "likes": 10,
+        "replies": 0,
+        "dupes": 0,
+        "id": 149
+      },
+      {
+        "text": "My Fevorate Punchline \"If you love your children give them MONEY Not the COMPANY\" 😂😂",
+        "likes": 10,
+        "replies": 0,
+        "dupes": 0,
+        "id": 127
+      },
+      {
+        "text": "Mujhe laga Modi ji aye he",
+        "likes": 8,
+        "replies": 4,
+        "dupes": 0,
+        "id": 262
+      },
+      {
+        "text": "\"Fortunately\" I am watching your show ❤",
+        "likes": 10,
+        "replies": 0,
+        "dupes": 0,
+        "id": 148
+      },
+      {
+        "text": "The success what he got is the result of his clarity on the idea he had..A poor child who fought for daily meals now got 5000cr in his pocket... His journey is of freedom, a man of gut and decision making phenomenon 🙂",
+        "likes": 9,
+        "replies": 0,
+        "dupes": 0,
+        "id": 164
+      },
+      {
+        "text": "this is indeed the best podcast I have ever listened to. The insights about entrepreneurship and his life journey are mind blowing. Raj please do have Dr. Velumani again on your show.",
+        "likes": 9,
+        "replies": 0,
+        "dupes": 0,
+        "id": 167
+      },
+      {
+        "text": "Felt like the term 'down to earth' has been coined after Mr. Velumani. Such a brilliant and full of sense of humour man. This podcast reminded me that life is like a ball thrown at a wall. It always comes back with double the speed. Circumstances either break or make you. It is all about how you look at them",
+        "likes": 8,
+        "replies": 0,
+        "dupes": 0,
+        "id": 226
+      },
+      {
+        "text": "Velumani sir hatsoff to you... Lengends of India. We are in outside india and know the value of collecting blood samples at home for blood test.",
+        "likes": 8,
+        "replies": 0,
+        "dupes": 0,
+        "id": 142
+      },
+      {
+        "text": "Best Punch line :- If you do what you study u will survive, If you do what don't study you will be a leader !!!",
+        "likes": 8,
+        "replies": 0,
+        "dupes": 0,
+        "id": 249
+      },
+      {
+        "text": "It's been a year now, every weekend I used to listen to your podcast while cooking food and washing utensils! By the way, I love to cook! It has become a habit now; I've listened to each podcast that you've uploaded, and it really helps me a lot, more than pursuing an MBA admission after graduation. Kudos to the entire team @figuring out 👏",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 179
+      },
+      {
+        "text": "What a man🔥🔥🔥. Really awesome one of his line is you feel you are suffering and others enjoying but i feel i am enjoing and others suffering 🔥fabulous. Really he is enjoined his own path even in horrible situations. There is a lot to learn from dr.velumani. awesome 🔥🔥",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 176
+      },
+      {
+        "text": "Love you Velumani Sir... Very Inspiring and thought provoking punchlines...Am Amazed... You built the business for the comman man... you detached from your business like Buddha... let all the good energies of the universe bless you and your family... Thank You Raj ❤",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 187
+      },
+      {
+        "text": "This is pure gold. This podcast should be shown to all the busniss school and this man's story should be part of every school curriculum. Hat's off to the courage and grit of this man.India will inspire from you ways.",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 168
+      },
+      {
+        "text": "Literally,,, amazing I just speechless...i didn't know him but after this podcast I love this man...what a sense of humour , and his punch line is very deep... totally unmatchable...",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 230
+      },
+      {
+        "text": "Very well done interview ….enjoyed Velumani sir’s life experiences, punch lines. My salute to his wife who is the rock of his life & RIP. Inspired.",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 185
+      },
+      {
+        "text": "Most awaited punch line- if u don't like your Spouse your neighbour will and if u don't like your employee your competitors will",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 146
+      },
+      {
+        "text": "Mad Respect Raj for bringing him on podcast.....Big Salute to Velumani Sir❤❤❤❤",
+        "likes": 7,
+        "replies": 0,
+        "dupes": 0,
+        "id": 134
+      }
+    ]
+  },
+  "baselines": {
+    "SPK1": {
+      "wpm_hi": 173.05695540553498,
+      "wpm_lo": 99.96481587597022,
+      "wpm_mid": 135.59322033898226,
+      "lines": 406
+    }
+  },
+  "rows": [
+    {
+      "kind": "line",
+      "start": 0.12,
+      "end": 6.479,
+      "tags": [],
+      "text": "पॉवर्टी गिव्स यू पावर टू टेक डिसीजंस वास फॉर्चूनेटली पुअर एंड वास फोर्चुनेगीएंट्स",
+      "reactions": [],
+      "id": "L0001",
+      "seconds": 6.4
+    },
+    {
+      "kind": "event",
+      "start": 22.69,
+      "end": 23.89,
+      "text": "[music (youtube)]",
+      "id": "L0002"
+    },
+    {
+      "kind": "line",
+      "start": 30.48,
+      "end": 38.96,
+      "tags": [],
+      "text": "फर पक्रिया कैंसर जस्ट 50 डेज बिफोर माय आईपीओ एंड सी वास द बैक बोन बिहाइंड माय एंटर जर्नी एंड",
+      "reactions": [],
+      "id": "L0003",
+      "seconds": 8.5,
+      "comments": [
+        {
+          "text": "0:35",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 38.96,
+      "end": 47.36,
+      "tags": [],
+      "text": "लूजिंग हर वा लाइक य नो स्केलिंग द एवरेस्ट विथ यर बेस्ट कंपन एंड ओनली 50 मोर मीटर लेफ्ट आउंड",
+      "reactions": [],
+      "id": "L0004",
+      "seconds": 8.4
+    },
+    {
+      "kind": "line",
+      "start": 47.719,
+      "end": 57.64,
+      "tags": [],
+      "text": "य आई थट आई मस्ट सेल द कंपनी एंड गो एंड रिलक्स अभी किसके लिए बनाना आज इस एपिसोड प मेरे",
+      "reactions": [],
+      "id": "L0005",
+      "seconds": 9.9
+    },
+    {
+      "kind": "line",
+      "start": 57.76,
+      "end": 67.479,
+      "tags": [],
+      "text": "पर्सनल सबसे फेवरेट स्टोरी टेलर एंटरप्रेन्योर आए हैं मुझे नहीं लगता कि इन एंटरप्रेन्योर से बेटर मैं किसी स्टोरी टेलर से",
+      "reactions": [],
+      "id": "L0006",
+      "seconds": 9.7
+    },
+    {
+      "kind": "line",
+      "start": 67.479,
+      "end": 74.32,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "मिलाऊं क्योंकि इनकी स्टोरी इतनी खतरनाक है एक गांव में पैदा होकर जहां ना उन्हें इंग्लिश आती है ना उनके पास",
+      "reactions": [],
+      "id": "L0007",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 74.32,
+      "end": 83.28,
+      "tags": [],
+      "text": "चप्पल ढंग से पहनने की ना वह स्कूल गए वहां से हिंदुस्तान की सबसे बड़ी डायग्नोस्टिक कंपनी बनाने की जरनी है",
+      "reactions": [],
+      "id": "L0008",
+      "seconds": 9.0
+    },
+    {
+      "kind": "line",
+      "start": 83.28,
+      "end": 91.32,
+      "tags": [],
+      "text": "ये कैसे एक इंसान छोटे से गांव में एक गरीब परिवार में पैदा होके 5000 करोड़ की कंपनी बना लेता है",
+      "reactions": [],
+      "id": "L0009",
+      "seconds": 8.0
+    },
+    {
+      "kind": "line",
+      "start": 91.32,
+      "end": 99.24,
+      "tags": [],
+      "text": "यह एपिसोड एक ऐसी पर्सनालिटी के बारे में है जिसने गांव से एक छोटे से गरीब परिवार से स्टार्ट किया ना",
+      "reactions": [],
+      "id": "L0010",
+      "seconds": 7.9
+    },
+    {
+      "kind": "line",
+      "start": 99.24,
+      "end": 106.079,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "उनके पास पैसे थे पढ़ने के लिए उनको इतनी रिस्पांसिबिलिटी थी कि 10 साल की उम्र से अपने परिवार के सारे",
+      "reactions": [],
+      "id": "L0011",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 106.079,
+      "end": 115.88,
+      "tags": [],
+      "text": "डिसीजन वो ले रहे हैं और ना ही उन्होंने अपनी पूरी जर्नी में किसी भी डिग्री वाले इंसान को हायर किया उन्होंने",
+      "reactions": [],
+      "id": "L0012",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 116.039,
+      "end": 129.2,
+      "tags": [],
+      "text": "25000 और गांव वालों के साथ मिलके हिंदुस्तान की 5000 करोड़ की कंपनी बनाई इस एपिसोड में हमने सीखा है कि कैसे कोई भी बिजनेस को देखा जाता",
+      "reactions": [],
+      "id": "L0013",
+      "seconds": 13.2
+    },
+    {
+      "kind": "line",
+      "start": 129.2,
+      "end": 137.879,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "है उसमें बड़ी अपॉर्चुनिटी कैसे ढूंढी जाती है कौन से ऐसे बिजनेस है जिनको स्केल किया जा सकता है कौन सीसी कैटेगरी हैं जहां पर बिजनेस अटेम्प्ट किया जाना",
+      "reactions": [],
+      "id": "L0014",
+      "seconds": 8.7
+    },
+    {
+      "kind": "line",
+      "start": 137.879,
+      "end": 149.519,
+      "tags": [],
+      "text": "चाहिए कौन से ऐसे लोग हैं जो बिजनेस बना सकते हैं अगर हम बिजनेस नहीं बना सकते तो हमें क्या करना चाहिए एंड सबसे मेजर प्रॉब्लम कि लोग जीरो",
+      "reactions": [],
+      "id": "L0015",
+      "seconds": 11.6
+    },
+    {
+      "kind": "line",
+      "start": 149.519,
+      "end": 161.28,
+      "tags": [],
+      "text": "से पे कैसे जाए वन से 10 प कैसे जाए और 10 से 100 पर कैसे जाए ये पूरा एपिसोड एंटरप्रेन्योरशिप अपॉर्चुनिटी ग्रोथ बिजनेस ना जाने किस-किस के बारे",
+      "reactions": [],
+      "id": "L0016",
+      "seconds": 11.8
+    },
+    {
+      "kind": "line",
+      "start": 161.28,
+      "end": 172.08,
+      "tags": [],
+      "text": "में मेरा यह फेवरेट एपिसोड है इस साल का जाके यह एपिसोड पूरा देखो बिकॉज आई टेल यू अगर ये एपिसोड तुमने पूरा देख लिया तो तुम्हें इस",
+      "reactions": [],
+      "id": "L0017",
+      "seconds": 10.8
+    },
+    {
+      "kind": "line",
+      "start": 172.08,
+      "end": 180.0,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "इंसान से प्यार हो जाएगा इस इंसान की जरनी से प्यार हो जाएगा एंड यू विल नो कि मैं क्यों इतना हाईली उनके बारे में बात कर रहा हूं",
+      "reactions": [],
+      "id": "L0018",
+      "seconds": 7.9
+    },
+    {
+      "kind": "line",
+      "start": 180.0,
+      "end": 189.56,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "द एपिसोड इज विथ डॉक्टर वेलू मनी ऑफ थायरोकेयर प्लीज एंजॉय द शो बिफोर यू डू दैट राजुमानी क्लिप्स और राजुमानी शॉर्ट चैनल जाकर सब्सक्राइब कर लो क्योंकि वहां",
+      "reactions": [],
+      "id": "L0019",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 189.56,
+      "end": 200.159,
+      "tags": [],
+      "text": "पर हम इस बड़े एपिसोड की छोटी-छोटी क्लिप्स काटकर आप लोगों के सामने लाते हैं ताकि आप एक बेहतर लीडर बन सके बहुत ही कम समय में एंजॉय द",
+      "reactions": [],
+      "id": "L0020",
+      "seconds": 10.6
+    },
+    {
+      "kind": "event",
+      "start": 200.159,
+      "end": 203.36,
+      "text": "[pause 3.2s]",
+      "id": "L0021"
+    },
+    {
+      "kind": "line",
+      "start": 203.36,
+      "end": 216.799,
+      "tags": [],
+      "text": "शो आप एक्सेप्शनली गुड स्टोरी टेलर हो और मतलब अपार्ट फ्रॉम दैट अब आपकी जर्नी के जितना समझा जाए जितना सुनता हूं मैं उतना ज्यादा इंस्पायर होता हूं सो थैंक यू सो मच",
+      "reactions": [],
+      "id": "L0022",
+      "seconds": 13.4
+    },
+    {
+      "kind": "line",
+      "start": 216.799,
+      "end": 226.519,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "पहले तो आप इधर आने के लिए थैंक यू इट्स एन ऑनर बहुत टाइम से हम ट्राई कर रहे हैं फाइनली आप आ गए मजा आया वी आर देयर यस तो फर्स्ट थिंग",
+      "reactions": [],
+      "id": "L0023",
+      "seconds": 9.7
+    },
+    {
+      "kind": "line",
+      "start": 227.319,
+      "end": 240.359,
+      "tags": [],
+      "text": "फॉर 1 पर पीपल जो नहीं जानते आपको उनके लिए आप बताओ कि आप कौन हो आप क्या करते हो और कहां से स्टार्ट करी जर्नी एकदम जीरो से बताओ मुझे एकदम बिगिनिंग से वास फर्च",
+      "reactions": [],
+      "id": "L0024",
+      "seconds": 13.0
+    },
+    {
+      "kind": "line",
+      "start": 241.239,
+      "end": 249.4,
+      "tags": [],
+      "text": "फर्नेट पुर एंड वास फर्नेट बोर्न इन विलेज ओके दस टू कॉमिनेशन आर द",
+      "reactions": [],
+      "id": "L0025",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 249.64,
+      "end": 250.84,
+      "tags": [],
+      "text": "खतरनाक",
+      "reactions": [],
+      "id": "L0026",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 250.84,
+      "end": 252.319,
+      "text": "[pause 1.5s]",
+      "id": "L0027"
+    },
+    {
+      "kind": "line",
+      "start": 252.319,
+      "end": 267.479,
+      "tags": [],
+      "text": "कॉकटेल टू गिव बैकग्राउंड वाई डिड फ्रॉम वेर आई हैव गट माय स्ट्रेंथ ओके तो वसा तो डिग्री खत्म हुई तमिलनाडु में कोयंबटूर में नौकरी नहीं मिली उसके कारण में",
+      "reactions": [],
+      "id": "L0028",
+      "seconds": 15.2
+    },
+    {
+      "kind": "line",
+      "start": 267.479,
+      "end": 282.639,
+      "tags": [],
+      "text": "मुंबई आया था बाबा अटॉमिक रिसर्च सेंटर में एक गैजेटेड ऑफिसर की पोस्ट मिली जो गवर्नमेंट ऑफ इंडिया की मोस्ट प्रीमियम रिसर्च इंस्टिट्यूट है तो वहां शादी हुई वहां प्रमोशन",
+      "reactions": [],
+      "id": "L0029",
+      "seconds": 15.2
+    },
+    {
+      "kind": "line",
+      "start": 282.639,
+      "end": 293.039,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "हुई बीएससी के साथ आया था कभी सोचा नहीं था कि और भी डिग्री होंगे मुझे एमएससी भी करने मिले पीएचडी भी करने मिले सब कुछ ठीक ठाक चल रहा",
+      "reactions": [],
+      "id": "L0030",
+      "seconds": 10.4,
+      "comments": [
+        {
+          "text": "4:52 very true i feel the same sometime",
+          "likes": 0,
+          "dupes": 1,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 293.039,
+      "end": 308.56,
+      "tags": [],
+      "text": "तो मुझे ऐसा लगा समथिंग इ रंग तो नौकरी रिजन किया और थोड़ा दो लाख रुप य सेविंग्स था उसको इन्वेस्ट करके एक थायरोकेयर करके एक ब्रांड चालू किया 27 इयर्स",
+      "reactions": [],
+      "id": "L0031",
+      "seconds": 15.5
+    },
+    {
+      "kind": "line",
+      "start": 309.16,
+      "end": 316.759,
+      "tags": [],
+      "text": "चलाया वन मैन देन वन मोर सेकंड वास माय वाइफ एस एंप्लॉई देन फोर देन 8",
+      "reactions": [],
+      "id": "L0032",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 316.759,
+      "end": 326.56,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "देन 16 फाइनली आई हैव एंप्लॉयड 25000 फ्रेशर्स इन माय ऑर्गेनाइजेशन इन 25 इयर्स ऑफ जर्नी",
+      "reactions": [],
+      "id": "L0033",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 326.919,
+      "end": 342.08,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "25000 फ्रेशर्स ओके और पूरा दुनिया में इंडिया चीपेस्ट इन हेल्थ केयर पूरा हिंदुस्तान में सबसे चीपेस्ट में हूं और मेरा प्रॉफिट 40 ट",
+      "reactions": [],
+      "id": "L0034",
+      "seconds": 15.2,
+      "comments": [
+        {
+          "text": "Why are you writing his words you can simply rewatch this podcast....!.🤔🙄 5:33 Because it was very inappropriate, that sir is trying to explain very passionately and are ignoring him !",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 342.36,
+      "end": 353.199,
+      "tags": [],
+      "text": "था और न बिलियन डॉलर मार्केट कैप में कंपनी पहुंच गई मुझे ऐसा लगा कि एग्जिट करूंगा तो सेलिब्रेट कर सकता है बैठ के सेलिब्रेट नहीं करना है",
+      "reactions": [],
+      "id": "L0035",
+      "seconds": 10.8
+    },
+    {
+      "kind": "line",
+      "start": 353.199,
+      "end": 367.599,
+      "tags": [],
+      "text": "तो एग्जिट कर डाला दो साल पहले 2021 जून महीना में एंड दैट फीलिंग 00 लेकर आया था और 5000 करोड़ का सिंगल चेक मेरा हाथ में मिला तो",
+      "reactions": [],
+      "id": "L0036",
+      "seconds": 14.4
+    },
+    {
+      "kind": "line",
+      "start": 367.599,
+      "end": 376.759,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "सेलिब्रेट किया अब इस टाइमलाइन को एक एक पार्ट में ब्रेक करके शुरू से करते हैं फर्स्ट आपने बोला कि आप एक छोटे से विलेज में पैदा हुए",
+      "reactions": [],
+      "id": "L0037",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 376.759,
+      "end": 389.72,
+      "tags": [],
+      "text": "थे जहां पर यू आर फॉर्चूनेटली बर्न इन पुअर फैमिली एंड इन विलेज तो ऐसे क्यों बोला कि फॉर्चूनेटली मैं पुअर था और फॉर्चूनेटली मैं विलेज में पैदा हुआ",
+      "reactions": [],
+      "id": "L0038",
+      "seconds": 13.0
+    },
+    {
+      "kind": "line",
+      "start": 390.36,
+      "end": 402.84,
+      "tags": [],
+      "text": "सक्सेस इन लाइफ इज डेल्टा ओके डेल्टा इज एक्सट माइनस एक्सव एक्सट में आज कहां हूं एक्सव में तभी कहां था मेरा एक्सव ही जीरो",
+      "reactions": [],
+      "id": "L0039",
+      "seconds": 12.5
+    },
+    {
+      "kind": "line",
+      "start": 402.84,
+      "end": 410.68,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "था कोने के लिए तो कुछ है ही नहीं है जबी खने के लिए कुछ नहीं होता है आप डिसीन जल्दी लेते हैं तो धनवान",
+      "reactions": [],
+      "id": "L0040",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 410.68,
+      "end": 420.44,
+      "tags": [],
+      "text": "हमेशा खने का डर होता है तो डिसीन ले नहीं पाते हैं तो मेरा तो कुछ डिसीजन बिल्कुल जट जट से डिसीजन लिया हूं नंबर",
+      "reactions": [],
+      "id": "L0041",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 420.44,
+      "end": 432.799,
+      "tags": [],
+      "text": "वन पॉवर्टी गिव्स यू पावर टू टेक डिसीजन दूसरा जब भी आप पुअर हो वो भी गांव में हो तो रोज सुबह से शाम तक प्रॉब्लम",
+      "reactions": [],
+      "id": "L0042",
+      "seconds": 12.4
+    },
+    {
+      "kind": "line",
+      "start": 432.96,
+      "end": 442.599,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "सॉल्व और जबी पांच उम्र से त प्रॉब्लम सॉल्व करने लगा एग्जांपल प्रॉब्लम सॉल्विंग का घर में यह नहीं रहेगा वो नहीं रहेगा उसको लेके आना है कम",
+      "reactions": [],
+      "id": "L0043",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 442.599,
+      "end": 455.879,
+      "tags": [],
+      "text": "पड़ेगा ब्रदर सिस्टर्स को खाना नहीं रहेगा फीस भरने के लिए पैसा नहीं रहेगा एक जूता फटा हुआ रहेगा नट जूता चप्पल उसमें एक पिन मार के दूसरा वाला",
+      "reactions": [],
+      "id": "L0044",
+      "seconds": 13.3
+    },
+    {
+      "kind": "line",
+      "start": 455.879,
+      "end": 470.4,
+      "tags": [],
+      "text": "को अजस्ट करके जिंदगी चलाना पंचलाइन बताता हूं इफ यू हैव मास्टर्ड यर लाइफ इन नो रिसोर्सेस लिविंग लाइफ विथ लो रिसोर्सेस इ लगजरी माय फादर वास नीदर",
+      "reactions": [],
+      "id": "L0045",
+      "seconds": 14.5,
+      "comments": [
+        {
+          "text": "07:38 what a coincidence was listening this podcast and got a call from Thyrocare for an interview. Alhamdulillah 🌜🌝",
+          "likes": 35,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 470.4,
+      "end": 485.039,
+      "tags": [],
+      "text": "एन एंप्लॉई नर एन एंप्लॉयर तो फिर क्या करते थे पापा पापा का पैपड चाइल्ड था तो ही डि हैव कैपेबिलिटी वर्क ओके एंड ही डिन रिलाइज दैट चिल्ड्रन",
+      "reactions": [],
+      "id": "L0046",
+      "seconds": 14.6
+    },
+    {
+      "kind": "line",
+      "start": 485.039,
+      "end": 499.479,
+      "tags": [],
+      "text": "नीड टू बी टोटली कर्ड फॉर लेट मी टेल यू हियर बिकॉज आई वास पुअर आई वास नॉट पैंपर्ड एंड पैंपर्ड चाइल्ड हैज नो कैपेबिलिटी अ पैरेंटेड चाइल्ड",
+      "reactions": [],
+      "id": "L0047",
+      "seconds": 14.4
+    },
+    {
+      "kind": "line",
+      "start": 499.479,
+      "end": 513.64,
+      "tags": [],
+      "text": "लॉट ऑफ कैपेबिलिटी मैं एक मेरा पीएचडी थीसिस में लास्ट एक अनोले जमेंट किया हूं उसके वर्ड्स समझाता हूं आई थैंक माय पेरेंट्स फॉर गिविंग मी नथिंग एक्सेप्ट फ्रीडम",
+      "reactions": [],
+      "id": "L0048",
+      "seconds": 14.2,
+      "comments": [
+        {
+          "text": "8:28 TRUE WORDS ❤",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 513.64,
+      "end": 527.44,
+      "tags": [],
+      "text": "इ वेरी पावरफुल वन आजकल की पेरेंट्स दे गिव एवरीथिंग अदर देन फ्रीडम ट्रू सो आई वास अगेन दो इलिटरेट पेरेंट्स दे ट्रस्टेड मी आई बिकम अ हेड ऑफ",
+      "reactions": [],
+      "id": "L0049",
+      "seconds": 13.8,
+      "comments": [
+        {
+          "text": "8:36. Very powerful line... Awesome 🎉",
+          "likes": 47,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 527.44,
+      "end": 537.52,
+      "tags": [],
+      "text": "द फैमिली एट एन एज ऑफ 10 बिकॉज आई एम द एल्डेस्ट आई हैव टू टेक केयर ऑफ फैमिली माय फादर वाज इट ट्रूली अंडरस्टैंडिंग व्हाट आ ऑल द",
+      "reactions": [],
+      "id": "L0050",
+      "seconds": 10.1
+    },
+    {
+      "kind": "line",
+      "start": 538.079,
+      "end": 553.2,
+      "tags": [],
+      "text": "रिस्पांसिबिलिटीज ओके क्वेश्चन फ्रीडम वन यू मीन जब आप बोलते हो कि यू र गिवन फ्रीडम और वो बहुत बड़ी स्ट्रेंथ होती है तो मीनिंग की जाओ कुछ भी करो ऐसा नहीं हैन फ्रीडम जनरली",
+      "reactions": [],
+      "id": "L0051",
+      "seconds": 15.1
+    },
+    {
+      "kind": "line",
+      "start": 553.2,
+      "end": 562.64,
+      "tags": [],
+      "text": "जब लड़का 10 साल का होता है उसको पिताजी का डिसीजन फॉलो करना है मेरा घर में",
+      "reactions": [],
+      "id": "L0052",
+      "seconds": 9.4
+    },
+    {
+      "kind": "line",
+      "start": 562.64,
+      "end": 570.12,
+      "tags": [],
+      "text": "मेरा पेरेंट्स भी मेरा डिसीजन फॉलो करने लगा दसवा उम्र से ए ऐसे क्यों बिकॉज दे फेल्ट आई",
+      "reactions": [],
+      "id": "L0053",
+      "seconds": 7.5,
+      "comments": [
+        {
+          "text": "9:30 Same thing happened with me 😅",
+          "likes": 5,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "9:25",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 570.8,
+      "end": 579.16,
+      "tags": [],
+      "text": "सस आई डोंट नो फ्रॉम वेर माय मदर वास ट्रूली टोटली ट्रस्टिंग मी सी फेल्ट फादर इज नॉट एबल टू लीड इट यू प्लीज",
+      "reactions": [],
+      "id": "L0054",
+      "seconds": 8.4
+    },
+    {
+      "kind": "line",
+      "start": 579.16,
+      "end": 590.44,
+      "tags": [],
+      "text": "टेक केयर एंड आई थिंक ट्स द सिंगल लार्जेस्ट स्ट्रेंथ टुडे इफ आई हैव टू टूक ल डिसीजन फॉर लास्ट 50 इयर्स आई एम 64",
+      "reactions": [],
+      "id": "L0055",
+      "seconds": 11.3
+    },
+    {
+      "kind": "event",
+      "start": 590.44,
+      "end": 592.0,
+      "text": "[pause 1.6s]",
+      "id": "L0056"
+    },
+    {
+      "kind": "line",
+      "start": 592.0,
+      "end": 606.44,
+      "tags": [],
+      "text": "65 तो डिड यू स्टार्ट मेकिंग मनी मतलब आप पैसे बनाते पैसे कमाते थे 10 साल की उम्र में इस दिस द रीजन और नहीं इसस की आप ज्यादा सेंस करते हो नहीं आई थिंक स्टिल रिमेंबर 25",
+      "reactions": [],
+      "id": "L0057",
+      "seconds": 14.4
+    },
+    {
+      "kind": "line",
+      "start": 607.0,
+      "end": 614.599,
+      "tags": [],
+      "text": "पैसा चार घंटा काम करेगा तो 25 पैसा मिलता था ट वास माय फर्स्ट टाइम आई हैव वर्क",
+      "reactions": [],
+      "id": "L0058",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 614.72,
+      "end": 620.279,
+      "tags": [],
+      "text": "फर मेकिंग मनी एट वट एज ट वास एट एन एज ऑफ",
+      "reactions": [],
+      "id": "L0059",
+      "seconds": 5.6
+    },
+    {
+      "kind": "line",
+      "start": 620.72,
+      "end": 629.64,
+      "tags": [],
+      "text": "11 एट एन एज ऑफ 13 न रप पर डे कॉटन प्लकिंग इन द हॉट सन",
+      "reactions": [],
+      "id": "L0060",
+      "seconds": 8.9
+    },
+    {
+      "kind": "event",
+      "start": 629.64,
+      "end": 630.88,
+      "text": "[pause 1.2s]",
+      "id": "L0061"
+    },
+    {
+      "kind": "line",
+      "start": 630.88,
+      "end": 640.44,
+      "tags": [],
+      "text": "मंथ ज मे समर ट पे फी इन जून एंड स दिन काम करने मिले रप मिलता है रप में मेरा",
+      "reactions": [],
+      "id": "L0062",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 640.44,
+      "end": 651.56,
+      "tags": [],
+      "text": "ब्रदर सबका फीस बर जाता हैट द लीडर ऑफ द फैमिली राइट सो इट वास र्निंग आल्सो फम देन ऑनवर्ड आई डोंट",
+      "reactions": [],
+      "id": "L0063",
+      "seconds": 11.1
+    },
+    {
+      "kind": "line",
+      "start": 651.839,
+      "end": 659.76,
+      "tags": [],
+      "text": "थिंक एनी समर वेकेशन आ हैड वेकेशन एनी टाइम इन द इवनिंग फ्रॉम 4 ओ क्लक 5 ओ क्लक डू",
+      "reactions": [],
+      "id": "L0064",
+      "seconds": 7.9
+    },
+    {
+      "kind": "line",
+      "start": 659.76,
+      "end": 668.64,
+      "tags": [],
+      "text": "सम पार्ट टाइम जॉब आई थिंक आई हैव वर्क लेट म गिव य अनदर पंचर लाइन 7 टू 11 वास द",
+      "reactions": [],
+      "id": "L0065",
+      "seconds": 8.9
+    },
+    {
+      "kind": "line",
+      "start": 669.12,
+      "end": 675.839,
+      "tags": [],
+      "text": "हेवन 7 एम टू 11 पीएम में 50 साल काम कर चुका",
+      "reactions": [],
+      "id": "L0066",
+      "seconds": 6.7
+    },
+    {
+      "kind": "line",
+      "start": 676.56,
+      "end": 681.12,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "हूं टू क्वेश्चन ऑन दटक",
+      "reactions": [],
+      "id": "L0067",
+      "seconds": 4.6
+    },
+    {
+      "kind": "line",
+      "start": 681.56,
+      "end": 690.72,
+      "tags": [],
+      "text": "वन डू यू कभी ऐसा कभी पॉइंट ऐसा लगा कि आप रिग्रेट करते हो कि बचपन में को मस्ती करनी होती मुझसे",
+      "reactions": [],
+      "id": "L0068",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 690.72,
+      "end": 697.36,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "ज्यादा कोई मस्ती किया ही नहीं है वो मस्ती नहीं किया जो लोग करते हैं मेरा मस्ती अलग है बट कभी ऐसे",
+      "reactions": [],
+      "id": "L0069",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 697.36,
+      "end": 703.279,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "कभी कुछ कभी सोचा रिग्रेट हुआ कुछ कि मैं भी आराम से जीता दूसरे बच्चों जैसे रहता मेरे पास भी खिलौने होते",
+      "reactions": [],
+      "id": "L0070",
+      "seconds": 5.9
+    },
+    {
+      "kind": "line",
+      "start": 703.279,
+      "end": 709.72,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "या मेरे पास भी और दूसरे दोस्त होते बाहर घूमने जाता बिना टाइम परस ए मेरे पास अच्छा कपड़ा होता है तो",
+      "reactions": [],
+      "id": "L0071",
+      "seconds": 6.4,
+      "comments": [
+        {
+          "text": "11:46 goosebumps moment",
+          "likes": 11,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 709.72,
+      "end": 718.24,
+      "tags": [],
+      "text": "ही मैं दोस्त लोगों के साथ घूमने जा सकता था ना लेट मी टेल यू इन अ पिरामिड ऑफ इकोनॉमी मेक 10",
+      "reactions": [],
+      "id": "L0072",
+      "seconds": 8.5
+    },
+    {
+      "kind": "line",
+      "start": 718.24,
+      "end": 728.44,
+      "tags": [],
+      "text": "स्लास आई वास इन द बॉटम ऑफ लाइ मेरा कोई फर्स्ट क्जन मेरा घर पर कभी आता नहीं था व्ट इ देर",
+      "reactions": [],
+      "id": "L0073",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 728.44,
+      "end": 735.44,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "बट लेट मी आल्सो टेल यू देर आर टू कांड्स ऑफ पीपल दिस इ अनदर पंचल एक सोचता है आई एम ओनली",
+      "reactions": [],
+      "id": "L0074",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 735.44,
+      "end": 744.68,
+      "tags": [],
+      "text": "सफरिंग ल अदर्स आर एंजॉय दूसरा सोचता है आई एम ओनली एंजॉयिंग ल अदर्स आर सफरिंग आई लवेज फेल्ट आई एम ओनली",
+      "reactions": [],
+      "id": "L0075",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 745.44,
+      "end": 755.76,
+      "tags": [],
+      "text": "एंजॉय एंड ऐसा एटीट्यूड बचपन से था बचपन से था इनफैक्ट कभी-कभी इंटरव्यूज में यह पूछते हैं डॉक्टर अवेल मनी इमेजिन यू हैव अपॉर्चुनिटी",
+      "reactions": [],
+      "id": "L0076",
+      "seconds": 10.3
+    },
+    {
+      "kind": "line",
+      "start": 755.76,
+      "end": 765.96,
+      "tags": [],
+      "text": "टू रिलीव योर लाइफ च पोर्शन ऑफ इट यू विल चेंज अरे भाई साहब बिरयानी तो अच्छी आई है तो रेसिपी में क्यों एक्सपेरिमेंट करनी",
+      "reactions": [],
+      "id": "L0077",
+      "seconds": 10.2
+    },
+    {
+      "kind": "event",
+      "start": 765.96,
+      "end": 768.959,
+      "text": "[pause 3.0s]",
+      "id": "L0078"
+    },
+    {
+      "kind": "line",
+      "start": 768.959,
+      "end": 778.48,
+      "tags": [],
+      "text": "है कुछ नहीं ब कुछ बदलेगा तो ये बिरयानी नहीं आएगा ये बढ़िया है जो है फर्स्ट क्लास ओके कमिंग बैक",
+      "reactions": [],
+      "id": "L0079",
+      "seconds": 9.5
+    },
+    {
+      "kind": "line",
+      "start": 778.48,
+      "end": 786.079,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "टू द स्टोरी आपकी अगेन ओ हम थे गांव में गांव से फिर स्टार्ट हुआ फिर आपने बोला कि डिग्री नहीं मिली",
+      "reactions": [],
+      "id": "L0080",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 786.079,
+      "end": 793.68,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "डिग्री मिली नौकरी नहीं मिली ओके क्या डिग्री करी टेक्स्ट बुक खरीदने के लिए मेरे पास पैसा नहीं था मैं 11थ 12थ",
+      "reactions": [],
+      "id": "L0081",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 793.68,
+      "end": 804.399,
+      "tags": [],
+      "text": "बिना टेक्स्ट बुक पढ़ चुका हूं और स्टिल आई गट 200 आउट ऑफ 200 इन मैथमेटिक्स 200 आ 200 मैथमेटिक्स और इंजीनियरिंग",
+      "reactions": [],
+      "id": "L0082",
+      "seconds": 10.7
+    },
+    {
+      "kind": "line",
+      "start": 804.399,
+      "end": 811.68,
+      "tags": [],
+      "text": "पढ़ने के लिए 5 साल था कोर्स वो जमेगा नहीं है सो तीन साल की कोर्स करने के लिए डिसीजन लिया",
+      "reactions": [],
+      "id": "L0083",
+      "seconds": 7.3
+    },
+    {
+      "kind": "line",
+      "start": 811.68,
+      "end": 820.6,
+      "tags": [],
+      "text": "और प्रोस्पेक्टस में देख रहा हूं बीकम तीन चार अक्षर है बीएससी तीन अक्षर है बीकम 00 फीस था बीएससी 00 फीस",
+      "reactions": [],
+      "id": "L0084",
+      "seconds": 8.9
+    },
+    {
+      "kind": "line",
+      "start": 820.6,
+      "end": 829.839,
+      "tags": [],
+      "text": "था मारवाड़ी का ब्रेन काम किया तो बीकम में जवाइन कर लिया आई वास बीम स्टूडेंट फॉर वन फुल मंथ वन फुल",
+      "reactions": [],
+      "id": "L0085",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 829.839,
+      "end": 838.92,
+      "tags": [],
+      "text": "मंथ एक डॉक्टर के आर कार्तिके एक प्रोफेसर था ही नो मोर उसने पूछा रे तू मैथमेटिक्स में सेंटम था हां साब",
+      "reactions": [],
+      "id": "L0086",
+      "seconds": 9.1
+    },
+    {
+      "kind": "line",
+      "start": 839.279,
+      "end": 848.12,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "क्यों इंजीनियरिंग नहीं किया गरीब सब अरे क्यों केमिस्ट्री नहीं किया सब गरीब सब बाद में उसको पता चला 00 रुपया में में बीकम में बैठना",
+      "reactions": [],
+      "id": "L0087",
+      "seconds": 8.8
+    },
+    {
+      "kind": "line",
+      "start": 848.12,
+      "end": 858.839,
+      "tags": [],
+      "text": "पड़ा अपना पकेट से रुपया निकाल केर मुझे कॉमर्स बिल्ल्डिंग से साइंस बिल्डिंग में लाया था अगर वह नहीं होता आज मैं राज समानी के सामने बैठकर",
+      "reactions": [],
+      "id": "L0088",
+      "seconds": 10.7
+    },
+    {
+      "kind": "event",
+      "start": 858.839,
+      "end": 860.759,
+      "text": "[pause 1.9s]",
+      "id": "L0089"
+    },
+    {
+      "kind": "line",
+      "start": 860.759,
+      "end": 862.959,
+      "tags": [],
+      "text": "बात वा",
+      "reactions": [],
+      "id": "L0090",
+      "seconds": 2.2
+    },
+    {
+      "kind": "line",
+      "start": 863.92,
+      "end": 872.56,
+      "tags": [],
+      "text": "अलेजो 19 यर्स बीएससी फर्स्ट क्लास मैं सोचा कोयर में बहुत एंटरप्राइस से बहुत सारा कंपनी से",
+      "reactions": [],
+      "id": "L0091",
+      "seconds": 8.6
+    },
+    {
+      "kind": "line",
+      "start": 872.56,
+      "end": 879.959,
+      "tags": [],
+      "text": "फैक्ट्री से नौकरी मिलनी चाहिए लेकिन 50 इंटरव्यू में लगभग 50 इंटरव्यू में मैं फेल होता ही जा",
+      "reactions": [],
+      "id": "L0092",
+      "seconds": 7.4
+    },
+    {
+      "kind": "line",
+      "start": 879.959,
+      "end": 888.44,
+      "tags": [],
+      "text": "रहा था कारण यह था कि सभी यही सवाल पूछ रहा था कि डू यू हैव एक्सपीरियंस अरे",
+      "reactions": [],
+      "id": "L0093",
+      "seconds": 8.5,
+      "comments": [
+        {
+          "text": "14:44 this still happens",
+          "likes": 5,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 888.44,
+      "end": 897.44,
+      "tags": [],
+      "text": "गदे एग्जाम मे महीना में खत्म हुआ जून महीना में अटेंड कर रहा हूं इंटरव्यू क से लेके",
+      "reactions": [],
+      "id": "L0094",
+      "seconds": 9.0,
+      "comments": [
+        {
+          "text": "14:50 this part😂",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "14:50",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 897.44,
+      "end": 899.56,
+      "text": "[pause 2.1s]",
+      "id": "L0095"
+    },
+    {
+      "kind": "line",
+      "start": 899.56,
+      "end": 906.839,
+      "tags": [],
+      "text": "इट्स ऑलमोस्ट लाइक सिटिंग इन फ्रंट ऑफ गर्ल म य आर लाइक टू मैरी एंड आस्किंग हर तुम्हारे कितने बच्चे",
+      "reactions": [],
+      "id": "L0096",
+      "seconds": 7.3,
+      "comments": [
+        {
+          "text": "15:01 savage 😂😂😂",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 906.839,
+      "end": 908.519,
+      "text": "[pause 1.7s]",
+      "id": "L0097"
+    },
+    {
+      "kind": "line",
+      "start": 908.519,
+      "end": 914.64,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "हैं सो इरिटेटिंग इ द क्वेश्चन सो 1978",
+      "reactions": [],
+      "id": "L0098",
+      "seconds": 6.1
+    },
+    {
+      "kind": "line",
+      "start": 914.88,
+      "end": 924.48,
+      "tags": [],
+      "text": "में जब मेरा उम्र 19 था एक डिसीजन लिया था अगर एक दिन मैं खुद कंपनी चलाऊ सिर्फ प्रेशर को",
+      "reactions": [],
+      "id": "L0099",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 924.48,
+      "end": 935.76,
+      "tags": [],
+      "text": "ही काम पर लूंगा एक्सपीरियंस को काम पर नहीं लूंगा ट्रस्ट आईव नेवर रिक्रूटेड एन एक्सपीरियंस मैन इनटू माय ऑर्गना ली",
+      "reactions": [],
+      "id": "L0100",
+      "seconds": 11.3,
+      "comments": [
+        {
+          "text": "15:27 hats of you sir.. I think you are the only person have kind mindset for freshers 🥺....today we are very suffered yo get a corporate job 🥺",
+          "likes": 11,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "15:35 🔥",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 935.92,
+      "end": 939.519,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "25000 फ्रश आई हैव",
+      "reactions": [],
+      "id": "L0101",
+      "seconds": 3.6
+    },
+    {
+      "kind": "line",
+      "start": 940.319,
+      "end": 947.399,
+      "tags": [],
+      "text": "एपल आई डोंट थिंक एनीबडी ड र टू डू इट एंड आई हैव डन ट ए",
+      "reactions": [],
+      "id": "L0102",
+      "seconds": 7.1
+    },
+    {
+      "kind": "line",
+      "start": 947.399,
+      "end": 958.599,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "ट्रस्ट मी मेरा कंपट का एंप्लॉई कास्ट 25 पर था मेरा एंप्लॉई कास्ट 10 पर था",
+      "reactions": [],
+      "id": "L0103",
+      "seconds": 11.2
+    },
+    {
+      "kind": "event",
+      "start": 958.599,
+      "end": 959.959,
+      "text": "[pause 1.4s]",
+      "id": "L0104"
+    },
+    {
+      "kind": "line",
+      "start": 959.959,
+      "end": 963.68,
+      "tags": [],
+      "text": "चा एंटरप्र के लिए एक पंचलाइन बोलता",
+      "reactions": [],
+      "id": "L0105",
+      "seconds": 3.7
+    },
+    {
+      "kind": "line",
+      "start": 964.04,
+      "end": 971.0,
+      "tags": [],
+      "text": "हूं इफ यू योरसेल्फ हैव ट्रेन यर एंप्लॉई अगर खुद आप अपना एंप्लॉई को सा दिन",
+      "reactions": [],
+      "id": "L0106",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 971.0,
+      "end": 981.399,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "ट्रेन किया तो तुम्हारा कंपट से हजार दिन ट्रेन हुआ एंप्लॉई से भी बेहतर है ट्रेन",
+      "reactions": [],
+      "id": "L0107",
+      "seconds": 10.4
+    },
+    {
+      "kind": "line",
+      "start": 981.72,
+      "end": 990.839,
+      "tags": [],
+      "text": "करो सो बहुत सारे लोग पूछते हैं सब आदमी नहीं मिलता है अरे हिंदुस्तान में आदमी नहीं मिला तो जर्मनी में थोड़ी",
+      "reactions": [],
+      "id": "L0108",
+      "seconds": 9.1
+    },
+    {
+      "kind": "event",
+      "start": 990.839,
+      "end": 993.199,
+      "text": "[pause 2.4s]",
+      "id": "L0109"
+    },
+    {
+      "kind": "line",
+      "start": 993.199,
+      "end": 1006.6,
+      "tags": [],
+      "text": "मिले साहब फ्रेशर मिलता है तो बहुत सिखाना पड़ता है आई टेल देम बच्चा चाहिए तो खुद का चाहिए एमप्ला चाहिए तो और कोई ट्रेन करके देना चाहिए ट्रेन योरसेल्फ और",
+      "reactions": [],
+      "id": "L0110",
+      "seconds": 13.4
+    },
+    {
+      "kind": "line",
+      "start": 1006.6,
+      "end": 1018.12,
+      "tags": [],
+      "text": "भी लोग पूछते हैं सब अच्छा ट्रेनिंग होने के बाद व निकल जाता है क्या करना है उसके लिए भी समझाता हूं इफ यू डोंट लव यर स्पाउस यर नेबर विल",
+      "reactions": [],
+      "id": "L0111",
+      "seconds": 11.5,
+      "comments": [
+        {
+          "text": "16:50",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "16:51 continue…",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "16:53 😂😂😂😂",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1019.0,
+      "end": 1021.479,
+      "tags": [],
+      "text": "डोंट लव यर एप्ल यर",
+      "reactions": [],
+      "id": "L0112",
+      "seconds": 2.5
+    },
+    {
+      "kind": "event",
+      "start": 1021.479,
+      "end": 1025.36,
+      "text": "[pause 3.9s]",
+      "id": "L0113"
+    },
+    {
+      "kind": "line",
+      "start": 1025.36,
+      "end": 1036.64,
+      "tags": [],
+      "text": "कपटर सो कोर वास लिटल डिपॉट एक्सपीरियंस फॉर मी फर्नेट फुटली फुटली गांव से आया हूं फर्नेट गरीब था फर्नेट डिग्री",
+      "reactions": [],
+      "id": "L0114",
+      "seconds": 11.3,
+      "comments": [
+        {
+          "text": "17:10 🤣🤦💯💯💯💯💯",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1036.64,
+      "end": 1045.759,
+      "tags": [],
+      "text": "भी मुश्किल से हुई है फर्नेट उर नौकरी नहीं मिली लास्ट में एक नौकरी मिली वो कंपनी भी बंद हो गई फुटली",
+      "reactions": [],
+      "id": "L0115",
+      "seconds": 9.1
+    },
+    {
+      "kind": "event",
+      "start": 1045.759,
+      "end": 1049.52,
+      "text": "[pause 3.8s]",
+      "id": "L0116"
+    },
+    {
+      "kind": "line",
+      "start": 1049.52,
+      "end": 1050.72,
+      "tags": [],
+      "text": "18",
+      "reactions": [],
+      "id": "L0117",
+      "seconds": 1.2
+    },
+    {
+      "kind": "line",
+      "start": 1051.72,
+      "end": 1063.799,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "1982 कन्याकुमारी टू मुंबई जयंती जनता एक्सप्रेस बोर्डेड इट इन कोयंबटूर एस ना कोच बर्थ नंबर 41 एंड आ",
+      "reactions": [],
+      "id": "L0118",
+      "seconds": 12.1,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1063.799,
+      "end": 1073.56,
+      "tags": [],
+      "text": "लैंड इन मुंबई लाइक अ डन विथ 00 र इन माय बॉडी बॉडी बिक कीप इन पॉकेट पिक पकेट",
+      "reactions": [],
+      "id": "L0119",
+      "seconds": 9.8,
+      "comments": [
+        {
+          "text": "17:44",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1073.56,
+      "end": 1078.96,
+      "text": "[long gap 5.4s]",
+      "id": "L0120"
+    },
+    {
+      "kind": "line",
+      "start": 1078.96,
+      "end": 1086.16,
+      "tags": [],
+      "text": "आई स्टेड इन वीटी रेलवे स्टेशन फॉर थ्री नाइट्स बिकॉज वा नो फ्रेंड टू रिसीव मी विथ",
+      "reactions": [],
+      "id": "L0121",
+      "seconds": 7.2,
+      "comments": [
+        {
+          "text": "18:00 slept on railway station 33:00 no emi",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 2
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1086.32,
+      "end": 1091.72,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "स्मार्टफोन एंड देर वाज नो क्रेडिट कार्ड टू चेक इन इन एनी होटल नर देर वास अ पर्स टू कीप",
+      "reactions": [],
+      "id": "L0122",
+      "seconds": 5.4
+    },
+    {
+      "kind": "line",
+      "start": 1091.72,
+      "end": 1100.999,
+      "tags": [],
+      "text": "क्रेडिट कार्ड सो ट्स हाउ आई लैड इन मुंबई एंड केम टू मुंबई बाबा एटॉमिक रिसर्च सेंटर में इंटरव्यू के लिए",
+      "reactions": [],
+      "id": "L0123",
+      "seconds": 9.3,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1100.999,
+      "end": 1102.84,
+      "text": "[pause 1.8s]",
+      "id": "L0124"
+    },
+    {
+      "kind": "line",
+      "start": 1102.84,
+      "end": 1114.0,
+      "tags": [],
+      "text": "एक लेटर आया था सो मैं उधर से निकला एक दिन लेही आया था यह सोचकर 36 आवर्स जर्नी है अगर वह 10 घंटा भी",
+      "reactions": [],
+      "id": "L0125",
+      "seconds": 11.2
+    },
+    {
+      "kind": "line",
+      "start": 1114.0,
+      "end": 1119.84,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "लेट हो सकता है रेलवे का कुछ भरोसा नहीं है अगर हम इंटरव्यू में नहीं गया तो कोई मानने वाला नहीं है करके एक दिन",
+      "reactions": [],
+      "id": "L0126",
+      "seconds": 5.8
+    },
+    {
+      "kind": "line",
+      "start": 1119.84,
+      "end": 1130.64,
+      "tags": [],
+      "text": "पहले ही आया था हम बिलीव मी उस दिन जिस दिन में मुंबई पहुंचा था उस दिन इतना बारिश गिरी मैं आने के बाद एक",
+      "reactions": [],
+      "id": "L0127",
+      "seconds": 10.8
+    },
+    {
+      "kind": "line",
+      "start": 1130.64,
+      "end": 1138.999,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "भी ट्रेन मुंबई के अंदर आया नहीं था और 300 लोगों को इंटरव्यू में बुलाया गया था सिर्फ 100 ही लोग आया था मेरा इंटरव्यू में",
+      "reactions": [],
+      "id": "L0128",
+      "seconds": 8.4
+    },
+    {
+      "kind": "line",
+      "start": 1139.32,
+      "end": 1140.52,
+      "tags": [],
+      "text": "नंबर",
+      "reactions": [],
+      "id": "L0129",
+      "seconds": 1.2
+    },
+    {
+      "kind": "line",
+      "start": 1140.88,
+      "end": 1151.12,
+      "tags": [],
+      "text": "ल री वेरी इंपोर्टेंट बिक य का लवेज टेल ट बड़ा साइंटिस्ट इसलिए नौकरी ला एवरीथिंग समटाइम लक",
+      "reactions": [],
+      "id": "L0130",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 1151.12,
+      "end": 1161.44,
+      "tags": [],
+      "text": "लेडी लक स्माइल्ड मी लेडी लक ब अरवा गेट जॉब गवनमेंट जब ग ऑफिसर पोस्ट मोस्ट प्रीमियम रिसर्च",
+      "reactions": [],
+      "id": "L0131",
+      "seconds": 10.3
+    },
+    {
+      "kind": "line",
+      "start": 1162.12,
+      "end": 1173.2,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "इंस्टिट्यूट सो वे नाउ है गुड सैलरी एंड ही इन मुंबई अभी लाइफ लुक्स ब्राइट एंड",
+      "reactions": [],
+      "id": "L0132",
+      "seconds": 11.1
+    },
+    {
+      "kind": "event",
+      "start": 1173.2,
+      "end": 1174.559,
+      "text": "[pause 1.4s]",
+      "id": "L0133"
+    },
+    {
+      "kind": "line",
+      "start": 1174.559,
+      "end": 1177.879,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "सबसीक्वेंटली एस सून लैड इन",
+      "reactions": [],
+      "id": "L0134",
+      "seconds": 3.3
+    },
+    {
+      "kind": "line",
+      "start": 1178.039,
+      "end": 1188.2,
+      "tags": [],
+      "text": "मुंबई माय फादर इन लॉ वास इन लव विथ मी फादर इन लॉ उस टाम शादी हो गई थी ही वास इन लव विथ मीट मीन अरेंज मैज",
+      "reactions": [],
+      "id": "L0135",
+      "seconds": 10.2
+    },
+    {
+      "kind": "event",
+      "start": 1188.2,
+      "end": 1191.24,
+      "text": "[pause 3.0s]",
+      "id": "L0136"
+    },
+    {
+      "kind": "line",
+      "start": 1191.24,
+      "end": 1199.84,
+      "tags": [],
+      "text": "ओके ओके दे ओली टू वे इन विच मैरिज गोस थ्रू वन इ फादर वाइफ हर सेल्फ इ इन लव विथ",
+      "reactions": [],
+      "id": "L0137",
+      "seconds": 8.6
+    },
+    {
+      "kind": "line",
+      "start": 1199.84,
+      "end": 1207.44,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "मी और हर पेरेंट्स है बी इन लव विथ मी राइट सो ही केम विथ इन वन ईयर ऑफ मी जॉइनिंग एंड",
+      "reactions": [],
+      "id": "L0138",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 1207.44,
+      "end": 1216.32,
+      "tags": [],
+      "text": "प्रपोज ही वास सिक्यूरिटी ऑफिसर इन बीआरसी अच्छा आई वास एन एंप्लॉई देर इन बीआरसी रिफ्यूज 83 आ रिफ्यूज 84 आई रिफ्यूज",
+      "reactions": [],
+      "id": "L0139",
+      "seconds": 8.9
+    },
+    {
+      "kind": "line",
+      "start": 1216.32,
+      "end": 1226.68,
+      "tags": [],
+      "text": "85 आल्सो सेम प्रपोजल कम्स सेम मैन कम्स देन आई थट लेट मी हैव लुक एट द ग पैसा तो नहीं लगता",
+      "reactions": [],
+      "id": "L0140",
+      "seconds": 10.4
+    },
+    {
+      "kind": "event",
+      "start": 1226.68,
+      "end": 1233.08,
+      "text": "[long gap 6.4s]",
+      "id": "L0141"
+    },
+    {
+      "kind": "line",
+      "start": 1233.08,
+      "end": 1240.919,
+      "tags": [],
+      "text": "सो इट वास यू नो ल लुमिनेट सो आई लुक फेर दैट हाउस वास नॉट प्रॉपर्ली लुमिनेट एंड आई फाउंड द",
+      "reactions": [],
+      "id": "L0142",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 1240.919,
+      "end": 1249.28,
+      "tags": [],
+      "text": "गर्ल नॉट इंप्रेसिव नफ एंड माय मदर विल नॉट लाइक आई नो फम माय मदर एंगल व्ट इ द ब्यूटी डॉटर",
+      "reactions": [],
+      "id": "L0143",
+      "seconds": 8.4
+    },
+    {
+      "kind": "line",
+      "start": 1249.28,
+      "end": 1261.039,
+      "tags": [],
+      "text": "इनलॉ देन आई थट कबर आई विल नॉट टेल एनीथिंग नाउ आई सेड लेट यू नोया आई डिन गो बैक ओके",
+      "reactions": [],
+      "id": "L0144",
+      "seconds": 11.8
+    },
+    {
+      "kind": "line",
+      "start": 1261.039,
+      "end": 1271.52,
+      "tags": [],
+      "text": "सो यू जस्ट ला छोड़ दिया आर्ड वर्क ही कीप्स अगेन वकिंग आई वास स्टेइंग इन महाराष्ट्रियन फैमिली एस अ पेस्ट",
+      "reactions": [],
+      "id": "L0145",
+      "seconds": 10.5
+    },
+    {
+      "kind": "line",
+      "start": 1272.159,
+      "end": 1281.68,
+      "tags": [],
+      "text": "सो आई टोल्ड माय लैंडलेडी इवन इफ आई एम इनसाइड इफ दिस जेंटलमैन कम्स टेल हिम आई एम नॉट देयर फाइव टाइम्स ही मैनेज्ड",
+      "reactions": [],
+      "id": "L0146",
+      "seconds": 9.5
+    },
+    {
+      "kind": "line",
+      "start": 1281.919,
+      "end": 1288.239,
+      "tags": [],
+      "text": "सिक्सथ टाइम दे टोल्ड नो ही इज पर्संग लाइक दिस यू मस्ट टेल हिम इट विल नॉट वर्क",
+      "reactions": [],
+      "id": "L0147",
+      "seconds": 6.3
+    },
+    {
+      "kind": "line",
+      "start": 1288.84,
+      "end": 1298.159,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "देन आई सेट इन फ्रंट ऑफ हिम मैं सोचा कि अगर मैं उससे फिर से मिलू व लड़की से और उसको डिस्कस कर दू तो यह रुक",
+      "reactions": [],
+      "id": "L0148",
+      "seconds": 9.3
+    },
+    {
+      "kind": "line",
+      "start": 1298.159,
+      "end": 1309.64,
+      "tags": [],
+      "text": "जाएगा अपने आप ही तो मैंने उसको पूछा था एक घंटा उससे बात कर सकता है क्या मीटिंग करा य टोल्ड यस आई विल अरेंज नरीमन पॉइंट",
+      "reactions": [],
+      "id": "L0149",
+      "seconds": 11.5
+    },
+    {
+      "kind": "line",
+      "start": 1309.64,
+      "end": 1321.279,
+      "tags": [],
+      "text": "मैडम कामा रोड स्टेट बैंक ऑफ इंडिया 14 फ्लोर इंटरनेशनल डिवीजन माय वाइफ वास वर्किंग सो अरेंज न सैटरडे इट वास हाफ डे सो वी आई वास",
+      "reactions": [],
+      "id": "L0150",
+      "seconds": 11.6
+    },
+    {
+      "kind": "line",
+      "start": 1321.279,
+      "end": 1331.16,
+      "tags": [],
+      "text": "देयर बाय 2 ओ क्लॉक एंड एक कबि में बैठ के बात किया था सो एक घंटा में कितना मिनट होता है 60 मिनट्स 55 मिनट्स आई ओनली",
+      "reactions": [],
+      "id": "L0151",
+      "seconds": 9.9
+    },
+    {
+      "kind": "line",
+      "start": 1332.039,
+      "end": 1337.08,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "टक्ड ओके एंड फाइ मिनट्स एब्सलूट साइलेंस वास",
+      "reactions": [],
+      "id": "L0152",
+      "seconds": 5.0,
+      "comments": [
+        {
+          "text": "22:14 Where lengends laugh 😂",
+          "likes": 4,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1337.08,
+      "end": 1338.72,
+      "text": "[pause 1.6s]",
+      "id": "L0153"
+    },
+    {
+      "kind": "line",
+      "start": 1338.72,
+      "end": 1342.52,
+      "tags": [],
+      "text": "देर आई डिसाइडेड आई मस्ट मैरी हर",
+      "reactions": [],
+      "id": "L0154",
+      "seconds": 3.8
+    },
+    {
+      "kind": "event",
+      "start": 1347.42,
+      "end": 1348.62,
+      "text": "[laughter (youtube)]",
+      "id": "L0155"
+    },
+    {
+      "kind": "line",
+      "start": 1350.4,
+      "end": 1363.32,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "कहीं देखा क्या लड़की चुपचाप एक घंटा व भी होने वाला पति का सामने बैठकर कुछ पूछा ही नहीं है वा टू नो व्ट आई हैव टॉक टू हर इन 45 मिनट्स व्ट आई हैव टॉक आई कैन",
+      "reactions": [],
+      "id": "L0156",
+      "seconds": 12.9
+    },
+    {
+      "kind": "line",
+      "start": 1363.32,
+      "end": 1378.759,
+      "tags": [],
+      "text": "टेल यू इन 45 सेकंड्स टेल मी लुक मैं पेइंग गस्ट में रहता हूं जिंदगी भर पेइंग रहूंगा घर नहीं खरीद पाऊंगा अब तैयार होनी चाहिए गांव में एक घर है टॉयलेट नहीं है आपको समझ में आनी चाहिए",
+      "reactions": [],
+      "id": "L0157",
+      "seconds": 15.4,
+      "comments": [
+        {
+          "text": "22:50",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1379.24,
+      "end": 1389.72,
+      "tags": [],
+      "text": "और परिवार में सबसे बड़ा लड़का हूं मैं तो मेरा पिताजी मम्मी को आपको ही देखभाल करना है और मेरा जो सिब्लिंग्स है सबका शादी आपका ही जिम्मेदारी",
+      "reactions": [],
+      "id": "L0158",
+      "seconds": 10.5
+    },
+    {
+      "kind": "line",
+      "start": 1390.0,
+      "end": 1401.4,
+      "tags": [],
+      "text": "है और हमारा शादी के लिए मेरे पास पैसा नहीं है और हमारा शादी के लिए जो आप फंडिंग करते हैं वह आपका पिताजी को पता चलना नहीं",
+      "reactions": [],
+      "id": "L0159",
+      "seconds": 11.4
+    },
+    {
+      "kind": "event",
+      "start": 1401.4,
+      "end": 1403.2,
+      "text": "[pause 1.8s]",
+      "id": "L0160"
+    },
+    {
+      "kind": "line",
+      "start": 1403.2,
+      "end": 1410.28,
+      "tags": [],
+      "text": "चाहिए ओके आई डोंट थिंक एनी इनसेन गर्ल विल अग्री मैं सोचा अगर",
+      "reactions": [],
+      "id": "L0161",
+      "seconds": 7.1
+    },
+    {
+      "kind": "line",
+      "start": 1410.559,
+      "end": 1421.999,
+      "tags": [],
+      "text": "आपको मुझसे शादी करना है तो अपना पिताजी को बेज दीजिए हम अगर नहीं करना है सो इतना ही बोल दीजिए कि लड़का को कुछ ना कुछ प्रॉब्लम है मेंटल प्रॉब्लम",
+      "reactions": [],
+      "id": "L0162",
+      "seconds": 11.4
+    },
+    {
+      "kind": "line",
+      "start": 1422.96,
+      "end": 1435.72,
+      "tags": [],
+      "text": "है सी डिन टेल यस नो नथिंग एब्सलूट स्टंड लुक एंड आई लेफ्ट मैं सोचा ये सेफ आई एम वेरी सेफ उस",
+      "reactions": [],
+      "id": "L0163",
+      "seconds": 12.8
+    },
+    {
+      "kind": "line",
+      "start": 1435.72,
+      "end": 1446.32,
+      "tags": [],
+      "text": "दिन रात को माय फादर इन लॉ केम टू माय होम ट मीन स ग्रीड यस सेड यस आई मस्ट टेल यू",
+      "reactions": [],
+      "id": "L0164",
+      "seconds": 10.6
+    },
+    {
+      "kind": "line",
+      "start": 1446.48,
+      "end": 1454.8,
+      "tags": [],
+      "text": "हियर हां बोलने के बाद दो महीने के बाद मैं उससे मिला था बिफोर मैरिज आई आस्कर",
+      "reactions": [],
+      "id": "L0165",
+      "seconds": 8.3
+    },
+    {
+      "kind": "event",
+      "start": 1454.8,
+      "end": 1456.64,
+      "text": "[pause 1.8s]",
+      "id": "L0166"
+    },
+    {
+      "kind": "line",
+      "start": 1456.64,
+      "end": 1459.28,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "आपको जो भी मैं",
+      "reactions": [],
+      "id": "L0167",
+      "seconds": 2.6
+    },
+    {
+      "kind": "event",
+      "start": 1459.28,
+      "end": 1460.76,
+      "text": "[pause 1.5s]",
+      "id": "L0168"
+    },
+    {
+      "kind": "line",
+      "start": 1460.76,
+      "end": 1468.84,
+      "tags": [],
+      "text": "बोला फिर फिर भी मुझसे क्यों शादी करने के लिए आप इतना पीछा पड़ा था क्या अच्छा लगा",
+      "reactions": [],
+      "id": "L0169",
+      "seconds": 8.1
+    },
+    {
+      "kind": "line",
+      "start": 1468.96,
+      "end": 1470.16,
+      "tags": [],
+      "text": "नाक",
+      "reactions": [],
+      "id": "L0170",
+      "seconds": 1.2
+    },
+    {
+      "kind": "line",
+      "start": 1470.36,
+      "end": 1481.919,
+      "tags": [],
+      "text": "गाल च क्या अच्छा लगा शी सेड ऐसा तो लग रहा था कि आप मुझे डिस्कस कर र है समझ में आ गया क्योंकि व कौन लड़का आके बताएगा कि यह",
+      "reactions": [],
+      "id": "L0171",
+      "seconds": 11.6
+    },
+    {
+      "kind": "line",
+      "start": 1481.919,
+      "end": 1491.72,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "नहीं है यह नहीं है यह नहीं सभी लोग यह हैय बड़ा चढ़ा के बोलते हैं तो डिस्कस करने के लिए आया था दूसरा बड़ा स्टोरी टेलर है वो समझ गई",
+      "reactions": [],
+      "id": "L0172",
+      "seconds": 9.8,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1491.72,
+      "end": 1494.559,
+      "text": "[pause 2.8s]",
+      "id": "L0173"
+    },
+    {
+      "kind": "line",
+      "start": 1494.559,
+      "end": 1496.759,
+      "tags": [],
+      "text": "मैं तीसरा",
+      "reactions": [],
+      "id": "L0174",
+      "seconds": 2.2
+    },
+    {
+      "kind": "event",
+      "start": 1496.759,
+      "end": 1498.44,
+      "text": "[pause 1.7s]",
+      "id": "L0175"
+    },
+    {
+      "kind": "line",
+      "start": 1498.44,
+      "end": 1505.759,
+      "tags": [],
+      "text": "ऊंची घर में एक छोटी बहू नहीं रहना है एक छोटा घर में मुझे ऊंची बह",
+      "reactions": [],
+      "id": "L0176",
+      "seconds": 7.3
+    },
+    {
+      "kind": "line",
+      "start": 1506.0,
+      "end": 1508.479,
+      "tags": [],
+      "text": "र वेरी पावरफुल",
+      "reactions": [],
+      "id": "L0177",
+      "seconds": 2.5
+    },
+    {
+      "kind": "line",
+      "start": 1509.52,
+      "end": 1518.0,
+      "tags": [],
+      "text": "री राइट वेरी इंपोर्टेंट ट आजकल मेरा थोड़ा इंस्टा में रील चल रहा है इसका बारे में एक दो बोल",
+      "reactions": [],
+      "id": "L0178",
+      "seconds": 8.5
+    },
+    {
+      "kind": "line",
+      "start": 1518.0,
+      "end": 1527.879,
+      "tags": [],
+      "text": "दिया तो सभी लोग हल्ला गुल्ला मचा रहे है एक्सपेक्टेशन इज द बिगेस्ट प्रॉब्लम फॉर ऑल डावर्स एंड रेसिग्नेशन स रीजन",
+      "reactions": [],
+      "id": "L0179",
+      "seconds": 9.9
+    },
+    {
+      "kind": "line",
+      "start": 1528.72,
+      "end": 1541.759,
+      "tags": [],
+      "text": "अनवांटेड एक्सपेक्टेशन मैं तो एक्सपेक्टेशन को जीरो कर दिया लाइफ चांदी बना सोन वट एंड टस हाउ द स्टोरी ऑफ हाउ ड आई फाइंड अ वाइफ",
+      "reactions": [],
+      "id": "L0180",
+      "seconds": 13.0
+    },
+    {
+      "kind": "line",
+      "start": 1541.88,
+      "end": 1557.44,
+      "tags": [],
+      "text": "एंड सबसीक्वेंटली देन टू चिल्ड्रन एंड देन देर लिटिल मोर इंटरेस्टिंग हियर च आई वांट पीपल स्पेशली एप्ल टू अंडरस्टैंड हाउ एस एन एप्ल यू कैन बिल्ड ह्यूज करियर",
+      "reactions": [],
+      "id": "L0181",
+      "seconds": 15.6
+    },
+    {
+      "kind": "event",
+      "start": 1557.44,
+      "end": 1559.2,
+      "text": "[pause 1.8s]",
+      "id": "L0182"
+    },
+    {
+      "kind": "line",
+      "start": 1559.2,
+      "end": 1573.84,
+      "tags": [],
+      "text": "मैं जॉइन होने के बाद मुझे मेरा बास से मिलने के लिए एक ऑफिसर ने लेकर आया तो मेरा बस सामने बैठा है मैं हाथ दिलाता हूं वह हाथ नहीं देता",
+      "reactions": [],
+      "id": "L0183",
+      "seconds": 14.6
+    },
+    {
+      "kind": "line",
+      "start": 1574.279,
+      "end": 1581.6,
+      "tags": [],
+      "text": "है मैं सोचा क्या रूड है मुंबई में कितना भी बड़ा मैनेजर हो हाथ तो मिल मिलानी चाहिए",
+      "reactions": [],
+      "id": "L0184",
+      "seconds": 7.3
+    },
+    {
+      "kind": "line",
+      "start": 1581.6,
+      "end": 1590.32,
+      "tags": [],
+      "text": "न ये ऑफिसर मेरा हाथ लेकर उसका हाथ मिलाया ट इ द व्ट ज इट मीन इस ब्लाइंड",
+      "reactions": [],
+      "id": "L0185",
+      "seconds": 8.7
+    },
+    {
+      "kind": "line",
+      "start": 1590.84,
+      "end": 1595.999,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "मैन आई वर्क अंडर ब्लाइंड मैन फॉर 15",
+      "reactions": [],
+      "id": "L0186",
+      "seconds": 5.2
+    },
+    {
+      "kind": "line",
+      "start": 1596.279,
+      "end": 1606.84,
+      "tags": [],
+      "text": "इयर्स उसने एक दिन पूछा था तुम बीएससी किया है एमएससी करना चाहते हो वेरी नाइस पारसी जेंटलमैन",
+      "reactions": [],
+      "id": "L0187",
+      "seconds": 10.6
+    },
+    {
+      "kind": "line",
+      "start": 1606.84,
+      "end": 1617.72,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "कवस देसाई उसका नाम है र बॉस बस नो मोर वेरी वंडरफुल मैन मनी तुम्हें एमएससी करने के",
+      "reactions": [],
+      "id": "L0188",
+      "seconds": 10.9
+    },
+    {
+      "kind": "line",
+      "start": 1617.72,
+      "end": 1624.679,
+      "tags": [],
+      "text": "लिए मन करता है क्या हां साहब व्हाई नॉट प्लीज ही हैड अ कनेक्शन विद पीपल इन रैंक",
+      "reactions": [],
+      "id": "L0189",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 1624.679,
+      "end": 1633.759,
+      "tags": [],
+      "text": "एंड फाइल ऑफ बीआरसी एंड बाबा एंड बंबई यूनिवर्सिटी हम ही मेड शोर आई गट रजिस्टर्ड फॉर एमएससी अंडर",
+      "reactions": [],
+      "id": "L0190",
+      "seconds": 9.1
+    },
+    {
+      "kind": "line",
+      "start": 1633.88,
+      "end": 1637.04,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "रिसर्च ऑन थायराइड बायोकेमिस्ट्री",
+      "reactions": [],
+      "id": "L0191",
+      "seconds": 3.2
+    },
+    {
+      "kind": "event",
+      "start": 1637.04,
+      "end": 1638.24,
+      "text": "[pause 1.2s]",
+      "id": "L0192"
+    },
+    {
+      "kind": "line",
+      "start": 1638.24,
+      "end": 1643.56,
+      "tags": [],
+      "text": "ओके थ्री इयर्स आई फिनिश्ड माय एमएससी वाइल वर्किंग सैलरी भी आता है",
+      "reactions": [],
+      "id": "L0193",
+      "seconds": 5.3
+    },
+    {
+      "kind": "line",
+      "start": 1644.039,
+      "end": 1650.8,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "डिग्री उसके बाद वो पूछ रहा है वेल मनी यू है डन अ गुड वर्क डू यू वांट टू डू पीएचडी",
+      "reactions": [],
+      "id": "L0194",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 1651.32,
+      "end": 1663.44,
+      "tags": [],
+      "text": "अरेवा एंड ट्रस्ट मी टुडे आई एम एमएससी पीएचडी वेरी पावरफुल साइंटिस्ट एंड एंटरप्र ओनली बिकॉज आई अग्री टू वर्क अंडर अ ब्लाइंड",
+      "reactions": [],
+      "id": "L0195",
+      "seconds": 12.1
+    },
+    {
+      "kind": "line",
+      "start": 1664.12,
+      "end": 1679.08,
+      "tags": [],
+      "text": "मैन एंड ट्रस्ट मी मेरा बीआरसी इंटरव्यू में मुझे पूछा गया थायराइड कहां है हम मैं तो मैथमेटिक्स में दो 200 आट ऑफ 200 बायोलॉजी तो नहीं किया सो मैं सोला थायराइड का आई डोंट नो वेर इट इज",
+      "reactions": [],
+      "id": "L0196",
+      "seconds": 15.0
+    },
+    {
+      "kind": "line",
+      "start": 1679.519,
+      "end": 1682.719,
+      "tags": [],
+      "text": "ट्रस्ट मी र कम्स द मोस्ट पावरफुल पंच",
+      "reactions": [],
+      "id": "L0197",
+      "seconds": 3.2
+    },
+    {
+      "kind": "line",
+      "start": 1682.96,
+      "end": 1691.44,
+      "tags": [],
+      "text": "लाइन इन 1982 आई ड नॉट नो वेर थायराइड वास एंड इन 1992 आई फिनिश पीएचडी",
+      "reactions": [],
+      "id": "L0198",
+      "seconds": 8.5,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1691.44,
+      "end": 1699.039,
+      "tags": [],
+      "text": "इन थाइरोइड बायो केमिस्ट्री इन 22 आईम रनिंग वर्ल्ड लार्जेस्ट थायराइड टेस्टिंग लेबोरेटरी 20 यर्स द",
+      "reactions": [],
+      "id": "L0199",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 1699.039,
+      "end": 1710.879,
+      "tags": [],
+      "text": "पंच लान स्टार्टस नाउ इफ यू डू व्ट य हैव स्टडीड इफ यू डू व्ट य स्टडीड यू विल सरवाइव बट इफ यू डू ट यू हैव नॉट स्टडीड यू विल बी द",
+      "reactions": [],
+      "id": "L0200",
+      "seconds": 11.8,
+      "comments": [
+        {
+          "text": "28:20 most powerful line ever 🔥🔥🔥🔥",
+          "likes": 7,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1711.88,
+      "end": 1723.6,
+      "tags": [],
+      "text": "लीडर राइट आईम द लीडर फिल्म ट्रेनिंग इंस्टिट्यूट उस जमाने में नहीं था आज आया है और आज जो भी",
+      "reactions": [],
+      "id": "L0201",
+      "seconds": 11.7
+    },
+    {
+      "kind": "line",
+      "start": 1723.6,
+      "end": 1731.56,
+      "tags": [],
+      "text": "उधर डिप्लोमा डिग्री लेता है वह एक भी पिक्चर में हीरो नहीं बनता है और बस कंडक्टर ही सुपरस्टार बनता",
+      "reactions": [],
+      "id": "L0202",
+      "seconds": 8.0,
+      "comments": [
+        {
+          "text": "28:48 Rajnikanth",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ],
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1731.56,
+      "end": 1733.44,
+      "text": "[pause 1.9s]",
+      "id": "L0203"
+    },
+    {
+      "kind": "line",
+      "start": 1733.44,
+      "end": 1734.64,
+      "tags": [],
+      "text": "है",
+      "reactions": [],
+      "id": "L0204",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 1734.64,
+      "end": 1736.2,
+      "text": "[pause 1.6s]",
+      "id": "L0205"
+    },
+    {
+      "kind": "line",
+      "start": 1736.2,
+      "end": 1746.6,
+      "tags": [],
+      "text": "ऐसा ऐसा क्यों लगता है ऐसा क्यों होता है लाइफ में ऐसा है कि यू आर गुड एट समथिंग यूर स्टडी यू डिड इट बिकॉज ऑफ",
+      "reactions": [],
+      "id": "L0206",
+      "seconds": 10.4,
+      "comments": [
+        {
+          "text": "29:00",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1746.6,
+      "end": 1758.679,
+      "tags": [],
+      "text": "योर पेरेंट्स कंपल्शन बिकॉज सम फैंटेसी बट देन फाइनली व्ट आर यू गुड एट देखो इफ रजनीकांत इज मोस्ट पावरफुल हीरो इवन इफ टुडे अमिताभ बच्चन",
+      "reactions": [],
+      "id": "L0207",
+      "seconds": 12.1
+    },
+    {
+      "kind": "line",
+      "start": 1758.679,
+      "end": 1766.36,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "और इवन इफ यू टेक हु एवर इज ड्रा विड र हु एवर इट इज इट इज द इंटेलिजेंस दैट मेक्स देम मोस्ट पावरफुल व्हाट एवर",
+      "reactions": [],
+      "id": "L0208",
+      "seconds": 7.7
+    },
+    {
+      "kind": "line",
+      "start": 1766.36,
+      "end": 1776.64,
+      "tags": [],
+      "text": "दे हैव डन दे वड बिकम इंटेलिजेंस रहेगा तो आदमी बड़ा बनता ही है पंचलाइन व्ट डू यू डू इज नॉट एस इंपोर्टेंट एस हाउ ड यू",
+      "reactions": [],
+      "id": "L0209",
+      "seconds": 10.3,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1776.64,
+      "end": 1778.6,
+      "text": "[pause 2.0s]",
+      "id": "L0210"
+    },
+    {
+      "kind": "line",
+      "start": 1778.6,
+      "end": 1784.52,
+      "tags": [],
+      "text": "डू तो ट इ हाउ द जर्नी ऑफ मी एंटरिंग इन थायराइड एंड",
+      "reactions": [],
+      "id": "L0211",
+      "seconds": 5.9
+    },
+    {
+      "kind": "line",
+      "start": 1784.84,
+      "end": 1795.68,
+      "tags": [],
+      "text": "पीएचडी सो वेल मनी है इ 37 इयर्स ओल्ड नाउ 37 यस एंड देन टू बच्चे माय सन वास फाइ माय डॉटर वास",
+      "reactions": [],
+      "id": "L0212",
+      "seconds": 10.8
+    },
+    {
+      "kind": "event",
+      "start": 1795.68,
+      "end": 1797.039,
+      "text": "[pause 1.4s]",
+      "id": "L0213"
+    },
+    {
+      "kind": "line",
+      "start": 1797.039,
+      "end": 1801.239,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "थ्री तभी मुझे ऐसा लगा",
+      "reactions": [],
+      "id": "L0214",
+      "seconds": 4.2,
+      "comments": [
+        {
+          "text": "30:00 punch line ⚡",
+          "likes": 14,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "30:00 50:00",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 2
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1802.159,
+      "end": 1808.68,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "कि एक पंचलाइन है बताओ जीने आया या जीतने",
+      "reactions": [],
+      "id": "L0215",
+      "seconds": 6.5
+    },
+    {
+      "kind": "line",
+      "start": 1809.559,
+      "end": 1813.44,
+      "tags": [],
+      "text": "आया जीना तो को मत में भी जी सकता",
+      "reactions": [],
+      "id": "L0216",
+      "seconds": 3.9
+    },
+    {
+      "kind": "line",
+      "start": 1814.279,
+      "end": 1821.52,
+      "tags": [],
+      "text": "था मुंबई तक आया तो जीतना जीतना है अभी लग नहीं रहा था कि जीत गए",
+      "reactions": [],
+      "id": "L0217",
+      "seconds": 7.2,
+      "comments": [
+        {
+          "text": "30:17",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1821.64,
+      "end": 1826.239,
+      "tags": [],
+      "text": "राइट नेक्स्ट वन बड़ा बनना है या बुड्ढा बनना",
+      "reactions": [],
+      "id": "L0218",
+      "seconds": 4.6
+    },
+    {
+      "kind": "line",
+      "start": 1826.96,
+      "end": 1832.08,
+      "tags": [],
+      "text": "है बुड्ढा तो अपने आप बनता है वो भी सरकार नौकरी में जल्दी बनता",
+      "reactions": [],
+      "id": "L0219",
+      "seconds": 5.1
+    },
+    {
+      "kind": "line",
+      "start": 1833.279,
+      "end": 1841.239,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "है बड़ा बनना है तो रिस्क लेना ट वास वेरी क्लियर टू मी",
+      "reactions": [],
+      "id": "L0220",
+      "seconds": 8.0
+    },
+    {
+      "kind": "line",
+      "start": 1841.36,
+      "end": 1850.159,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "एंड अगेन देर आर टू कांड्स ऑफ पीपल कुछ ना कुछ नहीं था अभी कंफर्ट जोन में आया अभी रिस्क नहीं लेना है दिस इ वन कैटेगरी",
+      "reactions": [],
+      "id": "L0221",
+      "seconds": 8.8
+    },
+    {
+      "kind": "line",
+      "start": 1850.159,
+      "end": 1860.52,
+      "tags": [],
+      "text": "अरे किधर था मैं किधर आ गया मैं किधर जा सकता हूं दिस इ अनदर वे ऑफ लुकिंग एट आई लुक एट लाइक द देर सेइंग इन",
+      "reactions": [],
+      "id": "L0222",
+      "seconds": 10.4,
+      "comments": [
+        {
+          "text": "30:59 बाल खींचो",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1861.399,
+      "end": 1873.679,
+      "tags": [],
+      "text": "तमिल आई विल फर्स्ट टेल ट इन तमिल बिकॉज यू नो माय तमिल ऑडियंस प्लेंटी अक्रस द वर्ल्ड उनको भी एक हैप्पीनेस आनी चाहिए मर",
+      "reactions": [],
+      "id": "L0223",
+      "seconds": 12.3,
+      "comments": [
+        {
+          "text": "31:13",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1873.679,
+      "end": 1888.719,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "कटी मल इकद वंद मले अंद मयर च से एक लंबा बाल कीचो उसम एक नाट बांधो एक पहाड़ के ऊपर डालो खचो आया तो",
+      "reactions": [],
+      "id": "L0224",
+      "seconds": 15.0,
+      "comments": [
+        {
+          "text": "31:20 my favourite punchline ❤",
+          "likes": 3,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "31:19 ek lamba bal wala dialog 🔥🔥🔥",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "31:25 aya to pahad",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ],
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1888.719,
+      "end": 1891.0,
+      "text": "[pause 2.3s]",
+      "id": "L0225"
+    },
+    {
+      "kind": "line",
+      "start": 1891.0,
+      "end": 1893.599,
+      "tags": [],
+      "text": "हाड च सेज",
+      "reactions": [],
+      "id": "L0226",
+      "seconds": 2.6
+    },
+    {
+      "kind": "line",
+      "start": 1894.48,
+      "end": 1907.88,
+      "tags": [],
+      "text": "रिस्क टेक अ रिस्क सो माय माइंड सेड आई मस्ट नाउ टेक सम काइंड ऑफ रिस्क वन फ्राइडे ऑफिस आई गो इन द मॉर्निंग आफ्टर लंच आई ओपन माय",
+      "reactions": [],
+      "id": "L0227",
+      "seconds": 13.4
+    },
+    {
+      "kind": "line",
+      "start": 1907.88,
+      "end": 1923.879,
+      "tags": [],
+      "text": "ड्रॉयर एंड आई स माय पास बुक एंड पास बुक हैड लाख र क्लोजिंग बैलेंस 1996 लाख क्लोजिंग बैलेंस इज इक्वल ट ट करोस आईम टॉकिंग अबाउट 30 यर्स बैक",
+      "reactions": [],
+      "id": "L0228",
+      "seconds": 16.0
+    },
+    {
+      "kind": "line",
+      "start": 1924.279,
+      "end": 1931.28,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "1967 य राइट लाख माय मंथली एक्सपेंडिचर वास",
+      "reactions": [],
+      "id": "L0229",
+      "seconds": 7.0,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1932.32,
+      "end": 1937.56,
+      "tags": [],
+      "text": "5000 सो व्ट इस द नंबर ऑफ मंथ्स माय फैमिली",
+      "reactions": [],
+      "id": "L0230",
+      "seconds": 5.2
+    },
+    {
+      "kind": "line",
+      "start": 1938.2,
+      "end": 1941.28,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "सेफ म िक नंबर",
+      "reactions": [],
+      "id": "L0231",
+      "seconds": 3.1
+    },
+    {
+      "kind": "line",
+      "start": 1941.44,
+      "end": 1949.44,
+      "tags": [],
+      "text": "वन आई हैव एन एडवाइस टू ल एंटरप्र यू कैन टेक यर रिस्क यू शड नॉट टेक फैमिली रिस्क",
+      "reactions": [],
+      "id": "L0232",
+      "seconds": 8.0
+    },
+    {
+      "kind": "line",
+      "start": 1949.44,
+      "end": 1957.8,
+      "tags": [],
+      "text": "य नॉट एंटाइटल टू ट्र उनकी क्या गलती था उनको क्यों रास्ता प लाना आपकी लालच में वो फस",
+      "reactions": [],
+      "id": "L0233",
+      "seconds": 8.4
+    },
+    {
+      "kind": "event",
+      "start": 1957.8,
+      "end": 1959.84,
+      "text": "[pause 2.0s]",
+      "id": "L0234"
+    },
+    {
+      "kind": "line",
+      "start": 1959.84,
+      "end": 1970.399,
+      "tags": [],
+      "text": "चाए सो 40 मंथ्स फैमिली सेफ ्र एंड हाफ यर्स कर दिया दूसरा राइट हैंड साइड कॉलीग लेफ्ट हैंड साइड कॉलीग",
+      "reactions": [],
+      "id": "L0235",
+      "seconds": 10.6,
+      "comments": [
+        {
+          "text": "32:45 In my family of 3 we spent only 3000 in a month it's very difficult for us but we don't have any income source",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1970.399,
+      "end": 1978.24,
+      "tags": [],
+      "text": "सभी लोग थ्री बेडरूम हल किचन पहले ही ले चुका है य मैं इधर तक है मैं एक ही आदमी हूं",
+      "reactions": [],
+      "id": "L0236",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 1978.24,
+      "end": 1990.88,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "ई नहीं है तो नहीं होता है तो फ्रीडम है सो नंबर वन इस 40 मंथ सेफ नो ईई नंबर थ्री",
+      "reactions": [],
+      "id": "L0237",
+      "seconds": 12.6,
+      "comments": [
+        {
+          "text": "18:00 slept on railway station 33:00 no emi",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 2
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1990.88,
+      "end": 1999.04,
+      "tags": [],
+      "text": "माय वाइफ इ वर्किंग विथ स्टेट बैंक ऑफ इंडिया और क्या चाहिए एक प में जिंदगी चलनी चाहिए दूसरी पग क्यों",
+      "reactions": [],
+      "id": "L0238",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 1999.6,
+      "end": 2015.36,
+      "tags": [],
+      "text": "चाहिए तो आई हैव रिइन न फ्राइडे इवनिंग एंड वेंट होम आ ड न डिकस वि वाइफ टू टेक दिस डिन य टक इट विदाउट टेलिंग ट हाउ द पंच लाइन केम इन लाइफ इदर यू",
+      "reactions": [],
+      "id": "L0239",
+      "seconds": 15.8
+    },
+    {
+      "kind": "line",
+      "start": 2015.36,
+      "end": 2030.2,
+      "tags": [],
+      "text": "कैन डिस्कस और यू कैन डिसाइड यू कान डू बोथ बिकॉज वनस यू डिस्कस यू कैन नॉ डिसाइड अगर मैं मेरे बीवी बीवी को तीन दिन पहले बोलता आईम वांटिंग टू रिजाइनिंग मेरा फदर लाके घर",
+      "reactions": [],
+      "id": "L0240",
+      "seconds": 14.8,
+      "comments": [
+        {
+          "text": "I learnt many things from this video ❤ 33:46",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 2031.03,
+      "end": 2032.23,
+      "text": "[laughter (youtube)]",
+      "id": "L0241"
+    },
+    {
+      "kind": "line",
+      "start": 2034.36,
+      "end": 2043.0,
+      "tags": [],
+      "text": "बैठता सो आई वेंट होम रात को कुछ डिनर डिनर का समय कुछ बताया नहीं है रात को 2 बजे मेरे",
+      "reactions": [],
+      "id": "L0242",
+      "seconds": 8.6
+    },
+    {
+      "kind": "line",
+      "start": 2043.0,
+      "end": 2052.96,
+      "tags": [],
+      "text": "बीवी पूछा क्या आप आज सोया नहीं है आई टोल्ड हर आई हैव रि साइंड एंड शी लुक्ड एट माय आई",
+      "reactions": [],
+      "id": "L0243",
+      "seconds": 10.0
+    },
+    {
+      "kind": "line",
+      "start": 2052.96,
+      "end": 2062.0,
+      "tags": [],
+      "text": "एंड शी सेड कल से आप ड्यूटी पर नहीं जाएगा तो मैं भी नहीं जाऊंगी एंड आई टोल्ड हर चलो साथ",
+      "reactions": [],
+      "id": "L0244",
+      "seconds": 9.0
+    },
+    {
+      "kind": "line",
+      "start": 2062.0,
+      "end": 2072.48,
+      "tags": [],
+      "text": "जिएंगे साथ मरेंगे यू आल्सो डोंट गो आई विल आल्सो नॉट गो ट्रस्ट मी वी बोथ लेफ्ट जॉब ऑन द सेम",
+      "reactions": [],
+      "id": "L0245",
+      "seconds": 10.5
+    },
+    {
+      "kind": "line",
+      "start": 2073.0,
+      "end": 2075.2,
+      "tags": [],
+      "text": "डे बिगेस्ट",
+      "reactions": [],
+      "id": "L0246",
+      "seconds": 2.2
+    },
+    {
+      "kind": "line",
+      "start": 2075.919,
+      "end": 2082.24,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "रिस्क समटाइम द टाइटल ऑफ माय टॉक रोमांस विथ",
+      "reactions": [],
+      "id": "L0247",
+      "seconds": 6.3
+    },
+    {
+      "kind": "line",
+      "start": 2083.2,
+      "end": 2094.28,
+      "tags": [],
+      "text": "रिस्क राइट जितना बड़ा रिस्क होता है उतना बड़ा रिवर्ड भी मिलता है सो वी देन रिसेट अवर लाइफ एंड",
+      "reactions": [],
+      "id": "L0248",
+      "seconds": 11.1,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 2094.28,
+      "end": 2102.68,
+      "tags": [],
+      "text": "देन सी डि गो टू ऑफिस फ्रॉम देन आई लडी हैड पुट इन रेसिग्नेशन एंड केम एंड सी वास माय फर्स्ट",
+      "reactions": [],
+      "id": "L0249",
+      "seconds": 8.4,
+      "comments": [
+        {
+          "text": "35:01 😂😂that was epic",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 2103.04,
+      "end": 2114.559,
+      "tags": [],
+      "text": "एंप्लॉई राइट पंचला ना फर एवरी सक्सेसफुल मैन द वाइफ बिकम द सेक्रेटरी एंड फॉर एवरी फेल्ड मैन द सेक्रेटरी बिकम द",
+      "reactions": [],
+      "id": "L0250",
+      "seconds": 11.5,
+      "comments": [
+        {
+          "text": "Please listen to this punch time 35:05 to 35:15 seconds. 😂😂😂❤. Respect. Thank you so much Raj bhai and sir.",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "35:07 best",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "35:15 kata laga😂",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 2117.34,
+      "end": 2118.54,
+      "text": "[laughter (youtube)]",
+      "id": "L0251"
+    },
+    {
+      "kind": "line",
+      "start": 2125.32,
+      "end": 2127.52,
+      "tags": [],
+      "text": "वाइफ सो",
+      "reactions": [],
+      "id": "L0252",
+      "seconds": 2.2,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 2128.359,
+      "end": 2136.4,
+      "tags": [],
+      "text": "सी एंड मी स्टार्टेड सो दैट अबाउट द ट्रांजिशन बट ये जो इतना करेज कहां सा आया",
+      "reactions": [],
+      "id": "L0253",
+      "seconds": 8.0
+    },
+    {
+      "kind": "line",
+      "start": 2136.4,
+      "end": 2144.64,
+      "tags": [],
+      "text": "दिस इज वेरी वेरी इंपोर्टेंट या अदर वाइज पीपल विल गेट कन्फ्यूज्ड इसके लिए कारण ये था आजकल",
+      "reactions": [],
+      "id": "L0254",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 2144.64,
+      "end": 2158.64,
+      "tags": [],
+      "text": "हम लोग सुन रहे हैं कि आत्मनिर्भर बार-बार सुन रहे हैं हां ये आत्मनिर्भर शब्द शब्द ने मोदी जी ने लाया लेकिन हिंदुस्तान 50 साल से आत्मनिर्भर में मेहनत तो करता था और और मुझे एक",
+      "reactions": [],
+      "id": "L0255",
+      "seconds": 14.0
+    },
+    {
+      "kind": "line",
+      "start": 2158.64,
+      "end": 2165.52,
+      "tags": [],
+      "text": "प्रोजेक्ट मिला वो आत्मनिर्भरता थायराइड टेस्टिंग रिएजेंट यूरोप से क्यों इंपोर्ट करना है इंडिया में क्यों नहीं बन",
+      "reactions": [],
+      "id": "L0256",
+      "seconds": 6.9
+    },
+    {
+      "kind": "line",
+      "start": 2165.52,
+      "end": 2174.88,
+      "tags": [],
+      "text": "सकता है उसमें मैं पीएचडी किया और उसमें मुझे ब्रेक थ्रू मिला इंपोर्ट किया तो 50 है खुद",
+      "reactions": [],
+      "id": "L0257",
+      "seconds": 9.4
+    },
+    {
+      "kind": "line",
+      "start": 2174.88,
+      "end": 2184.28,
+      "tags": [],
+      "text": "बनाएगा तो रप है तो मेरा कॉलीग सब इंक्रीमेंट प्रमोशन कान्फ्रेंस के लिए प्लानिंग कर रहा था मुझे",
+      "reactions": [],
+      "id": "L0258",
+      "seconds": 9.4
+    },
+    {
+      "kind": "line",
+      "start": 2184.28,
+      "end": 2194.2,
+      "tags": [],
+      "text": "लगा कंपट 50 में ले रहा है मुझे 30 रुपया है ट मींस आई हैव एडवांटेज आई कैन",
+      "reactions": [],
+      "id": "L0259",
+      "seconds": 9.9
+    },
+    {
+      "kind": "line",
+      "start": 2194.68,
+      "end": 2206.319,
+      "tags": [],
+      "text": "डिसर यह आया खने के लिए कुछ है भी नहीं क्या लेके आया मुंबई में 00 रप लेकर आया वापस जाएगा उधर भी जी सकता है कुछ ना कुछ करना है करके ये",
+      "reactions": [],
+      "id": "L0260",
+      "seconds": 11.6
+    },
+    {
+      "kind": "line",
+      "start": 2206.319,
+      "end": 2220.56,
+      "tags": [],
+      "text": "रिसन किया सो दिस इनसाइट अबाउट थायराइड रिएजेंट चीपर वास द मेन रीजन फॉर मी टू टेक सच टफ डिसीजन वेरी वेरी इंपोर्टेंट बिकॉज द लीडर ओनली नो हाउ माय फादर इनल विल नो",
+      "reactions": [],
+      "id": "L0261",
+      "seconds": 14.2
+    },
+    {
+      "kind": "line",
+      "start": 2220.56,
+      "end": 2232.04,
+      "tags": [],
+      "text": "अबाउट इट हाउ कैन आई कविंस हिम न दिस सो डोंट डिस्कस इफ यू नो व्ट इट इ आई आल्सो वांट यू टू नोट हियर वन शड आई डिस्कस एंड न आई शड",
+      "reactions": [],
+      "id": "L0262",
+      "seconds": 11.5
+    },
+    {
+      "kind": "line",
+      "start": 2232.04,
+      "end": 2247.84,
+      "tags": [],
+      "text": "नॉट डिस्कस बिक एवरी बडी शड नॉट थिंक यनो टेक द न इफ यू आर डिपेंडिंग अपन न द मर्सी ऑफ यर वाइफ फादर और फादर इन लॉ यू कां टेक डिसीज विदाउट डिस्कसिंग",
+      "reactions": [],
+      "id": "L0263",
+      "seconds": 15.8
+    },
+    {
+      "kind": "line",
+      "start": 2248.599,
+      "end": 2264.2,
+      "tags": [],
+      "text": "एंड इफ यू आर इंडिपेंडेंट कुछ भी आने दो आई विल मैनेज किसी के पूछने की जरूरत ही नहीं होता है राइट वेरी इंपोर्टेंट अरवाज पीपल शड नॉट गेट कन्फ्यूज सो आई हैड एन एडवांटेज आई",
+      "reactions": [],
+      "id": "L0264",
+      "seconds": 15.6
+    },
+    {
+      "kind": "line",
+      "start": 2264.2,
+      "end": 2271.24,
+      "tags": [],
+      "text": "डिड द पीएचडी इन थायराइड एंड आई पुट द नेम थायरोकेयर ट वास वेरी ब्रिलियंट वे ऑफ मेकिंग",
+      "reactions": [],
+      "id": "L0265",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 2271.24,
+      "end": 2283.12,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "लोगो विथ थायराइड लोब एंड यरो केर एंड ट्रस्ट मी आई फोकस सो मच सो मच न थायराइड माय",
+      "reactions": [],
+      "id": "L0266",
+      "seconds": 11.9
+    },
+    {
+      "kind": "line",
+      "start": 2283.28,
+      "end": 2291.76,
+      "tags": [],
+      "text": "कंपट थट आईम एन एंड्राइड फ्यू बिजनेस पॉइंट्स च आई वांट द एंटरप्र कम्युनिटी टू कीप इन",
+      "reactions": [],
+      "id": "L0267",
+      "seconds": 8.5
+    },
+    {
+      "kind": "line",
+      "start": 2291.76,
+      "end": 2302.559,
+      "tags": [],
+      "text": "देर माइंड ट वेलम ड वास नॉट पीसी सरक जी बमन इंटेलिजेंट इनोवेशन ऑफ सिस्टम च वास नॉट",
+      "reactions": [],
+      "id": "L0268",
+      "seconds": 10.8
+    },
+    {
+      "kind": "line",
+      "start": 2302.68,
+      "end": 2306.799,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "र्ग लोग ओवर प्राइसिंग करता",
+      "reactions": [],
+      "id": "L0269",
+      "seconds": 4.1
+    },
+    {
+      "kind": "line",
+      "start": 2307.96,
+      "end": 2321.6,
+      "tags": [],
+      "text": "क्योंकि वॉल्यूम का सोचा नहीं है तो 50 रप रेट था 00 मार्केट से लेता था फेर बिजनेस देर नथिंग रंग बट ओनली थिंग इ उनका वॉल्यूम का क्या पावर है वो पता नहीं",
+      "reactions": [],
+      "id": "L0270",
+      "seconds": 13.6
+    },
+    {
+      "kind": "line",
+      "start": 2322.119,
+      "end": 2326.76,
+      "tags": [],
+      "text": "था ऐसा है कि मना में सा टेस्ट",
+      "reactions": [],
+      "id": "L0271",
+      "seconds": 4.6
+    },
+    {
+      "kind": "line",
+      "start": 2327.24,
+      "end": 2337.72,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "करूं तो 150 रा मटल कास्ट है हजार टेस्ट करो 120 10000 करो तो 90",
+      "reactions": [],
+      "id": "L0272",
+      "seconds": 10.5
+    },
+    {
+      "kind": "line",
+      "start": 2338.119,
+      "end": 2346.16,
+      "tags": [],
+      "text": "मैं जबी पीक में आया तो रोज 2 लाख टेस्ट होता था कास्ट ₹ होता",
+      "reactions": [],
+      "id": "L0273",
+      "seconds": 8.0
+    },
+    {
+      "kind": "line",
+      "start": 2346.28,
+      "end": 2350.72,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "था सो डोंट पंच लाइन",
+      "reactions": [],
+      "id": "L0274",
+      "seconds": 4.4,
+      "comments": [
+        {
+          "text": "39:10 learn about costs and finance, can learn about gene bio at 27 , its never late . Just wake to the reality and stay aware",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 2351.76,
+      "end": 2366.319,
+      "tags": [],
+      "text": "हियर इफ द कॉस्टिंग इज रंग प्राइसिंग इज रंग हम सो यू हैव टू गेट द प्राइसिंग ओनली आफ्टर अंडरस्टैंडिंग द कॉस्टिंग इसमें और भी बिजनेस में थोड़ा चीज बता देता हूं उस जमाने में फ्रांसीसी करके कांसेप्ट",
+      "reactions": [],
+      "id": "L0275",
+      "seconds": 14.6
+    },
+    {
+      "kind": "line",
+      "start": 2366.319,
+      "end": 2381.359,
+      "tags": [],
+      "text": "हिंदुस्तान में नहीं था मैं मेरा बिजनेस फ्रा करने के बाद ही हिंदुस्तान में मैकडोल आया था उसका मतलब फ्रांसी का शब्द मैंने पहला बार हिंदुस्तान में ड़ा किया तो फ्रांसी पॉइंट किया क्यों फ्रांसी पॉइंट किया मद्रास",
+      "reactions": [],
+      "id": "L0276",
+      "seconds": 15.0
+    },
+    {
+      "kind": "line",
+      "start": 2381.359,
+      "end": 2391.599,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "जाकर उड़ीसा में बात नहीं कर सकता है बंगाल में नहीं कर सकता है गुजरात में नहीं कर सकता क्यों महाराष्ट्र में भी नहीं कर सकता है सिर्फ मुंबई में थोड़ा कर सकता है वांटेड लोकल मैन टॉकिंग",
+      "reactions": [],
+      "id": "L0277",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 2391.599,
+      "end": 2400.68,
+      "tags": [],
+      "text": "लोकल लैंग्वेज लोकल कल्चर सो आई कॉल्ड गाइस एंड टोल्ड देम सुनो मार्केट 00 करता है तुम 00 चार्ज",
+      "reactions": [],
+      "id": "L0278",
+      "seconds": 9.1
+    },
+    {
+      "kind": "line",
+      "start": 2400.68,
+      "end": 2410.44,
+      "tags": [],
+      "text": "करो मुझे रुप दे दो तो र रखलो ट फलो फेल अनकांशस कहीं 60 पर मार्जिन कोई देता है",
+      "reactions": [],
+      "id": "L0279",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 2411.52,
+      "end": 2425.68,
+      "tags": [],
+      "text": "क्या विन नो टाइम ल हिस फ्रेंड्स गर्ल फ्रेंड्स बॉय फ्रेंड्स देर स्पाउस एंड देयर बॉय फ्रेंड्स एवरी बडी बिकम फ्रें ल ओवर द कंट्री 60 पर मार्जिन कोई नहीं",
+      "reactions": [],
+      "id": "L0280",
+      "seconds": 14.2
+    },
+    {
+      "kind": "line",
+      "start": 2426.319,
+      "end": 2429.039,
+      "tags": [],
+      "text": "देता फ्रेंचाइजी कांसेप्ट",
+      "reactions": [],
+      "id": "L0281",
+      "seconds": 2.7
+    },
+    {
+      "kind": "line",
+      "start": 2429.16,
+      "end": 2440.559,
+      "tags": [],
+      "text": "दूसरा एंड द नेक्स्ट वन इज आई हैव मेड अ u बिफोर u नेम इट सेल्फ वाज नॉट देयर",
+      "reactions": [],
+      "id": "L0282",
+      "seconds": 11.4
+    },
+    {
+      "kind": "line",
+      "start": 2441.68,
+      "end": 2450.64,
+      "tags": [],
+      "text": "अंट्स र स्टैंडिंग फॉर 20 आवर्स रनिंग फॉर फोर आवर्स हम नाउ दे आर रनिंग फॉर 20 आवर्स स्टैंडिंग फॉर फोर आवर्स",
+      "reactions": [],
+      "id": "L0283",
+      "seconds": 9.0
+    },
+    {
+      "kind": "line",
+      "start": 2451.56,
+      "end": 2457.799,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "अंट्स इंग मशीन वाज ओनली रनिंग फॉर टू आवर्स इन अ डे टुडे दे रन 24 आवर्स मनिला",
+      "reactions": [],
+      "id": "L0284",
+      "seconds": 6.2
+    },
+    {
+      "kind": "line",
+      "start": 2458.96,
+      "end": 2465.64,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "राइट पंच लाइन स्टैंडिंग मन लायबिलिटी एंड रनिंग मन",
+      "reactions": [],
+      "id": "L0285",
+      "seconds": 6.7
+    },
+    {
+      "kind": "line",
+      "start": 2466.2,
+      "end": 2474.039,
+      "tags": [],
+      "text": "ट बहुत सारे लोग प्रॉफिट इसलिए नहीं बनता है उनकी मन स्ट उनको ईगो है प्राइस लो नहीं",
+      "reactions": [],
+      "id": "L0286",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 2474.48,
+      "end": 2478.279,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "करते सो दिस इ पावर आईव",
+      "reactions": [],
+      "id": "L0287",
+      "seconds": 3.8
+    },
+    {
+      "kind": "event",
+      "start": 2478.279,
+      "end": 2480.56,
+      "text": "[pause 2.3s]",
+      "id": "L0288"
+    },
+    {
+      "kind": "line",
+      "start": 2480.56,
+      "end": 2486.76,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "क्रिएटेडटेड मैडोल काप ट न फ्र अलोन",
+      "reactions": [],
+      "id": "L0289",
+      "seconds": 6.2
+    },
+    {
+      "kind": "line",
+      "start": 2487.44,
+      "end": 2494.4,
+      "tags": [],
+      "text": "मसाल दोसा इट ओनली गिव्स यू बर्गर्स या आई डोंट डू डिसीसेस आई ओनली डू डिसऑर्डर्स",
+      "reactions": [],
+      "id": "L0290",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 2494.68,
+      "end": 2495.88,
+      "tags": [],
+      "text": "डिफरेंस",
+      "reactions": [],
+      "id": "L0291",
+      "seconds": 1.2
+    },
+    {
+      "kind": "line",
+      "start": 2496.64,
+      "end": 2506.52,
+      "tags": [],
+      "text": "डिसऑर्डर कम्स डजन गो डिसीज कम्स इंजेक्शन एंटीबायोटिक इट गोज एग्जांपल दो दोनों के डिसऑर्डर्स मतलब क्या डिसऑर्डर",
+      "reactions": [],
+      "id": "L0292",
+      "seconds": 9.9
+    },
+    {
+      "kind": "line",
+      "start": 2506.52,
+      "end": 2515.279,
+      "tags": [],
+      "text": "मतलब डायबिटीज थायराइड अर्थराइटिस हम कभी जाता है क्या नहीं एक बार आ गया इधर चिकन गुनिया डिंगू",
+      "reactions": [],
+      "id": "L0293",
+      "seconds": 8.8
+    },
+    {
+      "kind": "line",
+      "start": 2515.68,
+      "end": 2525.24,
+      "tags": [],
+      "text": "मलेरिया हम आता जाता है बाकी सब इसमें नजर रखा था मेरा नजर इसमें था सो आपने फोकस",
+      "reactions": [],
+      "id": "L0294",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 2525.24,
+      "end": 2534.76,
+      "tags": [],
+      "text": "क्या डिसऑर्डर पडर इसका कस्टमर लाइफ टाइम रहेगा कस्टमर क्वे कास्ट बारबार नहीं है न पे लाइफ लंग",
+      "reactions": [],
+      "id": "L0295",
+      "seconds": 9.5
+    },
+    {
+      "kind": "line",
+      "start": 2535.119,
+      "end": 2545.24,
+      "tags": [],
+      "text": "पेशेंट तो उसके डायग्नोसिस फोकस किया एंड ल मा कपटर साइड आई वा ओनली गा हियर नो वन वास यर ए डि डू दिस टेस्ट अच्छा",
+      "reactions": [],
+      "id": "L0296",
+      "seconds": 10.1
+    },
+    {
+      "kind": "line",
+      "start": 2545.24,
+      "end": 2555.6,
+      "tags": [],
+      "text": "मना ही कर देते थे मना ही करता था करता ही नहीं था आ थ येय जिद यू नो व्ट इस द पावर ऑफ मैन रिफ्यूजिंग",
+      "reactions": [],
+      "id": "L0297",
+      "seconds": 10.4
+    },
+    {
+      "kind": "line",
+      "start": 2556.16,
+      "end": 2564.4,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "वर्क रिफ्यूजिंग वर्क यस रिफ्यूजिंग य यू गव ल कस्टमर वांट्स",
+      "reactions": [],
+      "id": "L0298",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 2564.599,
+      "end": 2566.799,
+      "tags": [],
+      "text": "यर रनिंग",
+      "reactions": [],
+      "id": "L0299",
+      "seconds": 2.2
+    },
+    {
+      "kind": "line",
+      "start": 2567.88,
+      "end": 2571.08,
+      "tags": [],
+      "text": "ग्रोसरी आई वांटेड टू रन केक",
+      "reactions": [],
+      "id": "L0300",
+      "seconds": 3.2,
+      "comments": [
+        {
+          "text": "Unfortunately I found this video and play it. But it is very intresting and Knowledgable podcast❤❤❤❤❤❤❤❤❤❤🎉🎉🎉🎉🎉 42:49",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 2572.2,
+      "end": 2577.2,
+      "tags": [],
+      "text": "शॉप राइट सो दिस आर ल अगेन आई सेड मैकडोनाल्ड",
+      "reactions": [],
+      "id": "L0301",
+      "seconds": 5.0
+    },
+    {
+      "kind": "line",
+      "start": 2577.4,
+      "end": 2589.279,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "आई हैव डन न अमेजन अन कैसे आज से 25 साल पहले ब्लड टेस्ट होम टेस्ट होम डिलीवरी",
+      "reactions": [],
+      "id": "L0302",
+      "seconds": 11.9
+    },
+    {
+      "kind": "line",
+      "start": 2589.76,
+      "end": 2602.68,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "नहीं 25 साल में 90 पर ऑफ द पेशेंट आर सर्ड एट होम सुबह आके मेरा आदमी ठ बजे आपका दरवाजा ट कटाए यू बुक इन माय वेबसाइट नेक्स्ट डे मॉर्निंग 8 ओ क्लक माय मैन ट र डोर",
+      "reactions": [],
+      "id": "L0303",
+      "seconds": 12.9
+    },
+    {
+      "kind": "event",
+      "start": 2602.68,
+      "end": 2604.0,
+      "text": "[pause 1.3s]",
+      "id": "L0304"
+    },
+    {
+      "kind": "line",
+      "start": 2604.0,
+      "end": 2607.6,
+      "tags": [],
+      "text": "अमेजन होम डिलीवरी कलेक्ट कर का सैंपल",
+      "reactions": [],
+      "id": "L0305",
+      "seconds": 3.6
+    },
+    {
+      "kind": "line",
+      "start": 2608.359,
+      "end": 2617.96,
+      "tags": [],
+      "text": "राइट सो वाई डजन नंबर ऑफ थिंग्स आई हैव डन डन इन सच अ वे दैट यू नो आई कांट इमेजिन इतना मेरा दिमाग में बैठा",
+      "reactions": [],
+      "id": "L0306",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 2617.96,
+      "end": 2629.08,
+      "tags": [],
+      "text": "था क्या इन द एंटर वर्ल्ड इंडिया इ चीपेस्ट इन हेल्थ केयर एंड इन एनटायर इंडिया आई एम द चीपेस्ट ट माय बैलेंस ट है 40 पर",
+      "reactions": [],
+      "id": "L0307",
+      "seconds": 11.1
+    },
+    {
+      "kind": "line",
+      "start": 2629.559,
+      "end": 2633.559,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "मार्जन जी कैसे ट इ इट",
+      "reactions": [],
+      "id": "L0308",
+      "seconds": 4.0
+    },
+    {
+      "kind": "line",
+      "start": 2634.319,
+      "end": 2644.84,
+      "tags": [],
+      "text": "ऑप्टिमाइज ऑप्टिमाइज यू नो वन थिंग जेटर कभी पैसा बनाया नहीं है कभी इंडियन एयरलाइंस पैसा बनाया नहीं है इंडिगो य बनाता",
+      "reactions": [],
+      "id": "L0309",
+      "seconds": 10.5
+    },
+    {
+      "kind": "line",
+      "start": 2645.52,
+      "end": 2646.72,
+      "tags": [],
+      "text": "है",
+      "reactions": [],
+      "id": "L0310",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 2646.72,
+      "end": 2648.96,
+      "text": "[pause 2.2s]",
+      "id": "L0311"
+    },
+    {
+      "kind": "line",
+      "start": 2648.96,
+      "end": 2657.2,
+      "tags": [],
+      "text": "ो बिजनेस इ नथिंग बट कीपिंग द प्राइस लो कंट्रोलिंग द कॉस्ट सोट्स द बैकग्राउंड",
+      "reactions": [],
+      "id": "L0312",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 2657.2,
+      "end": 2666.319,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "ऑफ बिजनेस मॉडल बिजनेस रेक्शन एंडन आई नेवर ट एंड पच टू एनी इन्वेस्टर ब",
+      "reactions": [],
+      "id": "L0313",
+      "seconds": 9.1
+    },
+    {
+      "kind": "line",
+      "start": 2667.24,
+      "end": 2680.88,
+      "tags": [],
+      "text": "हैव नेवर बरोड कंपनी है नेवर बरोड नेवर नेवर तो फिर ये सब सेटअप वगैरह कैसे किया सब ट्स द पावर ऑफ जर्नी दो लाख रप इन्वेस्ट किया हम उसके अलावा बिजनेस में",
+      "reactions": [],
+      "id": "L0314",
+      "seconds": 13.6
+    },
+    {
+      "kind": "line",
+      "start": 2680.88,
+      "end": 2695.2,
+      "tags": [],
+      "text": "पैसा डाला ही नहीं है जो आते गया वही बस रिइन्वेस्ट उसका लिए भी उसके लिए भी एक पंचलाइन है इन मेडिकल फील्ड नो वन ओपनस द सिरिंज बिफोर द पेशेंट ओपनस द पर्स",
+      "reactions": [],
+      "id": "L0315",
+      "seconds": 14.3
+    },
+    {
+      "kind": "event",
+      "start": 2695.2,
+      "end": 2697.72,
+      "text": "[pause 2.5s]",
+      "id": "L0316"
+    },
+    {
+      "kind": "line",
+      "start": 2697.72,
+      "end": 2705.319,
+      "tags": [],
+      "text": "तो पैसा तो माकेट मार्केट से कोई क्रेडिट साइकल दिस नोन कस्टमर फंडेड",
+      "reactions": [],
+      "id": "L0317",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 2705.64,
+      "end": 2712.279,
+      "tags": [],
+      "text": "बिजनेस आजकल लोग पूरा इन्वेस्टर से लेकर बर्न करता है न फेर",
+      "reactions": [],
+      "id": "L0318",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 2713.0,
+      "end": 2721.039,
+      "tags": [],
+      "text": "थ थोड़ा ठीक है स्केल अप करने के लिए ठीक है प्रॉफिट को स्केल अप करो लास को क्यों स्केल अप करते",
+      "reactions": [],
+      "id": "L0319",
+      "seconds": 8.0
+    },
+    {
+      "kind": "event",
+      "start": 2721.039,
+      "end": 2722.24,
+      "text": "[pause 1.2s]",
+      "id": "L0320"
+    },
+    {
+      "kind": "line",
+      "start": 2722.24,
+      "end": 2737.519,
+      "tags": [],
+      "text": "हो यह मॉडल अन ने सिखाया ना देखो अन की कितना बड़ा है सभी लोग शुरू में अन स्टार्ट ऐसे ही हुआ था ना छोटा पॉकेट से और उन्होंने यही सिखाया कि 20 साल तक लॉस करो नेवर कॉपी द",
+      "reactions": [],
+      "id": "L0321",
+      "seconds": 15.3
+    },
+    {
+      "kind": "line",
+      "start": 2738.359,
+      "end": 2747.2,
+      "tags": [],
+      "text": "एक्सेप्शन राइट जुकरबर्ग डिग्री नहीं खत्म किया बिलर बन गया करके तुम कॉलेज जाना बंद कर",
+      "reactions": [],
+      "id": "L0322",
+      "seconds": 8.8
+    },
+    {
+      "kind": "event",
+      "start": 2747.2,
+      "end": 2752.88,
+      "text": "[long gap 5.7s]",
+      "id": "L0323"
+    },
+    {
+      "kind": "line",
+      "start": 2752.88,
+      "end": 2760.88,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "दिया बट वो कांसेप्ट वहां से आया ना तो हर कोई उम्मीद में कि एक भी लग गया तो जो वीसी इसलिए पैसा देता है कि एक भी लग",
+      "reactions": [],
+      "id": "L0324",
+      "seconds": 8.0,
+      "comments": [
+        {
+          "text": "Idea are like sparms, only one in a million works❤❤❤❤❤❤🎉 45:58",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "46:00 logic ♾ aura♾♾♾♾",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "46:00",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 2760.88,
+      "end": 2771.68,
+      "tags": [],
+      "text": "गया तो सब उसका लाइफ निकल जाए सुनो पंच लाइन इसको तुम यार कर करोगे या नहीं करोगे तुम्हारी मर्जी है आइडिया आर लाइक स्पर्म्स ओनली वन इन अ मिलियन",
+      "reactions": [],
+      "id": "L0325",
+      "seconds": 10.8,
+      "comments": [
+        {
+          "text": "46:07 best punch line😂",
+          "likes": 23,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "The best punch line every one should listen 😂 46:02",
+          "likes": 9,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "46:08 😂😂😂",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "46:02",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "46:08 punchline😂",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ],
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 2771.68,
+      "end": 2779.72,
+      "text": "[long gap 8.0s]",
+      "id": "L0326"
+    },
+    {
+      "kind": "line",
+      "start": 2779.72,
+      "end": 2790.72,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "वर्क्स ओके वी शुड कम बैक टू योर आइडिया नाउ तो आपका आईडिया था हम एक क्वेश्चन में बात कर रहे थे कि आपने बोला इंडिया में सस्ता चलता है प्राइस काटोगे कट",
+      "reactions": [],
+      "id": "L0327",
+      "seconds": 11.0,
+      "comments": [
+        {
+          "text": "46:30",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 2790.72,
+      "end": 2802.36,
+      "tags": [],
+      "text": "करोगे तो चलोगे तब जीत जाओगे कंपट हम लगता है इंडिया में सिर्फ सस्ता चलता है जो चलते जा रहा है उसको प्राइस कट करो और चलाओ नो लेट मी टेल यू बेस्ट",
+      "reactions": [],
+      "id": "L0328",
+      "seconds": 11.6,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 2802.36,
+      "end": 2804.079,
+      "text": "[pause 1.7s]",
+      "id": "L0329"
+    },
+    {
+      "kind": "line",
+      "start": 2804.079,
+      "end": 2812.47,
+      "tags": [],
+      "text": "क्वालिटी हाईएस्ट कास्ट खरीदने के लिए एक सेट है हम दे विल बाय ओनली दैट एनीथिंग चीपर दे विल नॉट",
+      "reactions": [],
+      "id": "L0330",
+      "seconds": 8.4
+    },
+    {
+      "kind": "event",
+      "start": 2812.47,
+      "end": 2813.67,
+      "text": "[music (youtube)]",
+      "id": "L0331"
+    },
+    {
+      "kind": "line",
+      "start": 2813.76,
+      "end": 2816.36,
+      "tags": [],
+      "text": "बाई बेटर क्वालिटी",
+      "reactions": [],
+      "id": "L0332",
+      "seconds": 2.6
+    },
+    {
+      "kind": "event",
+      "start": 2816.36,
+      "end": 2817.599,
+      "text": "[pause 1.2s]",
+      "id": "L0333"
+    },
+    {
+      "kind": "line",
+      "start": 2817.599,
+      "end": 2824.72,
+      "tags": [],
+      "text": "चीपर रेट देर क्राउड फर बेटर क्वालिटी ए चीपर बेस्ट चीपेस्ट सरी बेस्ट",
+      "reactions": [],
+      "id": "L0334",
+      "seconds": 7.1
+    },
+    {
+      "kind": "line",
+      "start": 2825.4,
+      "end": 2830.92,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "कॉस्ट बेटर क्वालिटी देन देर प्राइस फर",
+      "reactions": [],
+      "id": "L0335",
+      "seconds": 5.5
+    },
+    {
+      "kind": "line",
+      "start": 2831.4,
+      "end": 2841.16,
+      "tags": [],
+      "text": "देखो 25 रुपया के लिए मैं एक उडपी होटल में एक कॉफी पिया तो वह कुकी नहीं",
+      "reactions": [],
+      "id": "L0336",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 2841.68,
+      "end": 2844.559,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "देता टिशू पेपर नहीं",
+      "reactions": [],
+      "id": "L0337",
+      "seconds": 2.9
+    },
+    {
+      "kind": "line",
+      "start": 2844.76,
+      "end": 2851.48,
+      "tags": [],
+      "text": "देता कफे काफी डेम दिया तो वो सब मिलनी चाहिए क्राउड",
+      "reactions": [],
+      "id": "L0338",
+      "seconds": 6.7
+    },
+    {
+      "kind": "line",
+      "start": 2851.72,
+      "end": 2866.16,
+      "tags": [],
+      "text": "क्वेन मार्केटिंग कैसे किया मार्केटिंग में क्या लेसन था जिसकी वजह से आप ज्यादा अच्छे निकले बाकी लोग टेल य वन थिंग प्राइसिंग कम रहेगा ना मार्केटिंग वायरल होता है प्राइसिंग ज्यादा रहेगा",
+      "reactions": [],
+      "id": "L0339",
+      "seconds": 14.4
+    },
+    {
+      "kind": "line",
+      "start": 2866.16,
+      "end": 2872.76,
+      "tags": [],
+      "text": "ना आप बड़ा बड़ा आदमी को रके उसको बड़ा सैलरी देके उसको इंसेंटिव देके भी धक्का",
+      "reactions": [],
+      "id": "L0340",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 2872.76,
+      "end": 2883.6,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "नहीं दे पाएगा सो आई प्राइस वास लो बी बिकॉज माय प्राइस वास लो माय कंपट बिकम",
+      "reactions": [],
+      "id": "L0341",
+      "seconds": 10.8,
+      "comments": [
+        {
+          "text": "48:00",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 2884.16,
+      "end": 2893.72,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "परट एंड माय कंपट वेंट एंड डिड मार्केटिंग फॉर मी यू नो हाउ डू यू नो थायरोकेयर ही डजन डू द टेस्ट ही डि नो व्हाट इज थायरोकेयर",
+      "reactions": [],
+      "id": "L0342",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 2893.72,
+      "end": 2905.16,
+      "tags": [],
+      "text": "हु इज मार्केटिंग द कपटर सो कभी वो फोन करके बोलता है तुम्हारा कंपट आया था एक घंटा मेरा साथ था 50 मिनट तुम्हारा ही बात करता था वाह",
+      "reactions": [],
+      "id": "L0343",
+      "seconds": 11.4
+    },
+    {
+      "kind": "event",
+      "start": 2905.16,
+      "end": 2911.359,
+      "text": "[long gap 6.2s]",
+      "id": "L0344"
+    },
+    {
+      "kind": "line",
+      "start": 2911.359,
+      "end": 2924.68,
+      "tags": [],
+      "text": "बट हैविंग सेड दैट लेट्स से यू आर मेकिंग फेरली डिसेंट बिजनेस फेरली गुड क्वालिटी यू विल टेल ऑल यर वेल विशर्स वड ऑफ माउथ गोज वेरी फास्ट या एंड दैट",
+      "reactions": [],
+      "id": "L0345",
+      "seconds": 13.3
+    },
+    {
+      "kind": "line",
+      "start": 2924.68,
+      "end": 2935.24,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "हाउ इट वेंट थ्रू व्हाट डू यू थिंक थ्री बिजनेसेस इन इंडिया व्हिच कैन बी डिस्ट्रक्टेड टुडे गिवन द काइंड ऑफ ग्रोथ वी आर हैविंग गिवन द काइंड ऑफ मनी दैट द",
+      "reactions": [],
+      "id": "L0346",
+      "seconds": 10.6,
+      "comments": [
+        {
+          "text": "48:55 must watch",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 2935.24,
+      "end": 2945.799,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "कंट्री इज मेकिंग गिवन इंडस्ट्री एंड टेक्नोलॉजी चच है ऑलरेडी बीन देर व्हाट ड यू थिंक व्हाट आर द थ्री इंडस्ट्रीज च है इट्स नॉट थ्री इट्स नॉट 30 3000 इंडस्ट्री",
+      "reactions": [],
+      "id": "L0347",
+      "seconds": 10.6
+    },
+    {
+      "kind": "line",
+      "start": 2945.799,
+      "end": 2957.88,
+      "tags": [],
+      "text": "आर देर गिव मी टॉप थ्री व्ट ड यू फील आई गट दिस टू आइडिया च आई वांटेड टू डू आई हैव स्टिल नॉट डन ओके वन इज इफ यू टेक 1000",
+      "reactions": [],
+      "id": "L0348",
+      "seconds": 12.1
+    },
+    {
+      "kind": "event",
+      "start": 2957.88,
+      "end": 2959.44,
+      "text": "[pause 1.6s]",
+      "id": "L0349"
+    },
+    {
+      "kind": "line",
+      "start": 2959.44,
+      "end": 2966.559,
+      "tags": [],
+      "text": "गोट्स पुट इट इन एन आइलैंड च इ सफिशिएंटली सम 400 स्क्वायर किलोमीटर",
+      "reactions": [],
+      "id": "L0350",
+      "seconds": 7.1
+    },
+    {
+      "kind": "line",
+      "start": 2967.04,
+      "end": 2972.759,
+      "tags": [],
+      "text": "गोट्स नो वाइल्ड एनिमल देर यू लीव देर एंड यू कम",
+      "reactions": [],
+      "id": "L0351",
+      "seconds": 5.7
+    },
+    {
+      "kind": "line",
+      "start": 2973.119,
+      "end": 2978.4,
+      "tags": [],
+      "text": "आउट आफ्टर 10 इयर्स यू गो देर हाउ मेनी गोट्स ल ब",
+      "reactions": [],
+      "id": "L0352",
+      "seconds": 5.3
+    },
+    {
+      "kind": "event",
+      "start": 2978.4,
+      "end": 2979.72,
+      "text": "[pause 1.3s]",
+      "id": "L0353"
+    },
+    {
+      "kind": "line",
+      "start": 2979.72,
+      "end": 2980.92,
+      "tags": [],
+      "text": "देर",
+      "reactions": [],
+      "id": "L0354",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 2980.92,
+      "end": 2984.48,
+      "text": "[pause 3.6s]",
+      "id": "L0355"
+    },
+    {
+      "kind": "line",
+      "start": 2984.48,
+      "end": 2995.96,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "मिलियन लीव गोड्स 10 इयर्स देर मिलियन गोट्स कैलकुलेट द सीजीआर 100 पर एवरी यर इट गोस",
+      "reactions": [],
+      "id": "L0356",
+      "seconds": 11.5
+    },
+    {
+      "kind": "event",
+      "start": 2995.96,
+      "end": 2997.799,
+      "text": "[pause 1.8s]",
+      "id": "L0357"
+    },
+    {
+      "kind": "line",
+      "start": 2997.799,
+      "end": 3005.04,
+      "tags": [],
+      "text": "सस्त बिजनेस इससे आसान बिजनेस दुनिया में कुछ होता है क्या य सिट एंड कैलकुलेट एंड टेल मी कम दिस",
+      "reactions": [],
+      "id": "L0358",
+      "seconds": 7.2,
+      "comments": [
+        {
+          "text": "30:00 50:00",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 2
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 3005.04,
+      "end": 3014.559,
+      "tags": [],
+      "text": "इ फल दिस इ वंडरफुल बिजनेस यू नो वन थिंग आज से 40 साल पहले मटन चीप ता चिकन कॉस्टली",
+      "reactions": [],
+      "id": "L0359",
+      "seconds": 9.5
+    },
+    {
+      "kind": "line",
+      "start": 3014.839,
+      "end": 3021.44,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "ता आज मटन 000 केजी चिकन इ 250",
+      "reactions": [],
+      "id": "L0360",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 3021.64,
+      "end": 3028.4,
+      "tags": [],
+      "text": "केजी ओनली बिकॉज सम बडी स्केल्ड अप चिकन बिजनेस नो वन स्केड मटन",
+      "reactions": [],
+      "id": "L0361",
+      "seconds": 6.8
+    },
+    {
+      "kind": "event",
+      "start": 3028.4,
+      "end": 3030.24,
+      "text": "[pause 1.8s]",
+      "id": "L0362"
+    },
+    {
+      "kind": "line",
+      "start": 3030.24,
+      "end": 3043.88,
+      "tags": [],
+      "text": "बिजनेस अंडरस्ट ् आम टॉकिंग या यू कैन सिट एंड आई कैन फॉरवर्ड यू न एक्सेल सीट च टेल्स हाउ 000 बिकम अ मिलियन आई वांटेड अबाउ टू स्टार्ट इट माय चिल्ड्रन टड मी ड",
+      "reactions": [],
+      "id": "L0363",
+      "seconds": 13.6
+    },
+    {
+      "kind": "line",
+      "start": 3043.88,
+      "end": 3056.999,
+      "tags": [],
+      "text": "यू डोंट डू इट आई आस्क वई आपने पैथोलॉजी किया सस्ता किया आम आदमी को मदद किया आपको बहुत सारा एक सोशल कैपिटल मिला है नाउ इफ यू डू दिस यू विल गेट सिन कैपिटल",
+      "reactions": [],
+      "id": "L0364",
+      "seconds": 13.1
+    },
+    {
+      "kind": "line",
+      "start": 3057.48,
+      "end": 3059.16,
+      "tags": [],
+      "text": "डोंट ड इट",
+      "reactions": [],
+      "id": "L0365",
+      "seconds": 1.7
+    },
+    {
+      "kind": "line",
+      "start": 3059.76,
+      "end": 3068.88,
+      "tags": [],
+      "text": "ट एनीबडी कैन ड इट एंड दिस इ डूबल नंबर वन नंबर टू तमिलनाडु में हर डिस्ट्रिक्ट में टमटर की बाव",
+      "reactions": [],
+      "id": "L0366",
+      "seconds": 9.1
+    },
+    {
+      "kind": "line",
+      "start": 3068.88,
+      "end": 3079.92,
+      "tags": [],
+      "text": "अलग है कहीं आ रुप में बेचते है कभी 40 में व्ट यू नीड इ ग्रिड ग्रिड ग्रिड जीर आईडी ओके",
+      "reactions": [],
+      "id": "L0367",
+      "seconds": 11.0
+    },
+    {
+      "kind": "line",
+      "start": 3079.92,
+      "end": 3090.76,
+      "tags": [],
+      "text": "ट्रांसपोर्टेशन सिस्टम र वेवर इट चीपर उधर से वेवर इट इ कॉस्टली उधर जाएगा सिंपल डिमांड सप्लाई को स्टडी करके आईटी",
+      "reactions": [],
+      "id": "L0368",
+      "seconds": 10.8,
+      "comments": [
+        {
+          "text": "51:30 whats he said? one is sweet and what is the other thing he said... kindly some1 explain",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 3090.76,
+      "end": 3096.999,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "यूज करके आज इधर कितना बावे इधर कितना बावे बोलो तीन ट्रक उधर जाना है चार टक उधर से इधर आना",
+      "reactions": [],
+      "id": "L0369",
+      "seconds": 6.2
+    },
+    {
+      "kind": "line",
+      "start": 3097.839,
+      "end": 3106.44,
+      "tags": [],
+      "text": "है लाइक ट देर आर लट ऑफ थंग्स एवरी वेर यू कैन डू डिसर पशन पिक अप फोर",
+      "reactions": [],
+      "id": "L0370",
+      "seconds": 8.6
+    },
+    {
+      "kind": "line",
+      "start": 3106.44,
+      "end": 3117.12,
+      "tags": [],
+      "text": "स्वीट्स पिक अप फोर सेवरी ली एट आइटम फोकस एंड क्रिएट ब्रांड यू विल बिकम बिर जस्ट फोर",
+      "reactions": [],
+      "id": "L0371",
+      "seconds": 10.7
+    },
+    {
+      "kind": "event",
+      "start": 3117.12,
+      "end": 3118.88,
+      "text": "[pause 1.8s]",
+      "id": "L0372"
+    },
+    {
+      "kind": "line",
+      "start": 3118.88,
+      "end": 3128.92,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "मतलब यू मीन पिक अप लेट्स से जस्ट वन लड्डू और लाइ टू लू व्ट एवर लिस्ट द स्वीट टॉप फोर ले लो लिस्ट द सर्वर टॉप फोर ले",
+      "reactions": [],
+      "id": "L0373",
+      "seconds": 10.0,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 3128.92,
+      "end": 3140.88,
+      "tags": [],
+      "text": "लो सिर्फ आठ चीज को बनाओ एकदम इतना ही आपको शोरूम चाहिए इससे ज्यादा जरूरत ही नहीं है सेंट्रलाइज किचन से आता है सेल्फ लाफ काफी है ब्रांड बनाओ ट",
+      "reactions": [],
+      "id": "L0374",
+      "seconds": 12.0
+    },
+    {
+      "kind": "line",
+      "start": 3141.799,
+      "end": 3146.84,
+      "tags": [],
+      "text": "वर्क्स सेवरीज टू मेनी थिंग्स इफ यू मेक यू आर नट एन आइडेंटिटी",
+      "reactions": [],
+      "id": "L0375",
+      "seconds": 5.0
+    },
+    {
+      "kind": "line",
+      "start": 3147.92,
+      "end": 3161.96,
+      "tags": [],
+      "text": "अंडरस्ट व आईम टॉकिंग सोस दिस काइंड ऑफ आइडिया आर पॉसिबल टू डू दिस आर न डिसर पड एडिक्ट बट हैविंग सेड दैट एयरलाइन इ नाउ गेटिंग डिसर पड टेलीकॉम कैन नॉट बी डिसर पड बिकॉज लाइसेंस य",
+      "reactions": [],
+      "id": "L0376",
+      "seconds": 14.0,
+      "comments": [
+        {
+          "text": "52:36 what of we do this: bring veggies from cheapest place and raise the price slightest to draw transport price and sell it cheap 😂",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 3161.96,
+      "end": 3176.559,
+      "tags": [],
+      "text": "एनीबडी कैनॉट गेट इन टू टेलीकम वेर एवर देर इज नो एंट्री बैरियर देर इ स्टिल स्टिल रूम इ देर फॉर टू डिसर रप एक दो चीज आपने बोली थी पहले इनसाइट कॉस्ट कंट्रोल डिसर बट सबसे मेन और",
+      "reactions": [],
+      "id": "L0377",
+      "seconds": 14.6
+    },
+    {
+      "kind": "line",
+      "start": 3176.68,
+      "end": 3179.559,
+      "tags": [],
+      "text": "इंपॉर्टेंट बात जो करनी है 25000",
+      "reactions": [],
+      "id": "L0378",
+      "seconds": 2.9
+    },
+    {
+      "kind": "line",
+      "start": 3180.359,
+      "end": 3182.559,
+      "tags": [],
+      "text": "फ्रेशर्स वई",
+      "reactions": [],
+      "id": "L0379",
+      "seconds": 2.2
+    },
+    {
+      "kind": "line",
+      "start": 3183.119,
+      "end": 3189.44,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "फ्रेशर लाइक आई गट द लॉजिक कि आप फ्रेशर को ट्रेन करो बट एक पॉइंट बात ऐसा नहीं होता कि स्पीड ऑफ",
+      "reactions": [],
+      "id": "L0380",
+      "seconds": 6.3
+    },
+    {
+      "kind": "line",
+      "start": 3189.44,
+      "end": 3195.24,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "बिजनेस रुक जाती है क्योंकि आपके एक्सपीरियंस लोग नहीं है सिखा नहीं सकते हो उनको पता नहीं मार्केट में और करना क्या",
+      "reactions": [],
+      "id": "L0381",
+      "seconds": 5.8
+    },
+    {
+      "kind": "line",
+      "start": 3196.079,
+      "end": 3209.84,
+      "tags": [],
+      "text": "है लर्न वेरी क्यूरियस नेक्स्ट पंचन जो बोलता हूं उसको यार मत करो सुन के लो फॉर जॉब एवरी बडी वांट्स एक्सपीरियंस बट दे ओनली गेट फ्रेश बट फॉर",
+      "reactions": [],
+      "id": "L0382",
+      "seconds": 13.8,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 3209.84,
+      "end": 3216.04,
+      "text": "[long gap 6.2s]",
+      "id": "L0383"
+    },
+    {
+      "kind": "line",
+      "start": 3216.04,
+      "end": 3224.72,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "मैरिज एक्सपी सोस द प्रॉब्लम इन सोसाइटी हैविंग सेड ट आई लडी सेड 100",
+      "reactions": [],
+      "id": "L0384",
+      "seconds": 8.7
+    },
+    {
+      "kind": "line",
+      "start": 3224.72,
+      "end": 3232.16,
+      "tags": [],
+      "text": "डेस ट्रेन मैन इ इक्वल टू डेस ट्रेन बाय कंपटीशन य ओन मैन यू ट्रेन",
+      "reactions": [],
+      "id": "L0385",
+      "seconds": 7.4
+    },
+    {
+      "kind": "event",
+      "start": 3232.16,
+      "end": 3233.52,
+      "text": "[pause 1.4s]",
+      "id": "L0386"
+    },
+    {
+      "kind": "line",
+      "start": 3233.52,
+      "end": 3239.759,
+      "tags": [],
+      "text": "स्पेसिफिक नाउ यू नीड टू कीप असली लाइन न ट इस असेंबली",
+      "reactions": [],
+      "id": "L0387",
+      "seconds": 6.2
+    },
+    {
+      "kind": "line",
+      "start": 3240.0,
+      "end": 3248.839,
+      "tags": [],
+      "text": "लाइन फ्रेशर लेता ही जाओ व फ्रेशर पहला दिन छोटा काम करेगा नेक्स्ट डे इत तक काम करेगा तीन महीना खत्म होता है",
+      "reactions": [],
+      "id": "L0388",
+      "seconds": 8.8
+    },
+    {
+      "kind": "line",
+      "start": 3248.839,
+      "end": 3259.88,
+      "tags": [],
+      "text": "वो फुल काम करेगा गेटिंग लोकली ट्रे सो दिस असेंबली लान वन इट इज देयर द सीनियर मोस्ट मैन यू कैन अलो टू",
+      "reactions": [],
+      "id": "L0389",
+      "seconds": 11.0
+    },
+    {
+      "kind": "line",
+      "start": 3260.76,
+      "end": 3275.64,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "गो एवरी ऑर्गेनाइजेशन है गट अंडर पेड एसेट्स एंड ओवर पेड लायबिलिटी पंच लाइन व्ट इट अंडर प्राइस अंडर पेड अंडर पेड एसेट ड",
+      "reactions": [],
+      "id": "L0390",
+      "seconds": 14.9,
+      "comments": [
+        {
+          "text": "54:28",
+          "likes": 0,
+          "dupes": 1,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 3275.64,
+      "end": 3277.76,
+      "text": "[pause 2.1s]",
+      "id": "L0391"
+    },
+    {
+      "kind": "line",
+      "start": 3277.76,
+      "end": 3278.96,
+      "tags": [],
+      "text": "लायबिलिटी",
+      "reactions": [],
+      "id": "L0392",
+      "seconds": 1.2
+    },
+    {
+      "kind": "line",
+      "start": 3279.28,
+      "end": 3290.48,
+      "tags": [],
+      "text": "सो हाउ ल गेट रिड ऑफ लायबिलिटी इफ यू डोंट हैव रिसोर्सेस टू रिप्लेस ओके लेट म टेल यूस वेरी इंपोर्टेंट फॉर एंटरप्र टू अंडरस्टैंड एन एप्ल नीड्स",
+      "reactions": [],
+      "id": "L0393",
+      "seconds": 11.2,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 3290.48,
+      "end": 3292.72,
+      "text": "[pause 2.2s]",
+      "id": "L0394"
+    },
+    {
+      "kind": "line",
+      "start": 3292.72,
+      "end": 3294.92,
+      "tags": [],
+      "text": "स्टैमिना डिसिप्लिन",
+      "reactions": [],
+      "id": "L0395",
+      "seconds": 2.2
+    },
+    {
+      "kind": "event",
+      "start": 3294.92,
+      "end": 3297.559,
+      "text": "[pause 2.6s]",
+      "id": "L0396"
+    },
+    {
+      "kind": "line",
+      "start": 3297.559,
+      "end": 3298.759,
+      "tags": [],
+      "text": "इंटेलिजेंस",
+      "reactions": [],
+      "id": "L0397",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 3298.759,
+      "end": 3301.559,
+      "text": "[pause 2.8s]",
+      "id": "L0398"
+    },
+    {
+      "kind": "line",
+      "start": 3301.559,
+      "end": 3310.16,
+      "tags": [],
+      "text": "फोकस य पहला महीना हम स्टैमिन कैलकुलेट कर लेते हैं क्योंकि वह पूरा महीना में छ दिन लेट आया",
+      "reactions": [],
+      "id": "L0399",
+      "seconds": 8.6
+    },
+    {
+      "kind": "line",
+      "start": 3310.68,
+      "end": 3314.999,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "था एमवन एलएन रिमूव स्टैमिना",
+      "reactions": [],
+      "id": "L0400",
+      "seconds": 4.3
+    },
+    {
+      "kind": "event",
+      "start": 3314.999,
+      "end": 3316.52,
+      "text": "[pause 1.5s]",
+      "id": "L0401"
+    },
+    {
+      "kind": "line",
+      "start": 3316.52,
+      "end": 3319.999,
+      "tags": [],
+      "text": "लेस द सेकंड वन इज डिसिप्लिन",
+      "reactions": [],
+      "id": "L0402",
+      "seconds": 3.5
+    },
+    {
+      "kind": "event",
+      "start": 3319.999,
+      "end": 3321.44,
+      "text": "[pause 1.4s]",
+      "id": "L0403"
+    },
+    {
+      "kind": "line",
+      "start": 3321.44,
+      "end": 3327.68,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "कमिंग इन टाइम गोइंग इन टाइम सिटिंग ए नट गॉसिपिंग",
+      "reactions": [],
+      "id": "L0404",
+      "seconds": 6.2
+    },
+    {
+      "kind": "line",
+      "start": 3327.96,
+      "end": 3339.64,
+      "tags": [],
+      "text": "एनीवे वेरी गुड एंप्लॉई सो डिसिप्लिन अगर डिसिप्लिन नहीं होता है कोटर में निकाल दो कव एव कव द थर्ड वन इ",
+      "reactions": [],
+      "id": "L0405",
+      "seconds": 11.7
+    },
+    {
+      "kind": "line",
+      "start": 3340.039,
+      "end": 3348.16,
+      "tags": [],
+      "text": "इंटेलिजेंस अगर इंटेलिजेंस नहीं है एक साल में आपको पता नहीं है तो यू आर ओनली द प्रॉब्लम नट द",
+      "reactions": [],
+      "id": "L0406",
+      "seconds": 8.1
+    },
+    {
+      "kind": "line",
+      "start": 3348.16,
+      "end": 3357.64,
+      "tags": [],
+      "text": "एप्ल सो यर वन खत्म यू रिमूव द गाई हु इ नॉट इंटेलिजेंट आफ्टर फ यर्स य रिमूव द कैनट",
+      "reactions": [],
+      "id": "L0407",
+      "seconds": 9.5
+    },
+    {
+      "kind": "event",
+      "start": 3357.64,
+      "end": 3359.039,
+      "text": "[pause 1.4s]",
+      "id": "L0408"
+    },
+    {
+      "kind": "line",
+      "start": 3359.039,
+      "end": 3370.92,
+      "tags": [],
+      "text": "फोकस यू कांट फाइंड आउट फोकस न द फर्स्ट मंथम टॉकिंग या सो वी केप्ट ऑन एडिंग पीपल रिमूविंग पीपल 25000 पीपल में 2500",
+      "reactions": [],
+      "id": "L0409",
+      "seconds": 11.9
+    },
+    {
+      "kind": "line",
+      "start": 3370.92,
+      "end": 3380.599,
+      "tags": [],
+      "text": "रिटेन किया बाकी 90 टका गर बेजा यू नो वन थिंग व्ट माय पीपल लड इन द एंटर 25 यर्स सर हैज नेवर ब्रोट एनीबडी",
+      "reactions": [],
+      "id": "L0410",
+      "seconds": 9.7
+    },
+    {
+      "kind": "line",
+      "start": 3380.599,
+      "end": 3391.72,
+      "tags": [],
+      "text": "फ्रॉम आउटसाइड अब अस ऊपर जो भी कुर्सी काली है मेरे लिए जाने के लिए है मोस्ट पावरफुल मोटिवेशन इन एनी र्ग एंड द बिग",
+      "reactions": [],
+      "id": "L0411",
+      "seconds": 11.1
+    },
+    {
+      "kind": "line",
+      "start": 3391.72,
+      "end": 3400.6,
+      "tags": [],
+      "text": "प्रॉब्लम आई हैव नोटिस कपल ऑफ टाइम्स आई हैव अकोमोडेटेड एंड टेकन समवन आफ्टर वर्ड्स आई हैव सेंट हिम साहब आप उस उसमें आप क्या",
+      "reactions": [],
+      "id": "L0412",
+      "seconds": 8.9
+    },
+    {
+      "kind": "event",
+      "start": 3400.6,
+      "end": 3402.16,
+      "text": "[pause 1.6s]",
+      "id": "L0413"
+    },
+    {
+      "kind": "line",
+      "start": 3402.16,
+      "end": 3409.96,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "देखा सो आई थिंक इन योर ओन ऑर्गेनाइजेशन य लेटस से ऐसा नहीं है कि तीन साल खत्म हुआ तो ऑफिसर बनता है पाच साल खत्म हुआ",
+      "reactions": [],
+      "id": "L0414",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 3409.96,
+      "end": 3419.96,
+      "tags": [],
+      "text": "तो मैनेजर बनता है डेढ़ साल खत्म हुआ तो भी वाइस प्रेसिडेंट बन सकता है दिमाग रहेगा तो जरा डों मी ऑल एंप्लॉयज है सेम इंटेलिजेंस ट्रू नट्स",
+      "reactions": [],
+      "id": "L0415",
+      "seconds": 10.0
+    },
+    {
+      "kind": "line",
+      "start": 3420.64,
+      "end": 3426.999,
+      "tags": [],
+      "text": "इट कैसे सीखता है इंसान ये क्योंकि आजकल ना क्या हो गया पहले पीपल बिकम",
+      "reactions": [],
+      "id": "L0416",
+      "seconds": 6.4
+    },
+    {
+      "kind": "line",
+      "start": 3427.319,
+      "end": 3437.92,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "एंटरप्रेन्योर्स आउट ऑफ सिचुएशन कि कहीं जॉब नहीं मिल रहा था कुछ नहीं हो रहा था तो बनना पड़ा अब लोगों की चॉइस होती है कि यार मेरे को बिजनेस बनाना है मैं एस्पायर",
+      "reactions": [],
+      "id": "L0417",
+      "seconds": 10.6
+    },
+    {
+      "kind": "line",
+      "start": 3437.92,
+      "end": 3450.88,
+      "tags": [],
+      "text": "करता है सपने लोगों के जैसे लोगों पहले जमाना में उस जमाना में गरीब लोग बिजनेसमैन बनी हम इस जमाना में में धनवान की लोग बिजनेस करने के लिए कोशिश करते हैं और जभी",
+      "reactions": [],
+      "id": "L0418",
+      "seconds": 13.0
+    },
+    {
+      "kind": "line",
+      "start": 3450.88,
+      "end": 3466.119,
+      "tags": [],
+      "text": "गरीब बिजनेस करते हैं उसको पता है मार्केट क्या है प्राइसिंग क्या है दर्द क्या है वो एक लेवल में वो जैसा मेरा ऐसा मेरा य देखिएगा 30 साल से पहले पूरा चैलेंज देख",
+      "reactions": [],
+      "id": "L0419",
+      "seconds": 15.2
+    },
+    {
+      "kind": "line",
+      "start": 3466.119,
+      "end": 3480.4,
+      "tags": [],
+      "text": "चुका था टुडे आई एम टेलिंग यू व्हाट इज द प्रॉब्लम दि वेरी इंपोर्टेंट आई एम गोइंग टू ड्राइव यूजिंग माय सोशल मीडिया हैंडल देर आर टू कांड्स ऑफ पीपल वन इस पैंपर्ड अनदर इ",
+      "reactions": [],
+      "id": "L0420",
+      "seconds": 14.3
+    },
+    {
+      "kind": "event",
+      "start": 3480.4,
+      "end": 3482.039,
+      "text": "[pause 1.6s]",
+      "id": "L0421"
+    },
+    {
+      "kind": "line",
+      "start": 3482.039,
+      "end": 3485.519,
+      "tags": [],
+      "text": "पैरेंटेड पैंपर्ड शड नॉट गेट इनटू",
+      "reactions": [],
+      "id": "L0422",
+      "seconds": 3.5
+    },
+    {
+      "kind": "line",
+      "start": 3486.319,
+      "end": 3501.76,
+      "tags": [],
+      "text": "बिजनेस पैरेंटेड ओनली ब य थक पमप कैन नॉट बिल्ड बिजनेस दे कां लर्न टू बिल्ड बिजनेस नो ड नो रिलिटी बिकॉज उसका घर में एक ही बच्चा था डैडी",
+      "reactions": [],
+      "id": "L0423",
+      "seconds": 15.4
+    },
+    {
+      "kind": "line",
+      "start": 3501.76,
+      "end": 3517.319,
+      "tags": [],
+      "text": "मम्मी डैडी का डैडी मम्मी मम्मी का डैडी मम्मी और दो सर्वेंट एंड ल र ट्राइट हेल्प हिम ही ओनली लर्न टू गेट हेल्प ही ज नेवर नोन टू डू",
+      "reactions": [],
+      "id": "L0424",
+      "seconds": 15.6,
+      "comments": [
+        {
+          "text": "58:36 best one!",
+          "likes": 6,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 3517.799,
+      "end": 3520.559,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "हेल्प तुम क्या बिजनेस",
+      "reactions": [],
+      "id": "L0425",
+      "seconds": 2.8
+    },
+    {
+      "kind": "line",
+      "start": 3521.52,
+      "end": 3526.759,
+      "tags": [],
+      "text": "बनाएगा लेने वाला कभी जीतता नहीं है देने वाला ही जीतता",
+      "reactions": [],
+      "id": "L0426",
+      "seconds": 5.2
+    },
+    {
+      "kind": "line",
+      "start": 3527.039,
+      "end": 3542.76,
+      "tags": [],
+      "text": "है ओ लास्ट लास्ट पार्ट कि आपने बताया 5000 करोड़ में एग्जिट किया ये तो आपने बनाया पूरा बिजनेस बन गया उसके बाद एग्जिट कैसे हुआ कब हुआ क्योंकि इन्वेस्टर से कभी पैसे नहीं लिए बेचने का कभी मन",
+      "reactions": [],
+      "id": "L0427",
+      "seconds": 15.7
+    },
+    {
+      "kind": "line",
+      "start": 3542.76,
+      "end": 3549.88,
+      "tags": [],
+      "text": "नहीं था बनाते जा रहे थे तो कैसे क्यों बेच दिया हमारा स्टोरी में मैं आपको बताया नहीं है",
+      "reactions": [],
+      "id": "L0428",
+      "seconds": 7.1
+    },
+    {
+      "kind": "line",
+      "start": 3549.88,
+      "end": 3563.559,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "कि आई लास्ट माय वाइफ लॉस्ट वा ओके ओके न द डे न आई हैड गन टू लिस्ट माय कंपनी",
+      "reactions": [],
+      "id": "L0429",
+      "seconds": 13.7
+    },
+    {
+      "kind": "line",
+      "start": 3564.16,
+      "end": 3566.36,
+      "tags": [],
+      "text": "2016 में",
+      "reactions": [],
+      "id": "L0430",
+      "seconds": 2.2
+    },
+    {
+      "kind": "event",
+      "start": 3566.36,
+      "end": 3567.92,
+      "text": "[pause 1.6s]",
+      "id": "L0431"
+    },
+    {
+      "kind": "line",
+      "start": 3567.92,
+      "end": 3571.2,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "न आई वेंट टू रिंग द बेल इन द नेशनल स्टॉक",
+      "reactions": [],
+      "id": "L0432",
+      "seconds": 3.3
+    },
+    {
+      "kind": "line",
+      "start": 3571.599,
+      "end": 3583.92,
+      "tags": [],
+      "text": "एक्सचेंज आई डिड इट अलोन आई लस्ट माय वाइफ फॉर पक्रिया कैंसर ग्रेड फोर जस्ट 50 डेज बिफोर माय आईपीओ एंड शी",
+      "reactions": [],
+      "id": "L0433",
+      "seconds": 12.3
+    },
+    {
+      "kind": "line",
+      "start": 3583.92,
+      "end": 3596.359,
+      "tags": [],
+      "text": "वास डायग्नोज टू हैव ट प्रॉब्लम ओनली 50 डेज बिफोर द डेथ ली 100 डे इट ओवर ट वास ह्यूज शॉक फर आई",
+      "reactions": [],
+      "id": "L0434",
+      "seconds": 12.4
+    },
+    {
+      "kind": "line",
+      "start": 3596.359,
+      "end": 3606.559,
+      "tags": [],
+      "text": "आल्सो सेड सी आल्सो लेफ्ट हर जॉब सी किल्ड हर आइडेंटिटी टू मेक शर आई विन सो मोस्ट पावरफुल लेडी साइलेंट हु",
+      "reactions": [],
+      "id": "L0435",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 3606.559,
+      "end": 3619.08,
+      "tags": [],
+      "text": "वास नेवर रगना एस कोफाउंडर एंड सी वास द बैक बोन बिहाइंड माय एंटा जर्नी एंड लूजिंग हर वास लाइक यू नो यू",
+      "reactions": [],
+      "id": "L0436",
+      "seconds": 12.5,
+      "comments": [
+        {
+          "text": "1:00:10 very emosional part",
+          "likes": 4,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 3619.28,
+      "end": 3629.64,
+      "tags": [],
+      "text": "आर स्केलिंग द एवरेस्ट विथ यर बेस्ट कंपन एंड ओनली 54 मीटर लेफ्ट 50 मोर मीटर्स लेफ्ट आउट एंड य",
+      "reactions": [],
+      "id": "L0437",
+      "seconds": 10.4
+    },
+    {
+      "kind": "line",
+      "start": 3630.559,
+      "end": 3633.799,
+      "tags": [],
+      "text": "लेफ्ट वास द वन हु मेड मी एमएससी",
+      "reactions": [],
+      "id": "L0438",
+      "seconds": 3.2
+    },
+    {
+      "kind": "line",
+      "start": 3634.24,
+      "end": 3642.44,
+      "tags": [],
+      "text": "पीएचडी सी वा द वन हु मेड मी साइंटिस्ट एंड एंटनर स्टोरी टेलर वा द वन टट मी हिंदी मराठी",
+      "reactions": [],
+      "id": "L0439",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 3642.44,
+      "end": 3651.64,
+      "tags": [],
+      "text": "गुजराती अगर व नहीं होती मेरा हिंदी इतना सुधरता नहीं तो मद्रासी का मदरासी रह जाता लूजिंग हर वास वेरी बिग",
+      "reactions": [],
+      "id": "L0440",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 3652.52,
+      "end": 3663.2,
+      "tags": [],
+      "text": "फ्रस्टे आई थट आई मस्ट सेल द कंपनी एंड गो रिलक्स किसके लिए अभी किसके लिए बनाना है सो द डिसीजन टू सेल द कंपनी वास टेकन",
+      "reactions": [],
+      "id": "L0441",
+      "seconds": 10.7
+    },
+    {
+      "kind": "line",
+      "start": 3663.2,
+      "end": 3673.079,
+      "tags": [],
+      "text": "इन 206 न आई लस्ट माय वाइफ एंड देन इफ आई गो एंड पिच टू समवन आई वांट टू सेल इट आई नट गेट प्राइस आ फ्रॉम",
+      "reactions": [],
+      "id": "L0442",
+      "seconds": 9.9,
+      "comments": [
+        {
+          "text": "1:01:13 Aproach value 1.5 1:04:33 failure se daro mat. Don't repeat mistakes",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 2
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 3673.079,
+      "end": 3684.559,
+      "tags": [],
+      "text": "विलेज आई हैव लर्न इ ही कम्स टू यू यर वैल्यू 1.5 एक्स इफ यू गो टू हिम ट फ एक्स पेशेंटली वेटेड देन कोविड केम द",
+      "reactions": [],
+      "id": "L0443",
+      "seconds": 11.5
+    },
+    {
+      "kind": "line",
+      "start": 3684.559,
+      "end": 3699.48,
+      "tags": [],
+      "text": "कोविड फर्स्ट प्राइवेट लेबोरेटरी पीसीआर टेस्टिंग लिस्ट में फर्स्ट लिस्ट में फर्स्ट नाम ता सो आई गट वेरी पावरफुल अटेंशन ऑफ द मार्केट लट ऑफ कोविड पीसीआर बिजनेस",
+      "reactions": [],
+      "id": "L0444",
+      "seconds": 14.9
+    },
+    {
+      "kind": "line",
+      "start": 3699.48,
+      "end": 3709.4,
+      "tags": [],
+      "text": "एंड माय टर्नओवर परडे वास न करोड़ इट बिकम पर डे ट करर माय शेयर प्राइस वास 450 इट बिकम 1200 एंड ट टाइम सम बडी वास",
+      "reactions": [],
+      "id": "L0445",
+      "seconds": 9.9
+    },
+    {
+      "kind": "line",
+      "start": 3709.4,
+      "end": 3722.0,
+      "tags": [],
+      "text": "इंटरेस्टेड इन माय स्टॉक एंड आ थट आई मस्ट न आउट आई गट द बेस्ट प्राइस आई गट अ बिलियन डॉलर मार्केट कैप एंड आई जस्ट सोल्ड इट",
+      "reactions": [],
+      "id": "L0446",
+      "seconds": 12.6
+    },
+    {
+      "kind": "line",
+      "start": 3722.0,
+      "end": 3734.68,
+      "tags": [],
+      "text": "सो द रीजन टू सेल वास नॉट ओनली दैट आई लस्ट माय वाइफ आई आल्सो फेल्ट ये मैड रेस कब तक थोड़ा रिलैक्स भी करना है ट्स",
+      "reactions": [],
+      "id": "L0447",
+      "seconds": 12.7
+    },
+    {
+      "kind": "line",
+      "start": 3734.68,
+      "end": 3746.88,
+      "tags": [],
+      "text": "नंबर टू नंबर थ्री दोस डेज एंप्लॉई वास थिंकिंग एंप्लॉयर इज गड दैट अंडल इ गन टुडे एंप्लॉई को एंप्लॉई को एंप्लॉयर को बहुत गाली खाना होता है",
+      "reactions": [],
+      "id": "L0448",
+      "seconds": 12.2,
+      "comments": [
+        {
+          "text": "1:02:21 god fired 90% employees n expect to be called him as god 😂",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 3747.279,
+      "end": 3758.999,
+      "tags": [],
+      "text": "मुझे नहीं होता है एंड देन टुडे कस्टमर एक्सपीरियंस इ समथिंग विच दे आर कंपेयरिंग आवर सेल्फ वि स्विगी 20 मिनट में वो डिलीवरी देता है तुम क्यों तीन दिन लेते हो",
+      "reactions": [],
+      "id": "L0449",
+      "seconds": 11.7
+    },
+    {
+      "kind": "line",
+      "start": 3759.48,
+      "end": 3774.64,
+      "tags": [],
+      "text": "अंडर य सब हिसाब करके देखा एंड आई एम वेरी पावरफुल मोटिवेट एंड स्टेज आई थट सो फार आई वा डायरेक्टली क्रिएटिंग एंप्लॉयमेंट लेट मी नाउ मोटिवेट एंटरप्र एंड मेक देम टू क्रिएट एलमेंट सो आई",
+      "reactions": [],
+      "id": "L0450",
+      "seconds": 15.2
+    },
+    {
+      "kind": "line",
+      "start": 3774.64,
+      "end": 3788.559,
+      "tags": [],
+      "text": "एम नाउ टोटली फ्री आई गो टू स्टेज एंड आ एल पीपल एंड मोटिवेट देम माय स्टोरी आई टेल दे गेट लट मोर आइडियाज एवरी टॉक ऑफ माइन फॉर वन वर एंड स्टेज गिव्स रेज टू",
+      "reactions": [],
+      "id": "L0451",
+      "seconds": 13.9
+    },
+    {
+      "kind": "line",
+      "start": 3789.4,
+      "end": 3797.039,
+      "tags": [],
+      "text": "जॉब्स ट्स हाउ आई एम नाउ इनटू टोटली डिफरेंट मोड एंड पैसा काफी है एंड माय चिल्ड्रन र नॉट वेरी कीन टू",
+      "reactions": [],
+      "id": "L0452",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 3797.039,
+      "end": 3805.84,
+      "tags": [],
+      "text": "रन इट दे सेड टंट यू आर रनिंग इट वी विल सपोर्ट यू वी डोंट वा रन इट ए आई रेड बुक समर",
+      "reactions": [],
+      "id": "L0453",
+      "seconds": 8.8
+    },
+    {
+      "kind": "line",
+      "start": 3806.16,
+      "end": 3808.83,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "यू लव य चिल्ड्रन गिव द मनी नॉट द",
+      "reactions": [],
+      "id": "L0454",
+      "seconds": 2.7
+    },
+    {
+      "kind": "event",
+      "start": 3808.83,
+      "end": 3810.03,
+      "text": "[laughter (youtube)]",
+      "id": "L0455"
+    },
+    {
+      "kind": "line",
+      "start": 3814.68,
+      "end": 3820.16,
+      "tags": [],
+      "text": "कंपनीस हा आटे आ री हैप्पी ट आई हैव एड नो रिग्रेट",
+      "reactions": [],
+      "id": "L0456",
+      "seconds": 5.5
+    },
+    {
+      "kind": "line",
+      "start": 3820.559,
+      "end": 3829.64,
+      "tags": [],
+      "text": "सो आई थिंक इफ सम बडी स टू गिव अवार्ड न स्टेज द बेस्ट एसिट अवार्ड इट विल बी मी ओनली देर",
+      "reactions": [],
+      "id": "L0457",
+      "seconds": 9.1
+    },
+    {
+      "kind": "event",
+      "start": 3829.64,
+      "end": 3831.119,
+      "text": "[pause 1.5s]",
+      "id": "L0458"
+    },
+    {
+      "kind": "line",
+      "start": 3831.119,
+      "end": 3835.759,
+      "tags": [],
+      "text": "नो अमेजिंग थैंक य सो मच सर थंक य स",
+      "reactions": [],
+      "id": "L0459",
+      "seconds": 4.6
+    },
+    {
+      "kind": "line",
+      "start": 3836.559,
+      "end": 3841.64,
+      "tags": [],
+      "text": "ए पंच ऑ ट य एक्सपेक्ट ल कम सनली",
+      "reactions": [],
+      "id": "L0460",
+      "seconds": 5.1
+    },
+    {
+      "kind": "line",
+      "start": 3842.039,
+      "end": 3846.31,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "बनम न कमप बिलीव र वल",
+      "reactions": [],
+      "id": "L0461",
+      "seconds": 4.3
+    },
+    {
+      "kind": "event",
+      "start": 3846.31,
+      "end": 3847.51,
+      "text": "[laughter (youtube)]",
+      "id": "L0462"
+    },
+    {
+      "kind": "line",
+      "start": 3849.039,
+      "end": 3854.039,
+      "tags": [],
+      "text": "मनी थैंक यू सो मच ली एज य ल",
+      "reactions": [],
+      "id": "L0463",
+      "seconds": 5.0
+    },
+    {
+      "kind": "line",
+      "start": 3854.96,
+      "end": 3868.4,
+      "tags": [],
+      "text": "नी इक्ट जनी ट्रसम पीपल मेक शर दे अंडरस्टैंड व्ट न टू डरर ली न थ नॉट डू एंड देर आर इंफिनिट थिंग्स विच यू",
+      "reactions": [],
+      "id": "L0464",
+      "seconds": 13.4
+    },
+    {
+      "kind": "line",
+      "start": 3868.4,
+      "end": 3878.76,
+      "tags": [],
+      "text": "शड यू कैन लर्न एंड डू एंड दिस थिंग्स वी मस्ट टीच पीपल एंड फेलर से डरो मत जो ग गिरा ही नहीं है वो जर्नी",
+      "reactions": [],
+      "id": "L0465",
+      "seconds": 10.4,
+      "comments": [
+        {
+          "text": "1:01:13 Aproach value 1.5 1:04:33 failure se daro mat. Don't repeat mistakes",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 2
+        }
+      ],
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 3878.76,
+      "end": 3888.0,
+      "tags": [],
+      "text": "ही नहीं कर पाएगा सो आई कीप टेलिंग पीपल मेक मिस्टेक्स मेक ऑल मिस्टेक्स मेक देम वेरी फास्ट बट डोंट रिपीट इफ यू डू एवरी डे",
+      "reactions": [],
+      "id": "L0466",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 3888.0,
+      "end": 3895.92,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "ए न्यू मिस्टेक यूर यू आर गोइंग टू बी अ बिलियने यू डू द सेम मिस्टेक एवरी डे यू आर गोइंग टू बी अ बेगर सून",
+      "reactions": [],
+      "id": "L0467",
+      "seconds": 7.9,
+      "comments": [
+        {
+          "text": "watching at 04 and also in 05 October 2025 1:04:53",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 3895.92,
+      "end": 3900.2,
+      "text": "[long gap 4.3s]",
+      "id": "L0468"
+    },
+    {
+      "kind": "line",
+      "start": 3900.2,
+      "end": 3912.0,
+      "tags": [],
+      "text": "गुड सो यस वी विल मीट इन मेनी फोरम्स सस आई डू कीप ट्रैवलिंग लट ऑफ एंड इ देर आर",
+      "reactions": [],
+      "id": "L0469",
+      "seconds": 11.8
+    },
+    {
+      "kind": "line",
+      "start": 3912.0,
+      "end": 3921.44,
+      "tags": [],
+      "text": "पीपल हु लेट्स से हु थिंक मे बी दे कैन बी अ पोटेंशियल एंटनर हाउ शुड दे रीच यू फोकस वेल",
+      "reactions": [],
+      "id": "L0470",
+      "seconds": 9.4
+    },
+    {
+      "kind": "line",
+      "start": 3921.96,
+      "end": 3932.079,
+      "tags": [],
+      "text": "gmail.com फोकस इ वड आ अ फोकस वे gmail.com थैंक यू सो मच य एपिसोड एंड तक देखने के लिए मुझे यह बताओ कि इस एपिसोड में",
+      "reactions": [],
+      "id": "L0471",
+      "seconds": 10.1
+    },
+    {
+      "kind": "line",
+      "start": 3932.079,
+      "end": 3940.96,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "सबसे फेवरेट पंच लाइन आपकी कौन सी थी क्योंकि यह एपिसोड अगर आपने एंड तक देखा है तो आपके बहुत सारे फेवरेट पार्ट्स हुए होंगे मुझे बताओ सबसे",
+      "reactions": [],
+      "id": "L0472",
+      "seconds": 8.9
+    },
+    {
+      "kind": "line",
+      "start": 3940.96,
+      "end": 3949.4,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "फेवरेट पार्ट कौन सा था एंड यह एपिसोड को किसी एक इंसान के साथ शेयर करो जिसको आप लाइफ में आगे बढ़ता हुआ देखना चाहते हो या",
+      "reactions": [],
+      "id": "L0473",
+      "seconds": 8.4,
+      "comments": [
+        {
+          "text": "1:05:41 My most fav punchline was 'Ur ideas r like sperms, only one in a million works' 😂🤣",
+          "likes": 193,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "1:05:41 मेरा सबसे फेवरेट पार्ट्स सर की बोली हुई बात एक लंबा बाल उसमें गठान बनाकर फेंको आया तो पहाड़ गया तो सिर्फ बाल",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 3949.4,
+      "end": 3960.239,
+      "tags": [],
+      "text": "जिसकी लाइफ में एक पॉजिटिव चेंज आएगा इस एपिसोड इस स्टोरी को देखने के बाद अं टिल द नेक्स्ट एपिसोड कीप फिगरिंग आउट एंड डोंट फॉरगेट टू सब्सक्राइब",
+      "reactions": [],
+      "id": "L0474",
+      "seconds": 10.8
+    },
+    {
+      "kind": "event",
+      "start": 3962.88,
+      "end": 3963.28,
+      "text": "[music (youtube)]",
+      "id": "L0475"
+    }
+  ]
+}

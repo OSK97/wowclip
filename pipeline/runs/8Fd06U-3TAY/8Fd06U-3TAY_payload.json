@@ -1,0 +1,3857 @@
+{
+  "meta": {
+    "duration_s": 1786.0,
+    "transcript": "C:\\Users\\DP\\Desktop\\App\\website\\pipeline\\runs\\8Fd06U-3TAY\\8Fd06U-3TAY_final.json",
+    "clip_start_s": 0.0,
+    "video": {
+      "video_id": "8Fd06U-3TAY",
+      "title": "IT'S NOT OVER UNTIL YOU WIN - Georgia Dome (Les Brown's Greatest Hits)",
+      "channel": "Les Brown",
+      "duration_s": 1786.0,
+      "views": "2275000"
+    },
+    "comments_placed": 64,
+    "replay_peaks": 1,
+    "comment_stats": {
+      "raw": 1000,
+      "pages": 10,
+      "duplicates_folded": 77,
+      "promo_dropped": 2,
+      "chapter_indexes": 0,
+      "empty": 0,
+      "timestamped": 66,
+      "summarised": 1,
+      "general_seen": 855,
+      "general_kept": 357,
+      "top_liked_spared": 25,
+      "llm": {
+        "triage": {
+          "batches": 14,
+          "failed": 0,
+          "cost_usd": 0.00104
+        },
+        "themes": {
+          "cost_usd": 0.00069
+        },
+        "promo": {
+          "batches": 1,
+          "failed": 0,
+          "cost_usd": 4e-05
+        },
+        "summarise": {
+          "batches": 1,
+          "failed": 0,
+          "cost_usd": 1e-05
+        },
+        "cost_usd": 0.00178
+      }
+    }
+  },
+  "audience": {
+    "themes": {
+      "mood": "Viewers deeply moved and grateful for the motivational impact during challenging times.",
+      "themes": []
+    },
+    "general": [
+      {
+        "text": "Les brown.. you are a blessing from creator. WHO AGREES?",
+        "likes": 1330,
+        "replies": 65,
+        "dupes": 0,
+        "id": 76
+      },
+      {
+        "text": "Les Brown literally changed my thinking. I was on the verge of suicide growing up in a extremely toxic household. Thank you les Brown 🙏",
+        "likes": 1207,
+        "replies": 44,
+        "dupes": 0,
+        "id": 82
+      },
+      {
+        "text": "Who is watching in 2025?",
+        "likes": 882,
+        "replies": 80,
+        "dupes": 1,
+        "id": 81
+      },
+      {
+        "text": "Who is at the lowest and still listening in 2024, let me tell you \"you have greatness within you\"",
+        "likes": 842,
+        "replies": 21,
+        "dupes": 0,
+        "id": 70
+      },
+      {
+        "text": "Some speeches just touch your soul no matter how many times you watch it.",
+        "likes": 786,
+        "replies": 7,
+        "dupes": 0,
+        "id": 96
+      },
+      {
+        "text": "Who’s here in 26?!",
+        "likes": 568,
+        "replies": 38,
+        "dupes": 0,
+        "id": 66
+      },
+      {
+        "text": "Given the current volatility in the stock market, I believe investors should divert their attention to lesser-known stocks. With 35% of my $270k portfolio invested in stocks that have sharply declined from their previously high status, I find myself at a loss on how to proceed, feeling overwhelmed by the situation.",
+        "likes": 571,
+        "replies": 1,
+        "dupes": 0,
+        "id": 195
+      },
+      {
+        "text": "\"It's necessary to be creative\" I learned this when I was in college. At the time I couldn't qualify for a loan (was told that I had to be 25 or married to apply instead of my parents applying). I couldn't ask my parents go into debt and I didn't want to wait (I was 21 at the time). So I got creative. One sementer I took 3 classes and worked part time. The next semester no classes and worked full time, and had roommates or stayed with my grandafather. I did this every other semester until I graduated! Bachelor's degree...NO STUDENT DEBT! It's POSSIBLE!🎇😁",
+        "likes": 416,
+        "replies": 23,
+        "dupes": 0,
+        "weak": true,
+        "id": 92
+      },
+      {
+        "text": "Shoot for the moon; cause even if you miss you will land amongst the stars! My all time favorite quote by this man!",
+        "likes": 393,
+        "replies": 10,
+        "dupes": 0,
+        "id": 124
+      },
+      {
+        "text": "“I’m not having a bad day. I’m having a character building day.” Love it 🥰 Thank you Les Brown for not letting anybody steal your dreams.",
+        "likes": 379,
+        "replies": 0,
+        "dupes": 0,
+        "id": 108
+      },
+      {
+        "text": "Anyone still listening in 2024 - It’s not over until you win ❤",
+        "likes": 349,
+        "replies": 11,
+        "dupes": 0,
+        "id": 75
+      },
+      {
+        "text": "This is the best motivational speech of all times. Ever. Period. I've been watching this video about three times a week for almost five years. Les baby! We love you!",
+        "likes": 287,
+        "replies": 7,
+        "dupes": 0,
+        "id": 122
+      },
+      {
+        "text": "I love this man! He should have a statue!💣🔥💯",
+        "likes": 261,
+        "replies": 10,
+        "dupes": 0,
+        "id": 126
+      },
+      {
+        "text": "I am going to retire my parents by January 1, 2023.",
+        "likes": 219,
+        "replies": 35,
+        "dupes": 0,
+        "id": 407
+      },
+      {
+        "text": "It's not over until I Win, it's not over until all my dreams manifest, it's not over until I Win.... From The Ghetto, From Struggling and everyone giving up on me, from being raised in a shack, It's not Over until I Win... Thank you so much for the Great Motivation, I'm always encouraged when I listen to you, your struggles I relate with... You are a Blessing to human kind ❤️❤️❤️👌👌👌 Dr Nambi",
+        "likes": 212,
+        "replies": 3,
+        "dupes": 0,
+        "id": 186
+      },
+      {
+        "text": "When you hit the like button before watching the video...cuz u already know👍🏾",
+        "likes": 202,
+        "replies": 12,
+        "dupes": 0,
+        "id": 130
+      },
+      {
+        "text": "Sing with me Sing for the year Sing for the laughter Sing for the tearr...",
+        "likes": 186,
+        "replies": 3,
+        "dupes": 0,
+        "id": 89
+      },
+      {
+        "text": "Who is watching this in 2024?",
+        "likes": 166,
+        "replies": 22,
+        "dupes": 0,
+        "id": 118
+      },
+      {
+        "text": "He speaks straight to the heart <3",
+        "likes": 153,
+        "replies": 1,
+        "dupes": 0,
+        "id": 141
+      },
+      {
+        "text": "I am still listening to Les Brown 2020, since my partner introduced me to your speech in 2012.🙏🙏❤️",
+        "likes": 148,
+        "replies": 6,
+        "dupes": 0,
+        "id": 160
+      },
+      {
+        "text": "Les Brown thank you for everything. My grandmother took care of me when I was 21days old and she died when I was 8years old I've been homeless sence I was 13 and I've been thru a lot in the streets im 40 now and I started to watch your videos almost a year ago and today I'm sleeping in my office but I know I'm working very hard and I'm getting there and I want to tell everyone my story and leave my mark. Thank you!",
+        "likes": 142,
+        "replies": 10,
+        "dupes": 0,
+        "id": 106
+      },
+      {
+        "text": "If you're watching this, it's just a matter of time before it turns around for you. I believe it for you.",
+        "likes": 143,
+        "replies": 3,
+        "dupes": 0,
+        "id": 69
+      },
+      {
+        "text": "Listening to this in 2024 for the 5th time. I love this. 🔥",
+        "likes": 121,
+        "replies": 1,
+        "dupes": 0,
+        "id": 74
+      },
+      {
+        "text": "Who is listening in 2026",
+        "likes": 115,
+        "replies": 4,
+        "dupes": 1,
+        "id": 68
+      },
+      {
+        "text": "Anyone still listening in 2025 - It’s not over until you win😀",
+        "likes": 115,
+        "replies": 3,
+        "dupes": 0,
+        "id": 71
+      },
+      {
+        "text": "Les Brown speeches always brought tears to my eyes...",
+        "likes": 108,
+        "replies": 4,
+        "dupes": 0,
+        "id": 128
+      },
+      {
+        "text": "Seriously I must confess I own les brown a lot he has changed my whole life completely my belief systems I just can’t stop listen to him everyday",
+        "likes": 99,
+        "replies": 1,
+        "dupes": 0,
+        "id": 150
+      },
+      {
+        "text": "80s 90s Self Help culture was something else. I miss that energy.",
+        "likes": 87,
+        "replies": 0,
+        "dupes": 0,
+        "id": 113
+      },
+      {
+        "text": "Still listening in February of 2025!",
+        "likes": 77,
+        "replies": 4,
+        "dupes": 0,
+        "id": 84
+      },
+      {
+        "text": "“That dream that you’re holding in your mind, THAT’S POSSIBLE!❤️ “Someone’s opinion of you does not have to become your reality!❤️ Thank you so much Mr. Brown! God bless you!❤️",
+        "likes": 70,
+        "replies": 1,
+        "dupes": 0,
+        "id": 206
+      },
+      {
+        "text": "“Your smallest achievement can be your biggest dream catcher” - BOBBY B...your a huge inspiration Mr. Brown my life has changed for ever!!!!",
+        "likes": 56,
+        "replies": 0,
+        "dupes": 0,
+        "id": 171
+      },
+      {
+        "text": "I watch this almost every morning! Thank you for being the “dumb twin,” and pushing through all of the adversity you faced to be a man that brings light to people like myself!",
+        "likes": 53,
+        "replies": 3,
+        "dupes": 0,
+        "id": 246
+      },
+      {
+        "text": "I pray whoever reads this should become successful. keep fighting for success. the rich stay rich by spending like the poor and investing why the poor stay poor and be spending like the rich yet notbinvesting. Roar! Invest earn and be successful.",
+        "likes": 40,
+        "replies": 16,
+        "dupes": 0,
+        "id": 119
+      },
+      {
+        "text": "Mic 🎤 drop ! And this is why LES BROWN is and will always be my favorite motivational speaker! 💜💚❤️",
+        "likes": 45,
+        "replies": 0,
+        "dupes": 0,
+        "id": 238
+      },
+      {
+        "text": "This video changed my life! Thank you Les !!!",
+        "likes": 44,
+        "replies": 0,
+        "dupes": 0,
+        "id": 254
+      },
+      {
+        "text": "Wow! That crowd got their money's worth - and more. I cried - lots :-)",
+        "likes": 43,
+        "replies": 0,
+        "dupes": 0,
+        "id": 219
+      },
+      {
+        "text": "I don't know how many times I have watched this. 2025 and still watching ❤",
+        "likes": 40,
+        "replies": 5,
+        "dupes": 0,
+        "id": 100
+      },
+      {
+        "text": "Massive respect and love for you, sir! 🙏",
+        "likes": 42,
+        "replies": 0,
+        "dupes": 0,
+        "id": 295
+      },
+      {
+        "text": "Les is one of the most influential speakers I have ever met. He has helped me out of some serious situations in my life and business. His ability to hit home and make me cry an laguh all at the same time has been a God send. i'm so glad he didn't give up on his dreams and decided to bless us with his VOICE. Thank you Mr Les Brown for all that you do. I plan to see you one day whenever that may be. It's up to me!",
+        "likes": 41,
+        "replies": 0,
+        "dupes": 0,
+        "id": 210
+      },
+      {
+        "text": "If you happened to stumble upon this video PLEASE PLEASE WATCH IT, it’s for your soul. Also remember that it is POSSIBLE! DONT STOP CHASING YOUR DREAMS!",
+        "likes": 38,
+        "replies": 1,
+        "dupes": 0,
+        "id": 101
+      },
+      {
+        "text": "Whew child this was a timeless sermon just what I needed stepping into my new career field as a benefits specialist. This is by far the hardest thing I've ever done but I won't give up I'm going to get this right because God ordained for me to do it !!",
+        "likes": 37,
+        "replies": 0,
+        "dupes": 0,
+        "id": 291
+      },
+      {
+        "text": "This video was very important in dificult part of my life , i cried listening Les brown's talk show for a long time. You have a mission in earth, Les brown. Thank you for what you did for me. You are the one. I'm brazilian and my dream is to live in NY, and my next dream is watch your talk show.",
+        "likes": 34,
+        "replies": 3,
+        "dupes": 1,
+        "id": 217
+      },
+      {
+        "text": "I got to say that Les Brown's public speaking skills is one of the best ever. It's almost like Martin Luther King Jr. speaking who is trying to solve major issues in the society",
+        "likes": 34,
+        "replies": 0,
+        "dupes": 0,
+        "id": 208
+      },
+      {
+        "text": "SIR I can literally listen to you 24/7! I’m listening to this daily and gives me goosebumps every time. My greetings from Transylvania sir!",
+        "likes": 31,
+        "replies": 0,
+        "dupes": 0,
+        "id": 310
+      },
+      {
+        "text": "Still listening in 2025, let me tell you \"you have greatness within you\"",
+        "likes": 30,
+        "replies": 1,
+        "dupes": 0,
+        "id": 86
+      },
+      {
+        "text": "Hes the living legend - he gives me so much power in hard Times! Very dope guy! Thanks to god!",
+        "likes": 29,
+        "replies": 0,
+        "dupes": 0,
+        "id": 257
+      },
+      {
+        "text": "Every morning Feed your mind with greatness! Love all of you may your days be fill with love, life , and encouragement. 😘",
+        "likes": 27,
+        "replies": 1,
+        "dupes": 0,
+        "id": 109
+      },
+      {
+        "text": "Listening to this on Les Brown's 81st birthday. 02/19/2026",
+        "likes": 27,
+        "replies": 1,
+        "dupes": 0,
+        "id": 73
+      },
+      {
+        "text": "The message still resonates no matter how many times I hear it.",
+        "likes": 27,
+        "replies": 0,
+        "dupes": 0,
+        "id": 228
+      },
+      {
+        "text": "Les Brown = The fatherly inspiration I never had",
+        "likes": 26,
+        "replies": 1,
+        "dupes": 0,
+        "id": 134
+      },
+      {
+        "text": "''No matter how bad it is or how bad it gets, I am going to make it'' Mr Brown speaks with his heart.",
+        "likes": 25,
+        "replies": 0,
+        "dupes": 0,
+        "id": 139
+      },
+      {
+        "text": "Such a powerful speaker. Les you are a gift to humanity 💛",
+        "likes": 24,
+        "replies": 0,
+        "dupes": 0,
+        "id": 234
+      },
+      {
+        "text": "\"Someone's opinion of you does not have to become your reality \" ~les brown.",
+        "likes": 22,
+        "replies": 0,
+        "dupes": 0,
+        "id": 110
+      },
+      {
+        "text": "A story of a real legend. They must make a movie of him.",
+        "likes": 22,
+        "replies": 0,
+        "dupes": 0,
+        "id": 226
+      },
+      {
+        "text": "This hits exactly the same as when I heard it first 7 years ago",
+        "likes": 21,
+        "replies": 0,
+        "dupes": 0,
+        "id": 300
+      },
+      {
+        "text": "I listen to him while I’m at work . I am a lead in a production line and he helps me push through.",
+        "likes": 19,
+        "replies": 0,
+        "dupes": 0,
+        "id": 169
+      },
+      {
+        "text": "God I needed this today 🙏",
+        "likes": 19,
+        "replies": 0,
+        "dupes": 0,
+        "id": 167
+      },
+      {
+        "text": "watched for the 1st time 2 days ago then again yesterday & again today after i finished work I put Mr Brown on again to let my friend hear how passionate & determined & how much wisdom he talks of, Love Love, Love listening to this man.",
+        "likes": 18,
+        "replies": 0,
+        "dupes": 0,
+        "id": 302
+      },
+      {
+        "text": "If this doesn't move you..... you are not human!!!!! Thank you Master Brown!!!!!",
+        "likes": 18,
+        "replies": 0,
+        "dupes": 0,
+        "id": 198
+      },
+      {
+        "text": "'It's not over until I win' is my new motto. Les Brown is the man!!",
+        "likes": 16,
+        "replies": 0,
+        "dupes": 0,
+        "id": 224
+      },
+      {
+        "text": "It's Possible I Can Live My Dream, It's Necessary I Work On Myself, Surround Myself With Winners, and Become Creative, It's Me, I Gotta Make It Happen, It's Not Over Until I Win. -Les Brown",
+        "likes": 15,
+        "replies": 0,
+        "dupes": 0,
+        "id": 277
+      },
+      {
+        "text": "This man’s story is very touching & he is giving so much back by motivating others. God bless",
+        "likes": 15,
+        "replies": 0,
+        "dupes": 0,
+        "id": 213
+      },
+      {
+        "text": "“Someone’s opinion of you doesn’t have to be your reality” Best quote ever ❤",
+        "likes": 15,
+        "replies": 0,
+        "dupes": 0,
+        "id": 209
+      },
+      {
+        "text": "Les ..... If you had not became the man you are .... I would have shut down and curled up in a ball believing I was nothing You have inspired me to keep going no matter what The impact you have had I can not begin to repay Thank you",
+        "likes": 13,
+        "replies": 2,
+        "dupes": 0,
+        "id": 391
+      },
+      {
+        "text": "You are a wonderful encouragement for me every morning. Thank you Mr. Brown!!!🐾",
+        "likes": 12,
+        "replies": 1,
+        "dupes": 0,
+        "id": 387
+      },
+      {
+        "text": "Best motivational speaker in history I listen to les brown everysigle day of my life",
+        "likes": 12,
+        "replies": 0,
+        "dupes": 0,
+        "id": 252
+      },
+      {
+        "text": "It's not over until I win. Here in 2025",
+        "likes": 12,
+        "replies": 0,
+        "dupes": 0,
+        "id": 116
+      },
+      {
+        "text": "Love you forever Les!!!",
+        "likes": 12,
+        "replies": 0,
+        "dupes": 0,
+        "id": 338
+      },
+      {
+        "text": "Thank you Les Brown.. You are a great man that is truly blessed and have blessed many by your words of wisdom. You have made a difference in so many people, keep up the excellent work!",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 336
+      },
+      {
+        "text": "That dream that you’re holding in your mind, THAT’S POSSIBLE! “Someone’s opinion of you does not have to become your reality.....!",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 200
+      },
+      {
+        "text": "Such an inspirational speech I love it it's just mind-blowing 🥰",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 377
+      },
+      {
+        "text": "Salute les brown 💯💯he didn’t hold back. Powerful message 💯💯💯💯",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 354
+      },
+      {
+        "text": "this man keeps me going every day !!!!!!",
+        "likes": 11,
+        "replies": 0,
+        "dupes": 0,
+        "id": 259
+      },
+      {
+        "text": "Mr. Brown your voice is one of the most powerful human voices I've ever had the fortune to listen to & learn from.💯 I love you for helping get out of bed in this beautiful but hunting Berkshire county... It is not easy but I will win because I've already won, just waiting on the date of the actual event of my total success.....",
+        "likes": 10,
+        "replies": 0,
+        "dupes": 0,
+        "id": 281
+      },
+      {
+        "text": "I don't say this often, but I love this man. No, I've never met him, but wow, his speeches touch the soul. The term \"revival\" is often misused, but man does he ignite (or re-ignite) the soul! I only recently found some of his speeches, I wish that I had found him years ago.",
+        "likes": 10,
+        "replies": 0,
+        "dupes": 0,
+        "id": 256
+      },
+      {
+        "text": "It's possible. anything is possible when you believe in yourself and work on achieving your dreams. Les has the most infectious laugh too. He just talks sense and is the real deal.",
+        "likes": 10,
+        "replies": 0,
+        "dupes": 0,
+        "id": 320
+      },
+      {
+        "text": "i have a bad case of dyslexia and have been going through a rough time with work and les brown is really helping me find energy to keep grinding.",
+        "likes": 9,
+        "replies": 0,
+        "dupes": 0,
+        "id": 230
+      },
+      {
+        "text": "This doesn't have an expiry it will go on for many years its ageing like a Scottish whiskey when ever l listen to this l feel like l was there",
+        "likes": 9,
+        "replies": 0,
+        "dupes": 0,
+        "id": 269
+      },
+      {
+        "text": "Mr Brown, I would like to let you know that you have inspired me tremdously!! My husband watched your videos and the other nite when you were talking about buying your mom a house and it was the best speech!! I am a frim believer in do good things and good things will come back to you and do bad things and bad things will happen!! I want to thank you for inspring me and my soul. !!! May be blessed ten fold !!! Thank you very much!!!!!",
+        "likes": 8,
+        "replies": 1,
+        "dupes": 0,
+        "id": 350
+      },
+      {
+        "text": "My dream is possible…and, Les, I’m so close to making it…I found your talks in 2014 when I was trying to register for community college. I’m very proud to say that I’m in my first year of my masters program in physics. I will find a way to write to you, but I just wanted to say it here first. Thank you for helping me believe in myself.",
+        "likes": 8,
+        "replies": 0,
+        "dupes": 0,
+        "id": 261
+      }
+    ]
+  },
+  "baselines": {
+    "SPK1": {
+      "wpm_hi": 215.7785509340839,
+      "wpm_lo": 136.72727272727323,
+      "wpm_mid": 171.780873493976,
+      "lines": 234
+    }
+  },
+  "rows": [
+    {
+      "kind": "event",
+      "start": 0.24,
+      "end": 1.44,
+      "text": "[music (youtube)]",
+      "id": "L0001"
+    },
+    {
+      "kind": "line",
+      "start": 12.96,
+      "end": 18.32,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "what i'd like for you to do right now i want you to think about your dream because i'm in a room full of",
+      "reactions": [],
+      "id": "L0002",
+      "seconds": 5.4
+    },
+    {
+      "kind": "line",
+      "start": 18.32,
+      "end": 27.84,
+      "tags": [],
+      "text": "dreamers think about your dream right now what you think about it and envision it now ladies and gentlemen let me share something with you",
+      "reactions": [],
+      "id": "L0003",
+      "seconds": 9.5
+    },
+    {
+      "kind": "event",
+      "start": 27.84,
+      "end": 29.76,
+      "text": "[pause 1.9s]",
+      "id": "L0004"
+    },
+    {
+      "kind": "line",
+      "start": 29.76,
+      "end": 31.76,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "i do not believe",
+      "reactions": [],
+      "id": "L0005",
+      "seconds": 2.0
+    },
+    {
+      "kind": "line",
+      "start": 32.48,
+      "end": 34.8,
+      "tags": [],
+      "text": "that any of us have dreams",
+      "reactions": [],
+      "id": "L0006",
+      "seconds": 2.3
+    },
+    {
+      "kind": "line",
+      "start": 35.2,
+      "end": 37.759,
+      "tags": [],
+      "text": "that were not given to us",
+      "reactions": [],
+      "id": "L0007",
+      "seconds": 2.6
+    },
+    {
+      "kind": "line",
+      "start": 37.92,
+      "end": 46.079,
+      "tags": [],
+      "text": "for the purpose of accomplishing those particular dreams and i want to share something with you that has changed my life",
+      "reactions": [],
+      "id": "L0008",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 46.879,
+      "end": 51.2,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "i started out as was indicated by jack",
+      "reactions": [],
+      "id": "L0009",
+      "seconds": 4.3,
+      "comments": [
+        {
+          "text": "Anyone understands what he means when he says at the very beginning 0:47 \" I started out as was indicated by Jack\" ???? I keep releasening but I still don't get it (English is not my first language) Anyone?",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 51.52,
+      "end": 53.52,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "it's very humble beginnings",
+      "reactions": [],
+      "id": "L0010",
+      "seconds": 2.0
+    },
+    {
+      "kind": "line",
+      "start": 53.68,
+      "end": 60.32,
+      "tags": [],
+      "text": "i don't know what that dream is that you have i don't care how far fetched it might appear to be",
+      "reactions": [],
+      "id": "L0011",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 60.32,
+      "end": 68.48,
+      "tags": [],
+      "text": "i don't care how disappointing it might have been as you've been working toward that dream but here's what i know",
+      "reactions": [],
+      "id": "L0012",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 68.799,
+      "end": 73.76,
+      "tags": [],
+      "text": "that that dream that you're holding in your mind that it's possible",
+      "reactions": [],
+      "id": "L0013",
+      "seconds": 5.0
+    },
+    {
+      "kind": "line",
+      "start": 74.24,
+      "end": 77.2,
+      "tags": [],
+      "text": "let's say that together please it's possible",
+      "reactions": [],
+      "id": "L0014",
+      "seconds": 3.0
+    },
+    {
+      "kind": "event",
+      "start": 77.2,
+      "end": 78.64,
+      "text": "[pause 1.4s]",
+      "id": "L0015"
+    },
+    {
+      "kind": "line",
+      "start": 78.64,
+      "end": 84.8,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "see sometimes we can't say i can do that but what we can say",
+      "reactions": [],
+      "id": "L0016",
+      "seconds": 6.2
+    },
+    {
+      "kind": "line",
+      "start": 85.04,
+      "end": 94.08,
+      "tags": [],
+      "text": "that it's possible that i can have my dream as we run toward it as we work on it day in and day out",
+      "reactions": [],
+      "id": "L0017",
+      "seconds": 9.0
+    },
+    {
+      "kind": "line",
+      "start": 94.479,
+      "end": 100.04,
+      "tags": [],
+      "text": "no one ladies and gentlemen could have convinced me when i started out",
+      "reactions": [],
+      "id": "L0018",
+      "seconds": 5.6
+    },
+    {
+      "kind": "line",
+      "start": 100.64,
+      "end": 103.04,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "just over six years ago",
+      "reactions": [],
+      "id": "L0019",
+      "seconds": 2.4
+    },
+    {
+      "kind": "line",
+      "start": 103.36,
+      "end": 109.52,
+      "tags": [],
+      "text": "working on my dream and i want you to think about whatever your dream is because i was willing to take a",
+      "reactions": [],
+      "id": "L0020",
+      "seconds": 6.2
+    },
+    {
+      "kind": "line",
+      "start": 109.52,
+      "end": 115.999,
+      "tags": [],
+      "text": "chance and most people won't do that most of the people that you talk to to try and bring them into the business",
+      "reactions": [],
+      "id": "L0021",
+      "seconds": 6.5
+    },
+    {
+      "kind": "line",
+      "start": 116.159,
+      "end": 124.88,
+      "tags": [],
+      "text": "these are not risk takers most people have done all that they're ever going to do they raise a family they earn a living and then they die",
+      "reactions": [],
+      "id": "L0022",
+      "seconds": 8.7
+    },
+    {
+      "kind": "line",
+      "start": 125.28,
+      "end": 136.799,
+      "tags": [],
+      "text": "but people who are running toward their dreams life has a special kind of meaning and here's what i will share with you that in the process of working on your dreams",
+      "reactions": [],
+      "id": "L0023",
+      "seconds": 11.5
+    },
+    {
+      "kind": "line",
+      "start": 137.36,
+      "end": 146.96,
+      "tags": [],
+      "text": "you are going to incur incur a lot of disappointment a lot of failure a lot of pain a lot of setbacks",
+      "reactions": [],
+      "id": "L0024",
+      "seconds": 9.6
+    },
+    {
+      "kind": "line",
+      "start": 147.12,
+      "end": 148.72,
+      "tags": [],
+      "text": "a lot of defeats",
+      "reactions": [],
+      "id": "L0025",
+      "seconds": 1.6
+    },
+    {
+      "kind": "line",
+      "start": 148.959,
+      "end": 162.08,
+      "tags": [],
+      "text": "but in the process of doing that you will discover some things about yourself that you don't know right now what you will realize is that you have greatness within you what you'll realize",
+      "reactions": [],
+      "id": "L0026",
+      "seconds": 13.1
+    },
+    {
+      "kind": "line",
+      "start": 162.08,
+      "end": 173.76,
+      "tags": [],
+      "text": "is that you're more powerful than you can ever begin to imagine what you will realize is that you're greater than your circumstances that you don't have to go through life being a victim",
+      "reactions": [],
+      "id": "L0027",
+      "seconds": 11.7
+    },
+    {
+      "kind": "line",
+      "start": 174.16,
+      "end": 182.88,
+      "tags": [],
+      "text": "as jack indicated i was born in miami florida an area called liberty city in an abandoned building on a hard linoleum floor",
+      "reactions": [],
+      "id": "L0028",
+      "seconds": 8.7
+    },
+    {
+      "kind": "line",
+      "start": 183.2,
+      "end": 193.04,
+      "tags": [],
+      "text": "with my twin brother we were six weeks of age we were adopted when i was in fifth grade i was identified as emr labeled educable mentally",
+      "reactions": [],
+      "id": "L0029",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 193.28,
+      "end": 199.439,
+      "tags": [],
+      "text": "put back from the fifth grade into the fourth grade and stayed in that category until i got out of high school",
+      "reactions": [],
+      "id": "L0030",
+      "seconds": 6.2,
+      "comments": [
+        {
+          "text": "03:15 best Moment",
+          "likes": 3,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "3:17",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 199.92,
+      "end": 205.84,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "i don't have any college training but i met a high school teacher who one day changed my life i was waiting on",
+      "reactions": [],
+      "id": "L0031",
+      "seconds": 5.9
+    },
+    {
+      "kind": "line",
+      "start": 205.84,
+      "end": 211.519,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "another student and when he came in he said to me young man go to the board and write what i'm about to tell",
+      "reactions": [],
+      "id": "L0032",
+      "seconds": 5.7
+    },
+    {
+      "kind": "line",
+      "start": 211.519,
+      "end": 218.56,
+      "tags": [],
+      "text": "you and i said i can't do that sir he said why not i said i'm not one of your students he said",
+      "reactions": [],
+      "id": "L0033",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 218.56,
+      "end": 228.24,
+      "tags": [],
+      "text": "it doesn't matter follow my directions now i said i can't do that sir he said why not i said because i'm educable mentally",
+      "reactions": [],
+      "id": "L0034",
+      "seconds": 9.7
+    },
+    {
+      "kind": "line",
+      "start": 228.56,
+      "end": 237.519,
+      "tags": [],
+      "text": "and he came from behind his desk and he looked at me he said don't ever say that again someone's opinion of you does not have to become your",
+      "reactions": [],
+      "id": "L0035",
+      "seconds": 9.0,
+      "comments": [
+        {
+          "text": "3:53 This hit me so hard.., Les Brown is ispiration!!",
+          "likes": 14,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 237.519,
+      "end": 238.84,
+      "text": "[pause 1.3s]",
+      "id": "L0036"
+    },
+    {
+      "kind": "line",
+      "start": 238.84,
+      "end": 240.04,
+      "tags": [],
+      "text": "reality",
+      "reactions": [],
+      "id": "L0037",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 240.04,
+      "end": 252.48,
+      "text": "[long gap 12.4s]",
+      "id": "L0038"
+    },
+    {
+      "kind": "line",
+      "start": 252.48,
+      "end": 258.32,
+      "tags": [],
+      "text": "and that man mr leroy washington did something for me he started planting seeds in my mind",
+      "reactions": [],
+      "id": "L0039",
+      "seconds": 5.8
+    },
+    {
+      "kind": "line",
+      "start": 258.479,
+      "end": 266.8,
+      "tags": [],
+      "text": "that enabled me to begin to dream as dexter has been doing for you and ladies and gentlemen i started working on my dream and most people don't work",
+      "reactions": [],
+      "id": "L0040",
+      "seconds": 8.3,
+      "comments": [
+        {
+          "text": "4:20 00",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 266.8,
+      "end": 276.56,
+      "tags": [],
+      "text": "on their dreams why for many years i didn't one is because of fear the fear of failure what if things don't work out and the fear of success what",
+      "reactions": [],
+      "id": "L0041",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 276.56,
+      "end": 284.72,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "if they do and i can't handle it the other thing is that most people ladies and gentlemen they get comfortable they stop growing they stop working on themselves they",
+      "reactions": [],
+      "id": "L0042",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 284.72,
+      "end": 296.08,
+      "tags": [],
+      "text": "stop stretching they stop pushing themselves and they end up becoming very cynical about life and they throw in the towel on themselves on their families and on their dreams",
+      "reactions": [],
+      "id": "L0043",
+      "seconds": 11.4
+    },
+    {
+      "kind": "line",
+      "start": 296.4,
+      "end": 305.12,
+      "tags": [],
+      "text": "and the other thing is that most people don't feel worthy what i'm doing now i could have been doing years ago but because i did not",
+      "reactions": [],
+      "id": "L0044",
+      "seconds": 8.7
+    },
+    {
+      "kind": "line",
+      "start": 305.12,
+      "end": 316.48,
+      "tags": [],
+      "text": "have a college education because i didn't believe in myself because i allowed other people's opinion of me to control my destiny i didn't act on my ideas",
+      "reactions": [],
+      "id": "L0045",
+      "seconds": 11.4
+    },
+    {
+      "kind": "line",
+      "start": 317.199,
+      "end": 319.28,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "so i applaud you",
+      "reactions": [],
+      "id": "L0046",
+      "seconds": 2.1
+    },
+    {
+      "kind": "line",
+      "start": 319.44,
+      "end": 326.239,
+      "tags": [],
+      "text": "for your dreaming for your running towards your dream i applaud you for believing in yourself",
+      "reactions": [],
+      "id": "L0047",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 326.4,
+      "end": 330.88,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "because that's what life is about stretching and challenging",
+      "reactions": [],
+      "id": "L0048",
+      "seconds": 4.5
+    },
+    {
+      "kind": "line",
+      "start": 331.44,
+      "end": 334.72,
+      "tags": [],
+      "text": "looking for ways that you can begin to improve yourself",
+      "reactions": [],
+      "id": "L0049",
+      "seconds": 3.3
+    },
+    {
+      "kind": "line",
+      "start": 335.44,
+      "end": 338.04,
+      "tags": [],
+      "text": "and ladies and gentlemen as a result",
+      "reactions": [],
+      "id": "L0050",
+      "seconds": 2.6
+    },
+    {
+      "kind": "line",
+      "start": 338.4,
+      "end": 350.0,
+      "tags": [],
+      "text": "of stretching out of acting on my dream and i don't know what that dream is for you i can tell you that it's possible no one could have convinced me that after just over six years i will have",
+      "reactions": [],
+      "id": "L0051",
+      "seconds": 11.6
+    },
+    {
+      "kind": "line",
+      "start": 350.0,
+      "end": 357.199,
+      "tags": [],
+      "text": "my own book entitled live your dreams just over six years i would have five specials on public television just",
+      "reactions": [],
+      "id": "L0052",
+      "seconds": 7.2
+    },
+    {
+      "kind": "line",
+      "start": 357.199,
+      "end": 366.48,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "over six years i've done motivational speaking for a t procter gamble mcdonald's corporation xerox ibm just over six years",
+      "reactions": [],
+      "id": "L0053",
+      "seconds": 9.3
+    },
+    {
+      "kind": "line",
+      "start": 366.639,
+      "end": 374.88,
+      "tags": [],
+      "text": "i will now have my own talk show that will premiere on monday labor day i'm saying to you your dream is possible",
+      "reactions": [],
+      "id": "L0054",
+      "seconds": 8.2
+    },
+    {
+      "kind": "event",
+      "start": 374.88,
+      "end": 378.96,
+      "text": "[long gap 4.1s]",
+      "id": "L0055"
+    },
+    {
+      "kind": "line",
+      "start": 378.96,
+      "end": 381.119,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "your dream is possible",
+      "reactions": [],
+      "id": "L0056",
+      "seconds": 2.2,
+      "comments": [
+        {
+          "text": "6:21",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 381.119,
+      "end": 382.96,
+      "text": "[pause 1.8s]",
+      "id": "L0057"
+    },
+    {
+      "kind": "line",
+      "start": 382.96,
+      "end": 389.039,
+      "tags": [],
+      "text": "but not only is it important that you believe and begin to know that it's possible for you to live your",
+      "reactions": [],
+      "id": "L0058",
+      "seconds": 6.1
+    },
+    {
+      "kind": "line",
+      "start": 389.039,
+      "end": 396.16,
+      "tags": [],
+      "text": "dream as you run toward it but i've done something that i want to share with you called choosing your future",
+      "reactions": [],
+      "id": "L0059",
+      "seconds": 7.1
+    },
+    {
+      "kind": "line",
+      "start": 396.16,
+      "end": 401.84,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "in fact i've developed a set of tapes talking about how to begin to create your own reality by choosing your",
+      "reactions": [],
+      "id": "L0060",
+      "seconds": 5.7
+    },
+    {
+      "kind": "line",
+      "start": 401.84,
+      "end": 410.239,
+      "tags": [],
+      "text": "future and not only is it important for you to know it's possible for you to choose your future but it's necessary",
+      "reactions": [],
+      "id": "L0061",
+      "seconds": 8.4,
+      "comments": [
+        {
+          "text": "6:43 wow",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "6:45",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 410.479,
+      "end": 419.92,
+      "tags": [],
+      "text": "that you work on yourself that you develop yourself it's necessary that you get the energy drainers out of your life people who don't want",
+      "reactions": [],
+      "id": "L0062",
+      "seconds": 9.4
+    },
+    {
+      "kind": "line",
+      "start": 420.84,
+      "end": 422.04,
+      "tags": [],
+      "text": "anything",
+      "reactions": [],
+      "id": "L0063",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 422.04,
+      "end": 423.919,
+      "text": "[pause 1.9s]",
+      "id": "L0064"
+    },
+    {
+      "kind": "line",
+      "start": 423.919,
+      "end": 434.08,
+      "tags": [],
+      "text": "it's necessary to know that everybody won't see it that everybody won't join you that everybody won't have the vision it's necessary to know",
+      "reactions": [],
+      "id": "L0065",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 434.08,
+      "end": 442.32,
+      "tags": [],
+      "text": "that that a lot of people like to complain but they don't want to do anything about their situation that you are an uncommon breed",
+      "reactions": [],
+      "id": "L0066",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 442.72,
+      "end": 445.6,
+      "tags": [],
+      "text": "you know you have to know within yourself",
+      "reactions": [],
+      "id": "L0067",
+      "seconds": 2.9
+    },
+    {
+      "kind": "line",
+      "start": 446.08,
+      "end": 452.399,
+      "tags": [],
+      "text": "that i can do this even if no one else sees it for me i must see it for myself that's necessary",
+      "reactions": [],
+      "id": "L0068",
+      "seconds": 6.3
+    },
+    {
+      "kind": "line",
+      "start": 452.56,
+      "end": 461.84,
+      "tags": [],
+      "text": "it's also ladies and gentlemen necessary that you be creative when you're working on your ideas that you understand the importance of changing",
+      "reactions": [],
+      "id": "L0069",
+      "seconds": 9.3
+    },
+    {
+      "kind": "line",
+      "start": 461.84,
+      "end": 470.0,
+      "tags": [],
+      "text": "up of readjusting your strategies many times we can have a great idea but if you're not advancing it in the right way and",
+      "reactions": [],
+      "id": "L0070",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 470.0,
+      "end": 477.84,
+      "tags": [],
+      "text": "things don't happen you become discouraged and think the idea doesn't work no that's not true it's necessary that we become creative i remember",
+      "reactions": [],
+      "id": "L0071",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 477.84,
+      "end": 483.68,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "when i was in new york walking down the street and a guy approached me and said hey mister can i shine your shoes",
+      "reactions": [],
+      "id": "L0072",
+      "seconds": 5.8
+    },
+    {
+      "kind": "line",
+      "start": 483.68,
+      "end": 488.56,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "and i said no i'm in a hurry i don't have time i kept walking someone else said hey man your shoes look clutty",
+      "reactions": [],
+      "id": "L0073",
+      "seconds": 4.9
+    },
+    {
+      "kind": "line",
+      "start": 488.56,
+      "end": 494.16,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "my shiny shoes i said no i don't have time i'm sorry i'm busy and i was walking fast and many people solicited me",
+      "reactions": [],
+      "id": "L0074",
+      "seconds": 5.6
+    },
+    {
+      "kind": "line",
+      "start": 494.16,
+      "end": 500.96,
+      "tags": [],
+      "text": "for my business and then finally a young man stepped in front of me and he's excuse me and he started counting 97 98",
+      "reactions": [],
+      "id": "L0075",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 500.96,
+      "end": 507.6,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "99 100 he said sir i said yes he said come here please i said what is it he said today is my birthday",
+      "reactions": [],
+      "id": "L0076",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 508.0,
+      "end": 518.159,
+      "tags": [],
+      "text": "and every year just to thank god for another year of life the 100th person who passes my shoeshine stand i offer them a free shoe shine would you give me the honors",
+      "reactions": [],
+      "id": "L0077",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 518.159,
+      "end": 528.16,
+      "tags": [],
+      "text": "i said why sure i got up on the shoeshine stan george and i sat there and he shined my shoes diligently and when i got down i looked at them they were sparkling",
+      "reactions": [],
+      "id": "L0078",
+      "seconds": 10.0
+    },
+    {
+      "kind": "line",
+      "start": 528.16,
+      "end": 536.399,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "and i was walking away and i said thank you and i stopped i said excuse me but how much do you usually charge he said only two dollars i said tell you what",
+      "reactions": [],
+      "id": "L0079",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 536.399,
+      "end": 550.08,
+      "tags": [],
+      "text": "today's your birthday here's five keep the change he said thank you as i was walking away looking in the opposite direction and other people coming he started counting again 97 98 99 100.",
+      "reactions": [],
+      "id": "L0080",
+      "seconds": 13.7
+    },
+    {
+      "kind": "event",
+      "start": 550.08,
+      "end": 556.88,
+      "text": "[long gap 6.8s]",
+      "id": "L0081"
+    },
+    {
+      "kind": "line",
+      "start": 556.88,
+      "end": 559.84,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "it's necessary that you be flexible",
+      "reactions": [],
+      "id": "L0082",
+      "seconds": 3.0
+    },
+    {
+      "kind": "line",
+      "start": 560.24,
+      "end": 568.16,
+      "tags": [],
+      "text": "that you are always thinking of how can i improve this better this is a customer driven economy it's necessary for you to",
+      "reactions": [],
+      "id": "L0083",
+      "seconds": 7.9
+    },
+    {
+      "kind": "line",
+      "start": 568.16,
+      "end": 576.48,
+      "tags": [],
+      "text": "always explore various ways in which you can improve the quality of service that you're providing for the people in your organization i",
+      "reactions": [],
+      "id": "L0084",
+      "seconds": 8.3
+    },
+    {
+      "kind": "line",
+      "start": 576.48,
+      "end": 583.36,
+      "tags": [],
+      "text": "remember something a major company had talked about the extra value service they were providing for their customers and the lady who had",
+      "reactions": [],
+      "id": "L0085",
+      "seconds": 6.9
+    },
+    {
+      "kind": "line",
+      "start": 583.36,
+      "end": 593.76,
+      "tags": [],
+      "text": "the news conference summarized it this way she said it's not our intention to satisfy our customers or to please our customers our intention",
+      "reactions": [],
+      "id": "L0086",
+      "seconds": 10.4
+    },
+    {
+      "kind": "line",
+      "start": 593.76,
+      "end": 603.519,
+      "tags": [],
+      "text": "is to amaze them it's necessary if you're going to compete today that you look for ways to amaze your customers by being",
+      "reactions": [],
+      "id": "L0087",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 603.519,
+      "end": 610.56,
+      "tags": [],
+      "text": "one of those individuals that keep your commitments they keep your word that's relentless it's necessary as you work with the people that",
+      "reactions": [],
+      "id": "L0088",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 610.56,
+      "end": 617.6,
+      "tags": [],
+      "text": "you bring into all your organization that they see that you're a good example of a person to work with because you model",
+      "reactions": [],
+      "id": "L0089",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 617.6,
+      "end": 627.52,
+      "tags": [],
+      "text": "integrity and determination and ambition and truth and honesty and the way in which you conduct business the next step is that is you",
+      "reactions": [],
+      "id": "L0090",
+      "seconds": 9.9,
+      "comments": [
+        {
+          "text": "10:27 don't mind me I'm gonna memorize this as my speech for a school present 😭",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:27 - 12:40",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 627.68,
+      "end": 639.44,
+      "tags": [],
+      "text": "that is you that no one can do it for you but you and even though you face disappointments even though you will experience some setbacks it goes with the territory",
+      "reactions": [],
+      "id": "L0091",
+      "seconds": 11.8,
+      "comments": [
+        {
+          "text": "For when you need that sudden motivation 10:31",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:30 - 12:10",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 639.6,
+      "end": 650.56,
+      "tags": [],
+      "text": "you must understand that i remember i was playing a game with my nine-year-old son john leslie and i beat him ten straight games in a game called connect four",
+      "reactions": [],
+      "id": "L0092",
+      "seconds": 11.0,
+      "comments": [
+        {
+          "text": "10:50 the beginning of that legendary moment",
+          "likes": 69,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:42 this is what you came for",
+          "likes": 10,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:40",
+          "likes": 4,
+          "dupes": 2,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:42",
+          "likes": 4,
+          "dupes": 2,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:41",
+          "likes": 2,
+          "dupes": 2,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:40 is the it’s not over until I win",
+          "likes": 3,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "This audio is EVERYWHERE on Instagram, probably has been for like a couple of years straight Section starts at 10:41 (IDK why it ain't the most replayed or a peak at all!)",
+          "likes": 3,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:40 its not over until I win",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "I was here for 10:40",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "the most viral part at 10:42",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:40 the goated motivation...",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:41 here’s the story behind “It’s not over until I win.”",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:42-12:03 “it’s not over until I win”",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:42 best part",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:44 until I win started in",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:50 Legendary moment",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:50🫡",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:40 is what we are looking for!",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:40 The best moment",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "It starts at 10:40",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "🔥 From 10:40",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "10:42 bro……",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "(For myself) 10:46",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 650.72,
+      "end": 655.6,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "and finally i said john leslie i'm bored i don't want to play you anymore and i got up i",
+      "reactions": [],
+      "id": "L0093",
+      "seconds": 4.9,
+      "comments": [
+        {
+          "text": "10:54 Jon lesley story.",
+          "likes": 6,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 655.6,
+      "end": 661.44,
+      "tags": [],
+      "text": "said i'm ready to go to sleep now and repeat after me please let's say to this together it's not over",
+      "reactions": [],
+      "id": "L0094",
+      "seconds": 5.8
+    },
+    {
+      "kind": "event",
+      "start": 661.44,
+      "end": 662.959,
+      "text": "[pause 1.5s]",
+      "id": "L0095"
+    },
+    {
+      "kind": "line",
+      "start": 662.959,
+      "end": 665.12,
+      "tags": [],
+      "text": "until i win",
+      "reactions": [],
+      "id": "L0096",
+      "seconds": 2.2
+    },
+    {
+      "kind": "event",
+      "start": 665.12,
+      "end": 666.88,
+      "text": "[pause 1.8s]",
+      "id": "L0097"
+    },
+    {
+      "kind": "line",
+      "start": 666.88,
+      "end": 672.4,
+      "tags": [],
+      "text": "john leslie said no you can't go now dad i said why he said it's not over until i",
+      "reactions": [],
+      "id": "L0098",
+      "seconds": 5.5
+    },
+    {
+      "kind": "line",
+      "start": 672.839,
+      "end": 683.92,
+      "tags": [],
+      "text": "win that was his attitude we sat down and we played several other games and finally after the 11th game john leslie won and he got up and he yawned and he",
+      "reactions": [],
+      "id": "L0099",
+      "seconds": 11.1
+    },
+    {
+      "kind": "line",
+      "start": 683.92,
+      "end": 693.04,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "said i'm ready to go to sleep now and i'm saying to you what if all of us took that attitude after we face a rejection and a no or we have a",
+      "reactions": [],
+      "id": "L0100",
+      "seconds": 9.1
+    },
+    {
+      "kind": "line",
+      "start": 693.04,
+      "end": 702.959,
+      "tags": [],
+      "text": "meeting and no one shows up or somebody say you can count on me and they don't come through what if we have that kind of attitude the cause repossessed nobody believes in",
+      "reactions": [],
+      "id": "L0101",
+      "seconds": 9.9,
+      "comments": [
+        {
+          "text": "For all the people looking for the quote: 'you lost again and again and again, but your still looking at your dream....' (etc.) It's at 11:39 :)",
+          "likes": 952,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "11:42 this time...",
+          "likes": 11,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 702.959,
+      "end": 714.479,
+      "tags": [],
+      "text": "you you've lost again and again and again the lights are cut off but you're still looking at your dream reviewing it every day and say to yourself it's not over until i",
+      "reactions": [],
+      "id": "L0102",
+      "seconds": 11.5
+    },
+    {
+      "kind": "line",
+      "start": 714.839,
+      "end": 716.039,
+      "tags": [],
+      "text": "win",
+      "reactions": [],
+      "id": "L0103",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 716.039,
+      "end": 724.24,
+      "text": "[long gap 8.2s]",
+      "id": "L0104"
+    },
+    {
+      "kind": "line",
+      "start": 724.24,
+      "end": 730.4,
+      "tags": [],
+      "text": "life will yield to you now here's the next step repeat after me please it's possible",
+      "reactions": [],
+      "id": "L0105",
+      "seconds": 6.2,
+      "comments": [
+        {
+          "text": "12:04",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "12:06 Repeat after me",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "12:09 important",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "It’s not over until I win.It’s 12:10 I am having a character building day. 22:56 5 questions why am I here?",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 2
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 730.4,
+      "end": 731.6,
+      "text": "[pause 1.2s]",
+      "id": "L0106"
+    },
+    {
+      "kind": "line",
+      "start": 731.6,
+      "end": 733.68,
+      "tags": [],
+      "text": "i can live my dream",
+      "reactions": [],
+      "id": "L0107",
+      "seconds": 2.1
+    },
+    {
+      "kind": "line",
+      "start": 734.8,
+      "end": 736.32,
+      "tags": [],
+      "text": "it's necessary",
+      "reactions": [],
+      "id": "L0108",
+      "seconds": 1.5
+    },
+    {
+      "kind": "line",
+      "start": 737.36,
+      "end": 739.279,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "i work on myself",
+      "reactions": [],
+      "id": "L0109",
+      "seconds": 1.9
+    },
+    {
+      "kind": "line",
+      "start": 740.079,
+      "end": 742.56,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "surround myself with winners",
+      "reactions": [],
+      "id": "L0110",
+      "seconds": 2.5
+    },
+    {
+      "kind": "event",
+      "start": 742.56,
+      "end": 743.839,
+      "text": "[pause 1.3s]",
+      "id": "L0111"
+    },
+    {
+      "kind": "line",
+      "start": 743.839,
+      "end": 745.599,
+      "tags": [],
+      "text": "become creative",
+      "reactions": [],
+      "id": "L0112",
+      "seconds": 1.8
+    },
+    {
+      "kind": "line",
+      "start": 746.639,
+      "end": 750.8,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "it's me i've got to make it happen",
+      "reactions": [],
+      "id": "L0113",
+      "seconds": 4.2
+    },
+    {
+      "kind": "line",
+      "start": 751.6,
+      "end": 755.68,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "it's not over until i",
+      "reactions": [],
+      "id": "L0114",
+      "seconds": 4.1
+    },
+    {
+      "kind": "line",
+      "start": 756.839,
+      "end": 758.039,
+      "tags": [],
+      "text": "win",
+      "reactions": [],
+      "id": "L0115",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 758.039,
+      "end": 765.2,
+      "text": "[long gap 7.2s]",
+      "id": "L0116"
+    },
+    {
+      "kind": "line",
+      "start": 765.2,
+      "end": 776.0,
+      "tags": [],
+      "text": "the next thing that's important to know yes it's possible that you can choose your future and direct the course of your life as you run towards your dream it's necessary that you have goals",
+      "reactions": [],
+      "id": "L0117",
+      "seconds": 10.8
+    },
+    {
+      "kind": "line",
+      "start": 776.0,
+      "end": 786.32,
+      "tags": [],
+      "text": "that you write those goals down that you plan that you think constantly of how you can begin to improve what it is that you're doing if it's your presentations if it's your recruiting skills whatever",
+      "reactions": [],
+      "id": "L0118",
+      "seconds": 10.3
+    },
+    {
+      "kind": "line",
+      "start": 786.32,
+      "end": 799.279,
+      "tags": [],
+      "text": "that is it's also necessary that you look for ways to always find a way to pull it out when everybody else thinks you are defeated that you've got to take personal responsibility to know",
+      "reactions": [],
+      "id": "L0119",
+      "seconds": 13.0
+    },
+    {
+      "kind": "line",
+      "start": 799.279,
+      "end": 810.32,
+      "tags": [],
+      "text": "that in order to become successful you've got to make it your personal business to do it but the next thing ladies and gentlemen i want to share with you that some of you already know",
+      "reactions": [],
+      "id": "L0120",
+      "seconds": 11.0,
+      "comments": [
+        {
+          "text": "13:25 - It's hard",
+          "likes": 4,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "13:30",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 810.48,
+      "end": 811.839,
+      "tags": [],
+      "text": "that it's",
+      "reactions": [],
+      "id": "L0121",
+      "seconds": 1.4
+    },
+    {
+      "kind": "line",
+      "start": 812.839,
+      "end": 818.32,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "hard it's not easy it's hard changing your life",
+      "reactions": [],
+      "id": "L0122",
+      "seconds": 5.5
+    },
+    {
+      "kind": "line",
+      "start": 818.72,
+      "end": 825.52,
+      "tags": [],
+      "text": "it was hard when just over three years ago in the penobscot building in detroit michigan",
+      "reactions": [],
+      "id": "L0123",
+      "seconds": 6.8
+    },
+    {
+      "kind": "line",
+      "start": 825.76,
+      "end": 836.56,
+      "tags": [],
+      "text": "where i was operating my business and i fell on some hard times and i was sleeping in my office it was hard coming into the lobby and the",
+      "reactions": [],
+      "id": "L0124",
+      "seconds": 10.8
+    },
+    {
+      "kind": "line",
+      "start": 836.56,
+      "end": 844.479,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "security said excuse me mr brown can we see you for a moment and i said yes and i walked up to the counter and he gave me an envelope",
+      "reactions": [],
+      "id": "L0125",
+      "seconds": 7.9
+    },
+    {
+      "kind": "line",
+      "start": 844.959,
+      "end": 856.039,
+      "tags": [],
+      "text": "and he said would you mind reading it here and i opened the envelope and the envelope was from management that says this is an office tower it's not a hotel",
+      "reactions": [],
+      "id": "L0126",
+      "seconds": 11.1
+    },
+    {
+      "kind": "line",
+      "start": 856.48,
+      "end": 860.159,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "please do not sleep in your office",
+      "reactions": [],
+      "id": "L0127",
+      "seconds": 3.7
+    },
+    {
+      "kind": "line",
+      "start": 860.72,
+      "end": 867.279,
+      "tags": [],
+      "text": "and i said excuse me sir i said i just worked long hours in creating my business i'm an entrepreneur",
+      "reactions": [],
+      "id": "L0128",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 867.76,
+      "end": 873.12,
+      "tags": [],
+      "text": "and right now things are bad for me but they're not going to be this way always",
+      "reactions": [],
+      "id": "L0129",
+      "seconds": 5.4
+    },
+    {
+      "kind": "event",
+      "start": 873.12,
+      "end": 874.8,
+      "text": "[pause 1.7s]",
+      "id": "L0130"
+    },
+    {
+      "kind": "line",
+      "start": 874.8,
+      "end": 881.76,
+      "tags": [],
+      "text": "and i just asked for the opportunity to continue to operate like i'm doing i'm not trying to make this my home",
+      "reactions": [],
+      "id": "L0131",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 882.0,
+      "end": 888.8,
+      "tags": [],
+      "text": "and it was hard coming through the lobby and sometimes they would laugh there's a guy talking about becoming successful and look at him",
+      "reactions": [],
+      "id": "L0132",
+      "seconds": 6.8,
+      "comments": [
+        {
+          "text": "14:44",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 888.8,
+      "end": 899.52,
+      "tags": [],
+      "text": "he's bathing in the bathroom upstairs on the 21st floor he sleeps on the floor him and two other dreamers up there look at him",
+      "reactions": [],
+      "id": "L0133",
+      "seconds": 10.7
+    },
+    {
+      "kind": "line",
+      "start": 899.68,
+      "end": 903.839,
+      "tags": [],
+      "text": "it was hard ladies and gentlemen coming to speak to people",
+      "reactions": [],
+      "id": "L0134",
+      "seconds": 4.2
+    },
+    {
+      "kind": "line",
+      "start": 904.0,
+      "end": 910.24,
+      "tags": [],
+      "text": "and i was facing financial difficulties in my own life i was behind on my bills and my dreams and i'm saying",
+      "reactions": [],
+      "id": "L0135",
+      "seconds": 6.2,
+      "comments": [
+        {
+          "text": "15:04",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 910.24,
+      "end": 918.079,
+      "tags": [],
+      "text": "to them you can live your dream it was hard ladies and gentlemen it was very difficult to pick myself up each",
+      "reactions": [],
+      "id": "L0136",
+      "seconds": 7.8
+    },
+    {
+      "kind": "line",
+      "start": 918.079,
+      "end": 924.399,
+      "tags": [],
+      "text": "day believing that i could do it there were times that i doubted myself i said god why why is this happening",
+      "reactions": [],
+      "id": "L0137",
+      "seconds": 6.3,
+      "comments": [
+        {
+          "text": "15:20 best line",
+          "likes": 3,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 924.399,
+      "end": 931.36,
+      "tags": [],
+      "text": "to me i'm just trying to take care of my children and my mother i'm not trying to steal a rob from anybody",
+      "reactions": [],
+      "id": "L0138",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 931.92,
+      "end": 934.32,
+      "tags": [],
+      "text": "how did this have to happen to me",
+      "reactions": [],
+      "id": "L0139",
+      "seconds": 2.4
+    },
+    {
+      "kind": "line",
+      "start": 935.199,
+      "end": 936.959,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "it was very hard",
+      "reactions": [],
+      "id": "L0140",
+      "seconds": 1.8
+    },
+    {
+      "kind": "line",
+      "start": 937.36,
+      "end": 943.2,
+      "tags": [],
+      "text": "and here's what i want to say to you for those of you that have experienced some hardships",
+      "reactions": [],
+      "id": "L0141",
+      "seconds": 5.8
+    },
+    {
+      "kind": "line",
+      "start": 943.68,
+      "end": 949.36,
+      "tags": [],
+      "text": "don't give up on your dream no one could have convinced me by holding on",
+      "reactions": [],
+      "id": "L0142",
+      "seconds": 5.7
+    },
+    {
+      "kind": "line",
+      "start": 949.92,
+      "end": 957.52,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "by continuing to push forward by continuing to run toward my dream that one day",
+      "reactions": [],
+      "id": "L0143",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 957.92,
+      "end": 965.599,
+      "tags": [],
+      "text": "i would have my own talk show it's a long shot ladies and gentlemen from liberty city an abandoned building on a floor",
+      "reactions": [],
+      "id": "L0144",
+      "seconds": 7.7
+    },
+    {
+      "kind": "line",
+      "start": 965.839,
+      "end": 980.159,
+      "tags": [],
+      "text": "never knowing my mother or father it's a long shot being here with you today in this dome in atlanta it's a long shot no college training labeled educable mentally but i kept running toward my",
+      "reactions": [],
+      "id": "L0145",
+      "seconds": 14.3
+    },
+    {
+      "kind": "line",
+      "start": 980.839,
+      "end": 982.039,
+      "tags": [],
+      "text": "dreams",
+      "reactions": [],
+      "id": "L0146",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 982.039,
+      "end": 987.12,
+      "text": "[long gap 5.1s]",
+      "id": "L0147"
+    },
+    {
+      "kind": "line",
+      "start": 987.12,
+      "end": 988.56,
+      "tags": [],
+      "text": "don't stop",
+      "reactions": [],
+      "id": "L0148",
+      "seconds": 1.4
+    },
+    {
+      "kind": "event",
+      "start": 988.56,
+      "end": 994.16,
+      "text": "[long gap 5.6s]",
+      "id": "L0149"
+    },
+    {
+      "kind": "line",
+      "start": 994.16,
+      "end": 996.039,
+      "tags": [],
+      "text": "don't stop",
+      "reactions": [],
+      "id": "L0150",
+      "seconds": 1.9
+    },
+    {
+      "kind": "event",
+      "start": 996.039,
+      "end": 1009.04,
+      "text": "[long gap 13.0s]",
+      "id": "L0151"
+    },
+    {
+      "kind": "line",
+      "start": 1009.04,
+      "end": 1012.159,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "don't stop running towards your dream",
+      "reactions": [],
+      "id": "L0152",
+      "seconds": 3.1
+    },
+    {
+      "kind": "event",
+      "start": 1012.159,
+      "end": 1017.839,
+      "text": "[long gap 5.7s]",
+      "id": "L0153"
+    },
+    {
+      "kind": "line",
+      "start": 1017.839,
+      "end": 1022.32,
+      "tags": [],
+      "text": "it's very important as you hold on to that",
+      "reactions": [],
+      "id": "L0154",
+      "seconds": 4.5,
+      "comments": [
+        {
+          "text": "17:01 true",
+          "likes": 0,
+          "dupes": 2,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1022.839,
+      "end": 1026.879,
+      "tags": [],
+      "text": "dream there are moments when you're going to doubt yourself",
+      "reactions": [],
+      "id": "L0155",
+      "seconds": 4.0
+    },
+    {
+      "kind": "line",
+      "start": 1027.679,
+      "end": 1034.0,
+      "tags": [],
+      "text": "their rough times are going to come but they have not come to stay they have come to pass it's",
+      "reactions": [],
+      "id": "L0156",
+      "seconds": 6.3
+    },
+    {
+      "kind": "line",
+      "start": 1034.0,
+      "end": 1041.4,
+      "tags": [],
+      "text": "very important for you to know that don't say i'm having a bad day say i'm having a character building day",
+      "reactions": [],
+      "id": "L0157",
+      "seconds": 7.4,
+      "comments": [
+        {
+          "text": "17:18",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "17:17",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1041.4,
+      "end": 1042.6,
+      "text": "[applause (youtube)]",
+      "id": "L0158"
+    },
+    {
+      "kind": "line",
+      "start": 1049.679,
+      "end": 1052.4,
+      "tags": [],
+      "text": "it's very important for you to believe",
+      "reactions": [],
+      "id": "L0159",
+      "seconds": 2.7,
+      "comments": [
+        {
+          "text": "-17:30",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1052.88,
+      "end": 1060.32,
+      "tags": [],
+      "text": "that you are the one to make this happen i remember this high school teacher mr leroy washington",
+      "reactions": [],
+      "id": "L0160",
+      "seconds": 7.4
+    },
+    {
+      "kind": "event",
+      "start": 1060.32,
+      "end": 1061.52,
+      "text": "[pause 1.2s]",
+      "id": "L0161"
+    },
+    {
+      "kind": "line",
+      "start": 1061.52,
+      "end": 1067.2,
+      "tags": [],
+      "text": "at the end of school one june it was just a few days before we were supposed to leave",
+      "reactions": [],
+      "id": "L0162",
+      "seconds": 5.7
+    },
+    {
+      "kind": "line",
+      "start": 1067.36,
+      "end": 1069.999,
+      "tags": [],
+      "text": "and i just got my report card",
+      "reactions": [],
+      "id": "L0163",
+      "seconds": 2.6
+    },
+    {
+      "kind": "line",
+      "start": 1070.48,
+      "end": 1077.84,
+      "tags": [],
+      "text": "and it indicated that i'd failed history and i failed english and i would have to go to summer school",
+      "reactions": [],
+      "id": "L0164",
+      "seconds": 7.4
+    },
+    {
+      "kind": "line",
+      "start": 1078.48,
+      "end": 1080.96,
+      "tags": [],
+      "text": "and i was feeling within myself",
+      "reactions": [],
+      "id": "L0165",
+      "seconds": 2.5
+    },
+    {
+      "kind": "line",
+      "start": 1081.76,
+      "end": 1088.0,
+      "tags": [],
+      "text": "that i was a failure that i i'm slower than most people and getting paperwork and and i was feeling down on",
+      "reactions": [],
+      "id": "L0166",
+      "seconds": 6.2
+    },
+    {
+      "kind": "line",
+      "start": 1088.0,
+      "end": 1096.239,
+      "tags": [],
+      "text": "myself and and very negative and mr washington was giving a speech to the graduating seniors and i was in 11th grade",
+      "reactions": [],
+      "id": "L0167",
+      "seconds": 8.2
+    },
+    {
+      "kind": "line",
+      "start": 1096.4,
+      "end": 1107.76,
+      "tags": [],
+      "text": "and even though i wasn't supposed to be in there i went in there because the speech he was giving that speech was for me and as he talked my heart",
+      "reactions": [],
+      "id": "L0168",
+      "seconds": 11.4
+    },
+    {
+      "kind": "line",
+      "start": 1107.76,
+      "end": 1117.92,
+      "tags": [],
+      "text": "began to beat fast tears began to run by my eyes and i was in the back just listening to him because he said and he was a very dramatic man",
+      "reactions": [],
+      "id": "L0169",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 1118.08,
+      "end": 1129.28,
+      "tags": [],
+      "text": "i still talk to him to this day he said as graduating seniors of booker t washington high school i want you to know that you're blessed and highly favored",
+      "reactions": [],
+      "id": "L0170",
+      "seconds": 11.2
+    },
+    {
+      "kind": "line",
+      "start": 1129.44,
+      "end": 1138.239,
+      "tags": [],
+      "text": "and that as you go toward the future begin to know that you have greatness within you and if just one of you here",
+      "reactions": [],
+      "id": "L0171",
+      "seconds": 8.8
+    },
+    {
+      "kind": "line",
+      "start": 1138.559,
+      "end": 1147.52,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "begin to envision yourselves as being blessed and highly favored to reach your goals if just one of you",
+      "reactions": [],
+      "id": "L0172",
+      "seconds": 9.0
+    },
+    {
+      "kind": "line",
+      "start": 1147.76,
+      "end": 1154.48,
+      "tags": [],
+      "text": "capture the essence of what that means that you have greatness within you in responsibility to manifest that greatness",
+      "reactions": [],
+      "id": "L0173",
+      "seconds": 6.7
+    },
+    {
+      "kind": "line",
+      "start": 1155.039,
+      "end": 1164.88,
+      "tags": [],
+      "text": "that you can make your parents proud you can make your school proud you can touch millions of people's lives and the world will never be the same again because you came this",
+      "reactions": [],
+      "id": "L0174",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 1164.88,
+      "end": 1176.08,
+      "tags": [],
+      "text": "way and the students gave him a rousing standing ovation and as he left the auditorium i ran down the steps and i caught him in the parking lot i said mr washington",
+      "reactions": [],
+      "id": "L0175",
+      "seconds": 11.2
+    },
+    {
+      "kind": "line",
+      "start": 1176.32,
+      "end": 1179.28,
+      "tags": [],
+      "text": "he said yes i said do you remember me sir",
+      "reactions": [],
+      "id": "L0176",
+      "seconds": 3.0
+    },
+    {
+      "kind": "line",
+      "start": 1179.44,
+      "end": 1189.28,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "he said no i said uh my name is leslie brown my mother she works in the cafeteria here i'm one of the twins leslie wesley i said mr washington but you know you know i got",
+      "reactions": [],
+      "id": "L0177",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 1189.28,
+      "end": 1199.6,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "these big dreams you know i like talking to people i love people i said i want to work with people and i got this dream of buying my mama home could could i do that mr washington",
+      "reactions": [],
+      "id": "L0178",
+      "seconds": 10.3
+    },
+    {
+      "kind": "line",
+      "start": 1200.0,
+      "end": 1202.56,
+      "tags": [],
+      "text": "he said it's possible mr brown",
+      "reactions": [],
+      "id": "L0179",
+      "seconds": 2.6
+    },
+    {
+      "kind": "line",
+      "start": 1202.72,
+      "end": 1209.119,
+      "tags": [],
+      "text": "and as he walked away i called him again i said mr washington he said what do you want now",
+      "reactions": [],
+      "id": "L0180",
+      "seconds": 6.4
+    },
+    {
+      "kind": "line",
+      "start": 1209.84,
+      "end": 1211.52,
+      "tags": [],
+      "text": "i said um",
+      "reactions": [],
+      "id": "L0181",
+      "seconds": 1.7
+    },
+    {
+      "kind": "event",
+      "start": 1211.52,
+      "end": 1215.84,
+      "text": "[long gap 4.3s]",
+      "id": "L0182"
+    },
+    {
+      "kind": "line",
+      "start": 1215.84,
+      "end": 1217.759,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "i'm the one sir",
+      "reactions": [],
+      "id": "L0183",
+      "seconds": 1.9
+    },
+    {
+      "kind": "line",
+      "start": 1218.0,
+      "end": 1224.48,
+      "tags": [],
+      "text": "i said i'm the one you you remember me sir i'm this maybe brown's boy",
+      "reactions": [],
+      "id": "L0184",
+      "seconds": 6.5,
+      "comments": [
+        {
+          "text": "minute 20:20 everytime with tears in my eyes thx a lot mr Brown!",
+          "likes": 3,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1224.799,
+      "end": 1226.4,
+      "tags": [],
+      "text": "i'm the wife",
+      "reactions": [],
+      "id": "L0185",
+      "seconds": 1.6
+    },
+    {
+      "kind": "event",
+      "start": 1226.4,
+      "end": 1227.919,
+      "text": "[pause 1.5s]",
+      "id": "L0186"
+    },
+    {
+      "kind": "line",
+      "start": 1227.919,
+      "end": 1229.359,
+      "tags": [],
+      "text": "i'm the",
+      "reactions": [],
+      "id": "L0187",
+      "seconds": 1.4
+    },
+    {
+      "kind": "event",
+      "start": 1229.359,
+      "end": 1232.84,
+      "text": "[pause 3.5s]",
+      "id": "L0188"
+    },
+    {
+      "kind": "line",
+      "start": 1232.84,
+      "end": 1234.04,
+      "tags": [],
+      "text": "one",
+      "reactions": [],
+      "id": "L0189",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 1234.04,
+      "end": 1252.0,
+      "text": "[long gap 18.0s]",
+      "id": "L0190"
+    },
+    {
+      "kind": "line",
+      "start": 1252.0,
+      "end": 1254.16,
+      "tags": [],
+      "text": "and you must feel that",
+      "reactions": [],
+      "id": "L0191",
+      "seconds": 2.2
+    },
+    {
+      "kind": "event",
+      "start": 1254.16,
+      "end": 1255.919,
+      "text": "[pause 1.8s]",
+      "id": "L0192"
+    },
+    {
+      "kind": "line",
+      "start": 1255.919,
+      "end": 1258.16,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "that that's why you're here",
+      "reactions": [],
+      "id": "L0193",
+      "seconds": 2.2
+    },
+    {
+      "kind": "line",
+      "start": 1258.48,
+      "end": 1272.56,
+      "tags": [],
+      "text": "because you are the one and i remember when pbs first played one of my specials called you deserve one sunday afternoon in miami florida i had some friends call him to tell him to tune in",
+      "reactions": [],
+      "id": "L0194",
+      "seconds": 14.1
+    },
+    {
+      "kind": "line",
+      "start": 1272.72,
+      "end": 1280.8,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "and he watched the program he called me in detroit and i answered the phone i said hello he said may i speak to les brown please i said who's calling",
+      "reactions": [],
+      "id": "L0195",
+      "seconds": 8.1
+    },
+    {
+      "kind": "line",
+      "start": 1280.96,
+      "end": 1283.44,
+      "tags": [],
+      "text": "he said you know who this is",
+      "reactions": [],
+      "id": "L0196",
+      "seconds": 2.5,
+      "comments": [
+        {
+          "text": "21:21 I get so many chills",
+          "likes": 32,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1284.32,
+      "end": 1295.92,
+      "tags": [],
+      "text": "i said oh mr washington it's you he said you were the one weren't you i said yes sir he said and you were so crazy i said i know but i'm rich",
+      "reactions": [],
+      "id": "L0197",
+      "seconds": 11.6,
+      "comments": [
+        {
+          "text": "The beautiful smile 21:35,",
+          "likes": 4,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "21:32",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1295.92,
+      "end": 1302.84,
+      "text": "[long gap 6.9s]",
+      "id": "L0198"
+    },
+    {
+      "kind": "line",
+      "start": 1302.84,
+      "end": 1304.04,
+      "tags": [],
+      "text": "now",
+      "reactions": [],
+      "id": "L0199",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 1304.04,
+      "end": 1306.88,
+      "text": "[pause 2.8s]",
+      "id": "L0200"
+    },
+    {
+      "kind": "line",
+      "start": 1306.88,
+      "end": 1308.48,
+      "tags": [],
+      "text": "ladies and gentlemen",
+      "reactions": [],
+      "id": "L0201",
+      "seconds": 1.6
+    },
+    {
+      "kind": "line",
+      "start": 1308.72,
+      "end": 1317.04,
+      "tags": [],
+      "text": "it's not going to be easy it was hard laying on the floor of the penobscot building looking out of the window daydreaming",
+      "reactions": [],
+      "id": "L0202",
+      "seconds": 8.3
+    },
+    {
+      "kind": "line",
+      "start": 1317.28,
+      "end": 1326.08,
+      "tags": [],
+      "text": "saying les can you do this can you make this happen i used to listen to tates day in and day out",
+      "reactions": [],
+      "id": "L0203",
+      "seconds": 8.8
+    },
+    {
+      "kind": "line",
+      "start": 1326.4,
+      "end": 1335.2,
+      "tags": [],
+      "text": "about see you at the top my my great friend zig and and dennis waitland different other motivational speakers and dr norman vincent peale and",
+      "reactions": [],
+      "id": "L0204",
+      "seconds": 8.8
+    },
+    {
+      "kind": "line",
+      "start": 1335.2,
+      "end": 1346.239,
+      "tags": [],
+      "text": "dex is saying don't let nobody steal your dream i used to ask myself can i do this and something said within me you're the one",
+      "reactions": [],
+      "id": "L0205",
+      "seconds": 11.0
+    },
+    {
+      "kind": "line",
+      "start": 1347.039,
+      "end": 1351.04,
+      "tags": [],
+      "text": "you're the one and let me tell you something ladies and gentlemen",
+      "reactions": [],
+      "id": "L0206",
+      "seconds": 4.0
+    },
+    {
+      "kind": "line",
+      "start": 1351.76,
+      "end": 1358.239,
+      "tags": [],
+      "text": "while you're here and before you go back home to your respective cities and communities",
+      "reactions": [],
+      "id": "L0207",
+      "seconds": 6.5
+    },
+    {
+      "kind": "line",
+      "start": 1358.48,
+      "end": 1361.04,
+      "tags": [],
+      "text": "write down at least five reasons",
+      "reactions": [],
+      "id": "L0208",
+      "seconds": 2.6
+    },
+    {
+      "kind": "line",
+      "start": 1361.44,
+      "end": 1368.16,
+      "tags": [],
+      "text": "on why you deserve your dream and why you won't give up what's going to make you unstoppable",
+      "reactions": [],
+      "id": "L0209",
+      "seconds": 6.7
+    },
+    {
+      "kind": "line",
+      "start": 1368.4,
+      "end": 1376.32,
+      "tags": [],
+      "text": "why you must be unreasonable because logical practical thinking says you can't do it today but if you want to produce",
+      "reactions": [],
+      "id": "L0210",
+      "seconds": 7.9,
+      "comments": [
+        {
+          "text": "It’s not over until I win.It’s 12:10 I am having a character building day. 22:56 5 questions why am I here?",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 2
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1376.559,
+      "end": 1386.56,
+      "tags": [],
+      "text": "unreasonable results in your life like living your dreaming taking charge of your destiny you've got to be an unreasonable person you've got to be an uncommon",
+      "reactions": [],
+      "id": "L0211",
+      "seconds": 10.0
+    },
+    {
+      "kind": "line",
+      "start": 1386.84,
+      "end": 1388.04,
+      "tags": [],
+      "text": "person",
+      "reactions": [],
+      "id": "L0212",
+      "seconds": 1.2
+    },
+    {
+      "kind": "line",
+      "start": 1388.559,
+      "end": 1391.68,
+      "tags": [],
+      "text": "so write down the reasons of why you're here",
+      "reactions": [],
+      "id": "L0213",
+      "seconds": 3.1
+    },
+    {
+      "kind": "line",
+      "start": 1392.24,
+      "end": 1404.96,
+      "tags": [],
+      "text": "my first major goal was to buy my mother a home and let me tell you something ladies and gentlemen what what will reasons do less nietzsche said if you know the why for doing you can endure almost",
+      "reactions": [],
+      "id": "L0214",
+      "seconds": 12.7
+    },
+    {
+      "kind": "line",
+      "start": 1404.96,
+      "end": 1416.56,
+      "tags": [],
+      "text": "anyhow what do you mean by that if you know why you're doing something when the hard times come and they're going to come when the disappointments and the rejections come and they're going to come by the truckloads",
+      "reactions": [],
+      "id": "L0215",
+      "seconds": 11.6
+    },
+    {
+      "kind": "line",
+      "start": 1416.72,
+      "end": 1423.76,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "your reasons will be your rod and staff to comfort you to pick you up once again i got a saying on one of my tapes if",
+      "reactions": [],
+      "id": "L0216",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 1423.76,
+      "end": 1432.08,
+      "tags": [],
+      "text": "life knocks you down try and land on your back because if you can look up you can get up let your reasons get you back up",
+      "reactions": [],
+      "id": "L0217",
+      "seconds": 8.3,
+      "comments": [
+        {
+          "text": "Why he movin like dat at 23:47 💀😂✌🏾",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "23:49 ❤️",
+          "likes": 0,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1432.08,
+      "end": 1440.48,
+      "text": "[long gap 8.4s]",
+      "id": "L0218"
+    },
+    {
+      "kind": "line",
+      "start": 1440.48,
+      "end": 1445.359,
+      "tags": [],
+      "text": "i remember when i i bought the home from my mother and she came",
+      "reactions": [],
+      "id": "L0219",
+      "seconds": 4.9
+    },
+    {
+      "kind": "line",
+      "start": 1445.679,
+      "end": 1450.559,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "out of the car when i opened the door i said mom i think i know these people in this house that was my first",
+      "reactions": [],
+      "id": "L0220",
+      "seconds": 4.9
+    },
+    {
+      "kind": "line",
+      "start": 1450.559,
+      "end": 1458.879,
+      "tags": [],
+      "text": "major goal and then i couldn't conceal it anymore i said mom i got this for you and as she went from room to room",
+      "reactions": [],
+      "id": "L0221",
+      "seconds": 8.3
+    },
+    {
+      "kind": "line",
+      "start": 1459.12,
+      "end": 1462.16,
+      "tags": [],
+      "text": "looking at the house and saying thank you jesus",
+      "reactions": [],
+      "id": "L0222",
+      "seconds": 3.0
+    },
+    {
+      "kind": "line",
+      "start": 1462.88,
+      "end": 1475.359,
+      "tags": [],
+      "text": "thank you lord no one ever could have convinced me that this could have happened to me and she looked at me she said leslie and you cost me so much problems as a boy you were always into stuff",
+      "reactions": [],
+      "id": "L0223",
+      "seconds": 12.5
+    },
+    {
+      "kind": "line",
+      "start": 1475.919,
+      "end": 1481.44,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "she said no one could have convinced me that day when i walked in that house and this lady was",
+      "reactions": [],
+      "id": "L0224",
+      "seconds": 5.5
+    },
+    {
+      "kind": "line",
+      "start": 1481.44,
+      "end": 1487.279,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "holding you and your brother and she said ma'am i want you to promise me two things and she said what",
+      "reactions": [],
+      "id": "L0225",
+      "seconds": 5.8
+    },
+    {
+      "kind": "line",
+      "start": 1487.279,
+      "end": 1494.64,
+      "tags": [],
+      "text": "is it she says juan promise me that you won't separate them she said i want them raised together i want",
+      "reactions": [],
+      "id": "L0226",
+      "seconds": 7.4
+    },
+    {
+      "kind": "line",
+      "start": 1494.64,
+      "end": 1501.2,
+      "tags": [],
+      "text": "them to know each other i got pregnant while my husband was away in the war and i can't keep them",
+      "reactions": [],
+      "id": "L0227",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 1501.36,
+      "end": 1508.72,
+      "tags": [],
+      "text": "promise me that you won't separate them she said i promise i would i've never had children i promise i won't",
+      "reactions": [],
+      "id": "L0228",
+      "seconds": 7.4
+    },
+    {
+      "kind": "line",
+      "start": 1508.72,
+      "end": 1515.679,
+      "tags": [],
+      "text": "separate him and she said promise me that you'll never tell him about who i am because if my husband ever",
+      "reactions": [],
+      "id": "L0229",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 1515.679,
+      "end": 1522.4,
+      "tags": [],
+      "text": "found out he would kill me she said i promise and she said that she gave them to us and and",
+      "reactions": [],
+      "id": "L0230",
+      "seconds": 6.7
+    },
+    {
+      "kind": "line",
+      "start": 1522.4,
+      "end": 1529.6,
+      "tags": [],
+      "text": "she kind of cried and she was walking out the door and she looked at my adopted mother she said remember",
+      "reactions": [],
+      "id": "L0231",
+      "seconds": 7.2
+    },
+    {
+      "kind": "line",
+      "start": 1530.4,
+      "end": 1540.4,
+      "tags": [],
+      "text": "don't you separate them she said i swear to god i won't i won't separate them i'll keep them together and she said as i held you all",
+      "reactions": [],
+      "id": "L0232",
+      "seconds": 10.0
+    },
+    {
+      "kind": "line",
+      "start": 1540.4,
+      "end": 1547.359,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "in my arms i never had any children my own i didn't know how i was going to do it but i knew with the help of god",
+      "reactions": [],
+      "id": "L0233",
+      "seconds": 7.0
+    },
+    {
+      "kind": "line",
+      "start": 1547.52,
+      "end": 1554.4,
+      "tags": [],
+      "text": "i will do it and ladies and gentlemen my mother had a dream of having children",
+      "reactions": [],
+      "id": "L0234",
+      "seconds": 6.9
+    },
+    {
+      "kind": "line",
+      "start": 1554.88,
+      "end": 1565.039,
+      "tags": [],
+      "text": "and raising us she didn't know how she's going to do it you're going to be just like that and some of you are already there well you don't know how you're going",
+      "reactions": [],
+      "id": "L0235",
+      "seconds": 10.2
+    },
+    {
+      "kind": "line",
+      "start": 1565.039,
+      "end": 1577.6,
+      "tags": [],
+      "text": "to make this happen but you just feel within yourself some way somehow with the help of god i'm going to make it happen repeat after me please no matter how bad it is",
+      "reactions": [],
+      "id": "L0236",
+      "seconds": 12.6,
+      "comments": [
+        {
+          "text": "26:15",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1577.6,
+      "end": 1579.12,
+      "text": "[pause 1.5s]",
+      "id": "L0237"
+    },
+    {
+      "kind": "line",
+      "start": 1579.12,
+      "end": 1581.359,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "or how bad it gets",
+      "reactions": [],
+      "id": "L0238",
+      "seconds": 2.2
+    },
+    {
+      "kind": "event",
+      "start": 1581.359,
+      "end": 1582.799,
+      "text": "[pause 1.4s]",
+      "id": "L0239"
+    },
+    {
+      "kind": "line",
+      "start": 1582.799,
+      "end": 1585.52,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "i'm going to make it",
+      "reactions": [],
+      "id": "L0240",
+      "seconds": 2.7
+    },
+    {
+      "kind": "line",
+      "start": 1586.559,
+      "end": 1589.119,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "i'm going to make it",
+      "reactions": [],
+      "id": "L0241",
+      "seconds": 2.6
+    },
+    {
+      "kind": "line",
+      "start": 1589.84,
+      "end": 1593.68,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "shake somebody's hand on your right and left and say you got the right",
+      "reactions": [],
+      "id": "L0242",
+      "seconds": 3.8
+    },
+    {
+      "kind": "event",
+      "start": 1593.68,
+      "end": 1596.84,
+      "text": "[pause 3.2s]",
+      "id": "L0243"
+    },
+    {
+      "kind": "line",
+      "start": 1596.84,
+      "end": 1598.04,
+      "tags": [],
+      "text": "stuff",
+      "reactions": [],
+      "id": "L0244",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 1598.04,
+      "end": 1602.159,
+      "text": "[long gap 4.1s]",
+      "id": "L0245"
+    },
+    {
+      "kind": "line",
+      "start": 1602.159,
+      "end": 1603.759,
+      "tags": [],
+      "text": "so yes",
+      "reactions": [],
+      "id": "L0246",
+      "seconds": 1.6
+    },
+    {
+      "kind": "event",
+      "start": 1603.759,
+      "end": 1605.039,
+      "text": "[pause 1.3s]",
+      "id": "L0247"
+    },
+    {
+      "kind": "line",
+      "start": 1605.039,
+      "end": 1607.759,
+      "tags": [],
+      "text": "it's possible for you to live your dream",
+      "reactions": [],
+      "id": "L0248",
+      "seconds": 2.7
+    },
+    {
+      "kind": "line",
+      "start": 1607.919,
+      "end": 1619.76,
+      "tags": [],
+      "text": "it's necessary that you associate with winners that you work your system that you are relentless that you never give up it's you you've got to take personal responsibility you've got to",
+      "reactions": [],
+      "id": "L0249",
+      "seconds": 11.8
+    },
+    {
+      "kind": "line",
+      "start": 1619.76,
+      "end": 1632.64,
+      "tags": [],
+      "text": "make it your personal business to make it happen and you've got to resolve within yourself that i can do this that it's hard but you've got to save i'm the one",
+      "reactions": [],
+      "id": "L0250",
+      "seconds": 12.9
+    },
+    {
+      "kind": "line",
+      "start": 1632.96,
+      "end": 1642.72,
+      "tags": [],
+      "text": "i'm the one to make this happen i'm the one to become successful in this business as you work to help other people to become successful that feeds your success",
+      "reactions": [],
+      "id": "L0251",
+      "seconds": 9.8
+    },
+    {
+      "kind": "line",
+      "start": 1642.88,
+      "end": 1649.52,
+      "tags": [],
+      "text": "but you know it's going to be hard but find out what will make it worth it for you",
+      "reactions": [],
+      "id": "L0252",
+      "seconds": 6.6
+    },
+    {
+      "kind": "line",
+      "start": 1650.24,
+      "end": 1652.08,
+      "tags": [
+        "(slow)"
+      ],
+      "text": "so ladies and gentlemen",
+      "reactions": [],
+      "id": "L0253",
+      "seconds": 1.8
+    },
+    {
+      "kind": "line",
+      "start": 1652.24,
+      "end": 1661.039,
+      "tags": [],
+      "text": "if you want to make your dream become reality the people that are running at their dreams know that it's possible that you can live your dream that",
+      "reactions": [],
+      "id": "L0254",
+      "seconds": 8.8
+    },
+    {
+      "kind": "line",
+      "start": 1661.039,
+      "end": 1669.6,
+      "tags": [],
+      "text": "it's necessary that you're relentless that you have a plan of action that you are creative the people that are living their dream of finding winners to attach themselves",
+      "reactions": [],
+      "id": "L0255",
+      "seconds": 8.6
+    },
+    {
+      "kind": "line",
+      "start": 1669.6,
+      "end": 1678.799,
+      "tags": [],
+      "text": "to the people that are living their dreams of a people that know that it's if it's going to happen it's up to them and they're resolving within themselves",
+      "reactions": [],
+      "id": "L0256",
+      "seconds": 9.2
+    },
+    {
+      "kind": "line",
+      "start": 1678.799,
+      "end": 1688.479,
+      "tags": [],
+      "text": "it's not over until i win the people that are running after their dream know they're gonna have hard times they keep on running because they're saying within themselves",
+      "reactions": [],
+      "id": "L0257",
+      "seconds": 9.7
+    },
+    {
+      "kind": "line",
+      "start": 1688.64,
+      "end": 1694.96,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "i'm the one i'm the one no matter how bad it is or how bad it gets i'm going to make it the people that",
+      "reactions": [],
+      "id": "L0258",
+      "seconds": 6.3
+    },
+    {
+      "kind": "line",
+      "start": 1694.96,
+      "end": 1701.84,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "are running after their dreams are the people that are hungry shake somebody's hand on your right and left and say you gotta be hungry",
+      "reactions": [],
+      "id": "L0259",
+      "seconds": 6.9,
+      "marks": [
+        "replayed"
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1701.84,
+      "end": 1708.64,
+      "text": "[long gap 6.8s]",
+      "id": "L0260"
+    },
+    {
+      "kind": "line",
+      "start": 1708.64,
+      "end": 1714.88,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "and as you run towards your dream i want to dedicate this to you that i love very much i want to thank dexter and all",
+      "reactions": [],
+      "id": "L0261",
+      "seconds": 6.2
+    },
+    {
+      "kind": "line",
+      "start": 1714.88,
+      "end": 1723.2,
+      "tags": [],
+      "text": "of you it's something that i'm known by it's on our tapes called choosing your future that says simply this that if you want a thing bad",
+      "reactions": [],
+      "id": "L0262",
+      "seconds": 8.3,
+      "comments": [
+        {
+          "text": "28:41who gets goose bumps after this speech all the time.",
+          "likes": 2,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1723.2,
+      "end": 1730.799,
+      "tags": [],
+      "text": "enough to go out and fight for it to work day and night for it to give up your time your peace and your sleep for",
+      "reactions": [],
+      "id": "L0263",
+      "seconds": 7.6
+    },
+    {
+      "kind": "line",
+      "start": 1730.799,
+      "end": 1739.679,
+      "tags": [],
+      "text": "it if all that your dream and scheme is about it and life seems useless and worthless without it and if you gladly sweat for it and",
+      "reactions": [],
+      "id": "L0264",
+      "seconds": 8.9
+    },
+    {
+      "kind": "line",
+      "start": 1739.679,
+      "end": 1746.559,
+      "tags": [
+        "(fast)"
+      ],
+      "text": "fret for it and plan for it and lose all your terror of the opposition for it and if you simply go after that thing that",
+      "reactions": [],
+      "id": "L0265",
+      "seconds": 6.9
+    },
+    {
+      "kind": "line",
+      "start": 1746.559,
+      "end": 1758.159,
+      "tags": [],
+      "text": "you want with all of your capacity strength and sagacity faith hope and confidence and stirring pertinacity if neither cold poverty famish or gulf sickness or pain",
+      "reactions": [],
+      "id": "L0266",
+      "seconds": 11.6,
+      "comments": [
+        {
+          "text": "Les Brown is stirring motivational fire by 29:13",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1758.159,
+      "end": 1765.84,
+      "tags": [],
+      "text": "or body and brain can keep you away from the thing that you want if dogged and grim you besiege and beset it with the help of",
+      "reactions": [],
+      "id": "L0267",
+      "seconds": 7.7,
+      "comments": [
+        {
+          "text": "29:20 what I will do for my love 💜",
+          "likes": 6,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "line",
+      "start": 1765.84,
+      "end": 1774.64,
+      "tags": [],
+      "text": "god you'll get it this is mrs amy brown's baby boy leslie calvin brown saying it's been a plum pleasing pleasure as well as a privilege thank",
+      "reactions": [],
+      "id": "L0268",
+      "seconds": 8.8,
+      "comments": [
+        {
+          "text": "29:30",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        },
+        {
+          "text": "\"If you want a thing bad enough to go out and fight for it To work day and night for it To give up your time and peace and sleep for it If all that your dream and scheme is about it And life seems useless and worthless without it And youll gladly sweat for it fret for it and plan for it and loose all your terror of the opposition for it And if you're simply go after that thing that you want with all of your capacity strength and sagacity faith hope and confidence and stirring pertinacity if neither cold proverty famish or gulf sickness or pain or body and brain can keep you away from the thing that you want If dogged and grim you besieged and beset it with the help of God youll get it\" -Les Brown 29:29",
+          "likes": 0,
+          "dupes": 0,
+          "summary": "The commenter quotes Les Brown's motivational speech about relentlessly pursuing your dreams.",
+          "of": 1
+        }
+      ]
+    },
+    {
+      "kind": "event",
+      "start": 1774.64,
+      "end": 1778.84,
+      "text": "[long gap 4.2s]",
+      "id": "L0269"
+    },
+    {
+      "kind": "line",
+      "start": 1778.84,
+      "end": 1780.04,
+      "tags": [],
+      "text": "you",
+      "reactions": [],
+      "id": "L0270",
+      "seconds": 1.2
+    },
+    {
+      "kind": "event",
+      "start": 1780.04,
+      "end": 1785.679,
+      "text": "[long gap 5.6s]",
+      "id": "L0271"
+    },
+    {
+      "kind": "line",
+      "start": 1785.679,
+      "end": 1786.079,
+      "tags": [],
+      "text": "you",
+      "reactions": [],
+      "id": "L0272",
+      "seconds": 0.4,
+      "comments": [
+        {
+          "text": "Around 29:46 , lights are shut off!",
+          "likes": 1,
+          "dupes": 0,
+          "summary": null,
+          "of": 1
+        }
+      ]
+    }
+  ]
+}

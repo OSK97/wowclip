@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wowClip — AI Video & Audio Intelligence</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts: Newsreader (Claude Serif) & Inter (UI) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-root">
+        <!-- Top App Bar -->
+        <header class="app-header">
+            <div class="header-left">
+                <button class="nav-icon-btn" title="Menu">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+                </button>
+                <div class="project-breadcrumbs" id="breadcrumbs">
+                    <span class="cloud-icon">☁️</span>
+                    <span class="crumb-app">App</span>
+                    <span class="crumb-sep">/</span>
+                    <span class="crumb-pipeline">YouTube-to-Reel pipeline MVP</span>
+                    <span class="crumb-arrow">▾</span>
+                </div>
+            </div>
+            <div class="header-right">
+                <span class="brand-text">wowClip</span>
+            </div>
+        </header>
+
+        <!-- Main Screen Canvas -->
+        <main class="canvas" id="canvas">
+            <!-- Center Hero & Input Section (Initial State) -->
+            <div class="center-stage" id="center-stage">
+                <!-- Claude-style Starburst Logo & Serif Heading -->
+                <div class="hero-title-wrap">
+                    <svg class="claude-sun-icon" viewBox="0 0 24 24" fill="none" stroke="#d97757" stroke-width="2.5" stroke-linecap="round">
+                        <line x1="12" y1="2" x2="12" y2="6"></line>
+                        <line x1="12" y1="18" x2="12" y2="22"></line>
+                        <line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line>
+                        <line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line>
+                        <line x1="2" y1="12" x2="6" y2="12"></line>
+                        <line x1="18" y1="12" x2="22" y2="12"></line>
+                        <line x1="4.93" y1="19.07" x2="7.76" y2="16.24"></line>
+                        <line x1="16.24" y1="7.76" x2="19.07" y2="4.93"></line>
+                    </svg>
+                    <h1 class="hero-heading">What are we thinking about, laksh?</h1>
+                </div>
+
+                <!-- Chat / Prompt Box (Floating Center Box) -->
+                <div class="claude-card" id="chat-card">
+                    <!-- Primary URL Input -->
+                    <div class="card-input-row">
+                        <input
+                            type="text"
+                            id="url-input"
+                            class="main-prompt-input"
+                            placeholder="Paste YouTube video or podcast URL..."
+                            autocomplete="off"
+                            spellcheck="false"
+                        />
+                    </div>
+
+                    <!-- Instruction & Animated Slideshow Row -->
+                    <div class="instruction-row">
+                        <div class="slideshow-ticker" id="slideshow-ticker" title="Click to use this prompt">
+                            <span class="ticker-prefix">✨ Idea:</span>
+                            <span class="ticker-text" id="ticker-text">Find the most viral 30s clips (Hook Score &gt; 85)</span>
+                        </div>
+                        <input
+                            type="text"
+                            id="help-input"
+                            class="help-prompt-input"
+                            placeholder="Custom AI instructions or speaker names..."
+                            autocomplete="off"
+                            spellcheck="false"
+                        />
+                    </div>
+
+                    <!-- Bottom Toolbar Inside Card -->
+                    <div class="card-toolbar">
+                        <!-- Left Buttons: Plus & Pills -->
+                        <div class="toolbar-left">
+                            <button class="plus-btn" title="Add source file or context">+</button>
+                            <div class="mode-pill-group">
+                                <button class="mode-pill active" data-mode="chat">Chat</button>
+                                <button class="mode-pill" data-mode="cowork">Cowork</button>
+                                <button class="mode-pill" data-mode="viral">Viral Shorts</button>
+                                <button class="mode-pill" data-mode="chapters">Auto Chapters</button>
+                            </div>
+                        </div>
+
+                        <!-- Right Buttons: Model & Audio Icons & Send -->
+                        <div class="toolbar-right">
+                            <div class="model-picker-dropdown">
+                                <span class="model-name">Sonnet 5</span>
+                                <span class="model-level">High</span>
+                                <span class="chevron-down">▾</span>
+                            </div>
+                            <button class="tool-icon-btn" title="Voice Input">
+                                <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path><path d="M19 10v2a7 7 0 0 1-14 0v-2"></path><line x1="12" y1="19" x2="12" y2="23"></line><line x1="8" y1="23" x2="16" y2="23"></line></svg>
+                            </button>
+                            <button class="tool-icon-btn" title="Waveform Audio">
+                                <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="4" y1="9" x2="4" y2="15"></line><line x1="8" y1="6" x2="8" y2="18"></line><line x1="12" y1="3" x2="12" y2="21"></line><line x1="16" y1="7" x2="16" y2="17"></line><line x1="20" y1="10" x2="20" y2="14"></line></svg>
+                            </button>
+                            <button class="send-action-btn" id="send-btn" title="Run wowClip Pipeline">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="19" x2="12" y2="5"></line><polyline points="5 12 12 5 19 12"></polyline></svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Footer Disclaimer -->
+                <p class="card-footer-disclaimer">Claude is AI and can make mistakes. Please double-check responses. <a href="#">Give us feedback</a></p>
+            </div>
+
+            <!-- Pipeline Execution Tree View (Shown on Run) -->
+            <div class="pipeline-execution-view hidden" id="pipeline-view">
+                <div class="tree-inner">
+                    <div class="tree-breadcrumb-header">
+                        <span class="cloud-icon">☁️</span>
+                        <span>App</span>
+                        <span class="crumb-sep">/</span>
+                        <span class="active-sub">YouTube-to-Reel pipeline MVP</span>
+                        <span class="crumb-arrow">▾</span>
+                    </div>
+                    <div class="timeline-steps" id="timeline-steps">
+                        <!-- Step items will be inserted dynamically here -->
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,708 @@
+{
+  "meta": {
+    "video_id": "6Fjeh_plyvQ",
+    "video": {
+      "video_id": "6Fjeh_plyvQ",
+      "title": "Nayab Aur Manhar Ki Mehfil | UK & EUROPE TOUR ANNOUNCEMENT",
+      "channel": "Nayab Midha",
+      "duration_s": 549.0,
+      "views": "1096922"
+    },
+    "categories": [
+      "emotional"
+    ],
+    "readings": {
+      "emotional": {
+        "video_read": "A staged poetry evening: a host brings poet Nayab Mida up on stage and the two trade verse for several minutes — her own shayari (ishq vs pyaar, the Shahjahan/Taj Mahal piece, a Bashir Badr sher), a recitation of 'Muskurao', a Rahat Indori ghazal, and her parting words to the heartbroken. Nearly all the emotional material lives in the recited verse from roughly the two-minute mark to the end; the first ninety seconds is a tour announcement and the guest introduction.",
+        "coverage": 0.949,
+        "near_misses": [
+          {
+            "start_line": "L0022",
+            "end_line": "L0022",
+            "why_not": "Opens on a garbled host interjection ('जब मैं छोटी थी तो ये बात मेरे मां-बाप को नहीं पता थी') that points at a story never told; the thought she actually completes begins one line later."
+          },
+          {
+            "start_line": "L0041",
+            "end_line": "L0042",
+            "why_not": "Host praising the recitation and requesting the next poem — commentary on emotion, not the thing itself."
+          },
+          {
+            "start_line": "L0052",
+            "end_line": "L0052",
+            "why_not": "Host joke riffing on the glass-half-empty line ('there is always room for sharab') — comedy, and it only works with the poem just heard."
+          }
+        ],
+        "skipped": [
+          {
+            "from_line": "L0001",
+            "to_line": "L0009",
+            "what": "tour announcement, ticket reads, and the guest introduction"
+          },
+          {
+            "from_line": "L0010",
+            "to_line": "L0019",
+            "what": "stage banter — girls' gang, chairs for couples and singles, jokes about the audience's sleep"
+          },
+          {
+            "from_line": "L0020",
+            "to_line": "L0021",
+            "what": "stool-pulling bit leading into the interview segment"
+          },
+          {
+            "from_line": "L0030",
+            "to_line": "L0030",
+            "what": "applause row"
+          },
+          {
+            "from_line": "L0051",
+            "to_line": "L0051",
+            "what": "measured long gap — audience settling after the poem"
+          },
+          {
+            "from_line": "L0063",
+            "to_line": "L0063",
+            "what": "measured long gap after the sher"
+          },
+          {
+            "from_line": "L0068",
+            "to_line": "L0068",
+            "what": "music over the close"
+          }
+        ]
+      }
+    },
+    "dropped_in_select": [],
+    "lost_in_cutting": [
+      "4:47 तुम्हारी तरह कौन मुझको चाहेगा कि चाहतों से देखेगा — could not be cut: response was not JSON",
+      "2:42 इश्क आपको एक ही शख़्स से होता है — कैपेसिटी ही उतनी है — could not be cut: response was not JSON"
+    ],
+    "timings": {
+      "comments": 22.99,
+      "payload": 0.13,
+      "finders": 217.21,
+      "merge": 0.0,
+      "cut": 115.42
+    },
+    "costs": {
+      "llm_inr": 1.9111,
+      "youtube_api_units": 2,
+      "total_inr": 1.9111,
+      "by_step": {
+        "comments": 0.0691,
+        "finders": 0.9416,
+        "finder:emotional": 0.9416,
+        "cut": 0.9004
+      },
+      "tokens_by_step": {
+        "comments": {
+          "prompt": 0,
+          "completion": 0,
+          "reasoning": 0,
+          "calls": 1
+        },
+        "finders": {
+          "prompt": 25688,
+          "completion": 11910,
+          "reasoning": 8011,
+          "calls": 1
+        },
+        "cut": {
+          "prompt": 52138,
+          "completion": 7816,
+          "reasoning": 5244,
+          "calls": 8
+        }
+      }
+    },
+    "seconds": 355.82
+  },
+  "clips": [
+    {
+      "title": "ताजमहल तो बनवा लोगे, मुमताज़ कहाँ से?",
+      "description": "A complete recited piece that turns the Taj Mahal inside out: Shahjahan cut off the builders' hands so no one could tell his love story better — and the closing line asks where you'll find a Mumtaz, even if you can still commission the Taj. Ends on the punchline before the host's reaction begins.",
+      "category": "emotional",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Dropped opening 'और' (connective to the preceding praise) and started on the sher's own first words 'मैंने सुना है'; kept the proposed end at 'मुमताज कहां से' and excluded the trailing 'आय हाय क्या बात' host reaction so the piece lands clean.",
+      "segments": [
+        {
+          "start_s": 238.96,
+          "end_s": 284.72,
+          "duration_s": 45.76,
+          "start_words": "मैंने सुना है मैंने सुना है एक दफा शाहजहां ने",
+          "end_words": "ताजमहल तो बनवा लोगे मुमताज कहां से",
+          "start_line": "L0031",
+          "end_line": "L0036",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "मैंने सुना है मैंने सुना है एक दफा शाहजहां ने मुमताज के लिए ताजमहल बनवाया था। कि मैंने सुना है एक दफा शाहजहां ने मुमताज के लिए ताजमहल बनवाया था। अपने इश्क में होने का सबूत पूरी दुनिया को दिखाया था। मगर मैंने यह भी सुना है कि काट दिए थे ताज बनाने वालों के हाथ और साथ ही काट दिए थे हौसले कि ताज कोई और बना ना सके उससे ऊपर अपने इश्क की दास्तान कोई और सुना ना सके मैं सोचती हूं मैं सोचती हूं उस जुनून में अगर थोड़ा प्यार जुड़ जाता तो इश्क का सबूत वो सातवां जुबा यहां का हर घर कहलाता आहा आहा उससे मिलती जुलती आवाज कहां से लाओगे ताजमहल तो बनवा लोगे मुमताज कहां से?",
+          "source_start_s": 238.96,
+          "source_end_s": 284.72
+        }
+      ],
+      "start_s": 238.96,
+      "end_s": 284.72,
+      "duration_s": 45.76,
+      "transcript": "मैंने सुना है मैंने सुना है एक दफा शाहजहां ने मुमताज के लिए ताजमहल बनवाया था। कि मैंने सुना है एक दफा शाहजहां ने मुमताज के लिए ताजमहल बनवाया था। अपने इश्क में होने का सबूत पूरी दुनिया को दिखाया था। मगर मैंने यह भी सुना है कि काट दिए थे ताज बनाने वालों के हाथ और साथ ही काट दिए थे हौसले कि ताज कोई और बना ना सके उससे ऊपर अपने इश्क की दास्तान कोई और सुना ना सके मैं सोचती हूं मैं सोचती हूं उस जुनून में अगर थोड़ा प्यार जुड़ जाता तो इश्क का सबूत वो सातवां जुबा यहां का हर घर कहलाता आहा आहा उससे मिलती जुलती आवाज कहां से लाओगे ताजमहल तो बनवा लोगे मुमताज कहां से?",
+      "nominated_by": [
+        "emotional"
+      ],
+      "step1": [
+        {
+          "category": "emotional",
+          "id": "emo1",
+          "title": "ताजमहल तो बनवा लोगे, मुमताज़ कहाँ से?",
+          "why": "The strongest thing in the video. It takes the world's most famous monument of love and turns it inside out: Shahjahan had the hands of the Taj's builders cut off 'so no one could build above his ishq, no one could tell his love story better' — the audience suddenly sees possessiveness where it expected devotion. Then the last line lands and leaves: you can still commission a Taj Mahal, but where will you find a Mumtaz? A complete piece with one written ending, a measured pause to settle after it, replay data and multiple viewer comments marking it. Slow delivery on the turn (L0034) is visible in the tags.",
+          "confidence": "HIGH",
+          "hook_strength": 6.0,
+          "signals_used": [
+            "[REPLAYED] on L0031 and L0034",
+            "comment on L0036 'hits❤'",
+            "comment on L0034",
+            "pause after L0036 within the closing line"
+          ],
+          "start_line": "L0031",
+          "end_line": "L0036"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 238.96,
+      "source_end_s": 284.72,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 4,
+          "rows": 4,
+          "top_comment": "4:13.. The way he listens to her 🫶😇.... Huge fan of uhh 💓",
+          "top_likes": 179,
+          "text": "4 viewer comments point at this exact moment, the top one with 179 likes"
+        },
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        },
+        {
+          "kind": "pause",
+          "seconds": 1.7,
+          "text": "a 1.7s pause lands inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=6Fjeh_plyvQ&t=238s",
+      "embed_url": "https://www.youtube.com/embed/6Fjeh_plyvQ?start=238&end=285",
+      "rank": 1,
+      "id": "clip1",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "4 viewer comments point at this exact moment, the top one with 179 likes",
+            "quote": "4:13.. The way he listens to her 🫶😇.... Huge fan of uhh 💓",
+            "likes": 179
+          },
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          },
+          {
+            "kind": "pause",
+            "text": "a 1.7s pause lands inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "The strongest thing in the video. It takes the world's most famous monument of love and turns it inside out: Shahjahan had the hands of the Taj's builders cut off 'so no one could build above his ishq, no one could tell his love story better' — the audience suddenly sees possessiveness where it expected devotion. Then the last line lands and leaves: you can still commission a Taj Mahal, but where will you find a Mumtaz? A complete piece with one written ending, a measured pause to settle after it, replay data and multiple viewer comments marking it. Slow delivery on the turn (L0034) is visible in the tags.",
+        "found_by": [
+          "emotional"
+        ],
+        "agreement": 1,
+        "boundary": "Dropped opening 'और' (connective to the preceding praise) and started on the sher's own first words 'मैंने सुना है'; kept the proposed end at 'मुमताज कहां से' and excluded the trailing 'आय हाय क्या बात' host reaction so the piece lands clean.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "मुस्कुराओ — उस जीत की ज़रूरत तुमसे ज़्यादा किसी को थी शायद",
+      "description": "The complete 'Muskurao' recitation, from its opening refrain to the final spoken 'मुस्कुराओ' before the long pause. A closed poem about meeting defeat, loss and a half-empty glass with a smile — it only resolves at the last refrain, so it ships whole.",
+      "category": "emotional",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposal exactly: L0043 opens on the poem's own first word (no referring words before it), and L0050's final 'मुस्कुराओ।' is the form's chosen ending, confirmed by the 5.3s pause after it. The request/setup in L0042 is host chatter and not needed; the glass joke in L0052 is a new thing and excluded.",
+      "segments": [
+        {
+          "start_s": 341.44,
+          "end_s": 410.01,
+          "duration_s": 68.57,
+          "start_words": "मुस्कुराओ मुस्कुराओ अगर आज कहीं से हार गए हो",
+          "end_words": "फिल इट विथ स्माइल्स। मुस्कुराओ।",
+          "start_line": "L0043",
+          "end_line": "L0050",
+          "match": {
+            "start": 0.94,
+            "end": 1.0
+          },
+          "text": "मुस्कुराओ मुस्कुराओ अगर आज कहीं से हार गए हो। उस जीत की जरूरत तुमसे ज्यादा किसी को थी शायद। मुस्कुराओ अगर कुछ खो गया है। जिसके नसीब का था उसको मिल गया है शायद। मुस्कुराओ अगर दिल टूट गया है। किसी का जोड़ने के लिए किसी का तोड़ना पड़ता होगा शायद। और फिर भी रह जाए अगर दिल में दर्द कहीं तो बांट कर मुस्कुराओ। और है अगर दिल में खुशी ज्यादा तो सेम प्रोसेस दोहराओ। मुस्कुराओ अगर सर पर है छत बदन पर है कपड़ा और है थाली में खाना और है अगर जरूरत से ज्यादा तो बांट कर घर जाना। मुस्कुराओ जब बार-बार यह सोच कर हताश हो जाते हो कि इससे अच्छा यह हो जाता, इससे अच्छा वो हो जाता। तब यह सोच कर मुस्कुराओ कि इससे बुरा हो जाता तो क्या हो जाता। मुस्कुराओ जब पूछे कोई कि जिंदगी जीने का है क्या सलीका। मुस्कुराओ यह कह कर कि हमने जिंदगी से मुस्कुराना ही सीखा। मुस्कुराओ। वो दुनिया जो तुमसे पूछती रहती है ना ग्लास तुम आधा खाली देखते हो, भरा देखते हो। मुस्कुराओ इवन इफ यू हैव टू वर्क माइल्स एंड माइल्स बिकॉज़ इट्स ओके इफ द ग्लास इज हाफ एम्प्टी यू कैन ऑलवेज ऑलवेज फिल इट विथ स्माइल्स। मुस्कुराओ।",
+          "source_start_s": 341.44,
+          "source_end_s": 410.01
+        }
+      ],
+      "start_s": 341.44,
+      "end_s": 410.01,
+      "duration_s": 68.57,
+      "transcript": "मुस्कुराओ मुस्कुराओ अगर आज कहीं से हार गए हो। उस जीत की जरूरत तुमसे ज्यादा किसी को थी शायद। मुस्कुराओ अगर कुछ खो गया है। जिसके नसीब का था उसको मिल गया है शायद। मुस्कुराओ अगर दिल टूट गया है। किसी का जोड़ने के लिए किसी का तोड़ना पड़ता होगा शायद। और फिर भी रह जाए अगर दिल में दर्द कहीं तो बांट कर मुस्कुराओ। और है अगर दिल में खुशी ज्यादा तो सेम प्रोसेस दोहराओ। मुस्कुराओ अगर सर पर है छत बदन पर है कपड़ा और है थाली में खाना और है अगर जरूरत से ज्यादा तो बांट कर घर जाना। मुस्कुराओ जब बार-बार यह सोच कर हताश हो जाते हो कि इससे अच्छा यह हो जाता, इससे अच्छा वो हो जाता। तब यह सोच कर मुस्कुराओ कि इससे बुरा हो जाता तो क्या हो जाता। मुस्कुराओ जब पूछे कोई कि जिंदगी जीने का है क्या सलीका। मुस्कुराओ यह कह कर कि हमने जिंदगी से मुस्कुराना ही सीखा। मुस्कुराओ। वो दुनिया जो तुमसे पूछती रहती है ना ग्लास तुम आधा खाली देखते हो, भरा देखते हो। मुस्कुराओ इवन इफ यू हैव टू वर्क माइल्स एंड माइल्स बिकॉज़ इट्स ओके इफ द ग्लास इज हाफ एम्प्टी यू कैन ऑलवेज ऑलवेज फिल इट विथ स्माइल्स। मुस्कुराओ।",
+      "nominated_by": [
+        "emotional"
+      ],
+      "step1": [
+        {
+          "category": "emotional",
+          "id": "emo5",
+          "title": "मुस्कुराओ — उस जीत की ज़रूरत तुमसे ज़्यादा किसी को थी शायद",
+          "why": "The complete 'Muskurao' poem, whole — it is a closed form with a refrain that only resolves at the final 'मुस्कुराओ', so no fragment of it is shippable. Several verses do real work: 'us jeet ki zaroorat tumse zyada kisi ko thi shayad' takes a defeat away from you, and 'kisi ka jodne ke liye kisi ka todna padta hoga shayad' is a genuine reframe. The middle-to-late verses drift toward gratitude, and the glass-half-empty stretch is the flattest part of the piece — ship it anyway, because a poem that stops halfway is worse than a flat verse inside one that resolves. Long, roughly 68 seconds; the editor stage can trim edge fat but not the form.",
+          "confidence": "MEDIUM",
+          "hook_strength": 5.0,
+          "signals_used": [
+            "comment 'This piece hits different every time💗' on L0042",
+            "two viewer comments on L0043",
+            "[REPLAYED] on L0049"
+          ],
+          "start_line": "L0043",
+          "end_line": "L0050"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 341.44,
+      "source_end_s": 410.01,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 2,
+          "rows": 2,
+          "top_comment": "muskarao kavita @ 5:42",
+          "top_likes": 0,
+          "text": "2 viewer comments point at this exact moment, the top one with 0 likes"
+        },
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        },
+        {
+          "kind": "pause",
+          "seconds": 5.3,
+          "text": "a 5.3s pause lands inside this clip"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=6Fjeh_plyvQ&t=341s",
+      "embed_url": "https://www.youtube.com/embed/6Fjeh_plyvQ?start=341&end=411",
+      "rank": 2,
+      "id": "clip2",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "2 viewer comments point at this exact moment, the top one with 0 likes",
+            "quote": "muskarao kavita @ 5:42",
+            "likes": 0
+          },
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          },
+          {
+            "kind": "pause",
+            "text": "a 5.3s pause lands inside this clip"
+          }
+        ],
+        "reading": "The complete 'Muskurao' poem, whole — it is a closed form with a refrain that only resolves at the final 'मुस्कुराओ', so no fragment of it is shippable. Several verses do real work: 'us jeet ki zaroorat tumse zyada kisi ko thi shayad' takes a defeat away from you, and 'kisi ka jodne ke liye kisi ka todna padta hoga shayad' is a genuine reframe. The middle-to-late verses drift toward gratitude, and the glass-half-empty stretch is the flattest part of the piece — ship it anyway, because a poem that stops halfway is worse than a flat verse inside one that resolves. Long, roughly 68 seconds; the editor stage can trim edge fat but not the form.",
+        "found_by": [
+          "emotional"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposal exactly: L0043 opens on the poem's own first word (no referring words before it), and L0050's final 'मुस्कुराओ।' is the form's chosen ending, confirmed by the 5.3s pause after it. The request/setup in L0042 is host chatter and not needed; the glass joke in L0052 is a new thing and excluded.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "इश्क और प्यार एक ही तो बात है — एक दिन है और एक रात",
+      "description": "A complete, self-contained sher: ishq and pyaar are the same thing, the only difference is that one is day and one is night, and junoon decides that distance. Viewers quote it verbatim in the comments — the couplet carries everything a stranger needs from its first word.",
+      "category": "emotional",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start forward from the proposal's opening (\"हमें लगता है यही है...\") because that sentence begins mid-thought in L0027 and is setup, not the sher. Starting on \"कहा है कि इश्क और प्यार...\" is a clean, non-referring opening; kept the proposed end, which lands on the sher's final line before the applause row.",
+      "segments": [
+        {
+          "start_s": 215.92,
+          "end_s": 230.88,
+          "duration_s": 14.96,
+          "start_words": "कहा है कि इश्क और प्यार",
+          "end_words": "आजकल कानून तय करता है",
+          "start_line": "L0028",
+          "end_line": "L0029",
+          "match": {
+            "start": 1.0,
+            "end": 0.89
+          },
+          "text": "कहा है कि इश्क और प्यार एक ही तो बात है। कि इश्क और प्यार एक ही तो बात है। फर्क बस इतना है कि एक दिन है और एक रात है। और इस दिन से रात का फासला सिर्फ जुनून तय करता है। और ये किसको किससे हो आजकल कानून तय करता",
+          "source_start_s": 215.92,
+          "source_end_s": 230.88
+        }
+      ],
+      "start_s": 215.92,
+      "end_s": 230.88,
+      "duration_s": 14.96,
+      "transcript": "कहा है कि इश्क और प्यार एक ही तो बात है। कि इश्क और प्यार एक ही तो बात है। फर्क बस इतना है कि एक दिन है और एक रात है। और इस दिन से रात का फासला सिर्फ जुनून तय करता है। और ये किसको किससे हो आजकल कानून तय करता",
+      "nominated_by": [
+        "emotional"
+      ],
+      "step1": [
+        {
+          "category": "emotional",
+          "id": "emo3",
+          "title": "इश्क और प्यार एक ही तो बात है — एक दिन है और एक रात",
+          "why": "A complete couplet that viewers quote back word for word — it appears verbatim in at least two independent audience comments outside the video, which is the exact behaviour this category predicts. The distinction between ishq and pyaar as a day and a night, with junoon deciding the distance between them, is a thought that rearranges something. The reel can open on 'कहा है कि इश्क और प्यार एक ही तो बात है' — the sher itself carries everything.",
+          "confidence": "HIGH",
+          "hook_strength": 7.0,
+          "signals_used": [
+            "[REPLAYED] on L0028 and L0029",
+            "comment 'shayri ❤' on L0028",
+            "audience block quotes this sher verbatim twice"
+          ],
+          "start_line": "L0028",
+          "end_line": "L0029"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 215.92,
+      "source_end_s": 230.88,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 1,
+          "rows": 1,
+          "top_comment": "3:35 shayri ❤",
+          "top_likes": 3,
+          "text": "1 viewer comment point at this exact moment, the top one with 3 likes"
+        },
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=6Fjeh_plyvQ&t=215s",
+      "embed_url": "https://www.youtube.com/embed/6Fjeh_plyvQ?start=215&end=231",
+      "rank": 3,
+      "id": "clip3",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "1 viewer comment point at this exact moment, the top one with 3 likes",
+            "quote": "3:35 shayri ❤",
+            "likes": 3
+          },
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          }
+        ],
+        "reading": "A complete couplet that viewers quote back word for word — it appears verbatim in at least two independent audience comments outside the video, which is the exact behaviour this category predicts. The distinction between ishq and pyaar as a day and a night, with junoon deciding the distance between them, is a thought that rearranges something. The reel can open on 'कहा है कि इश्क और प्यार एक ही तो बात है' — the sher itself carries everything.",
+        "found_by": [
+          "emotional"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start forward from the proposal's opening (\"हमें लगता है यही है...\") because that sentence begins mid-thought in L0027 and is setup, not the sher. Starting on \"कहा है कि इश्क और प्यार...\" is a clean, non-referring opening; kept the proposed end, which lands on the sher's final line before the applause row.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "कि मेरे अपने मुझे मिट्टी में मिलाने आए",
+      "description": "Rahat Indori's ghazal taken whole: from the framing line 'जब आप अपने lowest पे होते हो ना, तो आपको असलियत पता लगती है कि कौन तुम्हारा सच्चा दोस्त है' through the recitation to its true closing line 'मुंतज़िर हूं कि कोई मुझे बुलाने आए'. The setup sentence is what tells a stranger whose words these are and why they hurt; the ghazal is a closed form and ends where the poet ended it.",
+      "category": "emotional",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start back from L0055 to the word 'राहत' at the end of L0052: the proposed opening 'कि मेरे अपने...' is mid-sentence (it continues 'लिखा था कि...') and opens on a connective; starting at 'राहत' takes the whole framing sentence 'राहत इंदौरी साहब की एक यह ग़ज़ल है...' which names the poet and supplies the setup. Trimmed the proposed end from 'आए। बालों की बात करी ना इन्होंने' to just 'आए' — the ghazal's last word — so the clip stops before the next sher, which is a separate reel.",
+      "segments": [
+        {
+          "start_s": 423.04,
+          "end_s": 492.08,
+          "duration_s": 69.04,
+          "start_words": "राहत",
+          "end_words": "आए",
+          "start_line": "L0052",
+          "end_line": "L0061",
+          "match": {
+            "start": 1.0,
+            "end": 0.0
+          },
+          "text": "राहत इंदौरी साहब की एक यह गज़ल है बहुत सुंदर। वो जब आप जब आप अपने लोएस्ट पे होते हो ना, तो आपको असलियत पता लगती है कि कौन तुम्हारा सच्चा दोस्त है। मुझे ऐसा लगता है उन्होंने इसी इसी भावना पे कहीं लिखा था कि मेरे अपने मुझे मिट्टी में मिलाने आए। आ मेरे अपने मुझे मिट्टी में मिलाने आए। अब जाकर कहीं मेरे होश दिखाने आए। कि मेरे अपने मुझे मिट्टी में मिलाने आए। अब जाकर कहीं मेरे होश ठिकाने आए। तूने बालों में सजा रखा था कागज का गुलाब। आहा कि तूने बालों में सजा रखा था कागज का गुलाब। मैं समझा कि बहारों के जमाने आए। और दोस्त होकर भी महीनों नहीं मिलता मुझसे। और दोस्त होकर भी महीनों नहीं मिलता मुझसे। उसे कहो किसी दिन जख्म लगाने आए। कि फुर्सतें चाट रही है मेरी हस्ती का लहू। कि फुर्सतें चाट रही है मेरी हस्ती का लहू। मुंतज़िर हूं कि कोई मुझे बुलाने आए। कोई मुझे बुलाने आए। बालों की बात करी ना इन्होंने याद आ गया। वो एक शेर है ना कि उधर जुल्फों में कंघी हो रही है। कि उधर जुल्फों में कंघी हो रही है। खम निकलता",
+          "source_start_s": 423.04,
+          "source_end_s": 492.08
+        }
+      ],
+      "start_s": 423.04,
+      "end_s": 492.08,
+      "duration_s": 69.04,
+      "transcript": "राहत इंदौरी साहब की एक यह गज़ल है बहुत सुंदर। वो जब आप जब आप अपने लोएस्ट पे होते हो ना, तो आपको असलियत पता लगती है कि कौन तुम्हारा सच्चा दोस्त है। मुझे ऐसा लगता है उन्होंने इसी इसी भावना पे कहीं लिखा था कि मेरे अपने मुझे मिट्टी में मिलाने आए। आ मेरे अपने मुझे मिट्टी में मिलाने आए। अब जाकर कहीं मेरे होश दिखाने आए। कि मेरे अपने मुझे मिट्टी में मिलाने आए। अब जाकर कहीं मेरे होश ठिकाने आए। तूने बालों में सजा रखा था कागज का गुलाब। आहा कि तूने बालों में सजा रखा था कागज का गुलाब। मैं समझा कि बहारों के जमाने आए। और दोस्त होकर भी महीनों नहीं मिलता मुझसे। और दोस्त होकर भी महीनों नहीं मिलता मुझसे। उसे कहो किसी दिन जख्म लगाने आए। कि फुर्सतें चाट रही है मेरी हस्ती का लहू। कि फुर्सतें चाट रही है मेरी हस्ती का लहू। मुंतज़िर हूं कि कोई मुझे बुलाने आए। कोई मुझे बुलाने आए। बालों की बात करी ना इन्होंने याद आ गया। वो एक शेर है ना कि उधर जुल्फों में कंघी हो रही है। कि उधर जुल्फों में कंघी हो रही है। खम निकलता",
+      "nominated_by": [
+        "emotional"
+      ],
+      "step1": [
+        {
+          "category": "emotional",
+          "id": "emo4",
+          "title": "मेरे अपने मुझे मिट्टी में मिलाने आए",
+          "why": "The full Rahat Indori ghazal, taken whole because it is a closed form: your own people came to bury you in the dirt, the paper rose in her hair you mistook for spring, friends who never find a month to visit, 'फुर्सतें चाट रही है मेरी हस्ती का लहू' — the slow bleed of being nobody's priority. It ends where the poet ended it, on 'मुंतज़िर हूं कि कोई मुझे बुलाने आए' (the cut lands inside L0061, right after 'आए'). Roughly 55 seconds; the length is the form. The first line is itself a hook.",
+          "confidence": "HIGH",
+          "hook_strength": 7.0,
+          "signals_used": [
+            "comment '7:10😪💕' on L0054 (the framing line just before)",
+            "(slow) tag absent but the recitation structure is marked by a long gap after L0062"
+          ],
+          "start_line": "L0055",
+          "end_line": "L0061"
+        }
+      ],
+      "flags": [
+        "end words unmatched (weak match 0.00) -- using line L0061",
+        "end: weak match 0.00"
+      ],
+      "source_start_s": 423.04,
+      "source_end_s": 492.08,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 2,
+          "rows": 2,
+          "top_comment": "7:10😪💕💕",
+          "top_likes": 6,
+          "text": "2 viewer comments point at this exact moment, the top one with 6 likes"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)",
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (fast) (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=6Fjeh_plyvQ&t=423s",
+      "embed_url": "https://www.youtube.com/embed/6Fjeh_plyvQ?start=423&end=493",
+      "rank": 4,
+      "id": "clip4",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "2 viewer comments point at this exact moment, the top one with 6 likes",
+            "quote": "7:10😪💕💕",
+            "likes": 6
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast) (slow)"
+          }
+        ],
+        "reading": "The full Rahat Indori ghazal, taken whole because it is a closed form: your own people came to bury you in the dirt, the paper rose in her hair you mistook for spring, friends who never find a month to visit, 'फुर्सतें चाट रही है मेरी हस्ती का लहू' — the slow bleed of being nobody's priority. It ends where the poet ended it, on 'मुंतज़िर हूं कि कोई मुझे बुलाने आए' (the cut lands inside L0061, right after 'आए'). Roughly 55 seconds; the length is the form. The first line is itself a hook.",
+        "found_by": [
+          "emotional"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start back from L0055 to the word 'राहत' at the end of L0052: the proposed opening 'कि मेरे अपने...' is mid-sentence (it continues 'लिखा था कि...') and opens on a connective; starting at 'राहत' takes the whole framing sentence 'राहत इंदौरी साहब की एक यह ग़ज़ल है...' which names the poet and supplies the setup. Trimmed the proposed end from 'आए। बालों की बात करी ना इन्होंने' to just 'आए' — the ghazal's last word — so the clip stops before the next sher, which is a separate reel.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "उधर जुल्फों में कंघी हो रही है — ना उनका गम निकलता है ना हमारा दम निकलता है",
+      "description": "One complete, self-introduced sher about the cruel asymmetry of longing: her comb glides lazily through her hair while his breath is dragged out in fits. It closes on the couplet's own chosen ending — 'ना उनका गम निकलता है ना हमारा दम निकलता है'.",
+      "category": "emotional",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Moved the start forward off the tail of the previous ghazal ('आए। बालों की बात करी ना...') to the speaker's own intro 'वो एक शेर है ना कि', which names what follows and makes the clip self-contained; kept the proposed end, which is the sher's natural closing line.",
+      "segments": [
+        {
+          "start_s": 484.08,
+          "end_s": 503.92,
+          "duration_s": 19.84,
+          "start_words": "वो एक शेर है ना कि उधर जुल्फों में",
+          "end_words": "ना हमारा दम निकलता है",
+          "start_line": "L0061",
+          "end_line": "L0062",
+          "match": {
+            "start": 1.0,
+            "end": 0.89
+          },
+          "text": "वो एक शेर है ना कि उधर जुल्फों में कंघी हो रही है। कि उधर जुल्फों में कंघी हो रही है। खम निकलता है। इधर रुक-रुक के खींच खींच के हमारा दम निकलता है। और इलाही खैर हो उलझन पे उलझन बढ़ती जाती है। ना उनका गम निकलता है ना हमारा दम निकलता",
+          "source_start_s": 484.08,
+          "source_end_s": 503.92
+        }
+      ],
+      "start_s": 484.08,
+      "end_s": 503.92,
+      "duration_s": 19.84,
+      "transcript": "वो एक शेर है ना कि उधर जुल्फों में कंघी हो रही है। कि उधर जुल्फों में कंघी हो रही है। खम निकलता है। इधर रुक-रुक के खींच खींच के हमारा दम निकलता है। और इलाही खैर हो उलझन पे उलझन बढ़ती जाती है। ना उनका गम निकलता है ना हमारा दम निकलता",
+      "nominated_by": [
+        "emotional"
+      ],
+      "step1": [
+        {
+          "category": "emotional",
+          "id": "emo8",
+          "title": "उधर जुल्फों में कंघी हो रही है — ना हमारा दम निकलता है",
+          "why": "One complete sher, marked slow and commented ('8:22 ✨🥀'): on her side the comb moves lazily through her hair, on his side breath is dragged out in fits — 'ना उनका गम निकलता है ना हमारा दम निकलता है'. The asymmetry of caring is the whole thing. Real worry: the clip begins on the tail of the previous ghazal and a spoken aside, and the transcript does not make clear whether the host or Nayab recites it — the second pass should cut to 'वो एक शेर है ना कि...' and the audio will resolve the voice.",
+          "confidence": "LOW",
+          "hook_strength": 3.0,
+          "signals_used": [
+            "comment '8:22 ✨🥀' on L0062",
+            "(slow) on L0062"
+          ],
+          "start_line": "L0061",
+          "end_line": "L0062"
+        }
+      ],
+      "flags": [],
+      "source_start_s": 484.08,
+      "source_end_s": 503.92,
+      "evidence": [
+        {
+          "kind": "comments",
+          "count": 1,
+          "rows": 1,
+          "top_comment": "8:22 ✨🥀",
+          "top_likes": 1,
+          "text": "1 viewer comment point at this exact moment, the top one with 1 likes"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(slow)"
+          ],
+          "text": "delivery shifts here: (slow)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=6Fjeh_plyvQ&t=484s",
+      "embed_url": "https://www.youtube.com/embed/6Fjeh_plyvQ?start=484&end=504",
+      "rank": 5,
+      "id": "clip5",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "comments",
+            "text": "1 viewer comment point at this exact moment, the top one with 1 likes",
+            "quote": "8:22 ✨🥀",
+            "likes": 1
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (slow)"
+          }
+        ],
+        "reading": "One complete sher, marked slow and commented ('8:22 ✨🥀'): on her side the comb moves lazily through her hair, on his side breath is dragged out in fits — 'ना उनका गम निकलता है ना हमारा दम निकलता है'. The asymmetry of caring is the whole thing. Real worry: the clip begins on the tail of the previous ghazal and a spoken aside, and the transcript does not make clear whether the host or Nayab recites it — the second pass should cut to 'वो एक शेर है ना कि...' and the audio will resolve the voice.",
+        "found_by": [
+          "emotional"
+        ],
+        "agreement": 1,
+        "boundary": "Moved the start forward off the tail of the previous ghazal ('आए। बालों की बात करी ना...') to the speaker's own intro 'वो एक शेर है ना कि', which names what follows and makes the clip self-contained; kept the proposed end, which is the sher's natural closing line.",
+        "has_audience": true
+      }
+    },
+    {
+      "title": "जो इंसान जा रहा है, उससे वो प्रेम वापस लेना होता है",
+      "description": "Her parting advice to the heartbroken before she leaves the stage: never give your love away with the person leaving — take it back, because it was your investment. She ends on her own sher refusing to trade her love even if stabbed in the back.",
+      "category": "emotional",
+      "is_one_liner": false,
+      "confidence": "high",
+      "boundary_note": "Kept the proposal almost as-is: the start is her own sentence opening as she addresses the heartbroken, and the end stops exactly at the sher's completion, before her 'थैंक यू गाइस' sign-off which would break the spell.",
+      "segments": [
+        {
+          "start_s": 510.0,
+          "end_s": 536.8,
+          "duration_s": 26.8,
+          "start_words": "हां और जाने से पहले तुम सब दिल टूटे आशिकों को",
+          "end_words": "मैं अपनी मोहब्बत का सौदा नहीं करूंगी",
+          "start_line": "L0064",
+          "end_line": "L0067",
+          "match": {
+            "start": 1.0,
+            "end": 1.0
+          },
+          "text": "जाने से पहले तुम सब दिल टूटे आशिकों को यही कह के जाऊंगी कि नेवर नेवर गिव योर लव अवे उस इंसान के साथ छोड़ नहीं देना है जो इंसान जा रहा है तुम्हारे जीवन से उसे वापस एक ही चीज लेनी होती है झगड़े वगड़े नहीं उससे वो प्रेम वापस लेना होता है खुद के लिए जो तुमने उसको दिया था। इन्वेस्टमेंट हैज़ टू बी टेकन बैक ताकि तुम भी ये कह सको कि गिला नहीं इरशाद इरशाद इरशाद इरशाद के गिला नहीं अगर पीठ में खंजर लगे लाखों मेरे इस खौफ से मैं अपनी मोहब्बत का सौदा नहीं करूंगी",
+          "source_start_s": 510.0,
+          "source_end_s": 536.8
+        }
+      ],
+      "start_s": 510.0,
+      "end_s": 536.8,
+      "duration_s": 26.8,
+      "transcript": "जाने से पहले तुम सब दिल टूटे आशिकों को यही कह के जाऊंगी कि नेवर नेवर गिव योर लव अवे उस इंसान के साथ छोड़ नहीं देना है जो इंसान जा रहा है तुम्हारे जीवन से उसे वापस एक ही चीज लेनी होती है झगड़े वगड़े नहीं उससे वो प्रेम वापस लेना होता है खुद के लिए जो तुमने उसको दिया था। इन्वेस्टमेंट हैज़ टू बी टेकन बैक ताकि तुम भी ये कह सको कि गिला नहीं इरशाद इरशाद इरशाद इरशाद के गिला नहीं अगर पीठ में खंजर लगे लाखों मेरे इस खौफ से मैं अपनी मोहब्बत का सौदा नहीं करूंगी",
+      "nominated_by": [
+        "emotional"
+      ],
+      "step1": [
+        {
+          "category": "emotional",
+          "id": "emo7",
+          "title": "जो इंसान जा रहा है, उससे वो प्रेम वापस लेना",
+          "why": "Her parting words to the heartbroken, and they are not the usual blessing: the person leaving takes nothing from you but your fights — what you must take back is the love you gave them, because it was your investment and it is yours. That inversion (grief as an asset to reclaim, not a debt owed to someone gone) is a hard truth told with the speaker standing beside the viewer, and it ends on her own sher refusing to trade her love even if stabbed in the back. Straddles advice and emotion; the emotion dominates. The sher in L0066–L0067 is garbled in the transcript but the audio carries it. Replay-marked twice.",
+          "confidence": "MEDIUM",
+          "hook_strength": 5.0,
+          "signals_used": [
+            "[REPLAYED] on L0066 and L0067"
+          ],
+          "start_line": "L0064",
+          "end_line": "L0067"
+        }
+      ],
+      "flags": [
+        "dropped 2 leading filler word(s) (हां और)"
+      ],
+      "source_start_s": 510.0,
+      "source_end_s": 536.8,
+      "evidence": [
+        {
+          "kind": "replayed",
+          "text": "YouTube's most-replayed data peaks inside this clip"
+        },
+        {
+          "kind": "delivery",
+          "tags": [
+            "(fast)"
+          ],
+          "text": "delivery shifts here: (fast)"
+        }
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=6Fjeh_plyvQ&t=510s",
+      "embed_url": "https://www.youtube.com/embed/6Fjeh_plyvQ?start=510&end=537",
+      "rank": 6,
+      "id": "clip6",
+      "why_chosen": {
+        "measured": [
+          {
+            "kind": "replayed",
+            "text": "YouTube's most-replayed data peaks inside this clip"
+          },
+          {
+            "kind": "delivery",
+            "text": "delivery shifts here: (fast)"
+          }
+        ],
+        "reading": "Her parting words to the heartbroken, and they are not the usual blessing: the person leaving takes nothing from you but your fights — what you must take back is the love you gave them, because it was your investment and it is yours. That inversion (grief as an asset to reclaim, not a debt owed to someone gone) is a hard truth told with the speaker standing beside the viewer, and it ends on her own sher refusing to trade her love even if stabbed in the back. Straddles advice and emotion; the emotion dominates. The sher in L0066–L0067 is garbled in the transcript but the audio carries it. Replay-marked twice.",
+        "found_by": [
+          "emotional"
+        ],
+        "agreement": 1,
+        "boundary": "Kept the proposal almost as-is: the start is her own sentence opening as she addresses the heartbroken, and the end stops exactly at the sher's completion, before her 'थैंक यू गाइस' sign-off which would break the spell.",
+        "has_audience": true
+      }
+    }
+  ]
+}

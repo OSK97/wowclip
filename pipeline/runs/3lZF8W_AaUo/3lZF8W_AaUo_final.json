@@ -1,0 +1,6010 @@
+{
+  "meta": {
+    "video_id": "3lZF8W_AaUo",
+    "url": "https://www.youtube.com/watch?v=3lZF8W_AaUo",
+    "length_s": 330.0,
+    "clip_start_s": 0.0,
+    "clip_end_s": null,
+    "source": "youtube",
+    "track": {
+      "code": "bn-orig",
+      "kind": "auto",
+      "translated": false,
+      "why": "Using YouTube's own speech recognition in bn, untranslated. Ignored 159 machine-translated variants of it."
+    },
+    "language": "hi",
+    "words": 998,
+    "word_level_ratio": 0.984,
+    "seconds": 22.56
+  },
+  "words": [
+    {
+      "word": "আমার",
+      "start": 0.95,
+      "source": "asr",
+      "end": 1.335
+    },
+    {
+      "word": "২৬",
+      "start": 1.335,
+      "source": "asr",
+      "end": 1.543
+    },
+    {
+      "word": "বছরের",
+      "start": 1.543,
+      "source": "asr",
+      "end": 2.018
+    },
+    {
+      "word": "জীবনে",
+      "start": 2.018,
+      "source": "asr",
+      "end": 2.493
+    },
+    {
+      "word": "এটি",
+      "start": 2.493,
+      "source": "asr",
+      "end": 2.79
+    },
+    {
+      "word": "সেরা",
+      "start": 2.79,
+      "source": "asr",
+      "end": 3.176
+    },
+    {
+      "word": "আবিষ্কার",
+      "start": 3.176,
+      "source": "asr",
+      "end": 3.888
+    },
+    {
+      "word": ",",
+      "start": 3.888,
+      "source": "asr",
+      "end": 3.948
+    },
+    {
+      "word": "সেরা",
+      "start": 3.947,
+      "source": "asr",
+      "end": 4.333
+    },
+    {
+      "word": "টুল",
+      "start": 4.333,
+      "source": "asr",
+      "end": 4.63
+    },
+    {
+      "word": "এবং",
+      "start": 4.63,
+      "source": "asr",
+      "end": 4.927
+    },
+    {
+      "word": "টেকনিক",
+      "start": 4.927,
+      "source": "asr",
+      "end": 5.491
+    },
+    {
+      "word": "যা",
+      "start": 5.491,
+      "source": "asr",
+      "end": 5.699
+    },
+    {
+      "word": "আমার",
+      "start": 5.699,
+      "source": "asr",
+      "end": 6.085
+    },
+    {
+      "word": "মনে",
+      "start": 6.085,
+      "source": "asr",
+      "end": 6.381
+    },
+    {
+      "word": "হয়",
+      "start": 6.381,
+      "source": "asr",
+      "end": 6.559
+    },
+    {
+      "word": "।",
+      "start": 6.559,
+      "source": "asr",
+      "end": 7.312
+    },
+    {
+      "word": "যদি",
+      "start": 7.312,
+      "source": "asr",
+      "end": 7.567
+    },
+    {
+      "word": "একজন",
+      "start": 7.567,
+      "source": "asr",
+      "end": 7.899
+    },
+    {
+      "word": "মানুষ",
+      "start": 7.899,
+      "source": "asr",
+      "end": 8.307
+    },
+    {
+      "word": "প্রতিদিন",
+      "start": 8.307,
+      "source": "asr",
+      "end": 8.946
+    },
+    {
+      "word": "এই",
+      "start": 8.946,
+      "source": "asr",
+      "end": 9.124
+    },
+    {
+      "word": "তিনটি",
+      "start": 9.124,
+      "source": "asr",
+      "end": 9.533
+    },
+    {
+      "word": "জিনিস",
+      "start": 9.533,
+      "source": "asr",
+      "end": 9.941
+    },
+    {
+      "word": "করে",
+      "start": 9.941,
+      "source": "asr",
+      "end": 10.171
+    },
+    {
+      "word": ",",
+      "start": 10.171,
+      "source": "asr",
+      "end": 10.231
+    },
+    {
+      "word": "তবে",
+      "start": 10.222,
+      "source": "asr",
+      "end": 10.478
+    },
+    {
+      "word": "সে",
+      "start": 10.478,
+      "source": "asr",
+      "end": 10.656
+    },
+    {
+      "word": "খুব",
+      "start": 10.656,
+      "source": "asr",
+      "end": 10.912
+    },
+    {
+      "word": "দ্রুত",
+      "start": 10.912,
+      "source": "asr",
+      "end": 11.32
+    },
+    {
+      "word": "টপ",
+      "start": 11.32,
+      "source": "asr",
+      "end": 11.499
+    },
+    {
+      "word": "ক্লাস",
+      "start": 11.499,
+      "source": "asr",
+      "end": 11.907
+    },
+    {
+      "word": "স্পিকার",
+      "start": 11.907,
+      "source": "asr",
+      "end": 12.469
+    },
+    {
+      "word": "হতে",
+      "start": 12.469,
+      "source": "asr",
+      "end": 12.725
+    },
+    {
+      "word": "পারে",
+      "start": 12.725,
+      "source": "asr",
+      "end": 13.031
+    },
+    {
+      "word": "।",
+      "start": 13.031,
+      "source": "asr",
+      "end": 13.208
+    },
+    {
+      "word": ">> রাজ",
+      "start": 13.208,
+      "source": "asr",
+      "end": 13.502
+    },
+    {
+      "word": "শামানি",
+      "start": 13.502,
+      "source": "asr",
+      "end": 14.031
+    },
+    {
+      "word": ",",
+      "start": 14.031,
+      "source": "asr",
+      "end": 14.091
+    },
+    {
+      "word": "ভারতের",
+      "start": 14.09,
+      "source": "asr",
+      "end": 14.648
+    },
+    {
+      "word": "এক",
+      "start": 14.648,
+      "source": "asr",
+      "end": 14.854
+    },
+    {
+      "word": "নম্বর",
+      "start": 14.854,
+      "source": "asr",
+      "end": 15.324
+    },
+    {
+      "word": "পডকাস্টার",
+      "start": 15.324,
+      "source": "asr",
+      "end": 16.118
+    },
+    {
+      "word": "।",
+      "start": 16.118,
+      "source": "asr",
+      "end": 16.307
+    },
+    {
+      "word": "এক",
+      "start": 16.307,
+      "source": "asr",
+      "end": 16.503
+    },
+    {
+      "word": "নম্বর",
+      "start": 16.503,
+      "source": "asr",
+      "end": 16.954
+    },
+    {
+      "word": "তো",
+      "start": 16.954,
+      "source": "asr",
+      "end": 17.15
+    },
+    {
+      "word": "হবেই",
+      "start": 17.15,
+      "source": "asr",
+      "end": 17.488
+    },
+    {
+      "word": ",",
+      "start": 17.488,
+      "source": "asr",
+      "end": 17.548
+    },
+    {
+      "word": "তাই",
+      "start": 17.544,
+      "source": "asr",
+      "end": 17.826
+    },
+    {
+      "word": "না",
+      "start": 17.826,
+      "source": "asr",
+      "end": 17.994
+    },
+    {
+      "word": "?",
+      "start": 17.994,
+      "source": "asr",
+      "end": 18.123
+    },
+    {
+      "word": "এদের",
+      "start": 18.123,
+      "source": "asr",
+      "end": 18.429
+    },
+    {
+      "word": "তো",
+      "start": 18.429,
+      "source": "asr",
+      "end": 18.594
+    },
+    {
+      "word": "ছোটবেলা",
+      "start": 18.594,
+      "source": "asr",
+      "end": 19.113
+    },
+    {
+      "word": "থেকেই",
+      "start": 19.113,
+      "source": "asr",
+      "end": 19.49
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 19.49,
+      "source": "asr",
+      "end": 19.938
+    },
+    {
+      "word": "জানা",
+      "start": 19.938,
+      "source": "asr",
+      "end": 20.244
+    },
+    {
+      "word": "থাকার",
+      "start": 20.244,
+      "source": "asr",
+      "end": 20.622
+    },
+    {
+      "word": "কথা",
+      "start": 20.622,
+      "source": "asr",
+      "end": 20.834
+    },
+    {
+      "word": "।",
+      "start": 20.834,
+      "source": "asr",
+      "end": 21.539
+    },
+    {
+      "word": "আমার",
+      "start": 21.539,
+      "source": "asr",
+      "end": 21.898
+    },
+    {
+      "word": "তা",
+      "start": 21.898,
+      "source": "asr",
+      "end": 22.092
+    },
+    {
+      "word": "মনে",
+      "start": 22.092,
+      "source": "asr",
+      "end": 22.368
+    },
+    {
+      "word": "হয়",
+      "start": 22.368,
+      "source": "asr",
+      "end": 22.562
+    },
+    {
+      "word": "না",
+      "start": 22.562,
+      "source": "asr",
+      "end": 22.728
+    },
+    {
+      "word": "।",
+      "start": 22.728,
+      "source": "asr",
+      "end": 22.911
+    },
+    {
+      "word": ">> আমি",
+      "start": 22.911,
+      "source": "asr",
+      "end": 23.142
+    },
+    {
+      "word": "খুব",
+      "start": 23.142,
+      "source": "asr",
+      "end": 23.373
+    },
+    {
+      "word": "সাধারণ",
+      "start": 23.373,
+      "source": "asr",
+      "end": 23.812
+    },
+    {
+      "word": "মানের",
+      "start": 23.812,
+      "source": "asr",
+      "end": 24.182
+    },
+    {
+      "word": "ছাত্র",
+      "start": 24.182,
+      "source": "asr",
+      "end": 24.551
+    },
+    {
+      "word": "ছিলাম",
+      "start": 24.551,
+      "source": "asr",
+      "end": 24.898
+    },
+    {
+      "word": "।",
+      "start": 24.898,
+      "source": "asr",
+      "end": 25.068
+    },
+    {
+      "word": "পড়াশোনায়",
+      "start": 25.068,
+      "source": "asr",
+      "end": 25.664
+    },
+    {
+      "word": "একদমই",
+      "start": 25.664,
+      "source": "asr",
+      "end": 26.046
+    },
+    {
+      "word": "ভালো",
+      "start": 26.046,
+      "source": "asr",
+      "end": 26.357
+    },
+    {
+      "word": "ছিলাম",
+      "start": 26.357,
+      "source": "asr",
+      "end": 26.739
+    },
+    {
+      "word": "না",
+      "start": 26.739,
+      "source": "asr",
+      "end": 26.882
+    },
+    {
+      "word": "।",
+      "start": 26.882,
+      "source": "asr",
+      "end": 27.054
+    },
+    {
+      "word": "আসলে",
+      "start": 27.054,
+      "source": "asr",
+      "end": 27.488
+    },
+    {
+      "word": "।",
+      "start": 27.488,
+      "source": "asr",
+      "end": 27.697
+    },
+    {
+      "word": ">> খুবই",
+      "start": 27.697,
+      "source": "asr",
+      "end": 28.018
+    },
+    {
+      "word": "খারাপ",
+      "start": 28.018,
+      "source": "asr",
+      "end": 28.414
+    },
+    {
+      "word": "ছাত্র",
+      "start": 28.414,
+      "source": "asr",
+      "end": 28.809
+    },
+    {
+      "word": "ছিলাম",
+      "start": 28.809,
+      "source": "asr",
+      "end": 29.18
+    },
+    {
+      "word": "।",
+      "start": 29.18,
+      "source": "asr",
+      "end": 29.355
+    },
+    {
+      "word": "আর",
+      "start": 29.355,
+      "source": "asr",
+      "end": 29.526
+    },
+    {
+      "word": "দীর্ঘ",
+      "start": 29.526,
+      "source": "asr",
+      "end": 29.917
+    },
+    {
+      "word": "সময়",
+      "start": 29.917,
+      "source": "asr",
+      "end": 30.162
+    },
+    {
+      "word": "ধরে",
+      "start": 30.162,
+      "source": "asr",
+      "end": 30.407
+    },
+    {
+      "word": "আমার",
+      "start": 30.407,
+      "source": "asr",
+      "end": 30.725
+    },
+    {
+      "word": "সবচেয়ে",
+      "start": 30.725,
+      "source": "asr",
+      "end": 31.19
+    },
+    {
+      "word": "বড়",
+      "start": 31.19,
+      "source": "asr",
+      "end": 31.361
+    },
+    {
+      "word": "হীনম্মন্যতা",
+      "start": 31.361,
+      "source": "asr",
+      "end": 32.194
+    },
+    {
+      "word": "ছিল",
+      "start": 32.194,
+      "source": "asr",
+      "end": 32.438
+    },
+    {
+      "word": "যে",
+      "start": 32.438,
+      "source": "asr",
+      "end": 32.585
+    },
+    {
+      "word": ",",
+      "start": 32.585,
+      "source": "asr",
+      "end": 32.645
+    },
+    {
+      "word": "আমি",
+      "start": 32.634,
+      "source": "asr",
+      "end": 32.879
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 32.879,
+      "source": "asr",
+      "end": 33.344
+    },
+    {
+      "word": "বলতে",
+      "start": 33.344,
+      "source": "asr",
+      "end": 33.662
+    },
+    {
+      "word": "পারি",
+      "start": 33.662,
+      "source": "asr",
+      "end": 33.98
+    },
+    {
+      "word": "না",
+      "start": 33.98,
+      "source": "asr",
+      "end": 34.127
+    },
+    {
+      "word": "।",
+      "start": 34.127,
+      "source": "asr",
+      "end": 34.301
+    },
+    {
+      "word": ">> কারণ",
+      "start": 34.301,
+      "source": "asr",
+      "end": 34.578
+    },
+    {
+      "word": "আমার",
+      "start": 34.578,
+      "source": "asr",
+      "end": 34.855
+    },
+    {
+      "word": "বাড়িতে",
+      "start": 34.855,
+      "source": "asr",
+      "end": 35.261
+    },
+    {
+      "word": "কেউ",
+      "start": 35.261,
+      "source": "asr",
+      "end": 35.474
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 35.474,
+      "source": "asr",
+      "end": 35.879
+    },
+    {
+      "word": "বলে",
+      "start": 35.879,
+      "source": "asr",
+      "end": 36.093
+    },
+    {
+      "word": "না",
+      "start": 36.093,
+      "source": "asr",
+      "end": 36.221
+    },
+    {
+      "word": "।",
+      "start": 36.221,
+      "source": "asr",
+      "end": 36.385
+    },
+    {
+      "word": ">> হুম",
+      "start": 36.385,
+      "source": "asr",
+      "end": 36.688
+    },
+    {
+      "word": "।",
+      "start": 36.688,
+      "source": "asr",
+      "end": 36.89
+    },
+    {
+      "word": "মানে",
+      "start": 36.89,
+      "source": "asr",
+      "end": 37.18
+    },
+    {
+      "word": ",",
+      "start": 37.18,
+      "source": "asr",
+      "end": 37.24
+    },
+    {
+      "word": "ছোটবেলা",
+      "start": 37.229,
+      "source": "asr",
+      "end": 37.761
+    },
+    {
+      "word": "থেকে",
+      "start": 37.761,
+      "source": "asr",
+      "end": 38.076
+    },
+    {
+      "word": "রাজ",
+      "start": 38.076,
+      "source": "asr",
+      "end": 38.318
+    },
+    {
+      "word": "শামানি",
+      "start": 38.318,
+      "source": "asr",
+      "end": 38.779
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 38.779,
+      "source": "asr",
+      "end": 39.239
+    },
+    {
+      "word": "জানত",
+      "start": 39.239,
+      "source": "asr",
+      "end": 39.554
+    },
+    {
+      "word": "না",
+      "start": 39.554,
+      "source": "asr",
+      "end": 39.699
+    },
+    {
+      "word": "।",
+      "start": 39.699,
+      "source": "asr",
+      "end": 39.872
+    },
+    {
+      "word": "তাহলে",
+      "start": 39.872,
+      "source": "asr",
+      "end": 40.285
+    },
+    {
+      "word": "সে",
+      "start": 40.285,
+      "source": "asr",
+      "end": 40.466
+    },
+    {
+      "word": "এটা",
+      "start": 40.466,
+      "source": "asr",
+      "end": 40.724
+    },
+    {
+      "word": "শিখল",
+      "start": 40.724,
+      "source": "asr",
+      "end": 41.06
+    },
+    {
+      "word": "কীভাবে",
+      "start": 41.06,
+      "source": "asr",
+      "end": 41.526
+    },
+    {
+      "word": "?",
+      "start": 41.526,
+      "source": "asr",
+      "end": 41.652
+    },
+    {
+      "word": "এই",
+      "start": 41.652,
+      "source": "asr",
+      "end": 41.811
+    },
+    {
+      "word": "ভিডিওতে",
+      "start": 41.811,
+      "source": "asr",
+      "end": 42.313
+    },
+    {
+      "word": "আমরা",
+      "start": 42.313,
+      "source": "asr",
+      "end": 42.609
+    },
+    {
+      "word": "দুটি",
+      "start": 42.609,
+      "source": "asr",
+      "end": 42.905
+    },
+    {
+      "word": "বিষয়",
+      "start": 42.905,
+      "source": "asr",
+      "end": 43.202
+    },
+    {
+      "word": "নিয়ে",
+      "start": 43.202,
+      "source": "asr",
+      "end": 43.498
+    },
+    {
+      "word": "আলোচনা",
+      "start": 43.498,
+      "source": "asr",
+      "end": 43.931
+    },
+    {
+      "word": "করব",
+      "start": 43.931,
+      "source": "asr",
+      "end": 44.136
+    },
+    {
+      "word": "।",
+      "start": 44.136,
+      "source": "asr",
+      "end": 44.305
+    },
+    {
+      "word": "প্রথমত",
+      "start": 44.305,
+      "source": "asr",
+      "end": 44.841
+    },
+    {
+      "word": ",",
+      "start": 44.841,
+      "source": "asr",
+      "end": 44.901
+    },
+    {
+      "word": "সে",
+      "start": 44.901,
+      "source": "asr",
+      "end": 45.109
+    },
+    {
+      "word": "কীভাবে",
+      "start": 45.109,
+      "source": "asr",
+      "end": 45.676
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 45.676,
+      "source": "asr",
+      "end": 46.242
+    },
+    {
+      "word": "শিখল",
+      "start": 46.242,
+      "source": "asr",
+      "end": 46.6
+    },
+    {
+      "word": "?",
+      "start": 46.6,
+      "source": "asr",
+      "end": 46.73
+    },
+    {
+      "word": "এবং",
+      "start": 46.73,
+      "source": "asr",
+      "end": 46.994
+    },
+    {
+      "word": "দ্বিতীয়ত",
+      "start": 46.994,
+      "source": "asr",
+      "end": 47.63
+    },
+    {
+      "word": ",",
+      "start": 47.63,
+      "source": "asr",
+      "end": 47.69
+    },
+    {
+      "word": "রাজ",
+      "start": 47.683,
+      "source": "asr",
+      "end": 47.948
+    },
+    {
+      "word": "শামানির",
+      "start": 47.948,
+      "source": "asr",
+      "end": 48.531
+    },
+    {
+      "word": "সেই",
+      "start": 48.531,
+      "source": "asr",
+      "end": 48.796
+    },
+    {
+      "word": "টেকনিক",
+      "start": 48.796,
+      "source": "asr",
+      "end": 49.272
+    },
+    {
+      "word": ",",
+      "start": 49.272,
+      "source": "asr",
+      "end": 49.332
+    },
+    {
+      "word": "যার",
+      "start": 49.325,
+      "source": "asr",
+      "end": 49.59
+    },
+    {
+      "word": "মাধ্যমে",
+      "start": 49.59,
+      "source": "asr",
+      "end": 50.173
+    },
+    {
+      "word": "তুমিও",
+      "start": 50.173,
+      "source": "asr",
+      "end": 50.597
+    },
+    {
+      "word": "একজন",
+      "start": 50.597,
+      "source": "asr",
+      "end": 50.941
+    },
+    {
+      "word": "টপ",
+      "start": 50.941,
+      "source": "asr",
+      "end": 51.127
+    },
+    {
+      "word": "ক্লাস",
+      "start": 51.127,
+      "source": "asr",
+      "end": 51.551
+    },
+    {
+      "word": "স্পিকার",
+      "start": 51.551,
+      "source": "asr",
+      "end": 52.133
+    },
+    {
+      "word": "হতে",
+      "start": 52.133,
+      "source": "asr",
+      "end": 52.398
+    },
+    {
+      "word": "পারো",
+      "start": 52.398,
+      "source": "asr",
+      "end": 52.716
+    },
+    {
+      "word": "।",
+      "start": 52.716,
+      "source": "asr",
+      "end": 53.02
+    },
+    {
+      "word": "তবে",
+      "start": 53.02,
+      "source": "asr",
+      "end": 53.324
+    },
+    {
+      "word": "তার",
+      "start": 53.324,
+      "source": "asr",
+      "end": 53.629
+    },
+    {
+      "word": "আগে",
+      "start": 53.629,
+      "source": "asr",
+      "end": 53.933
+    },
+    {
+      "word": "মনে",
+      "start": 53.933,
+      "source": "asr",
+      "end": 54.238
+    },
+    {
+      "word": "করিয়ে",
+      "start": 54.238,
+      "source": "asr",
+      "end": 54.725
+    },
+    {
+      "word": "দিই",
+      "start": 54.725,
+      "source": "asr",
+      "end": 55.029
+    },
+    {
+      "word": "যে",
+      "start": 55.029,
+      "source": "asr",
+      "end": 55.242
+    },
+    {
+      "word": "২০২৭",
+      "start": 55.242,
+      "source": "asr",
+      "end": 55.638
+    },
+    {
+      "word": "আসতে",
+      "start": 55.638,
+      "source": "asr",
+      "end": 56.034
+    },
+    {
+      "word": "আর",
+      "start": 56.034,
+      "source": "asr",
+      "end": 56.247
+    },
+    {
+      "word": "মাত্র",
+      "start": 56.247,
+      "source": "asr",
+      "end": 56.734
+    },
+    {
+      "word": "৩",
+      "start": 56.734,
+      "source": "asr",
+      "end": 56.856
+    },
+    {
+      "word": "মাস",
+      "start": 56.856,
+      "source": "asr",
+      "end": 57.161
+    },
+    {
+      "word": "বাকি",
+      "start": 57.161,
+      "source": "asr",
+      "end": 57.526
+    },
+    {
+      "word": "।",
+      "start": 57.526,
+      "source": "asr",
+      "end": 57.738
+    },
+    {
+      "word": "আর",
+      "start": 57.738,
+      "source": "asr",
+      "end": 57.924
+    },
+    {
+      "word": "৩",
+      "start": 57.924,
+      "source": "asr",
+      "end": 58.03
+    },
+    {
+      "word": "মাস",
+      "start": 58.03,
+      "source": "asr",
+      "end": 58.296
+    },
+    {
+      "word": "পর",
+      "start": 58.296,
+      "source": "asr",
+      "end": 58.483
+    },
+    {
+      "word": "তুমি",
+      "start": 58.483,
+      "source": "asr",
+      "end": 58.829
+    },
+    {
+      "word": "আবার",
+      "start": 58.829,
+      "source": "asr",
+      "end": 59.175
+    },
+    {
+      "word": "সেই",
+      "start": 59.175,
+      "source": "asr",
+      "end": 59.441
+    },
+    {
+      "word": "রেজোলিউশন",
+      "start": 59.441,
+      "source": "asr",
+      "end": 60.186
+    },
+    {
+      "word": "বা",
+      "start": 60.186,
+      "source": "asr",
+      "end": 60.372
+    },
+    {
+      "word": "প্রতিজ্ঞার",
+      "start": 60.372,
+      "source": "asr",
+      "end": 61.197
+    },
+    {
+      "word": "নাটক",
+      "start": 61.197,
+      "source": "asr",
+      "end": 61.543
+    },
+    {
+      "word": "করবে",
+      "start": 61.543,
+      "source": "asr",
+      "end": 61.889
+    },
+    {
+      "word": "যে",
+      "start": 61.889,
+      "source": "asr",
+      "end": 62.049
+    },
+    {
+      "word": ",",
+      "start": 62.049,
+      "source": "asr",
+      "end": 62.109
+    },
+    {
+      "word": "এই",
+      "start": 62.102,
+      "source": "asr",
+      "end": 62.289
+    },
+    {
+      "word": "বছর",
+      "start": 62.289,
+      "source": "asr",
+      "end": 62.555
+    },
+    {
+      "word": "আমি",
+      "start": 62.555,
+      "source": "asr",
+      "end": 62.821
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 62.821,
+      "source": "asr",
+      "end": 63.326
+    },
+    {
+      "word": "শিখেই",
+      "start": 63.326,
+      "source": "asr",
+      "end": 63.752
+    },
+    {
+      "word": "ফেলব",
+      "start": 63.752,
+      "source": "asr",
+      "end": 64.072
+    },
+    {
+      "word": "।",
+      "start": 64.072,
+      "source": "asr",
+      "end": 64.252
+    },
+    {
+      "word": ">> এমনটা",
+      "start": 64.252,
+      "source": "asr",
+      "end": 64.679
+    },
+    {
+      "word": "করো",
+      "start": 64.679,
+      "source": "asr",
+      "end": 64.947
+    },
+    {
+      "word": "না",
+      "start": 64.947,
+      "source": "asr",
+      "end": 65.134
+    },
+    {
+      "word": "প্রিয়",
+      "start": 65.134,
+      "source": "asr",
+      "end": 65.535
+    },
+    {
+      "word": "।",
+      "start": 65.535,
+      "source": "asr",
+      "end": 66.436
+    },
+    {
+      "word": ">> এই",
+      "start": 66.436,
+      "source": "asr",
+      "end": 66.621
+    },
+    {
+      "word": "বছর",
+      "start": 66.621,
+      "source": "asr",
+      "end": 66.861
+    },
+    {
+      "word": ",",
+      "start": 66.861,
+      "source": "asr",
+      "end": 66.921
+    },
+    {
+      "word": "পরের",
+      "start": 66.914,
+      "source": "asr",
+      "end": 67.259
+    },
+    {
+      "word": "৯০",
+      "start": 67.259,
+      "source": "asr",
+      "end": 67.445
+    },
+    {
+      "word": "দিনে",
+      "start": 67.445,
+      "source": "asr",
+      "end": 67.791
+    },
+    {
+      "word": "অনেক",
+      "start": 67.791,
+      "source": "asr",
+      "end": 68.136
+    },
+    {
+      "word": "কিছু",
+      "start": 68.136,
+      "source": "asr",
+      "end": 68.481
+    },
+    {
+      "word": "বদলে",
+      "start": 68.481,
+      "source": "asr",
+      "end": 68.827
+    },
+    {
+      "word": "যেতে",
+      "start": 68.827,
+      "source": "asr",
+      "end": 69.172
+    },
+    {
+      "word": "পারে",
+      "start": 69.172,
+      "source": "asr",
+      "end": 69.518
+    },
+    {
+      "word": "যদি",
+      "start": 69.518,
+      "source": "asr",
+      "end": 69.783
+    },
+    {
+      "word": "তুমি",
+      "start": 69.783,
+      "source": "asr",
+      "end": 70.129
+    },
+    {
+      "word": "এই",
+      "start": 70.129,
+      "source": "asr",
+      "end": 70.315
+    },
+    {
+      "word": "চ্যালেঞ্জ",
+      "start": 70.315,
+      "source": "asr",
+      "end": 71.059
+    },
+    {
+      "word": "গ্রহণ",
+      "start": 71.059,
+      "source": "asr",
+      "end": 71.484
+    },
+    {
+      "word": "করো",
+      "start": 71.484,
+      "source": "asr",
+      "end": 71.723
+    },
+    {
+      "word": "।",
+      "start": 71.723,
+      "source": "asr",
+      "end": 72.478
+    },
+    {
+      "word": "কেউই",
+      "start": 72.478,
+      "source": "asr",
+      "end": 72.786
+    },
+    {
+      "word": "তোমাকে",
+      "start": 72.786,
+      "source": "asr",
+      "end": 73.237
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 73.237,
+      "source": "asr",
+      "end": 73.687
+    },
+    {
+      "word": "শেখা",
+      "start": 73.687,
+      "source": "asr",
+      "end": 73.996
+    },
+    {
+      "word": "থেকে",
+      "start": 73.996,
+      "source": "asr",
+      "end": 74.304
+    },
+    {
+      "word": "আটকাতে",
+      "start": 74.304,
+      "source": "asr",
+      "end": 74.755
+    },
+    {
+      "word": "পারবে",
+      "start": 74.755,
+      "source": "asr",
+      "end": 75.134
+    },
+    {
+      "word": "না",
+      "start": 75.134,
+      "source": "asr",
+      "end": 75.276
+    },
+    {
+      "word": "।",
+      "start": 75.276,
+      "source": "asr",
+      "end": 75.448
+    },
+    {
+      "word": "তাই",
+      "start": 75.448,
+      "source": "asr",
+      "end": 75.722
+    },
+    {
+      "word": "এখনই",
+      "start": 75.722,
+      "source": "asr",
+      "end": 76.08
+    },
+    {
+      "word": "কমেন্ট",
+      "start": 76.08,
+      "source": "asr",
+      "end": 76.602
+    },
+    {
+      "word": "সেকশনে",
+      "start": 76.602,
+      "source": "asr",
+      "end": 77.124
+    },
+    {
+      "word": "লেখো",
+      "start": 77.124,
+      "source": "asr",
+      "end": 77.454
+    },
+    {
+      "word": "।",
+      "start": 77.454,
+      "source": "asr",
+      "end": 77.637
+    },
+    {
+      "word": "আই",
+      "start": 77.637,
+      "source": "asr",
+      "end": 77.818
+    },
+    {
+      "word": "এক্সেপ্ট",
+      "start": 77.818,
+      "source": "asr",
+      "end": 78.467
+    },
+    {
+      "word": "দিস",
+      "start": 78.467,
+      "source": "asr",
+      "end": 78.727
+    },
+    {
+      "word": "৯০",
+      "start": 78.727,
+      "source": "asr",
+      "end": 78.909
+    },
+    {
+      "word": "ডেইজ",
+      "start": 78.909,
+      "source": "asr",
+      "end": 79.246
+    },
+    {
+      "word": "চ্যালেঞ্জ",
+      "start": 79.246,
+      "source": "asr",
+      "end": 79.948
+    },
+    {
+      "word": "।",
+      "start": 79.948,
+      "source": "asr",
+      "end": 80.245
+    },
+    {
+      "word": "তো",
+      "start": 80.245,
+      "source": "asr",
+      "end": 80.416
+    },
+    {
+      "word": "রাজ",
+      "start": 80.416,
+      "source": "asr",
+      "end": 80.662
+    },
+    {
+      "word": "শামানি",
+      "start": 80.662,
+      "source": "asr",
+      "end": 81.128
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 81.128,
+      "source": "asr",
+      "end": 81.595
+    },
+    {
+      "word": "এভাবেই",
+      "start": 81.595,
+      "source": "asr",
+      "end": 82.061
+    },
+    {
+      "word": "শিখেছে",
+      "start": 82.061,
+      "source": "asr",
+      "end": 82.503
+    },
+    {
+      "word": "।",
+      "start": 82.503,
+      "source": "asr",
+      "end": 82.677
+    },
+    {
+      "word": ">> আমি",
+      "start": 82.677,
+      "source": "asr",
+      "end": 82.925
+    },
+    {
+      "word": "আসলে",
+      "start": 82.925,
+      "source": "asr",
+      "end": 83.249
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 83.249,
+      "source": "asr",
+      "end": 83.722
+    },
+    {
+      "word": "শিখেছি",
+      "start": 83.722,
+      "source": "asr",
+      "end": 84.195
+    },
+    {
+      "word": "'",
+      "start": 84.195,
+      "source": "asr",
+      "end": 84.255
+    },
+    {
+      "word": "স্যুটস",
+      "start": 84.22,
+      "source": "asr",
+      "end": 84.668
+    },
+    {
+      "word": "'",
+      "start": 84.668,
+      "source": "asr",
+      "end": 84.728
+    },
+    {
+      "word": "দেখে",
+      "start": 84.718,
+      "source": "asr",
+      "end": 85.017
+    },
+    {
+      "word": "।",
+      "start": 85.017,
+      "source": "asr",
+      "end": 85.192
+    },
+    {
+      "word": ">> ওয়াও",
+      "start": 85.192,
+      "source": "asr",
+      "end": 85.575
+    },
+    {
+      "word": "!",
+      "start": 85.575,
+      "source": "asr",
+      "end": 85.707
+    },
+    {
+      "word": "'",
+      "start": 85.707,
+      "source": "asr",
+      "end": 85.767
+    },
+    {
+      "word": "গেম",
+      "start": 85.728,
+      "source": "asr",
+      "end": 85.94
+    },
+    {
+      "word": "অফ",
+      "start": 85.94,
+      "source": "asr",
+      "end": 86.089
+    },
+    {
+      "word": "থ্রোনস",
+      "start": 86.089,
+      "source": "asr",
+      "end": 86.471
+    },
+    {
+      "word": "'",
+      "start": 86.471,
+      "source": "asr",
+      "end": 86.531
+    },
+    {
+      "word": "এবং",
+      "start": 86.513,
+      "source": "asr",
+      "end": 86.725
+    },
+    {
+      "word": "'",
+      "start": 86.725,
+      "source": "asr",
+      "end": 86.785
+    },
+    {
+      "word": "স্যুটস",
+      "start": 86.747,
+      "source": "asr",
+      "end": 87.129
+    },
+    {
+      "word": "'",
+      "start": 87.129,
+      "source": "asr",
+      "end": 87.189
+    },
+    {
+      "word": "দেখে",
+      "start": 87.171,
+      "source": "asr",
+      "end": 87.447
+    },
+    {
+      "word": "আমি",
+      "start": 87.447,
+      "source": "asr",
+      "end": 87.659
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 87.659,
+      "source": "asr",
+      "end": 88.063
+    },
+    {
+      "word": "শিখেছি",
+      "start": 88.063,
+      "source": "asr",
+      "end": 88.445
+    },
+    {
+      "word": "।",
+      "start": 88.445,
+      "source": "asr",
+      "end": 88.609
+    },
+    {
+      "word": "সাবটাইটেল",
+      "start": 88.609,
+      "source": "asr",
+      "end": 89.288
+    },
+    {
+      "word": "পড়ে",
+      "start": 89.288,
+      "source": "asr",
+      "end": 89.53
+    },
+    {
+      "word": "পড়ে",
+      "start": 89.53,
+      "source": "asr",
+      "end": 89.748
+    },
+    {
+      "word": ",",
+      "start": 89.748,
+      "source": "asr",
+      "end": 89.808
+    },
+    {
+      "word": "বারবার",
+      "start": 89.797,
+      "source": "asr",
+      "end": 90.258
+    },
+    {
+      "word": "পড়ে",
+      "start": 90.258,
+      "source": "asr",
+      "end": 90.476
+    },
+    {
+      "word": "।",
+      "start": 90.476,
+      "source": "asr",
+      "end": 90.649
+    },
+    {
+      "word": "আসলে",
+      "start": 90.649,
+      "source": "asr",
+      "end": 90.959
+    },
+    {
+      "word": "আমার",
+      "start": 90.959,
+      "source": "asr",
+      "end": 91.27
+    },
+    {
+      "word": "ভাষা",
+      "start": 91.27,
+      "source": "asr",
+      "end": 91.58
+    },
+    {
+      "word": "অন্যরকম",
+      "start": 91.58,
+      "source": "asr",
+      "end": 92.106
+    },
+    {
+      "word": "হয়ে",
+      "start": 92.106,
+      "source": "asr",
+      "end": 92.345
+    },
+    {
+      "word": "গিয়েছিল",
+      "start": 92.345,
+      "source": "asr",
+      "end": 92.87
+    },
+    {
+      "word": "এবং",
+      "start": 92.87,
+      "source": "asr",
+      "end": 93.109
+    },
+    {
+      "word": "আমার",
+      "start": 93.109,
+      "source": "asr",
+      "end": 93.42
+    },
+    {
+      "word": "কাজিনরা",
+      "start": 93.42,
+      "source": "asr",
+      "end": 93.945
+    },
+    {
+      "word": "বলত",
+      "start": 93.945,
+      "source": "asr",
+      "end": 94.16
+    },
+    {
+      "word": ",",
+      "start": 94.16,
+      "source": "asr",
+      "end": 94.22
+    },
+    {
+      "word": "ভাই",
+      "start": 94.208,
+      "source": "asr",
+      "end": 94.447
+    },
+    {
+      "word": "তুই",
+      "start": 94.447,
+      "source": "asr",
+      "end": 94.686
+    },
+    {
+      "word": "কী",
+      "start": 94.686,
+      "source": "asr",
+      "end": 94.853
+    },
+    {
+      "word": "কথা",
+      "start": 94.853,
+      "source": "asr",
+      "end": 95.092
+    },
+    {
+      "word": "বলছিস",
+      "start": 95.092,
+      "source": "asr",
+      "end": 95.451
+    },
+    {
+      "word": "?",
+      "start": 95.451,
+      "source": "asr",
+      "end": 95.575
+    },
+    {
+      "word": ">> আমি",
+      "start": 95.575,
+      "source": "asr",
+      "end": 95.85
+    },
+    {
+      "word": "নয়",
+      "start": 95.85,
+      "source": "asr",
+      "end": 96.015
+    },
+    {
+      "word": ",",
+      "start": 96.015,
+      "source": "asr",
+      "end": 96.075
+    },
+    {
+      "word": "অনেক",
+      "start": 96.07,
+      "source": "asr",
+      "end": 96.427
+    },
+    {
+      "word": "গবেষণা",
+      "start": 96.427,
+      "source": "asr",
+      "end": 96.95
+    },
+    {
+      "word": "এটাই",
+      "start": 96.95,
+      "source": "asr",
+      "end": 97.307
+    },
+    {
+      "word": "বলে",
+      "start": 97.307,
+      "source": "asr",
+      "end": 97.582
+    },
+    {
+      "word": "যে",
+      "start": 97.582,
+      "source": "asr",
+      "end": 97.747
+    },
+    {
+      "word": ",",
+      "start": 97.747,
+      "source": "asr",
+      "end": 97.807
+    },
+    {
+      "word": "তুমি",
+      "start": 97.802,
+      "source": "asr",
+      "end": 98.16
+    },
+    {
+      "word": "যদি",
+      "start": 98.16,
+      "source": "asr",
+      "end": 98.435
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 98.435,
+      "source": "asr",
+      "end": 98.958
+    },
+    {
+      "word": "বলা",
+      "start": 98.958,
+      "source": "asr",
+      "end": 99.233
+    },
+    {
+      "word": "শিখতে",
+      "start": 99.233,
+      "source": "asr",
+      "end": 99.673
+    },
+    {
+      "word": "চাও",
+      "start": 99.673,
+      "source": "asr",
+      "end": 99.92
+    },
+    {
+      "word": ",",
+      "start": 99.92,
+      "source": "asr",
+      "end": 99.98
+    },
+    {
+      "word": "তবে",
+      "start": 99.975,
+      "source": "asr",
+      "end": 100.25
+    },
+    {
+      "word": "তোমাকে",
+      "start": 100.25,
+      "source": "asr",
+      "end": 100.773
+    },
+    {
+      "word": "বেশি",
+      "start": 100.773,
+      "source": "asr",
+      "end": 101.131
+    },
+    {
+      "word": "করে",
+      "start": 101.131,
+      "source": "asr",
+      "end": 101.406
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 101.406,
+      "source": "asr",
+      "end": 101.928
+    },
+    {
+      "word": "শুনতে",
+      "start": 101.928,
+      "source": "asr",
+      "end": 102.368
+    },
+    {
+      "word": "এবং",
+      "start": 102.368,
+      "source": "asr",
+      "end": 102.643
+    },
+    {
+      "word": "দেখতে",
+      "start": 102.643,
+      "source": "asr",
+      "end": 103.083
+    },
+    {
+      "word": "হবে",
+      "start": 103.083,
+      "source": "asr",
+      "end": 103.331
+    },
+    {
+      "word": "।",
+      "start": 103.331,
+      "source": "asr",
+      "end": 103.514
+    },
+    {
+      "word": "আর",
+      "start": 103.514,
+      "source": "asr",
+      "end": 103.695
+    },
+    {
+      "word": "তুমি",
+      "start": 103.695,
+      "source": "asr",
+      "end": 104.031
+    },
+    {
+      "word": "যদি",
+      "start": 104.031,
+      "source": "asr",
+      "end": 104.289
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 104.289,
+      "source": "asr",
+      "end": 104.781
+    },
+    {
+      "word": "লেখা",
+      "start": 104.781,
+      "source": "asr",
+      "end": 105.117
+    },
+    {
+      "word": "শিখতে",
+      "start": 105.117,
+      "source": "asr",
+      "end": 105.531
+    },
+    {
+      "word": "চাও",
+      "start": 105.531,
+      "source": "asr",
+      "end": 105.763
+    },
+    {
+      "word": ",",
+      "start": 105.763,
+      "source": "asr",
+      "end": 105.823
+    },
+    {
+      "word": "তবে",
+      "start": 105.815,
+      "source": "asr",
+      "end": 106.074
+    },
+    {
+      "word": "তোমাকে",
+      "start": 106.074,
+      "source": "asr",
+      "end": 106.565
+    },
+    {
+      "word": "বেশি",
+      "start": 106.565,
+      "source": "asr",
+      "end": 106.901
+    },
+    {
+      "word": "করে",
+      "start": 106.901,
+      "source": "asr",
+      "end": 107.16
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 107.16,
+      "source": "asr",
+      "end": 107.651
+    },
+    {
+      "word": "পড়তে",
+      "start": 107.651,
+      "source": "asr",
+      "end": 107.987
+    },
+    {
+      "word": "হবে",
+      "start": 107.987,
+      "source": "asr",
+      "end": 108.22
+    },
+    {
+      "word": "।",
+      "start": 108.22,
+      "source": "asr",
+      "end": 108.398
+    },
+    {
+      "word": "সহজ",
+      "start": 108.398,
+      "source": "asr",
+      "end": 108.837
+    },
+    {
+      "word": "।",
+      "start": 108.837,
+      "source": "asr",
+      "end": 109.084
+    },
+    {
+      "word": "যদি",
+      "start": 109.084,
+      "source": "asr",
+      "end": 109.364
+    },
+    {
+      "word": "তোমার",
+      "start": 109.364,
+      "source": "asr",
+      "end": 109.814
+    },
+    {
+      "word": "লেখা",
+      "start": 109.814,
+      "source": "asr",
+      "end": 110.179
+    },
+    {
+      "word": "উন্নত",
+      "start": 110.179,
+      "source": "asr",
+      "end": 110.628
+    },
+    {
+      "word": "করতে",
+      "start": 110.628,
+      "source": "asr",
+      "end": 110.994
+    },
+    {
+      "word": "চাও",
+      "start": 110.994,
+      "source": "asr",
+      "end": 111.246
+    },
+    {
+      "word": ",",
+      "start": 111.246,
+      "source": "asr",
+      "end": 111.306
+    },
+    {
+      "word": "তবে",
+      "start": 111.303,
+      "source": "asr",
+      "end": 111.583
+    },
+    {
+      "word": "বই",
+      "start": 111.583,
+      "source": "asr",
+      "end": 111.78
+    },
+    {
+      "word": "পড়ো",
+      "start": 111.78,
+      "source": "asr",
+      "end": 112.033
+    },
+    {
+      "word": ",",
+      "start": 112.033,
+      "source": "asr",
+      "end": 112.093
+    },
+    {
+      "word": "আর্টিকেল",
+      "start": 112.089,
+      "source": "asr",
+      "end": 112.791
+    },
+    {
+      "word": "পড়ো",
+      "start": 112.791,
+      "source": "asr",
+      "end": 113.044
+    },
+    {
+      "word": ",",
+      "start": 113.044,
+      "source": "asr",
+      "end": 113.104
+    },
+    {
+      "word": "ইংরেজিতে",
+      "start": 113.1,
+      "source": "asr",
+      "end": 113.802
+    },
+    {
+      "word": "পড়ো",
+      "start": 113.802,
+      "source": "asr",
+      "end": 114.055
+    },
+    {
+      "word": "।",
+      "start": 114.055,
+      "source": "asr",
+      "end": 114.24
+    },
+    {
+      "word": "কিন্তু",
+      "start": 114.24,
+      "source": "asr",
+      "end": 114.707
+    },
+    {
+      "word": "তুমি",
+      "start": 114.707,
+      "source": "asr",
+      "end": 115.026
+    },
+    {
+      "word": "যদি",
+      "start": 115.026,
+      "source": "asr",
+      "end": 115.272
+    },
+    {
+      "word": "কথা",
+      "start": 115.272,
+      "source": "asr",
+      "end": 115.518
+    },
+    {
+      "word": "বলা",
+      "start": 115.518,
+      "source": "asr",
+      "end": 115.764
+    },
+    {
+      "word": "উন্নত",
+      "start": 115.764,
+      "source": "asr",
+      "end": 116.157
+    },
+    {
+      "word": "করতে",
+      "start": 116.157,
+      "source": "asr",
+      "end": 116.477
+    },
+    {
+      "word": "চাও",
+      "start": 116.477,
+      "source": "asr",
+      "end": 116.698
+    },
+    {
+      "word": ",",
+      "start": 116.698,
+      "source": "asr",
+      "end": 116.758
+    },
+    {
+      "word": "তবে",
+      "start": 116.748,
+      "source": "asr",
+      "end": 116.993
+    },
+    {
+      "word": "শুধু",
+      "start": 116.993,
+      "source": "asr",
+      "end": 117.313
+    },
+    {
+      "word": "গ্রামার",
+      "start": 117.313,
+      "source": "asr",
+      "end": 117.854
+    },
+    {
+      "word": "বই",
+      "start": 117.854,
+      "source": "asr",
+      "end": 118.026
+    },
+    {
+      "word": "নিয়ে",
+      "start": 118.026,
+      "source": "asr",
+      "end": 118.346
+    },
+    {
+      "word": "বসে",
+      "start": 118.346,
+      "source": "asr",
+      "end": 118.592
+    },
+    {
+      "word": "থাকলে",
+      "start": 118.592,
+      "source": "asr",
+      "end": 118.985
+    },
+    {
+      "word": "কিছু",
+      "start": 118.985,
+      "source": "asr",
+      "end": 119.305
+    },
+    {
+      "word": "হবে",
+      "start": 119.305,
+      "source": "asr",
+      "end": 119.551
+    },
+    {
+      "word": "না",
+      "start": 119.551,
+      "source": "asr",
+      "end": 119.723
+    },
+    {
+      "word": "বন্ধু",
+      "start": 119.723,
+      "source": "asr",
+      "end": 120.092
+    },
+    {
+      "word": "।",
+      "start": 120.092,
+      "source": "asr",
+      "end": 120.543
+    },
+    {
+      "word": "তোমাকে",
+      "start": 120.543,
+      "source": "asr",
+      "end": 121.012
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 121.012,
+      "source": "asr",
+      "end": 121.482
+    },
+    {
+      "word": "শুনতে",
+      "start": 121.482,
+      "source": "asr",
+      "end": 121.878
+    },
+    {
+      "word": "হবে",
+      "start": 121.878,
+      "source": "asr",
+      "end": 122.1
+    },
+    {
+      "word": "।",
+      "start": 122.1,
+      "source": "asr",
+      "end": 122.793
+    },
+    {
+      "word": "তোমাকে",
+      "start": 122.793,
+      "source": "asr",
+      "end": 123.257
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 123.257,
+      "source": "asr",
+      "end": 123.721
+    },
+    {
+      "word": "দেখতে",
+      "start": 123.721,
+      "source": "asr",
+      "end": 124.111
+    },
+    {
+      "word": "হবে",
+      "start": 124.111,
+      "source": "asr",
+      "end": 124.331
+    },
+    {
+      "word": "।",
+      "start": 124.331,
+      "source": "asr",
+      "end": 125.369
+    },
+    {
+      "word": "কিন্তু",
+      "start": 125.369,
+      "source": "asr",
+      "end": 125.865
+    },
+    {
+      "word": "দেখব",
+      "start": 125.865,
+      "source": "asr",
+      "end": 126.205
+    },
+    {
+      "word": "কী",
+      "start": 126.205,
+      "source": "asr",
+      "end": 126.362
+    },
+    {
+      "word": "?",
+      "start": 126.362,
+      "source": "asr",
+      "end": 126.786
+    },
+    {
+      "word": "রাজ",
+      "start": 126.786,
+      "source": "asr",
+      "end": 127.056
+    },
+    {
+      "word": "শামানির",
+      "start": 127.056,
+      "source": "asr",
+      "end": 127.65
+    },
+    {
+      "word": "মতো",
+      "start": 127.65,
+      "source": "asr",
+      "end": 127.921
+    },
+    {
+      "word": "মুভি",
+      "start": 127.921,
+      "source": "asr",
+      "end": 128.272
+    },
+    {
+      "word": "দেখো",
+      "start": 128.272,
+      "source": "asr",
+      "end": 128.596
+    },
+    {
+      "word": "।",
+      "start": 128.596,
+      "source": "asr",
+      "end": 128.778
+    },
+    {
+      "word": "আর",
+      "start": 128.778,
+      "source": "asr",
+      "end": 128.959
+    },
+    {
+      "word": "সত্যি",
+      "start": 128.959,
+      "source": "asr",
+      "end": 129.375
+    },
+    {
+      "word": "বলতে",
+      "start": 129.375,
+      "source": "asr",
+      "end": 129.686
+    },
+    {
+      "word": ",",
+      "start": 129.686,
+      "source": "asr",
+      "end": 129.746
+    },
+    {
+      "word": "মুভি",
+      "start": 129.738,
+      "source": "asr",
+      "end": 130.075
+    },
+    {
+      "word": "খুব",
+      "start": 130.075,
+      "source": "asr",
+      "end": 130.335
+    },
+    {
+      "word": "ভালো",
+      "start": 130.335,
+      "source": "asr",
+      "end": 130.672
+    },
+    {
+      "word": "একটা",
+      "start": 130.672,
+      "source": "asr",
+      "end": 131.01
+    },
+    {
+      "word": "অপশন",
+      "start": 131.01,
+      "source": "asr",
+      "end": 131.321
+    },
+    {
+      "word": ",",
+      "start": 131.321,
+      "source": "asr",
+      "end": 131.381
+    },
+    {
+      "word": "কারণ",
+      "start": 131.373,
+      "source": "asr",
+      "end": 131.711
+    },
+    {
+      "word": "তুমি",
+      "start": 131.711,
+      "source": "asr",
+      "end": 132.048
+    },
+    {
+      "word": "বাস্তব",
+      "start": 132.048,
+      "source": "asr",
+      "end": 132.541
+    },
+    {
+      "word": "জীবনের",
+      "start": 132.541,
+      "source": "asr",
+      "end": 133.035
+    },
+    {
+      "word": "কথোপকথন",
+      "start": 133.035,
+      "source": "asr",
+      "end": 133.606
+    },
+    {
+      "word": "শুনতে",
+      "start": 133.606,
+      "source": "asr",
+      "end": 134.021
+    },
+    {
+      "word": "পাবে",
+      "start": 134.021,
+      "source": "asr",
+      "end": 134.333
+    },
+    {
+      "word": "।",
+      "start": 134.333,
+      "source": "asr",
+      "end": 134.511
+    },
+    {
+      "word": "ভিন্ন",
+      "start": 134.511,
+      "source": "asr",
+      "end": 134.89
+    },
+    {
+      "word": "ভিন্ন",
+      "start": 134.89,
+      "source": "asr",
+      "end": 135.269
+    },
+    {
+      "word": "উচ্চারণ",
+      "start": 135.269,
+      "source": "asr",
+      "end": 135.791
+    },
+    {
+      "word": "শুনতে",
+      "start": 135.791,
+      "source": "asr",
+      "end": 136.17
+    },
+    {
+      "word": "পাবে",
+      "start": 136.17,
+      "source": "asr",
+      "end": 136.454
+    },
+    {
+      "word": "।",
+      "start": 136.454,
+      "source": "asr",
+      "end": 136.626
+    },
+    {
+      "word": "ভিন্ন",
+      "start": 136.626,
+      "source": "asr",
+      "end": 136.987
+    },
+    {
+      "word": "ভিন্ন",
+      "start": 136.987,
+      "source": "asr",
+      "end": 137.349
+    },
+    {
+      "word": "অভিব্যক্তি",
+      "start": 137.349,
+      "source": "asr",
+      "end": 138.05
+    },
+    {
+      "word": "শুনতে",
+      "start": 138.05,
+      "source": "asr",
+      "end": 138.412
+    },
+    {
+      "word": "পাবে",
+      "start": 138.412,
+      "source": "asr",
+      "end": 138.684
+    },
+    {
+      "word": "।",
+      "start": 138.684,
+      "source": "asr",
+      "end": 138.852
+    },
+    {
+      "word": "আর",
+      "start": 138.852,
+      "source": "asr",
+      "end": 139.015
+    },
+    {
+      "word": "সবচেয়ে",
+      "start": 139.015,
+      "source": "asr",
+      "end": 139.46
+    },
+    {
+      "word": "গুরুত্বপূর্ণ",
+      "start": 139.46,
+      "source": "asr",
+      "end": 140.326
+    },
+    {
+      "word": "বিষয়",
+      "start": 140.326,
+      "source": "asr",
+      "end": 140.631
+    },
+    {
+      "word": "হলো",
+      "start": 140.631,
+      "source": "asr",
+      "end": 140.841
+    },
+    {
+      "word": ",",
+      "start": 140.841,
+      "source": "asr",
+      "end": 140.901
+    },
+    {
+      "word": "তুমি",
+      "start": 140.888,
+      "source": "asr",
+      "end": 141.193
+    },
+    {
+      "word": "দেখবে",
+      "start": 141.193,
+      "source": "asr",
+      "end": 141.567
+    },
+    {
+      "word": "মানুষ",
+      "start": 141.567,
+      "source": "asr",
+      "end": 141.942
+    },
+    {
+      "word": "বিভিন্ন",
+      "start": 141.942,
+      "source": "asr",
+      "end": 142.457
+    },
+    {
+      "word": "পরিস্থিতিতে",
+      "start": 142.457,
+      "source": "asr",
+      "end": 143.253
+    },
+    {
+      "word": "বাস্তবে",
+      "start": 143.253,
+      "source": "asr",
+      "end": 143.768
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 143.768,
+      "source": "asr",
+      "end": 144.213
+    },
+    {
+      "word": "কীভাবে",
+      "start": 144.213,
+      "source": "asr",
+      "end": 144.658
+    },
+    {
+      "word": "ব্যবহার",
+      "start": 144.658,
+      "source": "asr",
+      "end": 145.173
+    },
+    {
+      "word": "করে",
+      "start": 145.173,
+      "source": "asr",
+      "end": 145.383
+    },
+    {
+      "word": "।",
+      "start": 145.383,
+      "source": "asr",
+      "end": 145.554
+    },
+    {
+      "word": "মুভি",
+      "start": 145.554,
+      "source": "asr",
+      "end": 145.873
+    },
+    {
+      "word": "ছাড়া",
+      "start": 145.873,
+      "source": "asr",
+      "end": 146.193
+    },
+    {
+      "word": "তুমি",
+      "start": 146.193,
+      "source": "asr",
+      "end": 146.512
+    },
+    {
+      "word": "ওয়েব",
+      "start": 146.512,
+      "source": "asr",
+      "end": 146.832
+    },
+    {
+      "word": "সিরিজ",
+      "start": 146.832,
+      "source": "asr",
+      "end": 147.225
+    },
+    {
+      "word": "দেখতে",
+      "start": 147.225,
+      "source": "asr",
+      "end": 147.619
+    },
+    {
+      "word": "পারো",
+      "start": 147.619,
+      "source": "asr",
+      "end": 147.914
+    },
+    {
+      "word": ",",
+      "start": 147.914,
+      "source": "asr",
+      "end": 147.974
+    },
+    {
+      "word": "ইউটিউবে",
+      "start": 147.963,
+      "source": "asr",
+      "end": 148.504
+    },
+    {
+      "word": "ভিডিও",
+      "start": 148.504,
+      "source": "asr",
+      "end": 148.897
+    },
+    {
+      "word": "দেখতে",
+      "start": 148.897,
+      "source": "asr",
+      "end": 149.29
+    },
+    {
+      "word": "পারো",
+      "start": 149.29,
+      "source": "asr",
+      "end": 149.585
+    },
+    {
+      "word": ",",
+      "start": 149.585,
+      "source": "asr",
+      "end": 149.645
+    },
+    {
+      "word": "তুমি",
+      "start": 149.635,
+      "source": "asr",
+      "end": 149.954
+    },
+    {
+      "word": "কার্টুনও",
+      "start": 149.954,
+      "source": "asr",
+      "end": 150.569
+    },
+    {
+      "word": "দেখতে",
+      "start": 150.569,
+      "source": "asr",
+      "end": 150.962
+    },
+    {
+      "word": "পারো",
+      "start": 150.962,
+      "source": "asr",
+      "end": 151.282
+    },
+    {
+      "word": "ইংরেজিতে",
+      "start": 151.282,
+      "source": "asr",
+      "end": 151.872
+    },
+    {
+      "word": "।",
+      "start": 151.872,
+      "source": "asr",
+      "end": 152.097
+    },
+    {
+      "word": "সেগুলোর",
+      "start": 152.097,
+      "source": "asr",
+      "end": 152.739
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 152.739,
+      "source": "asr",
+      "end": 153.294
+    },
+    {
+      "word": "আরও",
+      "start": 153.294,
+      "source": "asr",
+      "end": 153.586
+    },
+    {
+      "word": "সহজ",
+      "start": 153.586,
+      "source": "asr",
+      "end": 153.879
+    },
+    {
+      "word": "হয়",
+      "start": 153.879,
+      "source": "asr",
+      "end": 154.054
+    },
+    {
+      "word": "।",
+      "start": 154.054,
+      "source": "asr",
+      "end": 154.306
+    },
+    {
+      "word": "আর",
+      "start": 154.306,
+      "source": "asr",
+      "end": 154.513
+    },
+    {
+      "word": "কী",
+      "start": 154.513,
+      "source": "asr",
+      "end": 154.72
+    },
+    {
+      "word": "শুনবেন",
+      "start": 154.72,
+      "source": "asr",
+      "end": 155.252
+    },
+    {
+      "word": "?",
+      "start": 155.252,
+      "source": "asr",
+      "end": 155.382
+    },
+    {
+      "word": "পডকাস্ট",
+      "start": 155.382,
+      "source": "asr",
+      "end": 155.992
+    },
+    {
+      "word": "শুনুন",
+      "start": 155.992,
+      "source": "asr",
+      "end": 156.408
+    },
+    {
+      "word": ",",
+      "start": 156.408,
+      "source": "asr",
+      "end": 156.468
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 156.464,
+      "source": "asr",
+      "end": 156.991
+    },
+    {
+      "word": "গান",
+      "start": 156.991,
+      "source": "asr",
+      "end": 157.269
+    },
+    {
+      "word": "শুনুন",
+      "start": 157.269,
+      "source": "asr",
+      "end": 157.685
+    },
+    {
+      "word": ",",
+      "start": 157.685,
+      "source": "asr",
+      "end": 157.745
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 157.741,
+      "source": "asr",
+      "end": 158.268
+    },
+    {
+      "word": "ইন্টারভিউ",
+      "start": 158.268,
+      "source": "asr",
+      "end": 159.045
+    },
+    {
+      "word": "শুনুন",
+      "start": 159.045,
+      "source": "asr",
+      "end": 159.461
+    },
+    {
+      "word": "।",
+      "start": 159.461,
+      "source": "asr",
+      "end": 159.645
+    },
+    {
+      "word": "এখন",
+      "start": 159.645,
+      "source": "asr",
+      "end": 159.912
+    },
+    {
+      "word": "আপনার",
+      "start": 159.912,
+      "source": "asr",
+      "end": 160.341
+    },
+    {
+      "word": "মনে",
+      "start": 160.341,
+      "source": "asr",
+      "end": 160.609
+    },
+    {
+      "word": "হতে",
+      "start": 160.609,
+      "source": "asr",
+      "end": 160.876
+    },
+    {
+      "word": "পারে",
+      "start": 160.876,
+      "source": "asr",
+      "end": 161.198
+    },
+    {
+      "word": ",",
+      "start": 161.198,
+      "source": "asr",
+      "end": 161.258
+    },
+    {
+      "word": "ওহ",
+      "start": 161.251,
+      "source": "asr",
+      "end": 161.439
+    },
+    {
+      "word": "এটা",
+      "start": 161.439,
+      "source": "asr",
+      "end": 161.706
+    },
+    {
+      "word": "খুব",
+      "start": 161.706,
+      "source": "asr",
+      "end": 161.974
+    },
+    {
+      "word": "ক্লিশে",
+      "start": 161.974,
+      "source": "asr",
+      "end": 162.456
+    },
+    {
+      "word": "।",
+      "start": 162.456,
+      "source": "asr",
+      "end": 162.637
+    },
+    {
+      "word": "সবাই",
+      "start": 162.637,
+      "source": "asr",
+      "end": 163.029
+    },
+    {
+      "word": "তো",
+      "start": 163.029,
+      "source": "asr",
+      "end": 163.241
+    },
+    {
+      "word": "এমনটাই",
+      "start": 163.241,
+      "source": "asr",
+      "end": 163.815
+    },
+    {
+      "word": "বলে",
+      "start": 163.815,
+      "source": "asr",
+      "end": 164.087
+    },
+    {
+      "word": "।",
+      "start": 164.087,
+      "source": "asr",
+      "end": 164.584
+    },
+    {
+      "word": "তাহলে",
+      "start": 164.584,
+      "source": "asr",
+      "end": 164.998
+    },
+    {
+      "word": "আমাকে",
+      "start": 164.998,
+      "source": "asr",
+      "end": 165.412
+    },
+    {
+      "word": "বলতে",
+      "start": 165.412,
+      "source": "asr",
+      "end": 165.748
+    },
+    {
+      "word": "দিন",
+      "start": 165.748,
+      "source": "asr",
+      "end": 166.007
+    },
+    {
+      "word": "এটা",
+      "start": 166.007,
+      "source": "asr",
+      "end": 166.266
+    },
+    {
+      "word": "কেন",
+      "start": 166.266,
+      "source": "asr",
+      "end": 166.525
+    },
+    {
+      "word": "কাজ",
+      "start": 166.525,
+      "source": "asr",
+      "end": 166.784
+    },
+    {
+      "word": "করে",
+      "start": 166.784,
+      "source": "asr",
+      "end": 167.017
+    },
+    {
+      "word": "।",
+      "start": 167.017,
+      "source": "asr",
+      "end": 167.497
+    },
+    {
+      "word": "এতে",
+      "start": 167.497,
+      "source": "asr",
+      "end": 167.788
+    },
+    {
+      "word": "আপনি",
+      "start": 167.788,
+      "source": "asr",
+      "end": 168.168
+    },
+    {
+      "word": "কী",
+      "start": 168.168,
+      "source": "asr",
+      "end": 168.372
+    },
+    {
+      "word": "করছেন",
+      "start": 168.372,
+      "source": "asr",
+      "end": 168.81
+    },
+    {
+      "word": "?",
+      "start": 168.81,
+      "source": "asr",
+      "end": 168.94
+    },
+    {
+      "word": "দেখুন",
+      "start": 168.94,
+      "source": "asr",
+      "end": 169.322
+    },
+    {
+      "word": ",",
+      "start": 169.322,
+      "source": "asr",
+      "end": 169.382
+    },
+    {
+      "word": "আপনি",
+      "start": 169.373,
+      "source": "asr",
+      "end": 169.704
+    },
+    {
+      "word": "নিজেকে",
+      "start": 169.704,
+      "source": "asr",
+      "end": 170.188
+    },
+    {
+      "word": "সেই",
+      "start": 170.188,
+      "source": "asr",
+      "end": 170.443
+    },
+    {
+      "word": "ভাষার",
+      "start": 170.443,
+      "source": "asr",
+      "end": 170.851
+    },
+    {
+      "word": "পরিবেশে",
+      "start": 170.851,
+      "source": "asr",
+      "end": 171.411
+    },
+    {
+      "word": "ঘিরে",
+      "start": 171.411,
+      "source": "asr",
+      "end": 171.742
+    },
+    {
+      "word": "ফেলছেন",
+      "start": 171.742,
+      "source": "asr",
+      "end": 172.226
+    },
+    {
+      "word": "যা",
+      "start": 172.226,
+      "source": "asr",
+      "end": 172.405
+    },
+    {
+      "word": "আপনি",
+      "start": 172.405,
+      "source": "asr",
+      "end": 172.736
+    },
+    {
+      "word": "শিখতে",
+      "start": 172.736,
+      "source": "asr",
+      "end": 173.144
+    },
+    {
+      "word": "চান",
+      "start": 173.144,
+      "source": "asr",
+      "end": 173.373
+    },
+    {
+      "word": "।",
+      "start": 173.373,
+      "source": "asr",
+      "end": 173.55
+    },
+    {
+      "word": "অর্থাৎ",
+      "start": 173.55,
+      "source": "asr",
+      "end": 173.989
+    },
+    {
+      "word": "আপনি",
+      "start": 173.989,
+      "source": "asr",
+      "end": 174.289
+    },
+    {
+      "word": "ইংরেজিকে",
+      "start": 174.289,
+      "source": "asr",
+      "end": 174.867
+    },
+    {
+      "word": "আপনার",
+      "start": 174.867,
+      "source": "asr",
+      "end": 175.237
+    },
+    {
+      "word": "জীবনের",
+      "start": 175.237,
+      "source": "asr",
+      "end": 175.676
+    },
+    {
+      "word": "অংশ",
+      "start": 175.676,
+      "source": "asr",
+      "end": 175.907
+    },
+    {
+      "word": "করে",
+      "start": 175.907,
+      "source": "asr",
+      "end": 176.138
+    },
+    {
+      "word": "নিচ্ছেন",
+      "start": 176.138,
+      "source": "asr",
+      "end": 176.623
+    },
+    {
+      "word": "।",
+      "start": 176.623,
+      "source": "asr",
+      "end": 176.793
+    },
+    {
+      "word": "ইংরেজিকে",
+      "start": 176.793,
+      "source": "asr",
+      "end": 177.384
+    },
+    {
+      "word": "আপনার",
+      "start": 177.384,
+      "source": "asr",
+      "end": 177.762
+    },
+    {
+      "word": "পরিবেশের",
+      "start": 177.762,
+      "source": "asr",
+      "end": 178.353
+    },
+    {
+      "word": "অংশ",
+      "start": 178.353,
+      "source": "asr",
+      "end": 178.59
+    },
+    {
+      "word": "করে",
+      "start": 178.59,
+      "source": "asr",
+      "end": 178.826
+    },
+    {
+      "word": "তুলছেন",
+      "start": 178.826,
+      "source": "asr",
+      "end": 179.252
+    },
+    {
+      "word": "।",
+      "start": 179.252,
+      "source": "asr",
+      "end": 179.423
+    },
+    {
+      "word": "আপনি",
+      "start": 179.423,
+      "source": "asr",
+      "end": 179.708
+    },
+    {
+      "word": "সকালে",
+      "start": 179.708,
+      "source": "asr",
+      "end": 180.06
+    },
+    {
+      "word": "ঘুম",
+      "start": 180.06,
+      "source": "asr",
+      "end": 180.279
+    },
+    {
+      "word": "থেকে",
+      "start": 180.279,
+      "source": "asr",
+      "end": 180.565
+    },
+    {
+      "word": "উঠেই",
+      "start": 180.565,
+      "source": "asr",
+      "end": 180.851
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 180.851,
+      "source": "asr",
+      "end": 181.268
+    },
+    {
+      "word": "শুনছেন",
+      "start": 181.268,
+      "source": "asr",
+      "end": 181.664
+    },
+    {
+      "word": "।",
+      "start": 181.664,
+      "source": "asr",
+      "end": 181.83
+    },
+    {
+      "word": "আপনি",
+      "start": 181.83,
+      "source": "asr",
+      "end": 182.131
+    },
+    {
+      "word": "যাতায়াত",
+      "start": 182.131,
+      "source": "asr",
+      "end": 182.711
+    },
+    {
+      "word": "করছেন",
+      "start": 182.711,
+      "source": "asr",
+      "end": 183.059
+    },
+    {
+      "word": "।",
+      "start": 183.059,
+      "source": "asr",
+      "end": 183.229
+    },
+    {
+      "word": "আপনি",
+      "start": 183.229,
+      "source": "asr",
+      "end": 183.511
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 183.511,
+      "source": "asr",
+      "end": 183.923
+    },
+    {
+      "word": "পডকাস্ট",
+      "start": 183.923,
+      "source": "asr",
+      "end": 184.401
+    },
+    {
+      "word": "শুনছেন",
+      "start": 184.401,
+      "source": "asr",
+      "end": 184.791
+    },
+    {
+      "word": "।",
+      "start": 184.791,
+      "source": "asr",
+      "end": 184.957
+    },
+    {
+      "word": "আপনি",
+      "start": 184.957,
+      "source": "asr",
+      "end": 185.236
+    },
+    {
+      "word": "খাবার",
+      "start": 185.236,
+      "source": "asr",
+      "end": 185.581
+    },
+    {
+      "word": "খাচ্ছেন",
+      "start": 185.581,
+      "source": "asr",
+      "end": 186.033
+    },
+    {
+      "word": ",",
+      "start": 186.033,
+      "source": "asr",
+      "end": 186.093
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 186.076,
+      "source": "asr",
+      "end": 186.485
+    },
+    {
+      "word": "ভিডিও",
+      "start": 186.485,
+      "source": "asr",
+      "end": 186.829
+    },
+    {
+      "word": "দেখছেন",
+      "start": 186.829,
+      "source": "asr",
+      "end": 187.217
+    },
+    {
+      "word": "।",
+      "start": 187.217,
+      "source": "asr",
+      "end": 187.382
+    },
+    {
+      "word": "আপনি",
+      "start": 187.382,
+      "source": "asr",
+      "end": 187.665
+    },
+    {
+      "word": "অবসর",
+      "start": 187.665,
+      "source": "asr",
+      "end": 187.948
+    },
+    {
+      "word": "বসে",
+      "start": 187.948,
+      "source": "asr",
+      "end": 188.167
+    },
+    {
+      "word": "আছেন",
+      "start": 188.167,
+      "source": "asr",
+      "end": 188.428
+    },
+    {
+      "word": ",",
+      "start": 188.428,
+      "source": "asr",
+      "end": 188.488
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 188.472,
+      "source": "asr",
+      "end": 188.886
+    },
+    {
+      "word": "মুভি",
+      "start": 188.886,
+      "source": "asr",
+      "end": 189.17
+    },
+    {
+      "word": "বা",
+      "start": 189.17,
+      "source": "asr",
+      "end": 189.322
+    },
+    {
+      "word": "ওয়েব",
+      "start": 189.322,
+      "source": "asr",
+      "end": 189.606
+    },
+    {
+      "word": "সিরিজ",
+      "start": 189.606,
+      "source": "asr",
+      "end": 189.955
+    },
+    {
+      "word": "দেখছেন",
+      "start": 189.955,
+      "source": "asr",
+      "end": 190.347
+    },
+    {
+      "word": "।",
+      "start": 190.347,
+      "source": "asr",
+      "end": 190.513
+    },
+    {
+      "word": "আপনি",
+      "start": 190.513,
+      "source": "asr",
+      "end": 190.817
+    },
+    {
+      "word": "ইউটিউব",
+      "start": 190.817,
+      "source": "asr",
+      "end": 191.261
+    },
+    {
+      "word": "খুলছেন",
+      "start": 191.261,
+      "source": "asr",
+      "end": 191.682
+    },
+    {
+      "word": ",",
+      "start": 191.682,
+      "source": "asr",
+      "end": 191.742
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 191.729,
+      "source": "asr",
+      "end": 192.173
+    },
+    {
+      "word": "কন্টেন্ট",
+      "start": 192.173,
+      "source": "asr",
+      "end": 192.757
+    },
+    {
+      "word": "দেখছেন",
+      "start": 192.757,
+      "source": "asr",
+      "end": 193.178
+    },
+    {
+      "word": "।",
+      "start": 193.178,
+      "source": "asr",
+      "end": 193.349
+    },
+    {
+      "word": "আপনি",
+      "start": 193.349,
+      "source": "asr",
+      "end": 193.67
+    },
+    {
+      "word": "ইনস্টাগ্রাম",
+      "start": 193.67,
+      "source": "asr",
+      "end": 194.51
+    },
+    {
+      "word": "খুলছেন",
+      "start": 194.51,
+      "source": "asr",
+      "end": 194.955
+    },
+    {
+      "word": ",",
+      "start": 194.955,
+      "source": "asr",
+      "end": 195.015
+    },
+    {
+      "word": "সেখানেও",
+      "start": 195.004,
+      "source": "asr",
+      "end": 195.547
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 195.547,
+      "source": "asr",
+      "end": 196.017
+    },
+    {
+      "word": "কন্টেন্ট",
+      "start": 196.017,
+      "source": "asr",
+      "end": 196.635
+    },
+    {
+      "word": "দেখছেন",
+      "start": 196.635,
+      "source": "asr",
+      "end": 197.079
+    },
+    {
+      "word": "।",
+      "start": 197.079,
+      "source": "asr",
+      "end": 197.708
+    },
+    {
+      "word": "অর্থাৎ",
+      "start": 197.708,
+      "source": "asr",
+      "end": 198.167
+    },
+    {
+      "word": "ধীরে",
+      "start": 198.167,
+      "source": "asr",
+      "end": 198.481
+    },
+    {
+      "word": "ধীরে",
+      "start": 198.481,
+      "source": "asr",
+      "end": 198.795
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 198.795,
+      "source": "asr",
+      "end": 199.254
+    },
+    {
+      "word": "আপনার",
+      "start": 199.254,
+      "source": "asr",
+      "end": 199.641
+    },
+    {
+      "word": "চারপাশ",
+      "start": 199.641,
+      "source": "asr",
+      "end": 200.1
+    },
+    {
+      "word": "ঘিরে",
+      "start": 200.1,
+      "source": "asr",
+      "end": 200.414
+    },
+    {
+      "word": "থাকবে",
+      "start": 200.414,
+      "source": "asr",
+      "end": 200.777
+    },
+    {
+      "word": "।",
+      "start": 200.777,
+      "source": "asr",
+      "end": 201.397
+    },
+    {
+      "word": "এবং",
+      "start": 201.397,
+      "source": "asr",
+      "end": 201.669
+    },
+    {
+      "word": "কেউ",
+      "start": 201.669,
+      "source": "asr",
+      "end": 201.942
+    },
+    {
+      "word": "একজন",
+      "start": 201.942,
+      "source": "asr",
+      "end": 202.296
+    },
+    {
+      "word": "খুব",
+      "start": 202.296,
+      "source": "asr",
+      "end": 202.568
+    },
+    {
+      "word": "ভালো",
+      "start": 202.568,
+      "source": "asr",
+      "end": 202.923
+    },
+    {
+      "word": "একটা",
+      "start": 202.923,
+      "source": "asr",
+      "end": 203.277
+    },
+    {
+      "word": "কথা",
+      "start": 203.277,
+      "source": "asr",
+      "end": 203.549
+    },
+    {
+      "word": "বলেছেন",
+      "start": 203.549,
+      "source": "asr",
+      "end": 204.04
+    },
+    {
+      "word": "।",
+      "start": 204.04,
+      "source": "asr",
+      "end": 204.284
+    },
+    {
+      "word": "যদি",
+      "start": 204.284,
+      "source": "asr",
+      "end": 204.562
+    },
+    {
+      "word": "ভাষা",
+      "start": 204.562,
+      "source": "asr",
+      "end": 204.924
+    },
+    {
+      "word": "শিখতে",
+      "start": 204.924,
+      "source": "asr",
+      "end": 205.369
+    },
+    {
+      "word": "চাও",
+      "start": 205.369,
+      "source": "asr",
+      "end": 205.62
+    },
+    {
+      "word": ",",
+      "start": 205.62,
+      "source": "asr",
+      "end": 205.68
+    },
+    {
+      "word": "তবে",
+      "start": 205.676,
+      "source": "asr",
+      "end": 205.954
+    },
+    {
+      "word": "সেই",
+      "start": 205.954,
+      "source": "asr",
+      "end": 206.232
+    },
+    {
+      "word": "দেশে",
+      "start": 206.232,
+      "source": "asr",
+      "end": 206.594
+    },
+    {
+      "word": "যাও",
+      "start": 206.594,
+      "source": "asr",
+      "end": 206.873
+    },
+    {
+      "word": "যেখানে",
+      "start": 206.873,
+      "source": "asr",
+      "end": 207.402
+    },
+    {
+      "word": "সেই",
+      "start": 207.402,
+      "source": "asr",
+      "end": 207.68
+    },
+    {
+      "word": "ভাষা",
+      "start": 207.68,
+      "source": "asr",
+      "end": 208.042
+    },
+    {
+      "word": "বলা",
+      "start": 208.042,
+      "source": "asr",
+      "end": 208.32
+    },
+    {
+      "word": "হয়",
+      "start": 208.32,
+      "source": "asr",
+      "end": 208.571
+    },
+    {
+      "word": "।",
+      "start": 208.571,
+      "source": "asr",
+      "end": 208.755
+    },
+    {
+      "word": "আর",
+      "start": 208.755,
+      "source": "asr",
+      "end": 208.927
+    },
+    {
+      "word": "যদি",
+      "start": 208.927,
+      "source": "asr",
+      "end": 209.174
+    },
+    {
+      "word": "সেই",
+      "start": 209.174,
+      "source": "asr",
+      "end": 209.42
+    },
+    {
+      "word": "দেশে",
+      "start": 209.42,
+      "source": "asr",
+      "end": 209.741
+    },
+    {
+      "word": "যেতে",
+      "start": 209.741,
+      "source": "asr",
+      "end": 210.061
+    },
+    {
+      "word": "না",
+      "start": 210.061,
+      "source": "asr",
+      "end": 210.234
+    },
+    {
+      "word": "পারো",
+      "start": 210.234,
+      "source": "asr",
+      "end": 210.53
+    },
+    {
+      "word": ",",
+      "start": 210.53,
+      "source": "asr",
+      "end": 210.59
+    },
+    {
+      "word": "তবে",
+      "start": 210.579,
+      "source": "asr",
+      "end": 210.826
+    },
+    {
+      "word": "সেই",
+      "start": 210.826,
+      "source": "asr",
+      "end": 211.072
+    },
+    {
+      "word": "দেশটিকে",
+      "start": 211.072,
+      "source": "asr",
+      "end": 211.615
+    },
+    {
+      "word": "তোমার",
+      "start": 211.615,
+      "source": "asr",
+      "end": 212.01
+    },
+    {
+      "word": "বাড়িতে",
+      "start": 212.01,
+      "source": "asr",
+      "end": 212.552
+    },
+    {
+      "word": "নিয়ে",
+      "start": 212.552,
+      "source": "asr",
+      "end": 212.873
+    },
+    {
+      "word": "এসো",
+      "start": 212.873,
+      "source": "asr",
+      "end": 213.095
+    },
+    {
+      "word": "।",
+      "start": 213.095,
+      "source": "asr",
+      "end": 213.269
+    },
+    {
+      "word": "এবং",
+      "start": 213.269,
+      "source": "asr",
+      "end": 213.521
+    },
+    {
+      "word": "যদি",
+      "start": 213.521,
+      "source": "asr",
+      "end": 213.774
+    },
+    {
+      "word": "আপনি",
+      "start": 213.774,
+      "source": "asr",
+      "end": 214.103
+    },
+    {
+      "word": "এমনটা",
+      "start": 214.103,
+      "source": "asr",
+      "end": 214.508
+    },
+    {
+      "word": "করতে",
+      "start": 214.508,
+      "source": "asr",
+      "end": 214.836
+    },
+    {
+      "word": "পারেন",
+      "start": 214.836,
+      "source": "asr",
+      "end": 215.216
+    },
+    {
+      "word": ",",
+      "start": 215.216,
+      "source": "asr",
+      "end": 215.276
+    },
+    {
+      "word": "তবে",
+      "start": 215.266,
+      "source": "asr",
+      "end": 215.519
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 215.519,
+      "source": "asr",
+      "end": 216.0
+    },
+    {
+      "word": "শেখা",
+      "start": 216.0,
+      "source": "asr",
+      "end": 216.329
+    },
+    {
+      "word": "থেকে",
+      "start": 216.329,
+      "source": "asr",
+      "end": 216.657
+    },
+    {
+      "word": "কেউ",
+      "start": 216.657,
+      "source": "asr",
+      "end": 216.91
+    },
+    {
+      "word": "আপনাকে",
+      "start": 216.91,
+      "source": "asr",
+      "end": 217.391
+    },
+    {
+      "word": "আটকাতে",
+      "start": 217.391,
+      "source": "asr",
+      "end": 217.871
+    },
+    {
+      "word": "পারবে",
+      "start": 217.871,
+      "source": "asr",
+      "end": 218.276
+    },
+    {
+      "word": "না",
+      "start": 218.276,
+      "source": "asr",
+      "end": 218.428
+    },
+    {
+      "word": "।",
+      "start": 218.428,
+      "source": "asr",
+      "end": 218.653
+    },
+    {
+      "word": "কারণ",
+      "start": 218.653,
+      "source": "asr",
+      "end": 219.004
+    },
+    {
+      "word": "আপনি",
+      "start": 219.004,
+      "source": "asr",
+      "end": 219.356
+    },
+    {
+      "word": "নিজেকে",
+      "start": 219.356,
+      "source": "asr",
+      "end": 219.87
+    },
+    {
+      "word": "যত",
+      "start": 219.87,
+      "source": "asr",
+      "end": 220.06
+    },
+    {
+      "word": "বেশি",
+      "start": 220.06,
+      "source": "asr",
+      "end": 220.411
+    },
+    {
+      "word": "ভাষার",
+      "start": 220.411,
+      "source": "asr",
+      "end": 220.844
+    },
+    {
+      "word": "সংস্পর্শে",
+      "start": 220.844,
+      "source": "asr",
+      "end": 221.602
+    },
+    {
+      "word": "রাখবেন",
+      "start": 221.602,
+      "source": "asr",
+      "end": 222.089
+    },
+    {
+      "word": ",",
+      "start": 222.089,
+      "source": "asr",
+      "end": 222.149
+    },
+    {
+      "word": "তত",
+      "start": 222.143,
+      "source": "asr",
+      "end": 222.333
+    },
+    {
+      "word": "বেশি",
+      "start": 222.333,
+      "source": "asr",
+      "end": 222.684
+    },
+    {
+      "word": "তা",
+      "start": 222.684,
+      "source": "asr",
+      "end": 222.874
+    },
+    {
+      "word": "পরিচিত",
+      "start": 222.874,
+      "source": "asr",
+      "end": 223.388
+    },
+    {
+      "word": "হয়ে",
+      "start": 223.388,
+      "source": "asr",
+      "end": 223.659
+    },
+    {
+      "word": "উঠবে",
+      "start": 223.659,
+      "source": "asr",
+      "end": 223.983
+    },
+    {
+      "word": "।",
+      "start": 223.983,
+      "source": "asr",
+      "end": 224.248
+    },
+    {
+      "word": "এখন",
+      "start": 224.248,
+      "source": "asr",
+      "end": 224.479
+    },
+    {
+      "word": "কথা",
+      "start": 224.479,
+      "source": "asr",
+      "end": 224.711
+    },
+    {
+      "word": "বলি",
+      "start": 224.711,
+      "source": "asr",
+      "end": 224.943
+    },
+    {
+      "word": "রাষ্ট্রমানীর",
+      "start": 224.943,
+      "source": "asr",
+      "end": 225.801
+    },
+    {
+      "word": "সেই",
+      "start": 225.801,
+      "source": "asr",
+      "end": 226.033
+    },
+    {
+      "word": "টিপস",
+      "start": 226.033,
+      "source": "asr",
+      "end": 226.335
+    },
+    {
+      "word": "নিয়ে",
+      "start": 226.335,
+      "source": "asr",
+      "end": 226.636
+    },
+    {
+      "word": "যা",
+      "start": 226.636,
+      "source": "asr",
+      "end": 226.798
+    },
+    {
+      "word": "আপনাকে",
+      "start": 226.798,
+      "source": "asr",
+      "end": 227.239
+    },
+    {
+      "word": "টপ",
+      "start": 227.239,
+      "source": "asr",
+      "end": 227.401
+    },
+    {
+      "word": "ক্লাস",
+      "start": 227.401,
+      "source": "asr",
+      "end": 227.772
+    },
+    {
+      "word": "স্পিকার",
+      "start": 227.772,
+      "source": "asr",
+      "end": 228.283
+    },
+    {
+      "word": "করে",
+      "start": 228.283,
+      "source": "asr",
+      "end": 228.515
+    },
+    {
+      "word": "তুলতে",
+      "start": 228.515,
+      "source": "asr",
+      "end": 228.886
+    },
+    {
+      "word": "পারে",
+      "start": 228.886,
+      "source": "asr",
+      "end": 229.164
+    },
+    {
+      "word": "।",
+      "start": 229.164,
+      "source": "asr",
+      "end": 229.334
+    },
+    {
+      "word": "কারণ",
+      "start": 229.334,
+      "source": "asr",
+      "end": 229.659
+    },
+    {
+      "word": "ইংরেজি",
+      "start": 229.659,
+      "source": "asr",
+      "end": 230.134
+    },
+    {
+      "word": "শুধু",
+      "start": 230.134,
+      "source": "asr",
+      "end": 230.459
+    },
+    {
+      "word": "দেখা",
+      "start": 230.459,
+      "source": "asr",
+      "end": 230.784
+    },
+    {
+      "word": "বা",
+      "start": 230.784,
+      "source": "asr",
+      "end": 230.96
+    },
+    {
+      "word": "শোনার",
+      "start": 230.96,
+      "source": "asr",
+      "end": 231.36
+    },
+    {
+      "word": "মাধ্যমে",
+      "start": 231.36,
+      "source": "asr",
+      "end": 231.91
+    },
+    {
+      "word": "আসবে",
+      "start": 231.91,
+      "source": "asr",
+      "end": 232.235
+    },
+    {
+      "word": "না",
+      "start": 232.235,
+      "source": "asr",
+      "end": 232.385
+    },
+    {
+      "word": "।",
+      "start": 232.385,
+      "source": "asr",
+      "end": 232.592
+    },
+    {
+      "word": "আপনাকে",
+      "start": 232.592,
+      "source": "asr",
+      "end": 233.103
+    },
+    {
+      "word": "সেটা",
+      "start": 233.103,
+      "source": "asr",
+      "end": 233.452
+    },
+    {
+      "word": "বলতেও",
+      "start": 233.452,
+      "source": "asr",
+      "end": 233.883
+    },
+    {
+      "word": "হবে",
+      "start": 233.883,
+      "source": "asr",
+      "end": 234.125
+    },
+    {
+      "word": "।",
+      "start": 234.125,
+      "source": "asr",
+      "end": 234.611
+    },
+    {
+      "word": "আর",
+      "start": 234.611,
+      "source": "asr",
+      "end": 234.796
+    },
+    {
+      "word": "এখানেই",
+      "start": 234.796,
+      "source": "asr",
+      "end": 235.299
+    },
+    {
+      "word": "কাজে",
+      "start": 235.299,
+      "source": "asr",
+      "end": 235.643
+    },
+    {
+      "word": "আসে",
+      "start": 235.643,
+      "source": "asr",
+      "end": 235.907
+    },
+    {
+      "word": "রাষ্ট্রমানীর",
+      "start": 235.907,
+      "source": "asr",
+      "end": 236.886
+    },
+    {
+      "word": "সেই",
+      "start": 236.886,
+      "source": "asr",
+      "end": 237.151
+    },
+    {
+      "word": "কৌশলটি",
+      "start": 237.151,
+      "source": "asr",
+      "end": 237.627
+    },
+    {
+      "word": "।",
+      "start": 237.627,
+      "source": "asr",
+      "end": 238.827
+    },
+    {
+      "word": "আমার",
+      "start": 238.94,
+      "source": "asr",
+      "end": 239.335
+    },
+    {
+      "word": "২৬",
+      "start": 239.335,
+      "source": "asr",
+      "end": 239.548
+    },
+    {
+      "word": "বছরের",
+      "start": 239.548,
+      "source": "asr",
+      "end": 240.034
+    },
+    {
+      "word": "জীবনে",
+      "start": 240.034,
+      "source": "asr",
+      "end": 240.521
+    },
+    {
+      "word": "এটাই",
+      "start": 240.521,
+      "source": "asr",
+      "end": 240.916
+    },
+    {
+      "word": "আমার",
+      "start": 240.916,
+      "source": "asr",
+      "end": 241.312
+    },
+    {
+      "word": "সেরা",
+      "start": 241.312,
+      "source": "asr",
+      "end": 241.707
+    },
+    {
+      "word": "আবিষ্কার",
+      "start": 241.707,
+      "source": "asr",
+      "end": 242.437
+    },
+    {
+      "word": ",",
+      "start": 242.437,
+      "source": "asr",
+      "end": 242.498
+    },
+    {
+      "word": "আমার",
+      "start": 242.498,
+      "source": "asr",
+      "end": 242.893
+    },
+    {
+      "word": "মতে",
+      "start": 242.893,
+      "source": "asr",
+      "end": 243.198
+    },
+    {
+      "word": "সেরা",
+      "start": 243.198,
+      "source": "asr",
+      "end": 243.593
+    },
+    {
+      "word": "টুল",
+      "start": 243.593,
+      "source": "asr",
+      "end": 243.897
+    },
+    {
+      "word": "এবং",
+      "start": 243.897,
+      "source": "asr",
+      "end": 244.201
+    },
+    {
+      "word": "কৌশল",
+      "start": 244.201,
+      "source": "asr",
+      "end": 244.566
+    },
+    {
+      "word": "।",
+      "start": 244.566,
+      "source": "asr",
+      "end": 245.06
+    },
+    {
+      "word": "যদি",
+      "start": 245.06,
+      "source": "asr",
+      "end": 245.303
+    },
+    {
+      "word": "কোনো",
+      "start": 245.303,
+      "source": "asr",
+      "end": 245.621
+    },
+    {
+      "word": "মানুষ",
+      "start": 245.621,
+      "source": "asr",
+      "end": 246.011
+    },
+    {
+      "word": "রোজ",
+      "start": 246.011,
+      "source": "asr",
+      "end": 246.255
+    },
+    {
+      "word": "মাত্র",
+      "start": 246.255,
+      "source": "asr",
+      "end": 246.645
+    },
+    {
+      "word": "এই",
+      "start": 246.645,
+      "source": "asr",
+      "end": 246.816
+    },
+    {
+      "word": "তিনটি",
+      "start": 246.816,
+      "source": "asr",
+      "end": 247.206
+    },
+    {
+      "word": "কাজ",
+      "start": 247.206,
+      "source": "asr",
+      "end": 247.45
+    },
+    {
+      "word": "করে",
+      "start": 247.45,
+      "source": "asr",
+      "end": 247.67
+    },
+    {
+      "word": ",",
+      "start": 247.67,
+      "source": "asr",
+      "end": 247.73
+    },
+    {
+      "word": "তবে",
+      "start": 247.719,
+      "source": "asr",
+      "end": 247.963
+    },
+    {
+      "word": "সে",
+      "start": 247.963,
+      "source": "asr",
+      "end": 248.133
+    },
+    {
+      "word": "খুব",
+      "start": 248.133,
+      "source": "asr",
+      "end": 248.377
+    },
+    {
+      "word": "দ্রুত",
+      "start": 248.377,
+      "source": "asr",
+      "end": 248.768
+    },
+    {
+      "word": "টপ",
+      "start": 248.768,
+      "source": "asr",
+      "end": 248.938
+    },
+    {
+      "word": "ক্লাস",
+      "start": 248.938,
+      "source": "asr",
+      "end": 249.329
+    },
+    {
+      "word": "স্পিকার",
+      "start": 249.329,
+      "source": "asr",
+      "end": 249.865
+    },
+    {
+      "word": "হয়ে",
+      "start": 249.865,
+      "source": "asr",
+      "end": 250.109
+    },
+    {
+      "word": "উঠতে",
+      "start": 250.109,
+      "source": "asr",
+      "end": 250.427
+    },
+    {
+      "word": "পারে",
+      "start": 250.427,
+      "source": "asr",
+      "end": 250.719
+    },
+    {
+      "word": "।",
+      "start": 250.719,
+      "source": "asr",
+      "end": 250.893
+    },
+    {
+      "word": ">> হ্যাঁ",
+      "start": 250.893,
+      "source": "asr",
+      "end": 251.267
+    },
+    {
+      "word": ",",
+      "start": 251.267,
+      "source": "asr",
+      "end": 251.327
+    },
+    {
+      "word": "এটা",
+      "start": 251.317,
+      "source": "asr",
+      "end": 251.566
+    },
+    {
+      "word": "একটা",
+      "start": 251.566,
+      "source": "asr",
+      "end": 251.89
+    },
+    {
+      "word": "উপায়",
+      "start": 251.89,
+      "source": "asr",
+      "end": 252.214
+    },
+    {
+      "word": "তাই",
+      "start": 252.214,
+      "source": "asr",
+      "end": 252.464
+    },
+    {
+      "word": "না",
+      "start": 252.464,
+      "source": "asr",
+      "end": 252.614
+    },
+    {
+      "word": "?",
+      "start": 252.614,
+      "source": "asr",
+      "end": 252.739
+    },
+    {
+      "word": "তো",
+      "start": 252.739,
+      "source": "asr",
+      "end": 252.917
+    },
+    {
+      "word": "আপনি",
+      "start": 252.917,
+      "source": "asr",
+      "end": 253.249
+    },
+    {
+      "word": "যেমনই",
+      "start": 253.249,
+      "source": "asr",
+      "end": 253.658
+    },
+    {
+      "word": "কথা",
+      "start": 253.658,
+      "source": "asr",
+      "end": 253.913
+    },
+    {
+      "word": "বলেন",
+      "start": 253.913,
+      "source": "asr",
+      "end": 254.22
+    },
+    {
+      "word": ",",
+      "start": 254.22,
+      "source": "asr",
+      "end": 254.28
+    },
+    {
+      "word": "যা",
+      "start": 254.271,
+      "source": "asr",
+      "end": 254.424
+    },
+    {
+      "word": "-",
+      "start": 254.424,
+      "source": "asr",
+      "end": 254.484
+    },
+    {
+      "word": "ই",
+      "start": 254.45,
+      "source": "asr",
+      "end": 254.552
+    },
+    {
+      "word": "করতে",
+      "start": 254.552,
+      "source": "asr",
+      "end": 254.884
+    },
+    {
+      "word": "চান",
+      "start": 254.884,
+      "source": "asr",
+      "end": 255.114
+    },
+    {
+      "word": ",",
+      "start": 255.114,
+      "source": "asr",
+      "end": 255.174
+    },
+    {
+      "word": "যেভাবে",
+      "start": 255.165,
+      "source": "asr",
+      "end": 255.65
+    },
+    {
+      "word": "বলছেন",
+      "start": 255.65,
+      "source": "asr",
+      "end": 256.058
+    },
+    {
+      "word": "বলুন",
+      "start": 256.058,
+      "source": "asr",
+      "end": 256.365
+    },
+    {
+      "word": "।",
+      "start": 256.365,
+      "source": "asr",
+      "end": 256.542
+    },
+    {
+      "word": "আপনি",
+      "start": 256.542,
+      "source": "asr",
+      "end": 256.83
+    },
+    {
+      "word": "বলুন",
+      "start": 256.83,
+      "source": "asr",
+      "end": 257.119
+    },
+    {
+      "word": "এবং",
+      "start": 257.119,
+      "source": "asr",
+      "end": 257.342
+    },
+    {
+      "word": "নিজেকে",
+      "start": 257.342,
+      "source": "asr",
+      "end": 257.764
+    },
+    {
+      "word": "রেকর্ড",
+      "start": 257.764,
+      "source": "asr",
+      "end": 258.186
+    },
+    {
+      "word": "করুন",
+      "start": 258.186,
+      "source": "asr",
+      "end": 258.453
+    },
+    {
+      "word": "।",
+      "start": 258.453,
+      "source": "asr",
+      "end": 258.62
+    },
+    {
+      "word": ">> অবশ্যই",
+      "start": 258.62,
+      "source": "asr",
+      "end": 259.188
+    },
+    {
+      "word": "।",
+      "start": 259.188,
+      "source": "asr",
+      "end": 259.383
+    },
+    {
+      "word": ">> ঠিক",
+      "start": 259.383,
+      "source": "asr",
+      "end": 259.71
+    },
+    {
+      "word": "আছে",
+      "start": 259.71,
+      "source": "asr",
+      "end": 260.004
+    },
+    {
+      "word": "?",
+      "start": 260.004,
+      "source": "asr",
+      "end": 260.137
+    },
+    {
+      "word": ">> শুনুন",
+      "start": 260.137,
+      "source": "asr",
+      "end": 260.545
+    },
+    {
+      "word": ",",
+      "start": 260.545,
+      "source": "asr",
+      "end": 260.605
+    },
+    {
+      "word": "নিজেকে",
+      "start": 260.599,
+      "source": "asr",
+      "end": 261.116
+    },
+    {
+      "word": "রেকর্ড",
+      "start": 261.116,
+      "source": "asr",
+      "end": 261.633
+    },
+    {
+      "word": "করুন",
+      "start": 261.633,
+      "source": "asr",
+      "end": 261.959
+    },
+    {
+      "word": "।",
+      "start": 261.959,
+      "source": "asr",
+      "end": 262.141
+    },
+    {
+      "word": "এবং",
+      "start": 262.141,
+      "source": "asr",
+      "end": 262.401
+    },
+    {
+      "word": "রেকর্ড",
+      "start": 262.401,
+      "source": "asr",
+      "end": 262.895
+    },
+    {
+      "word": "করার",
+      "start": 262.895,
+      "source": "asr",
+      "end": 263.233
+    },
+    {
+      "word": "পর",
+      "start": 263.233,
+      "source": "asr",
+      "end": 263.415
+    },
+    {
+      "word": "কৌশলটি",
+      "start": 263.415,
+      "source": "asr",
+      "end": 263.909
+    },
+    {
+      "word": "হলো",
+      "start": 263.909,
+      "source": "asr",
+      "end": 264.169
+    },
+    {
+      "word": "আপনাকে",
+      "start": 264.169,
+      "source": "asr",
+      "end": 264.663
+    },
+    {
+      "word": "তিনটি",
+      "start": 264.663,
+      "source": "asr",
+      "end": 265.079
+    },
+    {
+      "word": "কাজ",
+      "start": 265.079,
+      "source": "asr",
+      "end": 265.339
+    },
+    {
+      "word": "করতে",
+      "start": 265.339,
+      "source": "asr",
+      "end": 265.677
+    },
+    {
+      "word": "হবে",
+      "start": 265.677,
+      "source": "asr",
+      "end": 265.911
+    },
+    {
+      "word": "।",
+      "start": 265.911,
+      "source": "asr",
+      "end": 266.089
+    },
+    {
+      "word": ">> যদি",
+      "start": 266.089,
+      "source": "asr",
+      "end": 266.374
+    },
+    {
+      "word": "কোনো",
+      "start": 266.374,
+      "source": "asr",
+      "end": 266.746
+    },
+    {
+      "word": "মানুষ",
+      "start": 266.746,
+      "source": "asr",
+      "end": 267.203
+    },
+    {
+      "word": "রোজ",
+      "start": 267.203,
+      "source": "asr",
+      "end": 267.489
+    },
+    {
+      "word": "এই",
+      "start": 267.489,
+      "source": "asr",
+      "end": 267.689
+    },
+    {
+      "word": "তিনটি",
+      "start": 267.689,
+      "source": "asr",
+      "end": 268.146
+    },
+    {
+      "word": "কাজ",
+      "start": 268.146,
+      "source": "asr",
+      "end": 268.432
+    },
+    {
+      "word": "করে",
+      "start": 268.432,
+      "source": "asr",
+      "end": 268.689
+    },
+    {
+      "word": ",",
+      "start": 268.689,
+      "source": "asr",
+      "end": 268.749
+    },
+    {
+      "word": "তবে",
+      "start": 268.746,
+      "source": "asr",
+      "end": 269.032
+    },
+    {
+      "word": "সে",
+      "start": 269.032,
+      "source": "asr",
+      "end": 269.304
+    },
+    {
+      "word": ">> প্রথমত",
+      "start": 269.304,
+      "source": "asr",
+      "end": 269.756
+    },
+    {
+      "word": ",",
+      "start": 269.756,
+      "source": "asr",
+      "end": 269.816
+    },
+    {
+      "word": "নিজের",
+      "start": 269.806,
+      "source": "asr",
+      "end": 270.208
+    },
+    {
+      "word": "ভিডিওটি",
+      "start": 270.208,
+      "source": "asr",
+      "end": 270.76
+    },
+    {
+      "word": "মিউট",
+      "start": 270.76,
+      "source": "asr",
+      "end": 271.087
+    },
+    {
+      "word": "করুন",
+      "start": 271.087,
+      "source": "asr",
+      "end": 271.413
+    },
+    {
+      "word": "এবং",
+      "start": 271.413,
+      "source": "asr",
+      "end": 271.665
+    },
+    {
+      "word": "কেবল",
+      "start": 271.665,
+      "source": "asr",
+      "end": 271.991
+    },
+    {
+      "word": "নিজেকে",
+      "start": 271.991,
+      "source": "asr",
+      "end": 272.468
+    },
+    {
+      "word": "দেখুন",
+      "start": 272.468,
+      "source": "asr",
+      "end": 272.845
+    },
+    {
+      "word": "।",
+      "start": 272.845,
+      "source": "asr",
+      "end": 273.021
+    },
+    {
+      "word": "লক্ষ্য",
+      "start": 273.021,
+      "source": "asr",
+      "end": 273.447
+    },
+    {
+      "word": "করুন",
+      "start": 273.447,
+      "source": "asr",
+      "end": 273.739
+    },
+    {
+      "word": "আপনার",
+      "start": 273.739,
+      "source": "asr",
+      "end": 274.099
+    },
+    {
+      "word": "ফেশিয়াল",
+      "start": 274.099,
+      "source": "asr",
+      "end": 274.593
+    },
+    {
+      "word": "এক্সপ্রেশন",
+      "start": 274.593,
+      "source": "asr",
+      "end": 275.29
+    },
+    {
+      "word": "কেমন",
+      "start": 275.29,
+      "source": "asr",
+      "end": 275.559
+    },
+    {
+      "word": "।",
+      "start": 275.559,
+      "source": "asr",
+      "end": 275.967
+    },
+    {
+      "word": "আপনার",
+      "start": 275.967,
+      "source": "asr",
+      "end": 276.351
+    },
+    {
+      "word": "হ্যান্ড",
+      "start": 276.351,
+      "source": "asr",
+      "end": 276.88
+    },
+    {
+      "word": "জেসচার",
+      "start": 276.88,
+      "source": "asr",
+      "end": 277.337
+    },
+    {
+      "word": "কেমন",
+      "start": 277.337,
+      "source": "asr",
+      "end": 277.65
+    },
+    {
+      "word": "এবং",
+      "start": 277.65,
+      "source": "asr",
+      "end": 277.89
+    },
+    {
+      "word": "ভাবুন",
+      "start": 277.89,
+      "source": "asr",
+      "end": 278.275
+    },
+    {
+      "word": "কীভাবে",
+      "start": 278.275,
+      "source": "asr",
+      "end": 278.732
+    },
+    {
+      "word": "এগুলো",
+      "start": 278.732,
+      "source": "asr",
+      "end": 279.117
+    },
+    {
+      "word": "উন্নত",
+      "start": 279.117,
+      "source": "asr",
+      "end": 279.501
+    },
+    {
+      "word": "করা",
+      "start": 279.501,
+      "source": "asr",
+      "end": 279.742
+    },
+    {
+      "word": "যায়",
+      "start": 279.742,
+      "source": "asr",
+      "end": 279.958
+    },
+    {
+      "word": "।",
+      "start": 279.958,
+      "source": "asr",
+      "end": 280.826
+    },
+    {
+      "word": "দ্বিতীয়বার",
+      "start": 280.826,
+      "source": "asr",
+      "end": 281.596
+    },
+    {
+      "word": "কেবল",
+      "start": 281.596,
+      "source": "asr",
+      "end": 281.919
+    },
+    {
+      "word": "শুনুন",
+      "start": 281.919,
+      "source": "asr",
+      "end": 282.292
+    },
+    {
+      "word": "।",
+      "start": 282.292,
+      "source": "asr",
+      "end": 282.467
+    },
+    {
+      "word": "ভিডিও",
+      "start": 282.467,
+      "source": "asr",
+      "end": 282.872
+    },
+    {
+      "word": "দেখবেন",
+      "start": 282.872,
+      "source": "asr",
+      "end": 283.353
+    },
+    {
+      "word": "না",
+      "start": 283.353,
+      "source": "asr",
+      "end": 283.505
+    },
+    {
+      "word": "।",
+      "start": 283.505,
+      "source": "asr",
+      "end": 283.682
+    },
+    {
+      "word": "লক্ষ্য",
+      "start": 283.682,
+      "source": "asr",
+      "end": 284.108
+    },
+    {
+      "word": "করুন",
+      "start": 284.108,
+      "source": "asr",
+      "end": 284.4
+    },
+    {
+      "word": "আপনি",
+      "start": 284.4,
+      "source": "asr",
+      "end": 284.692
+    },
+    {
+      "word": "কোথায়",
+      "start": 284.692,
+      "source": "asr",
+      "end": 285.052
+    },
+    {
+      "word": "বিরতি",
+      "start": 285.052,
+      "source": "asr",
+      "end": 285.411
+    },
+    {
+      "word": "নিচ্ছেন",
+      "start": 285.411,
+      "source": "asr",
+      "end": 285.883
+    },
+    {
+      "word": "।",
+      "start": 285.883,
+      "source": "asr",
+      "end": 286.051
+    },
+    {
+      "word": "কোথায়",
+      "start": 286.051,
+      "source": "asr",
+      "end": 286.446
+    },
+    {
+      "word": "আপনার",
+      "start": 286.446,
+      "source": "asr",
+      "end": 286.842
+    },
+    {
+      "word": "ভয়েস",
+      "start": 286.842,
+      "source": "asr",
+      "end": 287.163
+    },
+    {
+      "word": "মডুলেশন",
+      "start": 287.163,
+      "source": "asr",
+      "end": 287.707
+    },
+    {
+      "word": "ভালো",
+      "start": 287.707,
+      "source": "asr",
+      "end": 288.003
+    },
+    {
+      "word": "।",
+      "start": 288.003,
+      "source": "asr",
+      "end": 288.178
+    },
+    {
+      "word": "কোথায়",
+      "start": 288.178,
+      "source": "asr",
+      "end": 288.525
+    },
+    {
+      "word": "আপনার",
+      "start": 288.525,
+      "source": "asr",
+      "end": 288.872
+    },
+    {
+      "word": "কণ্ঠস্বর",
+      "start": 288.872,
+      "source": "asr",
+      "end": 289.415
+    },
+    {
+      "word": "উঁচুতে",
+      "start": 289.415,
+      "source": "asr",
+      "end": 289.828
+    },
+    {
+      "word": "যাচ্ছে",
+      "start": 289.828,
+      "source": "asr",
+      "end": 290.218
+    },
+    {
+      "word": "।",
+      "start": 290.218,
+      "source": "asr",
+      "end": 290.384
+    },
+    {
+      "word": "কোথায়",
+      "start": 290.384,
+      "source": "asr",
+      "end": 290.819
+    },
+    {
+      "word": "নিচে",
+      "start": 290.819,
+      "source": "asr",
+      "end": 291.172
+    },
+    {
+      "word": "নামছে",
+      "start": 291.172,
+      "source": "asr",
+      "end": 291.58
+    },
+    {
+      "word": "।",
+      "start": 291.58,
+      "source": "asr",
+      "end": 292.053
+    },
+    {
+      "word": "তৃতীয়বার",
+      "start": 292.053,
+      "source": "asr",
+      "end": 292.719
+    },
+    {
+      "word": "ভিডিও",
+      "start": 292.719,
+      "source": "asr",
+      "end": 293.145
+    },
+    {
+      "word": "এবং",
+      "start": 293.145,
+      "source": "asr",
+      "end": 293.412
+    },
+    {
+      "word": "অডিও",
+      "start": 293.412,
+      "source": "asr",
+      "end": 293.759
+    },
+    {
+      "word": "দুটোই",
+      "start": 293.759,
+      "source": "asr",
+      "end": 294.185
+    },
+    {
+      "word": "একসাথে",
+      "start": 294.185,
+      "source": "asr",
+      "end": 294.692
+    },
+    {
+      "word": "দেখুন",
+      "start": 294.692,
+      "source": "asr",
+      "end": 295.118
+    },
+    {
+      "word": "এবং",
+      "start": 295.118,
+      "source": "asr",
+      "end": 295.385
+    },
+    {
+      "word": "শুনুন",
+      "start": 295.385,
+      "source": "asr",
+      "end": 295.785
+    },
+    {
+      "word": "।",
+      "start": 295.785,
+      "source": "asr",
+      "end": 296.959
+    },
+    {
+      "word": "বিশ্লেষণ",
+      "start": 296.959,
+      "source": "asr",
+      "end": 297.566
+    },
+    {
+      "word": "করো",
+      "start": 297.566,
+      "source": "asr",
+      "end": 297.809
+    },
+    {
+      "word": "যে",
+      "start": 297.809,
+      "source": "asr",
+      "end": 297.979
+    },
+    {
+      "word": "আগে",
+      "start": 297.979,
+      "source": "asr",
+      "end": 298.222
+    },
+    {
+      "word": "যা",
+      "start": 298.222,
+      "source": "asr",
+      "end": 298.392
+    },
+    {
+      "word": "যা",
+      "start": 298.392,
+      "source": "asr",
+      "end": 298.562
+    },
+    {
+      "word": "লক্ষ্য",
+      "start": 298.562,
+      "source": "asr",
+      "end": 299.023
+    },
+    {
+      "word": "করেছিলে",
+      "start": 299.023,
+      "source": "asr",
+      "end": 299.558
+    },
+    {
+      "word": "তা",
+      "start": 299.558,
+      "source": "asr",
+      "end": 299.728
+    },
+    {
+      "word": "কি",
+      "start": 299.728,
+      "source": "asr",
+      "end": 299.898
+    },
+    {
+      "word": "এখনও",
+      "start": 299.898,
+      "source": "asr",
+      "end": 300.214
+    },
+    {
+      "word": "ঘটছে",
+      "start": 300.214,
+      "source": "asr",
+      "end": 300.53
+    },
+    {
+      "word": "এবং",
+      "start": 300.53,
+      "source": "asr",
+      "end": 300.773
+    },
+    {
+      "word": "তারপর",
+      "start": 300.773,
+      "source": "asr",
+      "end": 301.161
+    },
+    {
+      "word": "তোমার",
+      "start": 301.161,
+      "source": "asr",
+      "end": 301.55
+    },
+    {
+      "word": "পরের",
+      "start": 301.55,
+      "source": "asr",
+      "end": 301.866
+    },
+    {
+      "word": "ভিডিওতে",
+      "start": 301.866,
+      "source": "asr",
+      "end": 302.4
+    },
+    {
+      "word": "সেগুলো",
+      "start": 302.4,
+      "source": "asr",
+      "end": 302.862
+    },
+    {
+      "word": "উন্নত",
+      "start": 302.862,
+      "source": "asr",
+      "end": 303.251
+    },
+    {
+      "word": "করার",
+      "start": 303.251,
+      "source": "asr",
+      "end": 303.566
+    },
+    {
+      "word": "চেষ্টা",
+      "start": 303.566,
+      "source": "asr",
+      "end": 304.028
+    },
+    {
+      "word": "করো",
+      "start": 304.028,
+      "source": "asr",
+      "end": 304.247
+    },
+    {
+      "word": "।",
+      "start": 304.247,
+      "source": "asr",
+      "end": 305.447
+    },
+    {
+      "word": "তুমি",
+      "start": 305.713,
+      "source": "asr",
+      "end": 306.053
+    },
+    {
+      "word": "যদি",
+      "start": 306.053,
+      "source": "asr",
+      "end": 306.315
+    },
+    {
+      "word": "এটা",
+      "start": 306.315,
+      "source": "asr",
+      "end": 306.577
+    },
+    {
+      "word": "নিয়মিত",
+      "start": 306.577,
+      "source": "asr",
+      "end": 307.075
+    },
+    {
+      "word": "করো",
+      "start": 307.075,
+      "source": "asr",
+      "end": 307.311
+    },
+    {
+      "word": ",",
+      "start": 307.311,
+      "source": "asr",
+      "end": 307.371
+    },
+    {
+      "word": "তাহলে",
+      "start": 307.364,
+      "source": "asr",
+      "end": 307.783
+    },
+    {
+      "word": "তিন",
+      "start": 307.783,
+      "source": "asr",
+      "end": 308.045
+    },
+    {
+      "word": "মাসের",
+      "start": 308.045,
+      "source": "asr",
+      "end": 308.465
+    },
+    {
+      "word": "কথা",
+      "start": 308.465,
+      "source": "asr",
+      "end": 308.727
+    },
+    {
+      "word": "তো",
+      "start": 308.727,
+      "source": "asr",
+      "end": 308.91
+    },
+    {
+      "word": "বাদই",
+      "start": 308.91,
+      "source": "asr",
+      "end": 309.251
+    },
+    {
+      "word": "দাও",
+      "start": 309.251,
+      "source": "asr",
+      "end": 309.487
+    },
+    {
+      "word": "।",
+      "start": 309.487,
+      "source": "asr",
+      "end": 309.747
+    },
+    {
+      "word": "তুমি",
+      "start": 309.747,
+      "source": "asr",
+      "end": 310.079
+    },
+    {
+      "word": "এক",
+      "start": 310.079,
+      "source": "asr",
+      "end": 310.258
+    },
+    {
+      "word": "মাসেই",
+      "start": 310.258,
+      "source": "asr",
+      "end": 310.667
+    },
+    {
+      "word": "ফলাফল",
+      "start": 310.667,
+      "source": "asr",
+      "end": 311.077
+    },
+    {
+      "word": "দেখতে",
+      "start": 311.077,
+      "source": "asr",
+      "end": 311.486
+    },
+    {
+      "word": "পাবে",
+      "start": 311.486,
+      "source": "asr",
+      "end": 311.793
+    },
+    {
+      "word": "।",
+      "start": 311.793,
+      "source": "asr",
+      "end": 311.97
+    },
+    {
+      "word": "তাই",
+      "start": 311.97,
+      "source": "asr",
+      "end": 312.224
+    },
+    {
+      "word": "দুটি",
+      "start": 312.224,
+      "source": "asr",
+      "end": 312.556
+    },
+    {
+      "word": "কাজ",
+      "start": 312.556,
+      "source": "asr",
+      "end": 312.81
+    },
+    {
+      "word": "করতে",
+      "start": 312.81,
+      "source": "asr",
+      "end": 313.142
+    },
+    {
+      "word": "হবে",
+      "start": 313.142,
+      "source": "asr",
+      "end": 313.371
+    },
+    {
+      "word": "।",
+      "start": 313.371,
+      "source": "asr",
+      "end": 313.548
+    },
+    {
+      "word": "নম্বর",
+      "start": 313.548,
+      "source": "asr",
+      "end": 313.946
+    },
+    {
+      "word": "এক",
+      "start": 313.946,
+      "source": "asr",
+      "end": 314.095
+    },
+    {
+      "word": ",",
+      "start": 314.095,
+      "source": "asr",
+      "end": 314.155
+    },
+    {
+      "word": "নিজেকে",
+      "start": 314.145,
+      "source": "asr",
+      "end": 314.618
+    },
+    {
+      "word": "ইংরেজির",
+      "start": 314.618,
+      "source": "asr",
+      "end": 315.165
+    },
+    {
+      "word": "পরিবেশে",
+      "start": 315.165,
+      "source": "asr",
+      "end": 315.713
+    },
+    {
+      "word": "ঘিরে",
+      "start": 315.713,
+      "source": "asr",
+      "end": 316.036
+    },
+    {
+      "word": "রাখো",
+      "start": 316.036,
+      "source": "asr",
+      "end": 316.335
+    },
+    {
+      "word": "।",
+      "start": 316.335,
+      "source": "asr",
+      "end": 316.51
+    },
+    {
+      "word": "নম্বর",
+      "start": 316.51,
+      "source": "asr",
+      "end": 316.932
+    },
+    {
+      "word": "দুই",
+      "start": 316.932,
+      "source": "asr",
+      "end": 317.169
+    },
+    {
+      "word": ",",
+      "start": 317.169,
+      "source": "asr",
+      "end": 317.229
+    },
+    {
+      "word": "নিজেকে",
+      "start": 317.222,
+      "source": "asr",
+      "end": 317.723
+    },
+    {
+      "word": "রেকর্ড",
+      "start": 317.723,
+      "source": "asr",
+      "end": 318.224
+    },
+    {
+      "word": "করো",
+      "start": 318.224,
+      "source": "asr",
+      "end": 318.461
+    },
+    {
+      "word": "।",
+      "start": 318.461,
+      "source": "asr",
+      "end": 318.641
+    },
+    {
+      "word": "এবং",
+      "start": 318.641,
+      "source": "asr",
+      "end": 318.909
+    },
+    {
+      "word": "কমেন্ট",
+      "start": 318.909,
+      "source": "asr",
+      "end": 319.42
+    },
+    {
+      "word": "সেকশনে",
+      "start": 319.42,
+      "source": "asr",
+      "end": 319.931
+    },
+    {
+      "word": "এখনই",
+      "start": 319.931,
+      "source": "asr",
+      "end": 320.28
+    },
+    {
+      "word": "লেখো",
+      "start": 320.28,
+      "source": "asr",
+      "end": 320.603
+    },
+    {
+      "word": "।",
+      "start": 320.603,
+      "source": "asr",
+      "end": 320.784
+    },
+    {
+      "word": "আই",
+      "start": 320.784,
+      "source": "asr",
+      "end": 320.964
+    },
+    {
+      "word": "একসেপ্ট",
+      "start": 320.964,
+      "source": "asr",
+      "end": 321.531
+    },
+    {
+      "word": "দিস",
+      "start": 321.531,
+      "source": "asr",
+      "end": 321.789
+    },
+    {
+      "word": "৯০",
+      "start": 321.789,
+      "source": "asr",
+      "end": 321.969
+    },
+    {
+      "word": "ডেজ",
+      "start": 321.969,
+      "source": "asr",
+      "end": 322.227
+    },
+    {
+      "word": "চ্যালেঞ্জ",
+      "start": 322.227,
+      "source": "asr",
+      "end": 322.923
+    },
+    {
+      "word": "।",
+      "start": 322.923,
+      "source": "asr",
+      "end": 323.101
+    },
+    {
+      "word": "আর",
+      "start": 323.101,
+      "source": "asr",
+      "end": 323.307
+    },
+    {
+      "word": "৯০",
+      "start": 323.307,
+      "source": "asr",
+      "end": 323.513
+    },
+    {
+      "word": "দিন",
+      "start": 323.513,
+      "source": "asr",
+      "end": 323.808
+    },
+    {
+      "word": "পর",
+      "start": 323.808,
+      "source": "asr",
+      "end": 324.014
+    },
+    {
+      "word": "অবশ্যই",
+      "start": 324.014,
+      "source": "asr",
+      "end": 324.574
+    },
+    {
+      "word": "ফিরে",
+      "start": 324.574,
+      "source": "asr",
+      "end": 324.957
+    },
+    {
+      "word": "এসো",
+      "start": 324.957,
+      "source": "asr",
+      "end": 325.222
+    },
+    {
+      "word": "।",
+      "start": 325.222,
+      "source": "asr",
+      "end": 325.411
+    },
+    {
+      "word": "যদি",
+      "start": 325.411,
+      "source": "asr",
+      "end": 325.667
+    },
+    {
+      "word": "কোনো",
+      "start": 325.667,
+      "source": "asr",
+      "end": 326.001
+    },
+    {
+      "word": "ফলাফল",
+      "start": 326.001,
+      "source": "asr",
+      "end": 326.411
+    },
+    {
+      "word": "না",
+      "start": 326.411,
+      "source": "asr",
+      "end": 326.591
+    },
+    {
+      "word": "পাও",
+      "start": 326.591,
+      "source": "asr",
+      "end": 326.822
+    },
+    {
+      "word": ",",
+      "start": 326.822,
+      "source": "asr",
+      "end": 326.882
+    },
+    {
+      "word": "তাহলে",
+      "start": 326.873,
+      "source": "asr",
+      "end": 327.283
+    },
+    {
+      "word": "আমাকে",
+      "start": 327.283,
+      "source": "asr",
+      "end": 327.694
+    },
+    {
+      "word": "গালি",
+      "start": 327.694,
+      "source": "asr",
+      "end": 328.028
+    },
+    {
+      "word": "দিয়ে",
+      "start": 328.028,
+      "source": "asr",
+      "end": 328.361
+    },
+    {
+      "word": "চলে",
+      "start": 328.361,
+      "source": "asr",
+      "end": 328.618
+    },
+    {
+      "word": "যেও",
+      "start": 328.618,
+      "source": "asr",
+      "end": 328.849
+    },
+    {
+      "word": "।",
+      "start": 328.849,
+      "source": "asr",
+      "end": 329.249
+    }
+  ]
+}

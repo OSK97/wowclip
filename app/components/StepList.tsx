@@ -1,4 +1,4 @@
-import type { Step } from "@/app/lib/types";
+import { formatProcessTime, type Step } from "@/app/lib/types";
 
 /**
  * Progress feed, used by both stages.
@@ -57,9 +57,9 @@ function StepRow({ step }: { step: Step }) {
           >
             {step.label}
           </span>
-          {step.at !== undefined && step.state !== "running" && (
+          {step.durationSeconds !== undefined && step.state !== "running" && (
             <span className="shrink-0 font-mono text-[11px] text-[#5a5a5a]">
-              {step.at.toFixed(1)}s
+              {formatProcessTime(step.durationSeconds)}
             </span>
           )}
         </div>

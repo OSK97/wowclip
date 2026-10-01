@@ -1,0 +1,486 @@
+{
+  "meta": {
+    "payload": "C:\\Users\\DP\\Desktop\\App\\website\\pipeline\\runs\\8Fd06U-3TAY\\8Fd06U-3TAY_payload.txt",
+    "model": "z-ai/glm-5.3-flash",
+    "effort": "high",
+    "clip_start_s": 0.0,
+    "duration_s": 1786.0,
+    "lines": 234,
+    "categories": [
+      "motivational"
+    ],
+    "video": {
+      "video_id": "8Fd06U-3TAY",
+      "title": "IT'S NOT OVER UNTIL YOU WIN - Georgia Dome (Les Brown's Greatest Hits)",
+      "channel": "Les Brown",
+      "duration_s": 1786.0,
+      "views": "2275000"
+    }
+  },
+  "by_category": {
+    "motivational": {
+      "video_read": "This is Les Brown's full classic 'It's not over until you win' convention speech: thirty minutes of personal-humiliation stories (labelled educable mentally retarded, sleeping in his office, people laughing at him) converted into vows and call-and-response affirmations. The material lives everywhere in it — the Connect Four story, the Mr. Washington thread, the Penobscot Building story — and it is the densest stretch of publishable moments I have read in this category.",
+      "coverage": 0.944,
+      "error": null,
+      "near_misses": [
+        {
+          "start_line": "L0005",
+          "end_line": "L0008",
+          "why_not": "The reframe that dreams are given to us for the purpose of accomplishing them is genuinely interesting, but the sentence arrives convoluted and depends on the 'think about your dream' framing before it; unsure it completes for a cold stranger."
+        },
+        {
+          "start_line": "L0069",
+          "end_line": "L0080",
+          "why_not": "The shoeshine creativity anecdote is charming but the takeaway is sales craft — amaze your customers — aimed at the convention audience; nothing shifts in how the 2am viewer sees themselves."
+        },
+        {
+          "start_line": "L0105",
+          "end_line": "L0115",
+          "why_not": "A call-and-response recap of affirmations; it summarises the speech rather than delivering a landing of its own."
+        },
+        {
+          "start_line": "L0117",
+          "end_line": "L0119",
+          "why_not": "Goal-writing and planning walkthrough — correct and administrative, no charge, changes nothing about who the viewer is."
+        },
+        {
+          "start_line": "L0214",
+          "end_line": "L0215",
+          "why_not": "The 'if you know the why, you can endure almost any how' line is quotable but arrives garbled ('less nietzsche said') and folded into the mother-home anecdote, so it does not cut out cleanly on its own."
+        }
+      ],
+      "skipped": [
+        {
+          "from_line": "L0001",
+          "to_line": "L0010",
+          "what": "opening address and 'think about your dream' framing"
+        },
+        {
+          "from_line": "L0016",
+          "to_line": "L0030",
+          "what": "dream, risk-takers and biography of humble beginnings — setup, not a landing"
+        },
+        {
+          "from_line": "L0039",
+          "to_line": "L0060",
+          "what": "fear of failure/comfort/worthiness list plus his résumé of achievements (book, specials, talk show)"
+        },
+        {
+          "from_line": "L0081",
+          "to_line": "L0090",
+          "what": "customer-service and integrity advice aimed at the distributor audience"
+        },
+        {
+          "from_line": "L0130",
+          "to_line": "L0140",
+          "what": "continuation of the hard-times story past the envelope payoff"
+        },
+        {
+          "from_line": "L0198",
+          "to_line": "L0207",
+          "what": "'you're the one' repetition and tape-listening setup"
+        },
+        {
+          "from_line": "L0218",
+          "to_line": "L0233",
+          "what": "buying his mother a home and the birth-mother adoption story — moving, but it lands as emotion without a turn for the viewer until L0234"
+        },
+        {
+          "from_line": "L0242",
+          "to_line": "L0261",
+          "what": "closing recaps, handshakes and the hungry chant"
+        }
+      ],
+      "dropped": []
+    }
+  },
+  "clips": [
+    {
+      "category": "motivational",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "It's not over until I win",
+      "why": "The most-marked moment in the video by a mile (69 likes on one comment, 25 more viewers marked it). A father beats his nine-year-old ten straight games and quits; the kid plays to game eleven, wins, yawns and says the exact words the father said. The mirror is the detonation — the viewer hears a child hand them the attitude they are missing. Every line earns its place in the build.",
+      "category_hint": "STORY DETONATES / DISCIPLINE OVER FEELING",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "29 viewer comments and +25 more on L0092",
+        "comment on L0093",
+        "comment on L0091"
+      ],
+      "start_line": "L0092",
+      "end_line": "L0100",
+      "start_words": "you must understand that i remember i was playing a game",
+      "end_words": "said i'm ready to go to sleep now",
+      "start_s": 639.6,
+      "end_s": 693.04,
+      "duration_s": 53.44,
+      "source_start_s": 639.6,
+      "source_end_s": 693.04,
+      "one_liner": false,
+      "text": "you must understand that i remember i was playing a game with my nine-year-old son john leslie and i beat him ten straight games in a game called connect four and finally i said john leslie i'm bored i don't want to play you anymore and i got up i said i'm ready to go to sleep now and repeat after me please let's say to this together it's not over until i win john leslie said no you can't go now dad i said why he said it's not over until i win that was his attitude we sat down and we played several other games and finally after the 11th game john leslie won and he got up and he yawned and he said i'm ready to go to sleep now and i'm saying to you what if all of us took that attitude after we face a rejection and a no or we have a",
+      "flags": [],
+      "id": "mot1"
+    },
+    {
+      "category": "motivational",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "You've lost again and again and again, but you're still looking at your dream",
+      "why": "The application that follows the story, and the single most-quoted passage in the video — the comment giving the timestamp has 952 likes. The litany is aimed at the exact 2am viewer: a rejection, a no, somebody who said you can count on me and didn't, the car repossessed, the lights cut off — and still reviewing the dream every day. It converts the story's child-logic into an adult vow.",
+      "category_hint": "ONE-LINER / SELF-BELIEF",
+      "hook_strength": 7.0,
+      "self_contained": false,
+      "confidence": "HIGH",
+      "signals_used": [
+        "952-like comment on L0101 pointing at this exact quote",
+        "REPLAYED nearby at L0259 on the same phrase"
+      ],
+      "start_line": "L0100",
+      "end_line": "L0103",
+      "start_words": "what if all of us took that attitude after we face a rejection",
+      "end_words": "win",
+      "start_s": 683.92,
+      "end_s": 716.04,
+      "duration_s": 32.12,
+      "source_start_s": 683.92,
+      "source_end_s": 716.04,
+      "one_liner": false,
+      "text": "said i'm ready to go to sleep now and i'm saying to you what if all of us took that attitude after we face a rejection and a no or we have a meeting and no one shows up or somebody say you can count on me and they don't come through what if we have that kind of attitude the cause repossessed nobody believes in you you've lost again and again and again the lights are cut off but you're still looking at your dream reviewing it every day and say to yourself it's not over until i win",
+      "flags": [
+        "finder marked it not self-contained"
+      ],
+      "id": "mot2"
+    },
+    {
+      "category": "motivational",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "Someone's opinion of you does not have to become your reality",
+      "why": "A boy who has been told he is mentally deficient is told by a teacher, 'don't ever say that again.' This names the private label almost every viewer carries from school or family and hands them the sentence that takes it off — one of the most quoted lines Brown ever said, and the pause before 'reality' is where it lands.",
+      "category_hint": "PERMISSION GRANTED / SELF-BELIEF",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "14-like comment on L0035",
+        "audience block quote of this exact line"
+      ],
+      "start_line": "L0031",
+      "end_line": "L0037",
+      "start_words": "i don't have any college training but i met a high school teacher who one day changed my life",
+      "end_words": "reality",
+      "start_s": 199.92,
+      "end_s": 240.04,
+      "duration_s": 40.12,
+      "source_start_s": 199.92,
+      "source_end_s": 240.04,
+      "one_liner": false,
+      "text": "i don't have any college training but i met a high school teacher who one day changed my life i was waiting on another student and when he came in he said to me young man go to the board and write what i'm about to tell you and i said i can't do that sir he said why not i said i'm not one of your students he said it doesn't matter follow my directions now i said i can't do that sir he said why not i said because i'm educable mentally and he came from behind his desk and he looked at me he said don't ever say that again someone's opinion of you does not have to become your reality",
+      "flags": [],
+      "id": "mot3"
+    },
+    {
+      "category": "motivational",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "I'm the one",
+      "why": "The emotional peak of the speech. A boy who failed history and English, feeling like a failure, sneaks into a graduation speech, chases the teacher into the parking lot — 'I got these big dreams... I dream of buying my mama home, could I do that, Mr. Washington?' — 'It's possible, Mr. Brown' — and then, broken by the pauses, 'I'm the one... I'm the... one.' The viewer who has never once claimed their own dream feels this in the chest. Long, but every second is the build; the second pass can trim the auditorium speech if needed.",
+      "category_hint": "SELF-BELIEF / STORY DETONATES",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0184 'everytime with tears in my eyes'"
+      ],
+      "start_line": "L0159",
+      "end_line": "L0189",
+      "start_words": "it's very important for you to believe",
+      "end_words": "one",
+      "start_s": 1049.68,
+      "end_s": 1234.04,
+      "duration_s": 184.36,
+      "source_start_s": 1049.68,
+      "source_end_s": 1234.04,
+      "one_liner": false,
+      "text": "it's very important for you to believe that you are the one to make this happen i remember this high school teacher mr leroy washington at the end of school one june it was just a few days before we were supposed to leave and i just got my report card and it indicated that i'd failed history and i failed english and i would have to go to summer school and i was feeling within myself that i was a failure that i i'm slower than most people and getting paperwork and and i was feeling down on myself and and very negative and mr washington was giving a speech to the graduating seniors and i was in 11th grade and even though i wasn't supposed to be in there i went in there because the speech he was giving that speech was for me and as he talked my heart began to beat fast tears began to run by my eyes and i was in the back just listening to him because he said and he was a very dramatic man i still talk to him to this day he said as graduating seniors of booker t washington high school i want you to know that you're blessed and highly favored and that as you go toward the future begin to know that you have greatness within you and if just one of you here begin to envision yourselves as being blessed and highly favored to reach your goals if just one of you capture the essence of what that means that you have greatness within you in responsibility to manifest that greatness that you can make your parents proud you can make your school proud you can touch millions of people's lives and the world will never be the same again because you came this way and the students gave him a rousing standing ovation and as he left the auditorium i ran down the steps and i caught him in the parking lot i said mr washington he said yes i said do you remember me sir he said no i said uh my name is leslie brown my mother she works in the cafeteria here i'm one of the twins leslie wesley i said mr washington but you know you know i got these big dreams you know i like talking to people i love people i said i want to work with people and i got this dream of buying my mama home could could i do that mr washington he said it's possible mr brown and as he walked away i called him again i said mr washington he said what do you want now i said um i'm the one sir i said i'm the one you you remember me sir i'm this maybe brown's boy i'm the wife i'm the one",
+      "flags": [
+        "184s of range proposed -- the cut stage has to find the moment inside it"
+      ],
+      "id": "mot4"
+    },
+    {
+      "category": "motivational",
+      "rank": 5,
+      "finder_rank": 5.0,
+      "title": "It's hard changing your life",
+      "why": "The humiliation named without self-pity: an entrepreneur sleeping in his office, handed an envelope from management — 'this is an office tower, it's not a hotel, please do not sleep in your office' — and answering it with 'things are bad for me but they're not going to be this way always.' Anyone who has been quietly broke and pretending recognises this lobby. The landing line is the viewer's own sentence now.",
+      "category_hint": "MONEY / THE PRICE THEY PAID",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0120 'It's hard'",
+        "comment on L0132"
+      ],
+      "start_line": "L0122",
+      "end_line": "L0129",
+      "start_words": "hard it's not easy it's hard changing your life",
+      "end_words": "they're not going to be this way always",
+      "start_s": 812.84,
+      "end_s": 873.12,
+      "duration_s": 60.28,
+      "source_start_s": 812.84,
+      "source_end_s": 873.12,
+      "one_liner": false,
+      "text": "hard it's not easy it's hard changing your life it was hard when just over three years ago in the penobscot building in detroit michigan where i was operating my business and i fell on some hard times and i was sleeping in my office it was hard coming into the lobby and the security said excuse me mr brown can we see you for a moment and i said yes and i walked up to the counter and he gave me an envelope and he said would you mind reading it here and i opened the envelope and the envelope was from management that says this is an office tower it's not a hotel please do not sleep in your office and i said excuse me sir i said i just worked long hours in creating my business i'm an entrepreneur and right now things are bad for me but they're not going to be this way always",
+      "flags": [],
+      "id": "mot5"
+    },
+    {
+      "category": "motivational",
+      "rank": 6,
+      "finder_rank": 6.0,
+      "title": "No matter how bad it is or how bad it gets, I'm going to make it",
+      "why": "The adoptive mother who didn't know how she would raise two babies becomes the bridge to the viewer's own unknowable dream — 'you don't know how you're going to make this happen but you just feel within yourself some way, somehow' — then the call-and-response vow, said slowly, twice. An instruction sized to be repeated tonight, in the viewer's own mouth.",
+      "category_hint": "SELF-BELIEF / IDENTITY",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0236"
+      ],
+      "start_line": "L0234",
+      "end_line": "L0241",
+      "start_words": "i will do it and ladies and gentlemen my mother had a dream of having children",
+      "end_words": "i'm going to make it",
+      "start_s": 1547.52,
+      "end_s": 1589.12,
+      "duration_s": 41.6,
+      "source_start_s": 1547.52,
+      "source_end_s": 1589.12,
+      "one_liner": false,
+      "text": "i will do it and ladies and gentlemen my mother had a dream of having children and raising us she didn't know how she's going to do it you're going to be just like that and some of you are already there well you don't know how you're going to make this happen but you just feel within yourself some way somehow with the help of god i'm going to make it happen repeat after me please no matter how bad it is or how bad it gets i'm going to make it i'm going to make it",
+      "flags": [],
+      "id": "mot6"
+    },
+    {
+      "category": "motivational",
+      "rank": 7,
+      "finder_rank": 7.0,
+      "title": "Don't stop running towards your dream",
+      "why": "Addressed directly at the person in hardship: 'it's a long shot from liberty city, an abandoned building, never knowing my mother or father, no college training, labelled educable mentally — but I kept running toward my dreams.' Then the measured silences and the three 'don't stop's. The pauses are the performance; on the page it looks plain, in the ear it is the point of the whole speech.",
+      "category_hint": "PROVE THEM WRONG / FAILURE & COMEBACK",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0137 'best line'",
+        "long pauses L0147–L0153"
+      ],
+      "start_line": "L0141",
+      "end_line": "L0152",
+      "start_words": "and here's what i want to say to you for those of you that have experienced some hardships",
+      "end_words": "don't stop running towards your dream",
+      "start_s": 937.36,
+      "end_s": 1012.16,
+      "duration_s": 74.8,
+      "source_start_s": 937.36,
+      "source_end_s": 1012.16,
+      "one_liner": false,
+      "text": "and here's what i want to say to you for those of you that have experienced some hardships don't give up on your dream no one could have convinced me by holding on by continuing to push forward by continuing to run toward my dream that one day i would have my own talk show it's a long shot ladies and gentlemen from liberty city an abandoned building on a floor never knowing my mother or father it's a long shot being here with you today in this dome in atlanta it's a long shot no college training labeled educable mentally but i kept running toward my dreams don't stop don't stop don't stop running towards your dream",
+      "flags": [],
+      "id": "mot7"
+    },
+    {
+      "category": "motivational",
+      "rank": 8,
+      "finder_rank": 8.0,
+      "title": "Don't say I'm having a bad day. Say I'm having a character-building day",
+      "why": "Eighteen seconds, one reframe. The rough times 'have not come to stay, they have come to pass' — then the word-swap that changes what a terrible day IS. The audience block shows viewers typing this line back weeks and years later; that is the exact save-and-send behaviour predicted.",
+      "category_hint": "REFRAME / ONE-LINER",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "audience block: 'I'm not having a bad day. I'm having a character building day' (379 likes)",
+        "comments on L0154, L0157"
+      ],
+      "start_line": "L0155",
+      "end_line": "L0157",
+      "start_words": "dream there are moments when you're going to doubt yourself",
+      "end_words": "say i'm having a character building day",
+      "start_s": 1022.84,
+      "end_s": 1041.4,
+      "duration_s": 18.56,
+      "source_start_s": 1022.84,
+      "source_end_s": 1041.4,
+      "one_liner": false,
+      "text": "dream there are moments when you're going to doubt yourself their rough times are going to come but they have not come to stay they have come to pass it's very important for you to know that don't say i'm having a bad day say i'm having a character building day",
+      "flags": [],
+      "id": "mot8"
+    },
+    {
+      "category": "motivational",
+      "rank": 9,
+      "finder_rank": 9.0,
+      "title": "If life knocks you down, try to land on your back — if you can look up, you can get up",
+      "why": "Fifteen seconds, complete on its own, and the geometry of it — fall backwards on purpose, because the position you land in decides whether you can rise — is an image the viewer keeps. A screenshot quote.",
+      "category_hint": "ONE-LINER / FAILURE & COMEBACK",
+      "hook_strength": 4.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0216",
+      "end_line": "L0217",
+      "start_words": "your reasons will be your rod and staff to comfort you",
+      "end_words": "let your reasons get you back up",
+      "start_s": 1416.72,
+      "end_s": 1432.08,
+      "duration_s": 15.36,
+      "source_start_s": 1416.72,
+      "source_end_s": 1432.08,
+      "one_liner": false,
+      "text": "your reasons will be your rod and staff to comfort you to pick you up once again i got a saying on one of my tapes if life knocks you down try and land on your back because if you can look up you can get up let your reasons get you back up",
+      "flags": [],
+      "id": "mot9"
+    },
+    {
+      "category": "motivational",
+      "rank": 10,
+      "finder_rank": 10.0,
+      "title": "You were so crazy — I know, but I'm rich",
+      "why": "The payoff of the whole Mr. Washington thread as a standalone joke with a blade in it. The old teacher calls: 'You were the one, weren't you? ... And you were so crazy.' 'I know — but I'm rich.' It is permission to be called crazy by everyone who doubted you, delivered with a laugh. Sarcasm carrying a real truth.",
+      "category_hint": "SARCASM / PROVE THEM WRONG",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "32-like comment on L0196 'I get so many chills'"
+      ],
+      "start_line": "L0194",
+      "end_line": "L0197",
+      "start_words": "because you are the one and i remember when pbs first played one of my specials",
+      "end_words": "i know but i'm rich",
+      "start_s": 1258.48,
+      "end_s": 1295.92,
+      "duration_s": 37.44,
+      "source_start_s": 1258.48,
+      "source_end_s": 1295.92,
+      "one_liner": false,
+      "text": "because you are the one and i remember when pbs first played one of my specials called you deserve one sunday afternoon in miami florida i had some friends call him to tell him to tune in and he watched the program he called me in detroit and i answered the phone i said hello he said may i speak to les brown please i said who's calling he said you know who this is i said oh mr washington it's you he said you were the one weren't you i said yes sir he said and you were so crazy i said i know but i'm rich",
+      "flags": [],
+      "id": "mot10"
+    },
+    {
+      "category": "motivational",
+      "rank": 11,
+      "finder_rank": 11.0,
+      "title": "You've got to be an unreasonable person",
+      "why": "A small instruction the viewer could do tonight — write down five reasons why you deserve your dream — wrapped around the reframe: 'logical, practical thinking says you can't do it today, but if you want to produce unreasonable results, you've got to be an unreasonable person.' It takes the insult they have been called and turns it into the requirement.",
+      "category_hint": "INSTRUCTION / REFRAME",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0208",
+      "end_line": "L0212",
+      "start_words": "write down at least five reasons",
+      "end_words": "person",
+      "start_s": 1358.48,
+      "end_s": 1388.04,
+      "duration_s": 29.56,
+      "source_start_s": 1358.48,
+      "source_end_s": 1388.04,
+      "one_liner": false,
+      "text": "write down at least five reasons on why you deserve your dream and why you won't give up what's going to make you unstoppable why you must be unreasonable because logical practical thinking says you can't do it today but if you want to produce unreasonable results in your life like living your dreaming taking charge of your destiny you've got to be an unreasonable person you've got to be an uncommon person",
+      "flags": [],
+      "id": "mot11"
+    },
+    {
+      "category": "motivational",
+      "rank": 12,
+      "finder_rank": 12.0,
+      "title": "That dream you're holding in your mind — it's possible",
+      "why": "The signature open. 'I don't care how far-fetched it might appear, I don't care how disappointing it might have been as you've been working toward that dream — but here's what I know: that dream that you're holding in your mind, it's possible.' It reaches the person whose dream has already disappointed them, which is the only person who needs to hear it.",
+      "category_hint": "SELF-BELIEF",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "audience block quote of this exact line"
+      ],
+      "start_line": "L0011",
+      "end_line": "L0014",
+      "start_words": "i don't know what that dream is that you have i don't care how far fetched",
+      "end_words": "it's possible",
+      "start_s": 53.68,
+      "end_s": 77.2,
+      "duration_s": 23.52,
+      "source_start_s": 53.68,
+      "source_end_s": 77.2,
+      "one_liner": false,
+      "text": "i don't know what that dream is that you have i don't care how far fetched it might appear to be i don't care how disappointing it might have been as you've been working toward that dream but here's what i know that that dream that you're holding in your mind that it's possible let's say that together please it's possible",
+      "flags": [],
+      "id": "mot12"
+    },
+    {
+      "category": "motivational",
+      "rank": 13,
+      "finder_rank": 13.0,
+      "title": "Everybody won't see it. I must see it for myself",
+      "why": "For the viewer whose family and friends don't get it: 'everybody won't see it, everybody won't join you, everybody won't have the vision... I can do this even if no one else sees it for me, I must see it for myself.' Loneliness converted from verdict to job description in under thirty seconds.",
+      "category_hint": "LONELINESS AS STRENGTH",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comments on L0061 nearby"
+      ],
+      "start_line": "L0065",
+      "end_line": "L0068",
+      "start_words": "it's necessary to know that everybody won't see it",
+      "end_words": "i must see it for myself that's necessary",
+      "start_s": 423.92,
+      "end_s": 452.4,
+      "duration_s": 28.48,
+      "source_start_s": 423.92,
+      "source_end_s": 452.4,
+      "one_liner": false,
+      "text": "it's necessary to know that everybody won't see it that everybody won't join you that everybody won't have the vision it's necessary to know that that a lot of people like to complain but they don't want to do anything about their situation that you are an uncommon breed you know you have to know within yourself that i can do this even if no one else sees it for me i must see it for myself that's necessary",
+      "flags": [],
+      "id": "mot13"
+    },
+    {
+      "category": "motivational",
+      "rank": 14,
+      "finder_rank": 14.0,
+      "title": "If you want a thing bad enough",
+      "why": "The closing poem — 'give up your time, your peace and your sleep for it... if neither cold, poverty, famish... can keep you away from the thing that you want, you'll get it.' Rhythm carries an ordinary idea straight past the defences, and viewers have commented goosebumps at exactly this point. Long for the form, but the metre is the vehicle and the second pass can tighten.",
+      "category_hint": "SHAYARI / POETIC",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comments on L0262, L0267, L0268"
+      ],
+      "start_line": "L0263",
+      "end_line": "L0268",
+      "start_words": "of you it's something that i'm known by",
+      "end_words": "god you'll get it",
+      "start_s": 1723.2,
+      "end_s": 1774.64,
+      "duration_s": 51.44,
+      "source_start_s": 1723.2,
+      "source_end_s": 1774.64,
+      "one_liner": false,
+      "text": "enough to go out and fight for it to work day and night for it to give up your time your peace and your sleep for it if all that your dream and scheme is about it and life seems useless and worthless without it and if you gladly sweat for it and fret for it and plan for it and lose all your terror of the opposition for it and if you simply go after that thing that you want with all of your capacity strength and sagacity faith hope and confidence and stirring pertinacity if neither cold poverty famish or gulf sickness or pain or body and brain can keep you away from the thing that you want if dogged and grim you besiege and beset it with the help of god you'll get it this is mrs amy brown's baby boy leslie calvin brown saying it's been a plum pleasing pleasure as well as a privilege thank",
+      "flags": [
+        "start_words not in start line"
+      ],
+      "id": "mot14"
+    }
+  ]
+}

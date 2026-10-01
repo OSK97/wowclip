@@ -1,0 +1,244 @@
+DURATION 1562s
+
+HOW TO READ
+  L0001 = line id. Refer to clips by id, never by time.
+  The number after the id = how many seconds that line takes to say. A passage's length is the sum of the numbers on its lines, plus any [pause] printed between them. This is the only thing in the document that measures length, and it is exact -- never estimate a duration any other way.
+  A row with a BLANK number column is not speech. It carries an id but no words, so a clip can never begin or end on one.
+  (fast)(slow) = measured pace, against this video's own normal.
+  [pause 2.1s] = measured silence.
+  [applause (youtube)] = YouTube's own captions marked a sound here; no duration given.
+  [COMMENT] = a viewer comment about THIS exact moment, on its own indented line. Rare and strong.
+  [COMMENT summary] = the same, but the comment was too long to quote, so this is a machine summary of it, not the viewer's own words. Weigh it as testimony, never quote it.
+  +N more viewers marked this moment = N other people commented on this same line. The number is the signal.
+  >> inside a line = YouTube's caption marker for the OTHER PERSON STARTING TO TALK. A speaker change, not a comment, not a word. Never copy it into start_words or end_words.
+  [REPLAYED] = YouTube's replay data peaks somewhere near this line. It marks a neighbourhood, not a word.
+  THE WORDS ARE THE TRUTH. If any tag contradicts them, ignore the tag.
+
+
+AUDIENCE (about the video overall, no fixed moment)
+  mood: Viewers express pride and admiration for Mahindra and his leadership
+  - Expressions of national pride and congratulations -- 3 comments, e.g. "Proud moment for all Mahindrites. Heartiest congratulations sir. Surely Indians are second to none in the World."
+  - Inquiries and mentions of specific vehicle models -- 3 comments, e.g. "Hello Sir 🙏🏻, Mahindra-7005 (65-Hp) Non-Turbo INDIA Mein Launch Hona Chahiye ABC-gear Aur Flat-Platform Ke Sath"
+  - Personal admiration and gratitude for leadership -- 3 comments, e.g. "Samoogathin meethu alapariya akkaraiyum anbum konda mamanidhar...Anand sir ungalin miga periya rasigai nan ,ungalin sevai menmelum sirrakka vazhthkkal sir."
+  - Reflections on inspiration and motivation -- 2 comments, e.g. "Pilgrim real meaning is a wanderer with purpose. Great inspiration to all 👏👏👏"
+
+  loudest comments, verbatim:
+  "Hello Sir 🙏🏻, Mahindra-7005 (65-Hp) Non-Turbo INDIA Mein Launch Hona Chahiye ABC-gear Aur Flat-Platform Ke Sath" (2 likes)
+  "Samoogathin meethu alapariya akkaraiyum anbum konda mamanidhar...Anand sir ungalin miga periya rasigai nan ,ungalin sevai menmelum sirrakka vazhthkkal sir." (1 likes)
+  "Proud moment for all Mahindrites. Heartiest congratulations sir. Surely Indians are second to none in the World." (0 likes)
+  "Sir, I'm in worst phase of my life without work. Ready to work as house staff, mopping floor to pay bills and survive with my mother." (0 likes)
+  "Pilgrim real meaning is a wanderer with purpose. Great inspiration to all 👏👏👏" (0 likes)
+  "Blessed to have a great business leader like Mr Anand Mahindra" (0 likes)
+  "Congratulations Sir...It is proud moment to us....#mahindrarise" (0 likes)
+  "Love you Sir Mahindra for making Us #Proud" (0 likes)
+  "My Favorite Car XUV300... My Dream" (0 likes)
+  "Great motivation sir salute sir" (0 likes)
+  "I am ready to drive pinian" (0 likes)
+  "Sir anand Mahindra sir 🖤❤🔥" (0 likes)
+
+
+TRANSCRIPT
+L0001    9.4s  As Dean of the Fletcher School, it is an honor and a privilege to present our highest award, the Dean's Medal, to Anand Mahindra.
+L0002          [long gap 17.1s]
+L0003    3.5s  Mr. Mahindra is one of the world's most influential industrialists.
+L0004   14.9s  A magna laude graduate of Harvard College, he received his MBA from the Harvard Business School. Since then, he has grown the Mahindra Group into a diversified global conglomerate, which now employs more than 250,000 people in 100 countries.
+L0005   10.0s  (slow) He has created successful business operations in renewable energy, agriculture, automotive, IT, aerospace, real estate, education, and more.
+L0006    4.7s  He has been a pioneer in the evolving role of business, its responsibilities,
+L0007   10.0s  and its necessary partnership with government. He has led the dialogue and action from the private sector on critical issues of sustainability and social responsibility.
+L0008    5.3s  (fast) The Mahindra Group is commonly considered one of the leading firms in the response to climate change.
+L0009    9.5s  Social responsibility is an important part of his business philosophy. He is a strong supporter of education and health programs, maximizing social impact.
+L0010    6.3s  For example, Project Nanhi Kali has increased access to high-quality education for more than 350,000
+L0011    2.9s  girls from rural, tribal, and urban areas.
+L0012    7.6s  (fast) Mr. Mahindra is a UN Global Compact board member, as well as a member of the World Economic Forum's Alliance of CEO Climate Leaders.
+L0013   12.2s  He has served on the global board of advisors of the Council on Foreign Relations. He has been named to Barron's list of top 30 CEOs worldwide and noted on Fortune magazine's list of the world's 50 greatest leaders.
+L0014    6.6s  A global CEO influencer on social media, his Twitter followers also number in the millions.
+L0015    6.3s  But to me, on a personal note, you have been an inspiration as we grapple with today's polycrises
+L0016   10.3s  in a flat and fast-moving world, and where the hallmark of a successful leader, not only in the corporate sector, is one whose integrity is intact.
+L0017    7.5s  But you have a close personal connection to the Fletcher family. Many of you may not know that Harish Mahindra,
+L0018    5.6s  (slow) Mr. Mahindra's father, was Fletcher's first graduate from India in 1946.
+L0019          [pause 1.2s]
+L0020    2.5s  (slow) Earlier, I was able
+L0021          [long gap 7.4s]
+L0022   12.4s  Earlier, I was able to give Anand, if I may, from our archives copies of his father's application letter, the transcript, and the recommendation to Fletcher from the Dean at Harvard.
+L0023    6.8s  (slow) In his Fletcher application, Anand's father wrote, "If India achieves dominion status
+L0024    2.4s  or a state of complete independence,
+L0025   11.4s  she will need the help of men trained in foreign affairs to see that she establishes friendly and economic relations with other nations of the world."
+L0026    7.6s  Just a year after he wrote that, India celebrated its independence on August the 15th, 1947.
+L0027          [pause 1.3s]
+L0028    5.7s  (slow) And now, as India's 75th anniversary of independence approaches,
+L0029    5.4s  Anand Mahindra today becomes the first Indian national to address our graduates
+L0030    4.2s  following just 75 years after his own father's graduation.
+L0031   14.6s  There is a symmetry here and a connection to this award, which exemplifies what we aspire to. A community proud of its past, enriched by deep and binding connections, yet focused on the future.
+L0032   12.2s  [REPLAYED] So, on behalf of the Fletcher School and our wider community, it is my pleasure to, in a sense, welcome you home here today. And please join me so I can give you the Dean's Medal. Thank you.
+L0033          [long gap 21.4s]
+L0034    3.1s  (slow) Dean Kite, Dr. Tarullo,
+L0035    5.1s  [REPLAYED] (slow) Dean Gallagher, Dean Blanco, Captain Galeano,
+L0036    4.8s  (slow) members of the class of 2022, 2021, and 2020,
+L0037    1.4s  proud families,
+L0038    1.8s  friends, and guests.
+L0039    9.9s  [REPLAYED] First of all, I must tell you I'm delighted to be here on what by Mumbai, India standards is a wonderfully cool and pleasant afternoon, you know.
+L0040          [pause 1.7s]
+L0041    6.9s  [REPLAYED] And I want to thank you, Rachel, for that glowing introduction. I have to admit, whenever I receive
+L0042    7.5s  (slow) such a glowing introduction, I'm always reminded of a not so memorable introduction
+L0043    3.3s  (slow) when many years ago somebody
+L0044    5.3s  [REPLAYED] (slow) obviously wanted to say Mr. Mahendra needs no introduction.
+L0045    4.3s  (fast) What he did end up saying was the less said the better what Mr. Mahendra.
+L0046          [long gap 4.7s]
+L0047    5.6s  [REPLAYED] (slow) But I come to Fletcher primarily as a pilgrim.
+L0048    4.2s  I come to retrace the steps of my father
+L0049    7.7s  (slow) who as Rachel mentioned 76 years ago passed through the portals of this great institution.
+L0050          [pause 1.4s]
+L0051    9.3s  (fast) He was a member of the class of '46 and as she said the first Indian student to attend the Fletcher School. So you can imagine the pride I feel
+L0052    6.4s  to be treading the grounds where he once walked. To be part of the graduation exercises
+L0053    6.9s  that for him in his time embodied all his hopes and dreams for the future.
+L0054    4.5s  (fast) And I'm terribly embarrassed to say this is the first time I'm in Fletcher.
+L0055   14.7s  Indeed in Medford the closest I ever got to Fletcher or Tufts was when as an impoverished scholarship student at Harvard I would go to Chinatown to get the finest and cheapest dental service by the Tufts University Dental School.
+L0056          [pause 2.9s]
+L0057    3.2s  There's another member of the class of '46
+L0058    9.2s  who would have been equally pleased at seeing me on this campus. And that's the late Frederick Irving, my father's best friend at Fletcher.
+L0059    6.5s  Uncle Fred as we referred to him enjoyed a distinguished career as the United States Ambassador
+L0060    7.8s  to Iceland and to Jamaica. And to the end of his days my father used to keep a framed photograph by his bedside which
+L0061    9.2s  was a picture taken at Uncle Fred's wedding. And in the photograph standing next to Uncle Fred as his best man is my father.
+L0062    7.8s  (slow) Their friendship lasted their entire lives. And it's been bequeathed to two subsequent generations.
+L0063    6.4s  [REPLAYED] In fact, Uncle Fred's grandson on his farm in Massachusetts drives a Mahindra tractor.
+L0064   10.6s  I'm particularly delighted that some of Uncle Fred's family members, his son Rick and his daughter-in-law Gita, are here with us today in honor of our shared memories. Thank you.
+L0065          [long gap 6.2s]
+L0066   11.5s  I I hope all of you graduating today would also have formed such friendships during your time here. Friendships forged at the Greenhouse, perhaps.
+L0067    6.6s  Or at the Mugar Cafe. Or through a common affection for the Flotcheros, maybe.
+L0068    6.6s  (fast) I hope those friendships in some small way will help to unite the world, just as my father and Uncle Fred did.
+L0069   10.2s  On a light-hearted note, I must share that um I'm part of the undergraduate class of '77 at at Harvard, and many years ago, my daughters
+L0070   10.2s  asked me whether there was anyone in my class who was really now famous. And very excitedly, I said, "Yes, Bill Gates was in my year."
+L0071    5.9s  At which they quickly pointed out in their typically teasing manner, and said, "Dad,
+L0072    3.8s  (fast) in that case, you might as well just give up and retire now."
+L0073   14.6s  So, today is a moment of redemption for me, frankly. Because I know that my father would have believed that despite whatever else I may have achieved, being invited to speak at Fletcher's Class Day is my finest hour.
+L0074          [long gap 10.3s]
+L0075   12.8s  Now, now I'm I'm not the usual suspect class day speaker for sure. I come from another profession, the often undiplomatic world of commerce. I come from halfway around the world. I'm not an alumnus.
+L0076    7.0s  (fast) But when I asked Dean Kite, she said the reasons for which they invited me were in fact all of the above.
+L0077    4.8s  But I'm not here to try and dispense any unique wisdom.
+L0078    3.4s  (slow) As the proverbial schoolgirl wrote,
+L0079    6.8s  (slow) Socrates was a wise Greek philosopher and he went around dispensing gratuitous advice.
+L0080    1.8s  And they poisoned him.
+L0081    6.4s  (fast) So I deeply fear that fate. So what I will do is to just throw some ideas at you based on
+L0082    5.9s  (fast) my own life experience and my own word that I hope will be relevant to any profession and to every life.
+L0083    6.5s  Now picture if you will the world in 1946 when my father stood here.
+L0084    9.7s  The Second World War had just ended. Independence for India was just around the corner as Rachel mentioned. The beginning of the end of colonialism was in sight.
+L0085   10.4s  And details of the full extent of the deaths and the destruction and the horrors of the Holocaust of Hiroshima and Nagasaki they they Nagasaki they were just emerging.
+L0086    4.4s  The problems of peace were every bit as convoluted
+L0087    4.7s  as the problems of war. And to my father in 1946,
+L0088    4.7s  (slow) the world must have looked hopeful but immensely complicated.
+L0089    4.4s  (fast) And yet I wonder what my father would say about the world as we see it today.
+L0090    7.6s  We are wrestling with climate change, pandemics, terrorism, energy crisis, social inequities to name just a few. And because
+L0091    9.5s  of their transborder impact, these issues too now fall within the ambit of diplomacy of international affairs of international law.
+L0092    5.0s  And what would my father have made of the impact of technology?
+L0093          [pause 1.4s]
+L0094    8.0s  In many cowboy movies the appearance of the hero or villain is often preceded by his shadow.
+L0095    7.3s  We now have a new cowboy in town. Heralded by a lengthening shadow. The shadow of the metaverse.
+L0096    7.6s  Entrepreneurs are buying up real estate on it. Countries are opening up virtual embassies in it.
+L0097    6.7s  And through the metaverse we can live not just a virtual second life but also a parallel life
+L0098    2.2s  (slow) where the virtual intersects
+L0099    5.4s  with reality and the boundaries between the two grow more and more blurred.
+L0100    4.9s  Now in many ways it may actually enhance the effectiveness of diplomacy.
+L0101    2.5s  Virtual face-to-face negotiations
+L0102   15.6s  may become as effective as in-person ones. Global summits and indeed side conversations where you can interact virtually where you can smell the coffee almost can lead to both quicker responses and actually make a dent in climate change.
+L0103    5.0s  (fast) On the other hand the metaverse is likely to turn out to be the new wild west.
+L0104    9.8s  What laws will govern it? Who will have jurisdiction and over what? Who will own the new forms of data that the metaverse metaverse is going to generate?
+L0105    7.0s  (slow) Pupil dilation, heartbeat rates, biometric data. What happens to free speech and to privacy?
+L0106    7.9s  The metaverse and indeed the technology driven world of the future is going to be like the force from Star Wars of course. But
+L0107    8.6s  as all of you know by itself the force is neither good nor bad. It depends on who uses it and towards what end.
+L0108    5.4s  So, these are all the portentous issues that your generation will have to grapple with.
+L0109    3.4s  But, yours is not the usual graduating class.
+L0110    7.7s  You have all experienced the disruption caused by COVID. You witnessed the absurdity of a brutal war taking place
+L0111    9.2s  in the 21st century between affluent nations. You're seeing a world where few leaders are true or permanent role models.
+L0112    1.8s  And in such a situation,
+L0113    8.4s  (fast) this where there seems to be no certainty, but only shades of gray, how does it make sense for me to tell you to go out into the world
+L0114    2.5s  holding fast to your ideals?
+L0115   13.8s  But, my answer to that would be a resounding yes. Because it may in fact be the only way to make sense of a world in which the ground under your feet feels like quicksand.
+L0116    6.9s  (fast) And because all of you are in a unique position to apply those ideals to your work right away. Cuz you've all taken
+L0117    7.9s  a decision to follow a career path that is going to have a wider impact on global issues than almost any other career.
+L0118    7.5s  So, my first exhortation to you would be to embrace the ought, not the is.
+L0119    6.9s  Shape the world as it ought to be, rather than accepting it as it is.
+L0120    6.5s  (fast) And human beings have never stopped aspiring to this ideal, no matter how messy the reality may be. And that's why
+L0121    6.7s  (fast) the whole world loves it when David beats Goliath, when the good guy wins and the bad guy gets his comeuppance.
+L0122   10.0s  May not always work that way in real life, but that's how we, as human beings, want it to be. And we make heroes out of those who make that happen.
+L0123    8.0s  Yet, in a jagged and a paradoxical, often brutal world, how can you hold fast to that ideal to the ought?
+L0124    4.4s  And that's where I think the centrality of purpose comes in.
+L0125    7.7s  Cynics scoff at phrases like the power of purpose, but I have to tell you in my experience it works.
+L0126    2.5s  (fast) Let me share the story of my own business.
+L0127    5.8s  Mahindra and Mahindra was founded by two brothers as Rachel mentioned around the time of independence.
+L0128          [pause 1.2s]
+L0129    8.1s  It was a time when Indian industry was practically non-existent and many people, most notably Winston Churchill,
+L0130    6.9s  did not expect India to survive or to be able to mold itself into a viable country.
+L0131    3.1s  (slow) And we Indians begged to disagree.
+L0132          [pause 2.2s]
+L0133    8.3s  Our founder started the company with a high sense of idealism, setting out to pre- to prove that Indians could in fact build a new
+L0134    9.5s  nation. And in fact when the company commenced business, the first advertisement they came out with in 1945 had nothing to do with products or services.
+L0135    9.4s  They only articulated their dreams for India, a set of principles and ideals with which they were starting business. And that was in 1945.
+L0136    7.8s  Over the years, obviously India has confounded the naysayers and shaped itself into the world's largest democracy.
+L0137    5.6s  And the Mahindra Group of Companies initially flourished as well since in a bid for self-sufficiency,
+L0138    4.0s  much of Indian industry was protected from external competition.
+L0139    5.3s  However, in the early '90s, India and Indian industry were both in crisis.
+L0140   11.6s  Faced with the prospect of running out of foreign exchange reserves, India took the radical step of radical of liberalizing its closed economy. And after decades of being protected,
+L0141   10.3s  suddenly the world's most powerful companies were at our doorstep, anxious to get a temptingly large piece of the Indian pie.
+L0142    8.4s  For old economy companies like ours, which had prospered under a protectionist regime, and had forgotten really how to compete,
+L0143   15.0s  the opening up of the Indian economy was like the Grim Reaper knocking at the door. And seriously, there were people around, large consultancy firms, who were busy writing our epitaph. And yet, three decades later,
+L0144    9.8s  here we are, a multi-billion dollar group, still chugging along and earning goodwill while we do so. So, how did we do it? Well, obviously, there were many ingredients.
+L0145    5.6s  But to my mind, the most important one was to harness the power of purpose.
+L0146    4.5s  We found ourselves in a very strange, back to the future kind of situation,
+L0147   10.0s  where once again, we had to prove that we as an Indian company could do it. That we could not just survive, but thrive in the changed economic landscape.
+L0148   11.8s  And drawing upon an Indian narrative and upon our corporate history, we first elucidated a core purpose that would galvanize people to come to work in the morning and give off their best.
+L0149   12.7s  Now, that core purpose was simply to say, "Indians are second to none, and we will make products that will prove that to the world." I know that sounds terribly parochial.
+L0150    1.6s  But please understand,
+L0151    8.6s  at that time, it was a cry to shed the most invisible, pernicious, and lingering feelings of inferiority,
+L0152    4.9s  and a lack of self-belief, which was the bequest of colonialism.
+L0153    1.8s  And that really
+L0154    8.1s  had an electrifying effect on our people. It triggered the David versus Goliath sentiment. It tapped into our collective memories of
+L0155    7.1s  our founding days where we had succeeded against all odds because we had something to prove. And it fueled our self-belief.
+L0156    4.7s  I know that sounds warm and fuzzy, but it contributed to concrete results.
+L0157   14.7s  Between 2002 and 2013, our profits went up 33 times. Our stock price went up 72 times. Uh that took a lot of hard work. But that hard work came about because people were motivated by a sense of purpose.
+L0158    6.8s  Today, our core purpose has changed. We recognize that as we became transnational,
+L0159    4.2s  we needed a more global and a more inclusive rallying cry.
+L0160   12.4s  Now, our purpose our core purpose is almost as compact. It is to drive positive change in the lives of our communities to enable them to rise.
+L0161    4.8s  And we often encapsulate that in just the one single word, rise.
+L0162    6.6s  (fast) Now, how that credo precisely evolved is a longer story, but let me tell you that if you ask any one of our 250,000
+L0163   14.2s  strong global family what it is that differentiates our company, what it is that gets them to come into work every day, they will say it's our purpose. There's extraordinary alignment around that credo.
+L0164    4.9s  And I want to underscore the fact that we adapted our purpose to new realities.
+L0165   12.5s  I believe it's important to accept that purpose can evolve and it can transform. Because many of the problems of the world that I alluded to earlier simply arose out of rigid and immutable mindsets.
+L0166    8.8s  Now, I'm a hard-headed businessman, not an armchair philosopher, but personal experience has taught me never to underestimate the power of
+L0167   10.1s  purpose in business or in life. And there's no shortage of role models. But I'm not talking about larger-than-life clichéd icons.
+L0168   11.5s  And even before you set out to change the world, which Fletcher no doubt has prepared you to do, I urge you all to take small steps to change the world around you.
+L0169    5.4s  Perhaps your purpose, like Mahendra's, will also evolve over the course of your life.
+L0170    9.1s  But one of the privileges of attending an institution like this is the opportunity to step outside the familiarity of your lived experiences,
+L0171   10.7s  make sense of the bigger picture and of the space that you occupy within it. I myself am inspired almost every single day by people who possess this understanding, who are committed
+L0172   11.5s  every day to living with empathy, and possibly without ever knowing how impactful they have been. So, let me share with you one more personal story. Decades ago, we were in a taxi
+L0173    7.2s  rushing to get my then 1-year-old daughter to surgery for a hand injury that she had suffered. And my wife and I
+L0174   11.2s  [REPLAYED] were beside ourselves with anxiety. My daughter was throwing a tantrum, and the taxi driver clearly picked up on our anxious, intense state.
+L0175    7.4s  "May I share an old saying with you?" he quietly asked us. And he said, "If everyone's problems
+L0176    1.6s  [REPLAYED] were like laundry
+L0177    3.8s  (fast) hanging out to dry in an open field, and you had the opportunity
+L0178    3.8s  to go out into that field and exchange your laundry,
+L0179    6.5s  [REPLAYED] your problems in other words, with anyone else's, you would still choose your own problems."
+L0180    5.3s  (fast) And he paused, and he just said quietly, "Don't worry, I'll get you there safe and sound and in time."
+L0181    4.2s  And at that moment, it was precisely the perspective that I needed.
+L0182    4.4s  [REPLAYED] The surgery was a success, and to this day, I look gratefully
+L0183   11.7s  to that cab driver's wise act of comfort. A man who has no idea that he provided me with a view and a resilience that has helped me throughout my career
+L0184    3.6s  [REPLAYED] to deal with the roller coaster ride of business fortunes.
+L0185    6.8s  You will similarly have no difficulty in finding such inspirational people. You may look around this room
+L0186    7.2s  and recognize a fellow student who stayed up with you all night to support you when life seemed overwhelming.
+L0187    6.9s  A professor who postponed an exam when COVID anxiety was at its peak. Parents
+L0188    8.0s  who have worked tirelessly and sacrificed much to enable you to celebrate today. These are people who commit themselves to
+L0189   10.2s  helping others rise in small but meaningful ways every single day. People who have come to understand the significance of empathy.
+L0190   13.3s  They find ways to shape their world into what it ought to be. And I ask you, why can't the next individual who brings the is closer to the ought be you?
+L0191    2.7s  (fast) So, in closing, let me come back to my father.
+L0192    4.4s  And I've often asked myself, why did he come to Fletcher?
+L0193   12.6s  He had already been with been away from his family and home for 4 years as an undergraduate at Harvard. Why didn't he simply choose to go home after such a long absence?
+L0194    7.6s  (fast) And if I were to guess what went through his mind, I would say he stayed on because he saw a new world in the making.
+L0195    5.4s  He wanted to understand that world, and he wanted to be part of the solution.
+L0196    4.5s  (slow) He came as the original pilgrim seeking answers.
+L0197    6.6s  (slow) In a way, so are you all. pilgrims in search of answers.
+L0198    3.4s  All pilgrims in search of a better world.
+L0199    6.5s  I once read the perfect definition of a pilgrim, which says that a pilgrim is a wanderer
+L0200    1.5s  with a purpose.
+L0201    6.0s  And I think that pretty much sums up your present and your future.
+L0202    1.8s  You are all pilgrims
+L0203    6.0s  [REPLAYED] who in the course of your careers will wander through an uncharted world.
+L0204    4.0s  [REPLAYED] May you wander through it with purpose. Thank you and congratulations.

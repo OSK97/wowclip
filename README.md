@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# WowClip — Automated Video Moment Extractor & Clipping Engine
 
-## Getting Started
+WowClip transforms long YouTube videos into viral, short-form clips (Shorts / Reels / TikTok) using multi-stage AI reasoning, speech-to-text alignment, and audience signal analysis.
 
-First, run the development server:
+## Repository Architecture
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+The repository is organized into self-contained, cooperative modules:
+
+```text
+├── app/                   # Next.js 16 UI and API route endpoints
+│   ├── api/process/       # Stage 1: Ingestion & Gate verdict (SSE stream)
+│   ├── api/clips/         # Stage 2: Parallel finders & clip cutting (SSE stream)
+│   ├── api/validate/      # Instant YouTube URL validation & metadata lookup
+│   └── components/        # Decision card, verdict card, report card, clip results
+├── pipeline/              # Ingestion pipeline & orchestration
+│   ├── run.py             # Stage 1 entrypoint (transcript, replay heatmap, bouncer)
+│   ├── clips.py           # Stage 2 entrypoint (parallel category finders & cut)
+│   ├── bridge.py          # Bridge to final_transcript engine
+│   ├── bouncer.py         # Technical & speech feasibility gate
+│   └── config.py          # Unified credentials & network configurations
+├── final_transcript/      # Core clip-finding & refining engine
+│   ├── prompts/           # Specialized category prompts & cut instructions
+│   │   ├── _common.md
+│   │   ├── audience.md
+│   │   ├── emotional.md
+│   │   ├── entertainment.md
+│   │   ├── general.md
+│   │   ├── motivational.md
+│   │   ├── refine_cut.md
+│   │   └── refine_select.md
+│   ├── build_payload.py   # Script formatting with pace tags & comment markers
+│   ├── find_clips.py      # Category-specific prompt runner
+│   ├── refine_clips.py    # Word-level boundary alignment & deduplication
+│   └── llm.py             # OpenRouter client with throughput routing & retries
+├── wowClip/               # API keys & supporting tools
+│   ├── api_keys.json      # Pre-configured service credentials
+│   └── omni_bouncer.py    # Model evaluation tests & prompts
+├── .env.local             # Local environment configuration
+└── package.json           # Dependencies and scripts
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Quick Start
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 1. Install Dependencies
+```bash
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 2. Python Environment Requirements
+Ensure Python 3.10+ is available on your PATH:
+```bash
+pip install yt-dlp requests
+```
 
-## Learn More
+### 3. API Keys Configuration
+Credentials are automatically read from `.env.local` or `wowClip/api_keys.json`:
+- `OPENROUTER_API_KEY`: Model inferences
+- `YOUTUBE_API_KEY`: Video metadata & comments
+- `GPROXY_*`: Residential proxy for rapid caption & heatmap downloads
 
-To learn more about Next.js, take a look at the following resources:
+### 4. Run the Development Server
+```bash
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Open [http://localhost:3000](http://localhost:3000) in your browser.

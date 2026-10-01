@@ -1,0 +1,7 @@
+- `[x]` 1. Update `pipeline.py` (USD_INR = 96.0)
+- `[x]` 2. Update `llm.py` (add `calculate_deepseek_cost`)
+- `[x]` 3. Update `find_clips.py` (max_tokens = 64000, calculate cost, log reasoning tokens, accept max effort)
+- `[x]` 4. Update `refine_clips.py` (max_tokens = 64000, calculate cost, log reasoning tokens, accept max effort)
+- `[x]` 5. Update `polish_clips.py` (max_tokens = 16000, calculate cost, log reasoning tokens, accept max effort)
+- `[x]` 6. Fix `pipeline.py` deepseek override to deepseek-v4-flash
+- `[/]` 7. Run the pipeline on the requested video with max effort

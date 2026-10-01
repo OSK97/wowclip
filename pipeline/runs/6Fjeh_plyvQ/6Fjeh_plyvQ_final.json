@@ -1,0 +1,9476 @@
+{
+  "meta": {
+    "video_id": "6Fjeh_plyvQ",
+    "url": "https://www.youtube.com/watch?v=6Fjeh_plyvQ",
+    "length_s": 549.0,
+    "clip_start_s": 0.0,
+    "clip_end_s": null,
+    "source": "youtube",
+    "track": {
+      "code": "hi-orig",
+      "kind": "auto",
+      "translated": false,
+      "why": "Using YouTube's own speech recognition in hi, untranslated. Ignored 156 machine-translated variants of it."
+    },
+    "language": "hi",
+    "words": 1575,
+    "word_level_ratio": 0.999,
+    "seconds": 21.73
+  },
+  "words": [
+    {
+      "word": "हाय",
+      "start": 0.08,
+      "source": "asr",
+      "end": 0.24
+    },
+    {
+      "word": "एवरीबॉडी",
+      "start": 0.24,
+      "source": "asr",
+      "end": 0.92
+    },
+    {
+      "word": "नमस्ते।",
+      "start": 0.92,
+      "source": "asr",
+      "end": 1.92
+    },
+    {
+      "word": "जल्दी",
+      "start": 1.92,
+      "source": "asr",
+      "end": 2.24
+    },
+    {
+      "word": "से",
+      "start": 2.24,
+      "source": "asr",
+      "end": 2.399
+    },
+    {
+      "word": "वीडियो",
+      "start": 2.399,
+      "source": "asr",
+      "end": 2.639
+    },
+    {
+      "word": "शुरू",
+      "start": 2.639,
+      "source": "asr",
+      "end": 2.879
+    },
+    {
+      "word": "करेंगे।",
+      "start": 2.879,
+      "source": "asr",
+      "end": 3.2
+    },
+    {
+      "word": "आई",
+      "start": 3.2,
+      "source": "asr",
+      "end": 3.36
+    },
+    {
+      "word": "विल",
+      "start": 3.36,
+      "source": "asr",
+      "end": 3.6
+    },
+    {
+      "word": "नॉट",
+      "start": 3.6,
+      "source": "asr",
+      "end": 3.84
+    },
+    {
+      "word": "टेक",
+      "start": 3.84,
+      "source": "asr",
+      "end": 4.0
+    },
+    {
+      "word": "अ",
+      "start": 4.0,
+      "source": "asr",
+      "end": 4.08
+    },
+    {
+      "word": "लॉट",
+      "start": 4.08,
+      "source": "asr",
+      "end": 4.319
+    },
+    {
+      "word": "ऑफ",
+      "start": 4.319,
+      "source": "asr",
+      "end": 4.56
+    },
+    {
+      "word": "योर",
+      "start": 4.56,
+      "source": "asr",
+      "end": 4.72
+    },
+    {
+      "word": "टाइम।",
+      "start": 4.72,
+      "source": "asr",
+      "end": 4.88
+    },
+    {
+      "word": "बट",
+      "start": 4.88,
+      "source": "asr",
+      "end": 5.12
+    },
+    {
+      "word": "मैं",
+      "start": 5.12,
+      "source": "asr",
+      "end": 5.279
+    },
+    {
+      "word": "सिर्फ",
+      "start": 5.279,
+      "source": "asr",
+      "end": 5.52
+    },
+    {
+      "word": "आपको",
+      "start": 5.52,
+      "source": "asr",
+      "end": 5.759
+    },
+    {
+      "word": "यह",
+      "start": 5.759,
+      "source": "asr",
+      "end": 5.92
+    },
+    {
+      "word": "बताना",
+      "start": 5.92,
+      "source": "asr",
+      "end": 6.319
+    },
+    {
+      "word": "चाहती",
+      "start": 6.319,
+      "source": "asr",
+      "end": 6.72
+    },
+    {
+      "word": "थी",
+      "start": 6.72,
+      "source": "asr",
+      "end": 7.04
+    },
+    {
+      "word": "कि",
+      "start": 7.04,
+      "source": "asr",
+      "end": 7.2
+    },
+    {
+      "word": "आपने",
+      "start": 7.2,
+      "source": "asr",
+      "end": 7.44
+    },
+    {
+      "word": "लंदन",
+      "start": 7.44,
+      "source": "asr",
+      "end": 7.839
+    },
+    {
+      "word": "वाले",
+      "start": 7.839,
+      "source": "asr",
+      "end": 8.08
+    },
+    {
+      "word": "शो",
+      "start": 8.08,
+      "source": "asr",
+      "end": 8.32
+    },
+    {
+      "word": "को",
+      "start": 8.32,
+      "source": "asr",
+      "end": 8.48
+    },
+    {
+      "word": "इतना",
+      "start": 8.48,
+      "source": "asr",
+      "end": 8.8
+    },
+    {
+      "word": "प्यार",
+      "start": 8.8,
+      "source": "asr",
+      "end": 9.12
+    },
+    {
+      "word": "दिया।",
+      "start": 9.12,
+      "source": "asr",
+      "end": 9.36
+    },
+    {
+      "word": "वी",
+      "start": 9.36,
+      "source": "asr",
+      "end": 9.44
+    },
+    {
+      "word": "हैव",
+      "start": 9.44,
+      "source": "asr",
+      "end": 9.679
+    },
+    {
+      "word": "पुट",
+      "start": 9.679,
+      "source": "asr",
+      "end": 9.84
+    },
+    {
+      "word": "वन",
+      "start": 9.84,
+      "source": "asr",
+      "end": 10.16
+    },
+    {
+      "word": "शो",
+      "start": 10.16,
+      "source": "asr",
+      "end": 10.719
+    },
+    {
+      "word": "ऑन",
+      "start": 10.719,
+      "source": "asr",
+      "end": 11.12
+    },
+    {
+      "word": "29th",
+      "start": 11.12,
+      "source": "asr",
+      "end": 11.599
+    },
+    {
+      "word": "ऑफ़",
+      "start": 11.599,
+      "source": "asr",
+      "end": 11.759
+    },
+    {
+      "word": "जून",
+      "start": 11.759,
+      "source": "asr",
+      "end": 12.08
+    },
+    {
+      "word": "जो",
+      "start": 12.08,
+      "source": "asr",
+      "end": 12.48
+    },
+    {
+      "word": "ऑलमोस्ट",
+      "start": 12.48,
+      "source": "asr",
+      "end": 12.88
+    },
+    {
+      "word": "सोल्ड",
+      "start": 12.88,
+      "source": "asr",
+      "end": 13.2
+    },
+    {
+      "word": "आउट",
+      "start": 13.2,
+      "source": "asr",
+      "end": 13.44
+    },
+    {
+      "word": "हो",
+      "start": 13.44,
+      "source": "asr",
+      "end": 13.519
+    },
+    {
+      "word": "गया",
+      "start": 13.519,
+      "source": "asr",
+      "end": 13.679
+    },
+    {
+      "word": "है।",
+      "start": 13.679,
+      "source": "asr",
+      "end": 14.0
+    },
+    {
+      "word": "तो",
+      "start": 14.0,
+      "source": "asr",
+      "end": 14.24
+    },
+    {
+      "word": "हमने",
+      "start": 14.24,
+      "source": "asr",
+      "end": 14.559
+    },
+    {
+      "word": "पूरा",
+      "start": 14.559,
+      "source": "asr",
+      "end": 14.799
+    },
+    {
+      "word": "का",
+      "start": 14.799,
+      "source": "asr",
+      "end": 14.96
+    },
+    {
+      "word": "पूरा",
+      "start": 14.96,
+      "source": "asr",
+      "end": 15.28
+    },
+    {
+      "word": "मतलब",
+      "start": 15.28,
+      "source": "asr",
+      "end": 15.519
+    },
+    {
+      "word": "हिम्मत",
+      "start": 15.519,
+      "source": "asr",
+      "end": 15.92
+    },
+    {
+      "word": "दिखा",
+      "start": 15.92,
+      "source": "asr",
+      "end": 16.16
+    },
+    {
+      "word": "के",
+      "start": 16.16,
+      "source": "asr",
+      "end": 16.32
+    },
+    {
+      "word": "पूरा",
+      "start": 16.32,
+      "source": "asr",
+      "end": 16.56
+    },
+    {
+      "word": "का",
+      "start": 16.56,
+      "source": "asr",
+      "end": 16.72
+    },
+    {
+      "word": "पूरा",
+      "start": 16.72,
+      "source": "asr",
+      "end": 16.96
+    },
+    {
+      "word": "टूर",
+      "start": 16.96,
+      "source": "asr",
+      "end": 17.279
+    },
+    {
+      "word": "डाल",
+      "start": 17.279,
+      "source": "asr",
+      "end": 17.44
+    },
+    {
+      "word": "दिया",
+      "start": 17.44,
+      "source": "asr",
+      "end": 17.6
+    },
+    {
+      "word": "है।",
+      "start": 17.6,
+      "source": "asr",
+      "end": 17.84
+    },
+    {
+      "word": "सो",
+      "start": 17.84,
+      "source": "asr",
+      "end": 18.08
+    },
+    {
+      "word": "नाउ",
+      "start": 18.08,
+      "source": "asr",
+      "end": 18.4
+    },
+    {
+      "word": "28थ",
+      "start": 18.4,
+      "source": "asr",
+      "end": 18.88
+    },
+    {
+      "word": "ऑफ़",
+      "start": 18.88,
+      "source": "asr",
+      "end": 19.039
+    },
+    {
+      "word": "जून",
+      "start": 19.039,
+      "source": "asr",
+      "end": 19.199
+    },
+    {
+      "word": "इज़",
+      "start": 19.199,
+      "source": "asr",
+      "end": 19.439
+    },
+    {
+      "word": "डबलिंग।",
+      "start": 19.439,
+      "source": "asr",
+      "end": 19.84
+    },
+    {
+      "word": "29",
+      "start": 19.84,
+      "source": "asr",
+      "end": 20.24
+    },
+    {
+      "word": "इज़",
+      "start": 20.24,
+      "source": "asr",
+      "end": 20.4
+    },
+    {
+      "word": "लंदन",
+      "start": 20.4,
+      "source": "asr",
+      "end": 20.8
+    },
+    {
+      "word": "एंड",
+      "start": 20.8,
+      "source": "asr",
+      "end": 20.96
+    },
+    {
+      "word": "फोर्थ",
+      "start": 20.96,
+      "source": "asr",
+      "end": 21.279
+    },
+    {
+      "word": "इज़",
+      "start": 21.279,
+      "source": "asr",
+      "end": 21.439
+    },
+    {
+      "word": "बर्मिंगम।",
+      "start": 21.439,
+      "source": "asr",
+      "end": 22.24
+    },
+    {
+      "word": "फिफ्थ",
+      "start": 22.24,
+      "source": "asr",
+      "end": 22.56
+    },
+    {
+      "word": "इज़",
+      "start": 22.56,
+      "source": "asr",
+      "end": 22.8
+    },
+    {
+      "word": "रेडिंग",
+      "start": 22.8,
+      "source": "asr",
+      "end": 23.199
+    },
+    {
+      "word": "इफ",
+      "start": 23.199,
+      "source": "asr",
+      "end": 23.359
+    },
+    {
+      "word": "आई",
+      "start": 23.359,
+      "source": "asr",
+      "end": 23.519
+    },
+    {
+      "word": "सेइंग",
+      "start": 23.519,
+      "source": "asr",
+      "end": 23.76
+    },
+    {
+      "word": "द",
+      "start": 23.76,
+      "source": "asr",
+      "end": 23.92
+    },
+    {
+      "word": "नेम",
+      "start": 23.92,
+      "source": "asr",
+      "end": 24.08
+    },
+    {
+      "word": "राइट।",
+      "start": 24.08,
+      "source": "asr",
+      "end": 24.48
+    },
+    {
+      "word": "एंड",
+      "start": 24.48,
+      "source": "asr",
+      "end": 24.72
+    },
+    {
+      "word": "सिक्स्थ",
+      "start": 24.72,
+      "source": "asr",
+      "end": 24.96
+    },
+    {
+      "word": "इज़",
+      "start": 24.96,
+      "source": "asr",
+      "end": 25.119
+    },
+    {
+      "word": "लंदन",
+      "start": 25.119,
+      "source": "asr",
+      "end": 25.519
+    },
+    {
+      "word": "अगेन",
+      "start": 25.519,
+      "source": "asr",
+      "end": 25.84
+    },
+    {
+      "word": "इन",
+      "start": 25.84,
+      "source": "asr",
+      "end": 26.08
+    },
+    {
+      "word": "हैरो।",
+      "start": 26.08,
+      "source": "asr",
+      "end": 26.72
+    },
+    {
+      "word": "एंड",
+      "start": 26.72,
+      "source": "asr",
+      "end": 26.88
+    },
+    {
+      "word": "देन",
+      "start": 26.88,
+      "source": "asr",
+      "end": 27.119
+    },
+    {
+      "word": "वी",
+      "start": 27.119,
+      "source": "asr",
+      "end": 27.199
+    },
+    {
+      "word": "आर",
+      "start": 27.199,
+      "source": "asr",
+      "end": 27.359
+    },
+    {
+      "word": "गोइंग",
+      "start": 27.359,
+      "source": "asr",
+      "end": 27.76
+    },
+    {
+      "word": "ऑन",
+      "start": 27.76,
+      "source": "asr",
+      "end": 28.0
+    },
+    {
+      "word": "अ",
+      "start": 28.0,
+      "source": "asr",
+      "end": 28.4
+    },
+    {
+      "word": "यूरोप",
+      "start": 28.4,
+      "source": "asr",
+      "end": 28.8
+    },
+    {
+      "word": "टूर",
+      "start": 28.8,
+      "source": "asr",
+      "end": 29.119
+    },
+    {
+      "word": "व्हिच",
+      "start": 29.119,
+      "source": "asr",
+      "end": 29.359
+    },
+    {
+      "word": "इज",
+      "start": 29.359,
+      "source": "asr",
+      "end": 29.519
+    },
+    {
+      "word": "बर्लिन,",
+      "start": 29.519,
+      "source": "asr",
+      "end": 30.32
+    },
+    {
+      "word": "फ्रैंकफर्ट",
+      "start": 30.32,
+      "source": "asr",
+      "end": 30.96
+    },
+    {
+      "word": "एंड",
+      "start": 30.96,
+      "source": "asr",
+      "end": 31.119
+    },
+    {
+      "word": "एमस्टरडम।",
+      "start": 31.119,
+      "source": "asr",
+      "end": 31.76
+    },
+    {
+      "word": "मैंने",
+      "start": 31.76,
+      "source": "asr",
+      "end": 31.92
+    },
+    {
+      "word": "सारी",
+      "start": 31.92,
+      "source": "asr",
+      "end": 32.16
+    },
+    {
+      "word": "डिटेल्स",
+      "start": 32.16,
+      "source": "asr",
+      "end": 32.64
+    },
+    {
+      "word": "लास्ट",
+      "start": 32.64,
+      "source": "asr",
+      "end": 32.8
+    },
+    {
+      "word": "में",
+      "start": 32.8,
+      "source": "asr",
+      "end": 32.88
+    },
+    {
+      "word": "लगा",
+      "start": 32.88,
+      "source": "asr",
+      "end": 33.04
+    },
+    {
+      "word": "दी",
+      "start": 33.04,
+      "source": "asr",
+      "end": 33.2
+    },
+    {
+      "word": "है।",
+      "start": 33.2,
+      "source": "asr",
+      "end": 33.36
+    },
+    {
+      "word": "सो",
+      "start": 33.36,
+      "source": "asr",
+      "end": 33.6
+    },
+    {
+      "word": "बस",
+      "start": 33.6,
+      "source": "asr",
+      "end": 33.84
+    },
+    {
+      "word": "आप",
+      "start": 33.84,
+      "source": "asr",
+      "end": 34.16
+    },
+    {
+      "word": "टिकट्स",
+      "start": 34.16,
+      "source": "asr",
+      "end": 34.48
+    },
+    {
+      "word": "ले",
+      "start": 34.48,
+      "source": "asr",
+      "end": 34.559
+    },
+    {
+      "word": "लो",
+      "start": 34.559,
+      "source": "asr",
+      "end": 34.719
+    },
+    {
+      "word": "और",
+      "start": 34.719,
+      "source": "asr",
+      "end": 34.88
+    },
+    {
+      "word": "इंडिया",
+      "start": 34.88,
+      "source": "asr",
+      "end": 35.2
+    },
+    {
+      "word": "टूर",
+      "start": 35.2,
+      "source": "asr",
+      "end": 35.44
+    },
+    {
+      "word": "जारी",
+      "start": 35.44,
+      "source": "asr",
+      "end": 35.76
+    },
+    {
+      "word": "है।",
+      "start": 35.76,
+      "source": "asr",
+      "end": 35.92
+    },
+    {
+      "word": "इंडिया",
+      "start": 35.92,
+      "source": "asr",
+      "end": 36.239
+    },
+    {
+      "word": "टूर",
+      "start": 36.239,
+      "source": "asr",
+      "end": 36.48
+    },
+    {
+      "word": "के",
+      "start": 36.48,
+      "source": "asr",
+      "end": 36.64
+    },
+    {
+      "word": "टिकट्स",
+      "start": 36.64,
+      "source": "asr",
+      "end": 36.96
+    },
+    {
+      "word": "भी",
+      "start": 36.96,
+      "source": "asr",
+      "end": 37.2
+    },
+    {
+      "word": "यहां",
+      "start": 37.2,
+      "source": "asr",
+      "end": 37.28
+    },
+    {
+      "word": "पे",
+      "start": 37.28,
+      "source": "asr",
+      "end": 37.44
+    },
+    {
+      "word": "है।",
+      "start": 37.44,
+      "source": "asr",
+      "end": 38.079
+    },
+    {
+      "word": "बॉम्बे,",
+      "start": 38.079,
+      "source": "asr",
+      "end": 38.719
+    },
+    {
+      "word": "हैदराबाद",
+      "start": 38.719,
+      "source": "asr",
+      "end": 39.44
+    },
+    {
+      "word": "एंड",
+      "start": 39.44,
+      "source": "asr",
+      "end": 40.399
+    },
+    {
+      "word": "एंड",
+      "start": 40.399,
+      "source": "asr",
+      "end": 40.8
+    },
+    {
+      "word": "एंड",
+      "start": 40.8,
+      "source": "asr",
+      "end": 41.04
+    },
+    {
+      "word": "एंड",
+      "start": 41.04,
+      "source": "asr",
+      "end": 41.92
+    },
+    {
+      "word": "बोर",
+      "start": 41.92,
+      "source": "asr",
+      "end": 42.48
+    },
+    {
+      "word": "हैव",
+      "start": 42.48,
+      "source": "asr",
+      "end": 42.719
+    },
+    {
+      "word": "बीन",
+      "start": 42.719,
+      "source": "asr",
+      "end": 42.879
+    },
+    {
+      "word": "अनाउंस्ड।",
+      "start": 42.879,
+      "source": "asr",
+      "end": 43.68
+    },
+    {
+      "word": "बस",
+      "start": 43.68,
+      "source": "asr",
+      "end": 43.92
+    },
+    {
+      "word": "मुझे",
+      "start": 43.92,
+      "source": "asr",
+      "end": 44.16
+    },
+    {
+      "word": "यही",
+      "start": 44.16,
+      "source": "asr",
+      "end": 44.32
+    },
+    {
+      "word": "कहना",
+      "start": 44.32,
+      "source": "asr",
+      "end": 44.48
+    },
+    {
+      "word": "था",
+      "start": 44.48,
+      "source": "asr",
+      "end": 44.559
+    },
+    {
+      "word": "कि",
+      "start": 44.559,
+      "source": "asr",
+      "end": 44.719
+    },
+    {
+      "word": "आप",
+      "start": 44.719,
+      "source": "asr",
+      "end": 44.8
+    },
+    {
+      "word": "जल्दी",
+      "start": 44.8,
+      "source": "asr",
+      "end": 44.96
+    },
+    {
+      "word": "से",
+      "start": 44.96,
+      "source": "asr",
+      "end": 45.12
+    },
+    {
+      "word": "अपने",
+      "start": 45.12,
+      "source": "asr",
+      "end": 45.28
+    },
+    {
+      "word": "टूर",
+      "start": 45.28,
+      "source": "asr",
+      "end": 45.44
+    },
+    {
+      "word": "के",
+      "start": 45.44,
+      "source": "asr",
+      "end": 45.52
+    },
+    {
+      "word": "टिकट्स",
+      "start": 45.52,
+      "source": "asr",
+      "end": 45.92
+    },
+    {
+      "word": "ले लो।",
+      "start": 45.92,
+      "source": "asr",
+      "end": 46.079
+    },
+    {
+      "word": "मिलते",
+      "start": 46.079,
+      "source": "asr",
+      "end": 46.239
+    },
+    {
+      "word": "हैं",
+      "start": 46.239,
+      "source": "asr",
+      "end": 46.399
+    },
+    {
+      "word": "शोज़",
+      "start": 46.399,
+      "source": "asr",
+      "end": 46.719
+    },
+    {
+      "word": "पे",
+      "start": 46.719,
+      "source": "asr",
+      "end": 46.879
+    },
+    {
+      "word": "एंड",
+      "start": 46.879,
+      "source": "asr",
+      "end": 47.039
+    },
+    {
+      "word": "एंजॉय",
+      "start": 47.039,
+      "source": "asr",
+      "end": 47.36
+    },
+    {
+      "word": "द",
+      "start": 47.36,
+      "source": "asr",
+      "end": 47.52
+    },
+    {
+      "word": "वीडियो।",
+      "start": 47.52,
+      "source": "asr",
+      "end": 48.079
+    },
+    {
+      "word": "एक",
+      "start": 48.079,
+      "source": "asr",
+      "end": 48.399
+    },
+    {
+      "word": "दादा",
+      "start": 48.399,
+      "source": "asr",
+      "end": 48.559
+    },
+    {
+      "word": "और",
+      "start": 48.559,
+      "source": "asr",
+      "end": 48.8
+    },
+    {
+      "word": "भी",
+      "start": 48.8,
+      "source": "asr",
+      "end": 48.96
+    },
+    {
+      "word": "सरप्राइज",
+      "start": 48.96,
+      "source": "asr",
+      "end": 49.44
+    },
+    {
+      "word": "है",
+      "start": 49.44,
+      "source": "asr",
+      "end": 49.6
+    },
+    {
+      "word": "मेरे",
+      "start": 49.6,
+      "source": "asr",
+      "end": 49.84
+    },
+    {
+      "word": "पास",
+      "start": 49.84,
+      "source": "asr",
+      "end": 50.64
+    },
+    {
+      "word": "जो",
+      "start": 50.64,
+      "source": "asr",
+      "end": 50.879
+    },
+    {
+      "word": "कि",
+      "start": 50.879,
+      "source": "asr",
+      "end": 51.12
+    },
+    {
+      "word": "शायद",
+      "start": 51.12,
+      "source": "asr",
+      "end": 51.84
+    },
+    {
+      "word": "लड़कियों",
+      "start": 51.84,
+      "source": "asr",
+      "end": 52.32
+    },
+    {
+      "word": "का",
+      "start": 52.32,
+      "source": "asr",
+      "end": 52.48
+    },
+    {
+      "word": "एंगल",
+      "start": 52.48,
+      "source": "asr",
+      "end": 52.8
+    },
+    {
+      "word": "ज्यादा",
+      "start": 52.8,
+      "source": "asr",
+      "end": 53.12
+    },
+    {
+      "word": "खूबसूरत",
+      "start": 53.12,
+      "source": "asr",
+      "end": 53.68
+    },
+    {
+      "word": "से",
+      "start": 53.68,
+      "source": "asr",
+      "end": 53.84
+    },
+    {
+      "word": "बता",
+      "start": 53.84,
+      "source": "asr",
+      "end": 54.079
+    },
+    {
+      "word": "पाएंगी।",
+      "start": 54.079,
+      "source": "asr",
+      "end": 55.279
+    },
+    {
+      "word": "आपकी",
+      "start": 55.36,
+      "source": "asr",
+      "end": 55.68
+    },
+    {
+      "word": "इजाजत",
+      "start": 55.68,
+      "source": "asr",
+      "end": 56.239
+    },
+    {
+      "word": "के",
+      "start": 56.239,
+      "source": "asr",
+      "end": 56.32
+    },
+    {
+      "word": "साथ",
+      "start": 56.32,
+      "source": "asr",
+      "end": 56.48
+    },
+    {
+      "word": "मैं",
+      "start": 56.48,
+      "source": "asr",
+      "end": 56.719
+    },
+    {
+      "word": "किसी",
+      "start": 56.719,
+      "source": "asr",
+      "end": 56.96
+    },
+    {
+      "word": "स्टेज",
+      "start": 56.96,
+      "source": "asr",
+      "end": 57.36
+    },
+    {
+      "word": "पर",
+      "start": 57.36,
+      "source": "asr",
+      "end": 57.52
+    },
+    {
+      "word": "किसी",
+      "start": 57.52,
+      "source": "asr",
+      "end": 57.68
+    },
+    {
+      "word": "को",
+      "start": 57.68,
+      "source": "asr",
+      "end": 57.84
+    },
+    {
+      "word": "आमंत्रित",
+      "start": 57.84,
+      "source": "asr",
+      "end": 58.399
+    },
+    {
+      "word": "कर",
+      "start": 58.399,
+      "source": "asr",
+      "end": 58.48
+    },
+    {
+      "word": "रहा",
+      "start": 58.48,
+      "source": "asr",
+      "end": 58.559
+    },
+    {
+      "word": "हूं।",
+      "start": 58.559,
+      "source": "asr",
+      "end": 58.8
+    },
+    {
+      "word": "आपने",
+      "start": 58.8,
+      "source": "asr",
+      "end": 59.039
+    },
+    {
+      "word": "रील्स",
+      "start": 59.039,
+      "source": "asr",
+      "end": 59.359
+    },
+    {
+      "word": "वगैरह",
+      "start": 59.359,
+      "source": "asr",
+      "end": 59.6
+    },
+    {
+      "word": "में",
+      "start": 59.6,
+      "source": "asr",
+      "end": 59.76
+    },
+    {
+      "word": "उन्हें",
+      "start": 59.76,
+      "source": "asr",
+      "end": 59.92
+    },
+    {
+      "word": "देखा",
+      "start": 59.92,
+      "source": "asr",
+      "end": 60.079
+    },
+    {
+      "word": "होगा।",
+      "start": 60.079,
+      "source": "asr",
+      "end": 60.399
+    },
+    {
+      "word": "वह",
+      "start": 60.399,
+      "source": "asr",
+      "end": 60.559
+    },
+    {
+      "word": "भी",
+      "start": 60.559,
+      "source": "asr",
+      "end": 60.719
+    },
+    {
+      "word": "बड़ी",
+      "start": 60.719,
+      "source": "asr",
+      "end": 60.879
+    },
+    {
+      "word": "खूबसूरत",
+      "start": 60.879,
+      "source": "asr",
+      "end": 61.359
+    },
+    {
+      "word": "पोएट्री",
+      "start": 61.359,
+      "source": "asr",
+      "end": 61.92
+    },
+    {
+      "word": "करती",
+      "start": 61.92,
+      "source": "asr",
+      "end": 62.16
+    },
+    {
+      "word": "हैं।",
+      "start": 62.16,
+      "source": "asr",
+      "end": 62.719
+    },
+    {
+      "word": "आपकी",
+      "start": 62.719,
+      "source": "asr",
+      "end": 63.12
+    },
+    {
+      "word": "जोरदार",
+      "start": 63.12,
+      "source": "asr",
+      "end": 63.68
+    },
+    {
+      "word": "तालियों",
+      "start": 63.68,
+      "source": "asr",
+      "end": 64.08
+    },
+    {
+      "word": "के",
+      "start": 64.08,
+      "source": "asr",
+      "end": 64.76
+    },
+    {
+      "word": "बीच",
+      "start": 64.76,
+      "source": "asr",
+      "end": 65.76
+    },
+    {
+      "word": "जोरदार",
+      "start": 65.76,
+      "source": "asr",
+      "end": 66.4
+    },
+    {
+      "word": "तालियों",
+      "start": 66.4,
+      "source": "asr",
+      "end": 66.799
+    },
+    {
+      "word": "के",
+      "start": 66.799,
+      "source": "asr",
+      "end": 67.4
+    },
+    {
+      "word": "बीच",
+      "start": 67.4,
+      "source": "asr",
+      "end": 68.4
+    },
+    {
+      "word": "स्टेज",
+      "start": 68.4,
+      "source": "asr",
+      "end": 68.88
+    },
+    {
+      "word": "पे",
+      "start": 68.88,
+      "source": "asr",
+      "end": 69.04
+    },
+    {
+      "word": "बुला",
+      "start": 69.04,
+      "source": "asr",
+      "end": 69.2
+    },
+    {
+      "word": "रहा",
+      "start": 69.2,
+      "source": "asr",
+      "end": 69.28
+    },
+    {
+      "word": "हूं",
+      "start": 69.28,
+      "source": "asr",
+      "end": 69.439
+    },
+    {
+      "word": "नायाब",
+      "start": 69.439,
+      "source": "asr",
+      "end": 69.84
+    },
+    {
+      "word": "मिदा",
+      "start": 69.84,
+      "source": "asr",
+      "end": 71.04
+    },
+    {
+      "word": "को।",
+      "start": 71.88,
+      "source": "asr",
+      "end": 72.88
+    },
+    {
+      "word": "जोरदार",
+      "start": 72.88,
+      "source": "asr",
+      "end": 73.439
+    },
+    {
+      "word": "तालियां",
+      "start": 73.439,
+      "source": "asr",
+      "end": 73.68
+    },
+    {
+      "word": "बजनी",
+      "start": 73.68,
+      "source": "asr",
+      "end": 74.0
+    },
+    {
+      "word": "चाहिए।",
+      "start": 74.0,
+      "source": "asr",
+      "end": 75.2
+    },
+    {
+      "word": "नायाब",
+      "start": 76.52,
+      "source": "asr",
+      "end": 77.52
+    },
+    {
+      "word": "दोस्तों",
+      "start": 77.52,
+      "source": "asr",
+      "end": 78.08
+    },
+    {
+      "word": "प्लीज",
+      "start": 78.08,
+      "source": "asr",
+      "end": 78.799
+    },
+    {
+      "word": "आओ",
+      "start": 78.799,
+      "source": "asr",
+      "end": 79.68
+    },
+    {
+      "word": "नायाब",
+      "start": 79.68,
+      "source": "asr",
+      "end": 80.24
+    },
+    {
+      "word": "जी।",
+      "start": 80.24,
+      "source": "asr",
+      "end": 80.799
+    },
+    {
+      "word": "आहा",
+      "start": 80.799,
+      "source": "asr",
+      "end": 81.04
+    },
+    {
+      "word": "हा",
+      "start": 81.04,
+      "source": "asr",
+      "end": 81.759
+    },
+    {
+      "word": "क्या",
+      "start": 81.759,
+      "source": "asr",
+      "end": 82.56
+    },
+    {
+      "word": "बात",
+      "start": 82.56,
+      "source": "asr",
+      "end": 82.799
+    },
+    {
+      "word": "है",
+      "start": 82.799,
+      "source": "asr",
+      "end": 83.28
+    },
+    {
+      "word": "गर्ल्स",
+      "start": 83.28,
+      "source": "asr",
+      "end": 83.52
+    },
+    {
+      "word": "गर्ल्स",
+      "start": 83.52,
+      "source": "asr",
+      "end": 83.92
+    },
+    {
+      "word": "गर्ल्स",
+      "start": 83.92,
+      "source": "asr",
+      "end": 84.32
+    },
+    {
+      "word": "गर्ल्स",
+      "start": 84.32,
+      "source": "asr",
+      "end": 84.64
+    },
+    {
+      "word": "बताएंगी",
+      "start": 84.64,
+      "source": "asr",
+      "end": 85.84
+    },
+    {
+      "word": "कहां",
+      "start": 86.72,
+      "source": "asr",
+      "end": 86.96
+    },
+    {
+      "word": "है",
+      "start": 86.96,
+      "source": "asr",
+      "end": 87.2
+    },
+    {
+      "word": "मेरी",
+      "start": 87.2,
+      "source": "asr",
+      "end": 87.36
+    },
+    {
+      "word": "गर्ल",
+      "start": 87.36,
+      "source": "asr",
+      "end": 87.6
+    },
+    {
+      "word": "गैंग",
+      "start": 87.6,
+      "source": "asr",
+      "end": 88.0
+    },
+    {
+      "word": "ये",
+      "start": 88.0,
+      "source": "asr",
+      "end": 88.159
+    },
+    {
+      "word": "रही",
+      "start": 88.159,
+      "source": "asr",
+      "end": 88.32
+    },
+    {
+      "word": "ये",
+      "start": 88.32,
+      "source": "asr",
+      "end": 88.4
+    },
+    {
+      "word": "रही",
+      "start": 88.4,
+      "source": "asr",
+      "end": 88.56
+    },
+    {
+      "word": "ये",
+      "start": 88.56,
+      "source": "asr",
+      "end": 88.72
+    },
+    {
+      "word": "रही",
+      "start": 88.72,
+      "source": "asr",
+      "end": 89.92
+    },
+    {
+      "word": "थैंक",
+      "start": 90.08,
+      "source": "asr",
+      "end": 90.4
+    },
+    {
+      "word": "गॉड",
+      "start": 90.4,
+      "source": "asr",
+      "end": 90.799
+    },
+    {
+      "word": "मैं",
+      "start": 90.799,
+      "source": "asr",
+      "end": 90.96
+    },
+    {
+      "word": "तो",
+      "start": 90.96,
+      "source": "asr",
+      "end": 91.52
+    },
+    {
+      "word": "डर",
+      "start": 91.52,
+      "source": "asr",
+      "end": 91.759
+    },
+    {
+      "word": "गई",
+      "start": 91.759,
+      "source": "asr",
+      "end": 92.0
+    },
+    {
+      "word": "थी",
+      "start": 92.0,
+      "source": "asr",
+      "end": 92.079
+    },
+    {
+      "word": "कि",
+      "start": 92.079,
+      "source": "asr",
+      "end": 92.159
+    },
+    {
+      "word": "मनर",
+      "start": 92.159,
+      "source": "asr",
+      "end": 92.479
+    },
+    {
+      "word": "की",
+      "start": 92.479,
+      "source": "asr",
+      "end": 92.64
+    },
+    {
+      "word": "ऑडियंस",
+      "start": 92.64,
+      "source": "asr",
+      "end": 93.04
+    },
+    {
+      "word": "मुझे",
+      "start": 93.04,
+      "source": "asr",
+      "end": 93.2
+    },
+    {
+      "word": "जानती",
+      "start": 93.2,
+      "source": "asr",
+      "end": 93.52
+    },
+    {
+      "word": "है",
+      "start": 93.52,
+      "source": "asr",
+      "end": 93.68
+    },
+    {
+      "word": "कि",
+      "start": 93.68,
+      "source": "asr",
+      "end": 93.84
+    },
+    {
+      "word": "भी",
+      "start": 93.84,
+      "source": "asr",
+      "end": 94.0
+    },
+    {
+      "word": "नहीं",
+      "start": 94.0,
+      "source": "asr",
+      "end": 94.159
+    },
+    {
+      "word": "जानती",
+      "start": 94.159,
+      "source": "asr",
+      "end": 94.56
+    },
+    {
+      "word": "अरे",
+      "start": 94.56,
+      "source": "asr",
+      "end": 94.72
+    },
+    {
+      "word": "नहीं",
+      "start": 94.72,
+      "source": "asr",
+      "end": 94.88
+    },
+    {
+      "word": "नहीं",
+      "start": 94.88,
+      "source": "asr",
+      "end": 95.04
+    },
+    {
+      "word": "सब",
+      "start": 95.04,
+      "source": "asr",
+      "end": 95.28
+    },
+    {
+      "word": "सारी",
+      "start": 95.28,
+      "source": "asr",
+      "end": 95.52
+    },
+    {
+      "word": "ऑडियंसेस",
+      "start": 95.52,
+      "source": "asr",
+      "end": 96.159
+    },
+    {
+      "word": "जानती",
+      "start": 96.159,
+      "source": "asr",
+      "end": 96.32
+    },
+    {
+      "word": "है",
+      "start": 96.32,
+      "source": "asr",
+      "end": 96.4
+    },
+    {
+      "word": "हां",
+      "start": 96.4,
+      "source": "asr",
+      "end": 96.72
+    },
+    {
+      "word": "रहने",
+      "start": 96.72,
+      "source": "asr",
+      "end": 96.96
+    },
+    {
+      "word": "दो",
+      "start": 96.96,
+      "source": "asr",
+      "end": 97.119
+    },
+    {
+      "word": "साल",
+      "start": 97.119,
+      "source": "asr",
+      "end": 97.36
+    },
+    {
+      "word": "दो",
+      "start": 97.36,
+      "source": "asr",
+      "end": 97.52
+    },
+    {
+      "word": "साल",
+      "start": 97.52,
+      "source": "asr",
+      "end": 97.759
+    },
+    {
+      "word": "पहले",
+      "start": 97.759,
+      "source": "asr",
+      "end": 97.92
+    },
+    {
+      "word": "मैं",
+      "start": 97.92,
+      "source": "asr",
+      "end": 98.079
+    },
+    {
+      "word": "मन",
+      "start": 98.079,
+      "source": "asr",
+      "end": 98.479
+    },
+    {
+      "word": "के",
+      "start": 98.479,
+      "source": "asr",
+      "end": 98.88
+    },
+    {
+      "word": "शो",
+      "start": 98.88,
+      "source": "asr",
+      "end": 99.2
+    },
+    {
+      "word": "में",
+      "start": 99.2,
+      "source": "asr",
+      "end": 99.28
+    },
+    {
+      "word": "गई",
+      "start": 99.28,
+      "source": "asr",
+      "end": 99.92
+    },
+    {
+      "word": "मुंबई",
+      "start": 99.92,
+      "source": "asr",
+      "end": 100.479
+    },
+    {
+      "word": "में",
+      "start": 100.479,
+      "source": "asr",
+      "end": 101.679
+    },
+    {
+      "word": "और",
+      "start": 101.72,
+      "source": "asr",
+      "end": 102.72
+    },
+    {
+      "word": "क्या",
+      "start": 102.72,
+      "source": "asr",
+      "end": 103.04
+    },
+    {
+      "word": "एलिट",
+      "start": 103.04,
+      "source": "asr",
+      "end": 103.6
+    },
+    {
+      "word": "ऑडियंस",
+      "start": 103.6,
+      "source": "asr",
+      "end": 104.079
+    },
+    {
+      "word": "थी",
+      "start": 104.079,
+      "source": "asr",
+      "end": 104.24
+    },
+    {
+      "word": "मैंने",
+      "start": 104.24,
+      "source": "asr",
+      "end": 104.479
+    },
+    {
+      "word": "इतने",
+      "start": 104.479,
+      "source": "asr",
+      "end": 104.799
+    },
+    {
+      "word": "कलेक्टिवली",
+      "start": 104.799,
+      "source": "asr",
+      "end": 105.439
+    },
+    {
+      "word": "रईस",
+      "start": 105.439,
+      "source": "asr",
+      "end": 106.0
+    },
+    {
+      "word": "लोग",
+      "start": 106.0,
+      "source": "asr",
+      "end": 106.079
+    },
+    {
+      "word": "ही",
+      "start": 106.079,
+      "source": "asr",
+      "end": 106.24
+    },
+    {
+      "word": "नहीं",
+      "start": 106.24,
+      "source": "asr",
+      "end": 106.399
+    },
+    {
+      "word": "देखे",
+      "start": 106.399,
+      "source": "asr",
+      "end": 107.04
+    },
+    {
+      "word": "और",
+      "start": 107.04,
+      "source": "asr",
+      "end": 107.28
+    },
+    {
+      "word": "मैं",
+      "start": 107.28,
+      "source": "asr",
+      "end": 107.439
+    },
+    {
+      "word": "देख",
+      "start": 107.439,
+      "source": "asr",
+      "end": 107.6
+    },
+    {
+      "word": "रही",
+      "start": 107.6,
+      "source": "asr",
+      "end": 107.68
+    },
+    {
+      "word": "हूं",
+      "start": 107.68,
+      "source": "asr",
+      "end": 107.84
+    },
+    {
+      "word": "मनर",
+      "start": 107.84,
+      "source": "asr",
+      "end": 108.159
+    },
+    {
+      "word": "मतलब",
+      "start": 108.159,
+      "source": "asr",
+      "end": 108.479
+    },
+    {
+      "word": "ताली",
+      "start": 108.479,
+      "source": "asr",
+      "end": 108.64
+    },
+    {
+      "word": "कैसे",
+      "start": 108.64,
+      "source": "asr",
+      "end": 108.88
+    },
+    {
+      "word": "बजा",
+      "start": 108.88,
+      "source": "asr",
+      "end": 109.04
+    },
+    {
+      "word": "रहे",
+      "start": 109.04,
+      "source": "asr",
+      "end": 109.119
+    },
+    {
+      "word": "हैं",
+      "start": 109.119,
+      "source": "asr",
+      "end": 109.2
+    },
+    {
+      "word": "ना",
+      "start": 109.2,
+      "source": "asr",
+      "end": 109.28
+    },
+    {
+      "word": "मैं",
+      "start": 109.28,
+      "source": "asr",
+      "end": 109.439
+    },
+    {
+      "word": "बताती",
+      "start": 109.439,
+      "source": "asr",
+      "end": 109.6
+    },
+    {
+      "word": "हूं",
+      "start": 109.6,
+      "source": "asr",
+      "end": 109.68
+    },
+    {
+      "word": "एक",
+      "start": 109.68,
+      "source": "asr",
+      "end": 109.759
+    },
+    {
+      "word": "मिनट",
+      "start": 109.759,
+      "source": "asr",
+      "end": 109.92
+    },
+    {
+      "word": "माइक",
+      "start": 109.92,
+      "source": "asr",
+      "end": 110.079
+    },
+    {
+      "word": "पकड़ो",
+      "start": 110.079,
+      "source": "asr",
+      "end": 111.279
+    },
+    {
+      "word": "कुछ",
+      "start": 115.759,
+      "source": "asr",
+      "end": 116.079
+    },
+    {
+      "word": "भी",
+      "start": 116.079,
+      "source": "asr",
+      "end": 116.24
+    },
+    {
+      "word": "नायाब",
+      "start": 116.24,
+      "source": "asr",
+      "end": 116.72
+    },
+    {
+      "word": "कुछ",
+      "start": 116.72,
+      "source": "asr",
+      "end": 116.88
+    },
+    {
+      "word": "भी",
+      "start": 116.88,
+      "source": "asr",
+      "end": 117.04
+    },
+    {
+      "word": "मन",
+      "start": 117.04,
+      "source": "asr",
+      "end": 117.28
+    },
+    {
+      "word": "में",
+      "start": 117.28,
+      "source": "asr",
+      "end": 117.36
+    },
+    {
+      "word": "आ",
+      "start": 117.36,
+      "source": "asr",
+      "end": 117.52
+    },
+    {
+      "word": "रहा",
+      "start": 117.52,
+      "source": "asr",
+      "end": 117.6
+    },
+    {
+      "word": "हो",
+      "start": 117.6,
+      "source": "asr",
+      "end": 117.759
+    },
+    {
+      "word": "इनके",
+      "start": 117.759,
+      "source": "asr",
+      "end": 118.079
+    },
+    {
+      "word": "लिए",
+      "start": 118.079,
+      "source": "asr",
+      "end": 118.24
+    },
+    {
+      "word": "कुछ",
+      "start": 118.24,
+      "source": "asr",
+      "end": 118.399
+    },
+    {
+      "word": "भी",
+      "start": 118.399,
+      "source": "asr",
+      "end": 118.799
+    },
+    {
+      "word": "कपल्स",
+      "start": 118.799,
+      "source": "asr",
+      "end": 119.119
+    },
+    {
+      "word": "इन",
+      "start": 119.119,
+      "source": "asr",
+      "end": 119.2
+    },
+    {
+      "word": "द",
+      "start": 119.2,
+      "source": "asr",
+      "end": 119.36
+    },
+    {
+      "word": "हाउस",
+      "start": 119.36,
+      "source": "asr",
+      "end": 119.52
+    },
+    {
+      "word": "गिव",
+      "start": 119.52,
+      "source": "asr",
+      "end": 119.68
+    },
+    {
+      "word": "मी",
+      "start": 119.68,
+      "source": "asr",
+      "end": 119.84
+    },
+    {
+      "word": "अ",
+      "start": 119.84,
+      "source": "asr",
+      "end": 120.0
+    },
+    {
+      "word": "चेयर",
+      "start": 120.0,
+      "source": "asr",
+      "end": 120.32
+    },
+    {
+      "word": "कपल्स",
+      "start": 120.32,
+      "source": "asr",
+      "end": 120.799
+    },
+    {
+      "word": "कपल्स",
+      "start": 120.799,
+      "source": "asr",
+      "end": 121.92
+    },
+    {
+      "word": "सिंगल्स",
+      "start": 121.92,
+      "source": "asr",
+      "end": 122.399
+    },
+    {
+      "word": "इन",
+      "start": 122.399,
+      "source": "asr",
+      "end": 122.56
+    },
+    {
+      "word": "द",
+      "start": 122.56,
+      "source": "asr",
+      "end": 122.64
+    },
+    {
+      "word": "हाउस",
+      "start": 122.64,
+      "source": "asr",
+      "end": 122.88
+    },
+    {
+      "word": "गिव",
+      "start": 122.88,
+      "source": "asr",
+      "end": 123.04
+    },
+    {
+      "word": "मी",
+      "start": 123.04,
+      "source": "asr",
+      "end": 123.119
+    },
+    {
+      "word": "अ",
+      "start": 123.119,
+      "source": "asr",
+      "end": 123.36
+    },
+    {
+      "word": "चेयर",
+      "start": 123.36,
+      "source": "asr",
+      "end": 124.56
+    },
+    {
+      "word": "सी",
+      "start": 126.0,
+      "source": "asr",
+      "end": 126.32
+    },
+    {
+      "word": "क्या",
+      "start": 126.32,
+      "source": "asr",
+      "end": 126.799
+    },
+    {
+      "word": "क्यों",
+      "start": 126.799,
+      "source": "asr",
+      "end": 127.119
+    },
+    {
+      "word": "है",
+      "start": 127.119,
+      "source": "asr",
+      "end": 127.28
+    },
+    {
+      "word": "तुम्हारे",
+      "start": 127.28,
+      "source": "asr",
+      "end": 127.6
+    },
+    {
+      "word": "पास",
+      "start": 127.6,
+      "source": "asr",
+      "end": 127.759
+    },
+    {
+      "word": "इतनी",
+      "start": 127.759,
+      "source": "asr",
+      "end": 128.0
+    },
+    {
+      "word": "एनर्जी",
+      "start": 128.0,
+      "source": "asr",
+      "end": 129.2
+    },
+    {
+      "word": "है",
+      "start": 129.239,
+      "source": "asr",
+      "end": 130.239
+    },
+    {
+      "word": "मैं",
+      "start": 130.239,
+      "source": "asr",
+      "end": 130.479
+    },
+    {
+      "word": "बताती",
+      "start": 130.479,
+      "source": "asr",
+      "end": 130.8
+    },
+    {
+      "word": "हूं",
+      "start": 130.8,
+      "source": "asr",
+      "end": 131.12
+    },
+    {
+      "word": "इनका",
+      "start": 131.12,
+      "source": "asr",
+      "end": 131.44
+    },
+    {
+      "word": "टाइम",
+      "start": 131.44,
+      "source": "asr",
+      "end": 131.76
+    },
+    {
+      "word": "वेस्ट",
+      "start": 131.76,
+      "source": "asr",
+      "end": 132.16
+    },
+    {
+      "word": "करने",
+      "start": 132.16,
+      "source": "asr",
+      "end": 132.319
+    },
+    {
+      "word": "वाला",
+      "start": 132.319,
+      "source": "asr",
+      "end": 132.56
+    },
+    {
+      "word": "कोई",
+      "start": 132.56,
+      "source": "asr",
+      "end": 132.72
+    },
+    {
+      "word": "इंसान",
+      "start": 132.72,
+      "source": "asr",
+      "end": 133.12
+    },
+    {
+      "word": "ही",
+      "start": 133.12,
+      "source": "asr",
+      "end": 133.28
+    },
+    {
+      "word": "नहीं",
+      "start": 133.28,
+      "source": "asr",
+      "end": 133.599
+    },
+    {
+      "word": "है",
+      "start": 133.599,
+      "source": "asr",
+      "end": 134.08
+    },
+    {
+      "word": "ये",
+      "start": 134.08,
+      "source": "asr",
+      "end": 134.319
+    },
+    {
+      "word": "सुबह",
+      "start": 134.319,
+      "source": "asr",
+      "end": 134.64
+    },
+    {
+      "word": "5:00",
+      "start": 134.64,
+      "source": "asr",
+      "end": 134.879
+    },
+    {
+      "word": "बजे",
+      "start": 134.879,
+      "source": "asr",
+      "end": 135.12
+    },
+    {
+      "word": "तक",
+      "start": 135.12,
+      "source": "asr",
+      "end": 135.2
+    },
+    {
+      "word": "किसी",
+      "start": 135.2,
+      "source": "asr",
+      "end": 135.36
+    },
+    {
+      "word": "से",
+      "start": 135.36,
+      "source": "asr",
+      "end": 135.52
+    },
+    {
+      "word": "बातें",
+      "start": 135.52,
+      "source": "asr",
+      "end": 135.84
+    },
+    {
+      "word": "नहीं",
+      "start": 135.84,
+      "source": "asr",
+      "end": 136.0
+    },
+    {
+      "word": "कर",
+      "start": 136.0,
+      "source": "asr",
+      "end": 136.16
+    },
+    {
+      "word": "रहे",
+      "start": 136.16,
+      "source": "asr",
+      "end": 136.959
+    },
+    {
+      "word": "ये",
+      "start": 136.959,
+      "source": "asr",
+      "end": 137.2
+    },
+    {
+      "word": "किसी",
+      "start": 137.2,
+      "source": "asr",
+      "end": 137.879
+    },
+    {
+      "word": "से",
+      "start": 137.879,
+      "source": "asr",
+      "end": 138.879
+    },
+    {
+      "word": "इनकी",
+      "start": 138.879,
+      "source": "asr",
+      "end": 139.2
+    },
+    {
+      "word": "नींद",
+      "start": 139.2,
+      "source": "asr",
+      "end": 139.52
+    },
+    {
+      "word": "पूरी",
+      "start": 139.52,
+      "source": "asr",
+      "end": 139.92
+    },
+    {
+      "word": "यार",
+      "start": 139.92,
+      "source": "asr",
+      "end": 140.4
+    },
+    {
+      "word": "पूरी",
+      "start": 140.4,
+      "source": "asr",
+      "end": 140.64
+    },
+    {
+      "word": "है",
+      "start": 140.64,
+      "source": "asr",
+      "end": 140.879
+    },
+    {
+      "word": "भाई।",
+      "start": 140.879,
+      "source": "asr",
+      "end": 141.12
+    },
+    {
+      "word": "नया",
+      "start": 141.12,
+      "source": "asr",
+      "end": 141.68
+    },
+    {
+      "word": "बट",
+      "start": 141.68,
+      "source": "asr",
+      "end": 142.16
+    },
+    {
+      "word": "व्हाट",
+      "start": 142.16,
+      "source": "asr",
+      "end": 142.4
+    },
+    {
+      "word": "इज",
+      "start": 142.4,
+      "source": "asr",
+      "end": 142.72
+    },
+    {
+      "word": "योर",
+      "start": 142.72,
+      "source": "asr",
+      "end": 142.959
+    },
+    {
+      "word": "टेक",
+      "start": 142.959,
+      "source": "asr",
+      "end": 143.12
+    },
+    {
+      "word": "ऑन",
+      "start": 143.12,
+      "source": "asr",
+      "end": 143.28
+    },
+    {
+      "word": "लव",
+      "start": 143.28,
+      "source": "asr",
+      "end": 143.52
+    },
+    {
+      "word": "दीज़",
+      "start": 143.52,
+      "source": "asr",
+      "end": 143.84
+    },
+    {
+      "word": "डेज।",
+      "start": 143.84,
+      "source": "asr",
+      "end": 144.08
+    },
+    {
+      "word": "व्हाट",
+      "start": 144.08,
+      "source": "asr",
+      "end": 144.239
+    },
+    {
+      "word": "इज",
+      "start": 144.239,
+      "source": "asr",
+      "end": 144.4
+    },
+    {
+      "word": "हैप्पेनिंग?",
+      "start": 144.4,
+      "source": "asr",
+      "end": 144.959
+    },
+    {
+      "word": "मेरे",
+      "start": 144.959,
+      "source": "asr",
+      "end": 145.12
+    },
+    {
+      "word": "पास",
+      "start": 145.12,
+      "source": "asr",
+      "end": 145.28
+    },
+    {
+      "word": "ना",
+      "start": 145.28,
+      "source": "asr",
+      "end": 145.44
+    },
+    {
+      "word": "एक",
+      "start": 145.44,
+      "source": "asr",
+      "end": 145.599
+    },
+    {
+      "word": "बहुत",
+      "start": 145.599,
+      "source": "asr",
+      "end": 145.84
+    },
+    {
+      "word": "अच्छा",
+      "start": 145.84,
+      "source": "asr",
+      "end": 146.0
+    },
+    {
+      "word": "ऐसे",
+      "start": 146.0,
+      "source": "asr",
+      "end": 146.319
+    },
+    {
+      "word": "मैं",
+      "start": 146.319,
+      "source": "asr",
+      "end": 146.4
+    },
+    {
+      "word": "ये",
+      "start": 146.4,
+      "source": "asr",
+      "end": 146.56
+    },
+    {
+      "word": "स्टूल",
+      "start": 146.56,
+      "source": "asr",
+      "end": 146.8
+    },
+    {
+      "word": "खींच",
+      "start": 146.8,
+      "source": "asr",
+      "end": 146.959
+    },
+    {
+      "word": "लूं।",
+      "start": 146.959,
+      "source": "asr",
+      "end": 147.36
+    },
+    {
+      "word": "हां हां हां",
+      "start": 147.36,
+      "source": "asr",
+      "end": 147.44
+    },
+    {
+      "word": "हां",
+      "start": 147.44,
+      "source": "asr",
+      "end": 147.599
+    },
+    {
+      "word": "प्लीज",
+      "start": 147.599,
+      "source": "asr",
+      "end": 147.84
+    },
+    {
+      "word": "प्लीज",
+      "start": 147.84,
+      "source": "asr",
+      "end": 148.08
+    },
+    {
+      "word": "स्टूल।",
+      "start": 148.08,
+      "source": "asr",
+      "end": 148.48
+    },
+    {
+      "word": "मेरे",
+      "start": 148.48,
+      "source": "asr",
+      "end": 148.64
+    },
+    {
+      "word": "मेरा",
+      "start": 148.64,
+      "source": "asr",
+      "end": 148.959
+    },
+    {
+      "word": "रुको",
+      "start": 148.959,
+      "source": "asr",
+      "end": 149.2
+    },
+    {
+      "word": "रुको",
+      "start": 149.2,
+      "source": "asr",
+      "end": 149.36
+    },
+    {
+      "word": "रुको।",
+      "start": 149.36,
+      "source": "asr",
+      "end": 149.599
+    },
+    {
+      "word": "लड़कियों",
+      "start": 149.599,
+      "source": "asr",
+      "end": 150.0
+    },
+    {
+      "word": "को",
+      "start": 150.0,
+      "source": "asr",
+      "end": 150.08
+    },
+    {
+      "word": "काम",
+      "start": 150.08,
+      "source": "asr",
+      "end": 150.239
+    },
+    {
+      "word": "नहीं",
+      "start": 150.239,
+      "source": "asr",
+      "end": 150.4
+    },
+    {
+      "word": "करने",
+      "start": 150.4,
+      "source": "asr",
+      "end": 151.6
+    },
+    {
+      "word": "देते।",
+      "start": 152.28,
+      "source": "asr",
+      "end": 153.28
+    },
+    {
+      "word": "जब",
+      "start": 153.28,
+      "source": "asr",
+      "end": 153.519
+    },
+    {
+      "word": "मैं",
+      "start": 153.519,
+      "source": "asr",
+      "end": 153.68
+    },
+    {
+      "word": "छोटी",
+      "start": 153.68,
+      "source": "asr",
+      "end": 154.08
+    },
+    {
+      "word": "थी",
+      "start": 154.08,
+      "source": "asr",
+      "end": 154.16
+    },
+    {
+      "word": "तो",
+      "start": 154.16,
+      "source": "asr",
+      "end": 154.319
+    },
+    {
+      "word": "ये",
+      "start": 154.319,
+      "source": "asr",
+      "end": 154.48
+    },
+    {
+      "word": "बात",
+      "start": 154.48,
+      "source": "asr",
+      "end": 154.64
+    },
+    {
+      "word": "मेरे",
+      "start": 154.64,
+      "source": "asr",
+      "end": 154.8
+    },
+    {
+      "word": "मां-बाप",
+      "start": 154.8,
+      "source": "asr",
+      "end": 155.2
+    },
+    {
+      "word": "को",
+      "start": 155.2,
+      "source": "asr",
+      "end": 155.28
+    },
+    {
+      "word": "नहीं",
+      "start": 155.28,
+      "source": "asr",
+      "end": 155.44
+    },
+    {
+      "word": "पता",
+      "start": 155.44,
+      "source": "asr",
+      "end": 156.64
+    },
+    {
+      "word": "थी।",
+      "start": 156.68,
+      "source": "asr",
+      "end": 157.68
+    },
+    {
+      "word": "मेरे",
+      "start": 157.68,
+      "source": "asr",
+      "end": 157.92
+    },
+    {
+      "word": "को",
+      "start": 157.92,
+      "source": "asr",
+      "end": 158.08
+    },
+    {
+      "word": "एक",
+      "start": 158.08,
+      "source": "asr",
+      "end": 158.319
+    },
+    {
+      "word": "ऐसा",
+      "start": 158.319,
+      "source": "asr",
+      "end": 158.56
+    },
+    {
+      "word": "ना",
+      "start": 158.56,
+      "source": "asr",
+      "end": 158.72
+    },
+    {
+      "word": "आई",
+      "start": 158.72,
+      "source": "asr",
+      "end": 158.959
+    },
+    {
+      "word": "जस्ट",
+      "start": 158.959,
+      "source": "asr",
+      "end": 159.12
+    },
+    {
+      "word": "वांट",
+      "start": 159.12,
+      "source": "asr",
+      "end": 159.36
+    },
+    {
+      "word": "टू",
+      "start": 159.36,
+      "source": "asr",
+      "end": 159.519
+    },
+    {
+      "word": "शेयर",
+      "start": 159.519,
+      "source": "asr",
+      "end": 159.76
+    },
+    {
+      "word": "दिस",
+      "start": 159.76,
+      "source": "asr",
+      "end": 160.08
+    },
+    {
+      "word": "थॉट",
+      "start": 160.08,
+      "source": "asr",
+      "end": 160.4
+    },
+    {
+      "word": "कि",
+      "start": 160.4,
+      "source": "asr",
+      "end": 160.56
+    },
+    {
+      "word": "मुझे",
+      "start": 160.56,
+      "source": "asr",
+      "end": 160.72
+    },
+    {
+      "word": "ऐसा",
+      "start": 160.72,
+      "source": "asr",
+      "end": 160.959
+    },
+    {
+      "word": "लगता",
+      "start": 160.959,
+      "source": "asr",
+      "end": 161.2
+    },
+    {
+      "word": "है",
+      "start": 161.2,
+      "source": "asr",
+      "end": 161.28
+    },
+    {
+      "word": "कि",
+      "start": 161.28,
+      "source": "asr",
+      "end": 161.44
+    },
+    {
+      "word": "अक्सर",
+      "start": 161.44,
+      "source": "asr",
+      "end": 161.76
+    },
+    {
+      "word": "ना",
+      "start": 161.76,
+      "source": "asr",
+      "end": 162.16
+    },
+    {
+      "word": "लोग",
+      "start": 162.16,
+      "source": "asr",
+      "end": 162.8
+    },
+    {
+      "word": "जुनून",
+      "start": 162.8,
+      "source": "asr",
+      "end": 163.36
+    },
+    {
+      "word": "को",
+      "start": 163.36,
+      "source": "asr",
+      "end": 163.519
+    },
+    {
+      "word": "प्रेम",
+      "start": 163.519,
+      "source": "asr",
+      "end": 163.84
+    },
+    {
+      "word": "समझ",
+      "start": 163.84,
+      "source": "asr",
+      "end": 164.16
+    },
+    {
+      "word": "लेते",
+      "start": 164.16,
+      "source": "asr",
+      "end": 164.319
+    },
+    {
+      "word": "हैं।",
+      "start": 164.319,
+      "source": "asr",
+      "end": 165.36
+    },
+    {
+      "word": "है",
+      "start": 165.36,
+      "source": "asr",
+      "end": 165.519
+    },
+    {
+      "word": "ना?",
+      "start": 165.519,
+      "source": "asr",
+      "end": 165.84
+    },
+    {
+      "word": "इफ",
+      "start": 165.84,
+      "source": "asr",
+      "end": 166.239
+    },
+    {
+      "word": "यू",
+      "start": 166.239,
+      "source": "asr",
+      "end": 166.4
+    },
+    {
+      "word": "थिंक",
+      "start": 166.4,
+      "source": "asr",
+      "end": 166.56
+    },
+    {
+      "word": "अबाउट",
+      "start": 166.56,
+      "source": "asr",
+      "end": 166.879
+    },
+    {
+      "word": "इट",
+      "start": 166.879,
+      "source": "asr",
+      "end": 167.12
+    },
+    {
+      "word": "दैट",
+      "start": 167.12,
+      "source": "asr",
+      "end": 167.36
+    },
+    {
+      "word": "व्हेन",
+      "start": 167.36,
+      "source": "asr",
+      "end": 167.68
+    },
+    {
+      "word": "यू",
+      "start": 167.68,
+      "source": "asr",
+      "end": 167.92
+    },
+    {
+      "word": "टॉक",
+      "start": 167.92,
+      "source": "asr",
+      "end": 168.08
+    },
+    {
+      "word": "अबाउट",
+      "start": 168.08,
+      "source": "asr",
+      "end": 168.4
+    },
+    {
+      "word": "लव",
+      "start": 168.4,
+      "source": "asr",
+      "end": 168.8
+    },
+    {
+      "word": "ना",
+      "start": 168.8,
+      "source": "asr",
+      "end": 168.959
+    },
+    {
+      "word": "कि",
+      "start": 168.959,
+      "source": "asr",
+      "end": 169.12
+    },
+    {
+      "word": "हम",
+      "start": 169.12,
+      "source": "asr",
+      "end": 169.36
+    },
+    {
+      "word": "लोगों",
+      "start": 169.36,
+      "source": "asr",
+      "end": 169.44
+    },
+    {
+      "word": "को",
+      "start": 169.44,
+      "source": "asr",
+      "end": 169.599
+    },
+    {
+      "word": "प्रेम",
+      "start": 169.599,
+      "source": "asr",
+      "end": 169.84
+    },
+    {
+      "word": "का",
+      "start": 169.84,
+      "source": "asr",
+      "end": 170.0
+    },
+    {
+      "word": "जो",
+      "start": 170.0,
+      "source": "asr",
+      "end": 170.08
+    },
+    {
+      "word": "कोटा",
+      "start": 170.08,
+      "source": "asr",
+      "end": 170.48
+    },
+    {
+      "word": "है",
+      "start": 170.48,
+      "source": "asr",
+      "end": 170.64
+    },
+    {
+      "word": "प्यार",
+      "start": 170.64,
+      "source": "asr",
+      "end": 170.959
+    },
+    {
+      "word": "का",
+      "start": 170.959,
+      "source": "asr",
+      "end": 171.44
+    },
+    {
+      "word": "वो",
+      "start": 171.44,
+      "source": "asr",
+      "end": 171.76
+    },
+    {
+      "word": "भरपूर",
+      "start": 171.76,
+      "source": "asr",
+      "end": 172.16
+    },
+    {
+      "word": "मिला",
+      "start": 172.16,
+      "source": "asr",
+      "end": 172.319
+    },
+    {
+      "word": "है।",
+      "start": 172.319,
+      "source": "asr",
+      "end": 172.4
+    },
+    {
+      "word": "इट्स",
+      "start": 172.4,
+      "source": "asr",
+      "end": 172.64
+    },
+    {
+      "word": "इनफाइनाइट",
+      "start": 172.64,
+      "source": "asr",
+      "end": 173.28
+    },
+    {
+      "word": "टू",
+      "start": 173.28,
+      "source": "asr",
+      "end": 173.36
+    },
+    {
+      "word": "अस",
+      "start": 173.36,
+      "source": "asr",
+      "end": 173.599
+    },
+    {
+      "word": "बिकॉज़",
+      "start": 173.599,
+      "source": "asr",
+      "end": 173.92
+    },
+    {
+      "word": "वो",
+      "start": 173.92,
+      "source": "asr",
+      "end": 174.16
+    },
+    {
+      "word": "हमें",
+      "start": 174.16,
+      "source": "asr",
+      "end": 174.319
+    },
+    {
+      "word": "हर",
+      "start": 174.319,
+      "source": "asr",
+      "end": 174.64
+    },
+    {
+      "word": "चीज",
+      "start": 174.64,
+      "source": "asr",
+      "end": 174.8
+    },
+    {
+      "word": "से",
+      "start": 174.8,
+      "source": "asr",
+      "end": 174.959
+    },
+    {
+      "word": "करना",
+      "start": 174.959,
+      "source": "asr",
+      "end": 175.12
+    },
+    {
+      "word": "है",
+      "start": 175.12,
+      "source": "asr",
+      "end": 175.28
+    },
+    {
+      "word": "इस",
+      "start": 175.28,
+      "source": "asr",
+      "end": 175.44
+    },
+    {
+      "word": "दुनिया",
+      "start": 175.44,
+      "source": "asr",
+      "end": 175.68
+    },
+    {
+      "word": "में।",
+      "start": 175.68,
+      "source": "asr",
+      "end": 175.92
+    },
+    {
+      "word": "जैसे",
+      "start": 175.92,
+      "source": "asr",
+      "end": 176.16
+    },
+    {
+      "word": "हमें",
+      "start": 176.16,
+      "source": "asr",
+      "end": 177.04
+    },
+    {
+      "word": "दुनिया",
+      "start": 177.04,
+      "source": "asr",
+      "end": 177.36
+    },
+    {
+      "word": "से",
+      "start": 177.36,
+      "source": "asr",
+      "end": 177.599
+    },
+    {
+      "word": "तो",
+      "start": 177.599,
+      "source": "asr",
+      "end": 177.76
+    },
+    {
+      "word": "प्यार",
+      "start": 177.76,
+      "source": "asr",
+      "end": 178.0
+    },
+    {
+      "word": "करना",
+      "start": 178.0,
+      "source": "asr",
+      "end": 178.239
+    },
+    {
+      "word": "ही",
+      "start": 178.239,
+      "source": "asr",
+      "end": 178.4
+    },
+    {
+      "word": "है।",
+      "start": 178.4,
+      "source": "asr",
+      "end": 178.64
+    },
+    {
+      "word": "इसके",
+      "start": 178.64,
+      "source": "asr",
+      "end": 178.879
+    },
+    {
+      "word": "हर",
+      "start": 178.879,
+      "source": "asr",
+      "end": 179.12
+    },
+    {
+      "word": "इंसान",
+      "start": 179.12,
+      "source": "asr",
+      "end": 179.519
+    },
+    {
+      "word": "से",
+      "start": 179.519,
+      "source": "asr",
+      "end": 179.84
+    },
+    {
+      "word": "जो",
+      "start": 179.84,
+      "source": "asr",
+      "end": 180.08
+    },
+    {
+      "word": "दो",
+      "start": 180.08,
+      "source": "asr",
+      "end": 180.319
+    },
+    {
+      "word": "जो",
+      "start": 180.319,
+      "source": "asr",
+      "end": 180.56
+    },
+    {
+      "word": "अल्टीमेट",
+      "start": 180.56,
+      "source": "asr",
+      "end": 181.2
+    },
+    {
+      "word": "थॉट",
+      "start": 181.2,
+      "source": "asr",
+      "end": 181.44
+    },
+    {
+      "word": "है",
+      "start": 181.44,
+      "source": "asr",
+      "end": 181.519
+    },
+    {
+      "word": "कि",
+      "start": 181.519,
+      "source": "asr",
+      "end": 181.76
+    },
+    {
+      "word": "आपको",
+      "start": 181.76,
+      "source": "asr",
+      "end": 182.0
+    },
+    {
+      "word": "अपनी",
+      "start": 182.0,
+      "source": "asr",
+      "end": 182.239
+    },
+    {
+      "word": "नौकरी",
+      "start": 182.239,
+      "source": "asr",
+      "end": 182.64
+    },
+    {
+      "word": "से",
+      "start": 182.64,
+      "source": "asr",
+      "end": 182.8
+    },
+    {
+      "word": "प्यार",
+      "start": 182.8,
+      "source": "asr",
+      "end": 183.04
+    },
+    {
+      "word": "करना",
+      "start": 183.04,
+      "source": "asr",
+      "end": 183.2
+    },
+    {
+      "word": "चाहिए।",
+      "start": 183.2,
+      "source": "asr",
+      "end": 183.44
+    },
+    {
+      "word": "अपने",
+      "start": 183.44,
+      "source": "asr",
+      "end": 183.68
+    },
+    {
+      "word": "परिवार",
+      "start": 183.68,
+      "source": "asr",
+      "end": 184.159
+    },
+    {
+      "word": "से,",
+      "start": 184.159,
+      "source": "asr",
+      "end": 184.8
+    },
+    {
+      "word": "दोस्तों",
+      "start": 184.8,
+      "source": "asr",
+      "end": 185.28
+    },
+    {
+      "word": "से",
+      "start": 185.28,
+      "source": "asr",
+      "end": 185.519
+    },
+    {
+      "word": "तो",
+      "start": 185.519,
+      "source": "asr",
+      "end": 185.68
+    },
+    {
+      "word": "उसका",
+      "start": 185.68,
+      "source": "asr",
+      "end": 185.92
+    },
+    {
+      "word": "कोटा",
+      "start": 185.92,
+      "source": "asr",
+      "end": 186.319
+    },
+    {
+      "word": "बड़ा",
+      "start": 186.319,
+      "source": "asr",
+      "end": 186.56
+    },
+    {
+      "word": "इनफाइनाइट",
+      "start": 186.56,
+      "source": "asr",
+      "end": 187.28
+    },
+    {
+      "word": "टाइप",
+      "start": 187.28,
+      "source": "asr",
+      "end": 187.36
+    },
+    {
+      "word": "का",
+      "start": 187.36,
+      "source": "asr",
+      "end": 187.519
+    },
+    {
+      "word": "है।",
+      "start": 187.519,
+      "source": "asr",
+      "end": 187.599
+    },
+    {
+      "word": "बट",
+      "start": 187.599,
+      "source": "asr",
+      "end": 187.76
+    },
+    {
+      "word": "वेयर",
+      "start": 187.76,
+      "source": "asr",
+      "end": 188.0
+    },
+    {
+      "word": "एस",
+      "start": 188.0,
+      "source": "asr",
+      "end": 188.159
+    },
+    {
+      "word": "जुनून",
+      "start": 188.159,
+      "source": "asr",
+      "end": 189.28
+    },
+    {
+      "word": "पैशन",
+      "start": 189.28,
+      "source": "asr",
+      "end": 189.68
+    },
+    {
+      "word": "इट्स",
+      "start": 189.68,
+      "source": "asr",
+      "end": 190.08
+    },
+    {
+      "word": "लाइक",
+      "start": 190.08,
+      "source": "asr",
+      "end": 190.159
+    },
+    {
+      "word": "फायर",
+      "start": 190.159,
+      "source": "asr",
+      "end": 190.48
+    },
+    {
+      "word": "उसका",
+      "start": 190.48,
+      "source": "asr",
+      "end": 190.64
+    },
+    {
+      "word": "बड़ा",
+      "start": 190.64,
+      "source": "asr",
+      "end": 190.8
+    },
+    {
+      "word": "लिमिटेड",
+      "start": 190.8,
+      "source": "asr",
+      "end": 191.2
+    },
+    {
+      "word": "मिला",
+      "start": 191.2,
+      "source": "asr",
+      "end": 191.36
+    },
+    {
+      "word": "है।",
+      "start": 191.36,
+      "source": "asr",
+      "end": 191.519
+    },
+    {
+      "word": "तो",
+      "start": 191.519,
+      "source": "asr",
+      "end": 191.599
+    },
+    {
+      "word": "आप",
+      "start": 191.599,
+      "source": "asr",
+      "end": 191.76
+    },
+    {
+      "word": "एक",
+      "start": 191.76,
+      "source": "asr",
+      "end": 191.92
+    },
+    {
+      "word": "आधे",
+      "start": 191.92,
+      "source": "asr",
+      "end": 192.159
+    },
+    {
+      "word": "शक",
+      "start": 192.159,
+      "source": "asr",
+      "end": 192.48
+    },
+    {
+      "word": "से",
+      "start": 192.48,
+      "source": "asr",
+      "end": 192.64
+    },
+    {
+      "word": "एक",
+      "start": 192.64,
+      "source": "asr",
+      "end": 192.8
+    },
+    {
+      "word": "आधे",
+      "start": 192.8,
+      "source": "asr",
+      "end": 193.12
+    },
+    {
+      "word": "सपने",
+      "start": 193.12,
+      "source": "asr",
+      "end": 193.44
+    },
+    {
+      "word": "से",
+      "start": 193.44,
+      "source": "asr",
+      "end": 193.599
+    },
+    {
+      "word": "कर",
+      "start": 193.599,
+      "source": "asr",
+      "end": 193.84
+    },
+    {
+      "word": "लेते",
+      "start": 193.84,
+      "source": "asr",
+      "end": 193.92
+    },
+    {
+      "word": "हैं।",
+      "start": 193.92,
+      "source": "asr",
+      "end": 194.4
+    },
+    {
+      "word": "उतनी",
+      "start": 194.4,
+      "source": "asr",
+      "end": 194.72
+    },
+    {
+      "word": "ही",
+      "start": 194.72,
+      "source": "asr",
+      "end": 194.879
+    },
+    {
+      "word": "कैपेसिटी",
+      "start": 194.879,
+      "source": "asr",
+      "end": 195.44
+    },
+    {
+      "word": "होती",
+      "start": 195.44,
+      "source": "asr",
+      "end": 195.68
+    },
+    {
+      "word": "है",
+      "start": 195.68,
+      "source": "asr",
+      "end": 195.76
+    },
+    {
+      "word": "हमारे",
+      "start": 195.76,
+      "source": "asr",
+      "end": 196.0
+    },
+    {
+      "word": "पास",
+      "start": 196.0,
+      "source": "asr",
+      "end": 196.159
+    },
+    {
+      "word": "खुद",
+      "start": 196.159,
+      "source": "asr",
+      "end": 196.4
+    },
+    {
+      "word": "को",
+      "start": 196.4,
+      "source": "asr",
+      "end": 196.56
+    },
+    {
+      "word": "बर्न",
+      "start": 196.56,
+      "source": "asr",
+      "end": 196.879
+    },
+    {
+      "word": "करने",
+      "start": 196.879,
+      "source": "asr",
+      "end": 197.04
+    },
+    {
+      "word": "की।",
+      "start": 197.04,
+      "source": "asr",
+      "end": 198.239
+    },
+    {
+      "word": "और",
+      "start": 198.239,
+      "source": "asr",
+      "end": 198.48
+    },
+    {
+      "word": "जब",
+      "start": 198.48,
+      "source": "asr",
+      "end": 198.72
+    },
+    {
+      "word": "प्यार",
+      "start": 198.72,
+      "source": "asr",
+      "end": 199.04
+    },
+    {
+      "word": "और",
+      "start": 199.04,
+      "source": "asr",
+      "end": 199.2
+    },
+    {
+      "word": "जुनून",
+      "start": 199.2,
+      "source": "asr",
+      "end": 199.599
+    },
+    {
+      "word": "का",
+      "start": 199.599,
+      "source": "asr",
+      "end": 199.68
+    },
+    {
+      "word": "एक",
+      "start": 199.68,
+      "source": "asr",
+      "end": 199.84
+    },
+    {
+      "word": "बैलेंस",
+      "start": 199.84,
+      "source": "asr",
+      "end": 200.239
+    },
+    {
+      "word": "बैठता",
+      "start": 200.239,
+      "source": "asr",
+      "end": 200.48
+    },
+    {
+      "word": "है",
+      "start": 200.48,
+      "source": "asr",
+      "end": 200.64
+    },
+    {
+      "word": "तो",
+      "start": 200.64,
+      "source": "asr",
+      "end": 200.72
+    },
+    {
+      "word": "वो",
+      "start": 200.72,
+      "source": "asr",
+      "end": 200.879
+    },
+    {
+      "word": "इश्क",
+      "start": 200.879,
+      "source": "asr",
+      "end": 201.12
+    },
+    {
+      "word": "बनता",
+      "start": 201.12,
+      "source": "asr",
+      "end": 201.28
+    },
+    {
+      "word": "है।",
+      "start": 201.28,
+      "source": "asr",
+      "end": 201.92
+    },
+    {
+      "word": "है",
+      "start": 201.92,
+      "source": "asr",
+      "end": 202.08
+    },
+    {
+      "word": "ना?",
+      "start": 202.08,
+      "source": "asr",
+      "end": 202.319
+    },
+    {
+      "word": "जो",
+      "start": 202.319,
+      "source": "asr",
+      "end": 202.48
+    },
+    {
+      "word": "आपको",
+      "start": 202.48,
+      "source": "asr",
+      "end": 202.879
+    },
+    {
+      "word": "इसीलिए",
+      "start": 202.879,
+      "source": "asr",
+      "end": 203.28
+    },
+    {
+      "word": "इश्क",
+      "start": 203.28,
+      "source": "asr",
+      "end": 203.599
+    },
+    {
+      "word": "आपको",
+      "start": 203.599,
+      "source": "asr",
+      "end": 203.84
+    },
+    {
+      "word": "एक",
+      "start": 203.84,
+      "source": "asr",
+      "end": 203.92
+    },
+    {
+      "word": "ही",
+      "start": 203.92,
+      "source": "asr",
+      "end": 204.08
+    },
+    {
+      "word": "शख्स",
+      "start": 204.08,
+      "source": "asr",
+      "end": 204.4
+    },
+    {
+      "word": "से",
+      "start": 204.4,
+      "source": "asr",
+      "end": 204.64
+    },
+    {
+      "word": "होता",
+      "start": 204.64,
+      "source": "asr",
+      "end": 204.8
+    },
+    {
+      "word": "है।",
+      "start": 204.8,
+      "source": "asr",
+      "end": 205.04
+    },
+    {
+      "word": "कैपेसिटी",
+      "start": 205.04,
+      "source": "asr",
+      "end": 205.599
+    },
+    {
+      "word": "ही",
+      "start": 205.599,
+      "source": "asr",
+      "end": 205.76
+    },
+    {
+      "word": "उतनी",
+      "start": 205.76,
+      "source": "asr",
+      "end": 206.08
+    },
+    {
+      "word": "है।",
+      "start": 206.08,
+      "source": "asr",
+      "end": 206.56
+    },
+    {
+      "word": "सम",
+      "start": 206.56,
+      "source": "asr",
+      "end": 206.64
+    },
+    {
+      "word": "टाइम्स",
+      "start": 206.64,
+      "source": "asr",
+      "end": 206.959
+    },
+    {
+      "word": "व्हाट",
+      "start": 206.959,
+      "source": "asr",
+      "end": 207.12
+    },
+    {
+      "word": "हैपेंस",
+      "start": 207.12,
+      "source": "asr",
+      "end": 207.44
+    },
+    {
+      "word": "इन",
+      "start": 207.44,
+      "source": "asr",
+      "end": 207.599
+    },
+    {
+      "word": "हम",
+      "start": 207.599,
+      "source": "asr",
+      "end": 207.68
+    },
+    {
+      "word": "जुनून",
+      "start": 207.68,
+      "source": "asr",
+      "end": 208.0
+    },
+    {
+      "word": "को",
+      "start": 208.0,
+      "source": "asr",
+      "end": 208.08
+    },
+    {
+      "word": "प्यार",
+      "start": 208.08,
+      "source": "asr",
+      "end": 208.319
+    },
+    {
+      "word": "समझ",
+      "start": 208.319,
+      "source": "asr",
+      "end": 208.64
+    },
+    {
+      "word": "लेते",
+      "start": 208.64,
+      "source": "asr",
+      "end": 208.72
+    },
+    {
+      "word": "हैं",
+      "start": 208.72,
+      "source": "asr",
+      "end": 208.8
+    },
+    {
+      "word": "कि",
+      "start": 208.8,
+      "source": "asr",
+      "end": 208.959
+    },
+    {
+      "word": "इफ",
+      "start": 208.959,
+      "source": "asr",
+      "end": 209.2
+    },
+    {
+      "word": "बिकम",
+      "start": 209.2,
+      "source": "asr",
+      "end": 209.76
+    },
+    {
+      "word": "पैशनेट",
+      "start": 209.76,
+      "source": "asr",
+      "end": 210.319
+    },
+    {
+      "word": "अबाउट",
+      "start": 210.319,
+      "source": "asr",
+      "end": 210.56
+    },
+    {
+      "word": "वन",
+      "start": 210.56,
+      "source": "asr",
+      "end": 210.72
+    },
+    {
+      "word": "पर्सन",
+      "start": 210.72,
+      "source": "asr",
+      "end": 211.12
+    },
+    {
+      "word": "और",
+      "start": 211.12,
+      "source": "asr",
+      "end": 211.2
+    },
+    {
+      "word": "हमें",
+      "start": 211.2,
+      "source": "asr",
+      "end": 211.44
+    },
+    {
+      "word": "लगता",
+      "start": 211.44,
+      "source": "asr",
+      "end": 211.599
+    },
+    {
+      "word": "है",
+      "start": 211.599,
+      "source": "asr",
+      "end": 211.76
+    },
+    {
+      "word": "यही",
+      "start": 211.76,
+      "source": "asr",
+      "end": 212.0
+    },
+    {
+      "word": "है",
+      "start": 212.0,
+      "source": "asr",
+      "end": 212.159
+    },
+    {
+      "word": "जो",
+      "start": 212.159,
+      "source": "asr",
+      "end": 212.4
+    },
+    {
+      "word": "है",
+      "start": 212.4,
+      "source": "asr",
+      "end": 212.56
+    },
+    {
+      "word": "कि",
+      "start": 212.56,
+      "source": "asr",
+      "end": 212.799
+    },
+    {
+      "word": "ये",
+      "start": 212.799,
+      "source": "asr",
+      "end": 212.959
+    },
+    {
+      "word": "जुनून",
+      "start": 212.959,
+      "source": "asr",
+      "end": 213.36
+    },
+    {
+      "word": "एंड",
+      "start": 213.36,
+      "source": "asr",
+      "end": 213.519
+    },
+    {
+      "word": "इट",
+      "start": 213.519,
+      "source": "asr",
+      "end": 213.76
+    },
+    {
+      "word": "सॉर्ट",
+      "start": 213.76,
+      "source": "asr",
+      "end": 214.0
+    },
+    {
+      "word": "ऑफ़",
+      "start": 214.0,
+      "source": "asr",
+      "end": 214.159
+    },
+    {
+      "word": "एंड्स",
+      "start": 214.159,
+      "source": "asr",
+      "end": 214.4
+    },
+    {
+      "word": "अप",
+      "start": 214.4,
+      "source": "asr",
+      "end": 214.56
+    },
+    {
+      "word": "बर्निंग",
+      "start": 214.56,
+      "source": "asr",
+      "end": 215.04
+    },
+    {
+      "word": "अस।",
+      "start": 215.04,
+      "source": "asr",
+      "end": 215.92
+    },
+    {
+      "word": "कहा",
+      "start": 215.92,
+      "source": "asr",
+      "end": 216.159
+    },
+    {
+      "word": "है",
+      "start": 216.159,
+      "source": "asr",
+      "end": 216.4
+    },
+    {
+      "word": "कि",
+      "start": 216.4,
+      "source": "asr",
+      "end": 216.959
+    },
+    {
+      "word": "इश्क",
+      "start": 216.959,
+      "source": "asr",
+      "end": 217.36
+    },
+    {
+      "word": "और",
+      "start": 217.36,
+      "source": "asr",
+      "end": 217.519
+    },
+    {
+      "word": "प्यार",
+      "start": 217.519,
+      "source": "asr",
+      "end": 217.84
+    },
+    {
+      "word": "एक",
+      "start": 217.84,
+      "source": "asr",
+      "end": 218.0
+    },
+    {
+      "word": "ही",
+      "start": 218.0,
+      "source": "asr",
+      "end": 218.159
+    },
+    {
+      "word": "तो",
+      "start": 218.159,
+      "source": "asr",
+      "end": 218.319
+    },
+    {
+      "word": "बात",
+      "start": 218.319,
+      "source": "asr",
+      "end": 218.56
+    },
+    {
+      "word": "है।",
+      "start": 218.56,
+      "source": "asr",
+      "end": 219.12
+    },
+    {
+      "word": "कि",
+      "start": 219.12,
+      "source": "asr",
+      "end": 219.36
+    },
+    {
+      "word": "इश्क",
+      "start": 219.36,
+      "source": "asr",
+      "end": 219.68
+    },
+    {
+      "word": "और",
+      "start": 219.68,
+      "source": "asr",
+      "end": 219.84
+    },
+    {
+      "word": "प्यार",
+      "start": 219.84,
+      "source": "asr",
+      "end": 220.239
+    },
+    {
+      "word": "एक",
+      "start": 220.239,
+      "source": "asr",
+      "end": 220.48
+    },
+    {
+      "word": "ही",
+      "start": 220.48,
+      "source": "asr",
+      "end": 220.64
+    },
+    {
+      "word": "तो",
+      "start": 220.64,
+      "source": "asr",
+      "end": 220.799
+    },
+    {
+      "word": "बात",
+      "start": 220.799,
+      "source": "asr",
+      "end": 221.04
+    },
+    {
+      "word": "है।",
+      "start": 221.04,
+      "source": "asr",
+      "end": 221.36
+    },
+    {
+      "word": "फर्क",
+      "start": 221.36,
+      "source": "asr",
+      "end": 221.68
+    },
+    {
+      "word": "बस",
+      "start": 221.68,
+      "source": "asr",
+      "end": 221.92
+    },
+    {
+      "word": "इतना",
+      "start": 221.92,
+      "source": "asr",
+      "end": 222.239
+    },
+    {
+      "word": "है",
+      "start": 222.239,
+      "source": "asr",
+      "end": 222.319
+    },
+    {
+      "word": "कि",
+      "start": 222.319,
+      "source": "asr",
+      "end": 222.48
+    },
+    {
+      "word": "एक",
+      "start": 222.48,
+      "source": "asr",
+      "end": 222.64
+    },
+    {
+      "word": "दिन",
+      "start": 222.64,
+      "source": "asr",
+      "end": 222.879
+    },
+    {
+      "word": "है",
+      "start": 222.879,
+      "source": "asr",
+      "end": 223.04
+    },
+    {
+      "word": "और",
+      "start": 223.04,
+      "source": "asr",
+      "end": 223.2
+    },
+    {
+      "word": "एक",
+      "start": 223.2,
+      "source": "asr",
+      "end": 223.36
+    },
+    {
+      "word": "रात",
+      "start": 223.36,
+      "source": "asr",
+      "end": 223.68
+    },
+    {
+      "word": "है।",
+      "start": 223.68,
+      "source": "asr",
+      "end": 224.4
+    },
+    {
+      "word": "और",
+      "start": 224.4,
+      "source": "asr",
+      "end": 224.56
+    },
+    {
+      "word": "इस",
+      "start": 224.56,
+      "source": "asr",
+      "end": 224.72
+    },
+    {
+      "word": "दिन",
+      "start": 224.72,
+      "source": "asr",
+      "end": 224.959
+    },
+    {
+      "word": "से",
+      "start": 224.959,
+      "source": "asr",
+      "end": 225.12
+    },
+    {
+      "word": "रात",
+      "start": 225.12,
+      "source": "asr",
+      "end": 225.44
+    },
+    {
+      "word": "का",
+      "start": 225.44,
+      "source": "asr",
+      "end": 225.599
+    },
+    {
+      "word": "फासला",
+      "start": 225.599,
+      "source": "asr",
+      "end": 226.239
+    },
+    {
+      "word": "सिर्फ",
+      "start": 226.239,
+      "source": "asr",
+      "end": 226.56
+    },
+    {
+      "word": "जुनून",
+      "start": 226.56,
+      "source": "asr",
+      "end": 227.04
+    },
+    {
+      "word": "तय",
+      "start": 227.04,
+      "source": "asr",
+      "end": 227.36
+    },
+    {
+      "word": "करता",
+      "start": 227.36,
+      "source": "asr",
+      "end": 227.76
+    },
+    {
+      "word": "है।",
+      "start": 227.76,
+      "source": "asr",
+      "end": 227.92
+    },
+    {
+      "word": "और",
+      "start": 227.92,
+      "source": "asr",
+      "end": 228.08
+    },
+    {
+      "word": "ये",
+      "start": 228.08,
+      "source": "asr",
+      "end": 228.319
+    },
+    {
+      "word": "किसको",
+      "start": 228.319,
+      "source": "asr",
+      "end": 228.799
+    },
+    {
+      "word": "किससे",
+      "start": 228.799,
+      "source": "asr",
+      "end": 229.28
+    },
+    {
+      "word": "हो",
+      "start": 229.28,
+      "source": "asr",
+      "end": 229.519
+    },
+    {
+      "word": "आजकल",
+      "start": 229.519,
+      "source": "asr",
+      "end": 230.0
+    },
+    {
+      "word": "कानून",
+      "start": 230.0,
+      "source": "asr",
+      "end": 230.4
+    },
+    {
+      "word": "तय",
+      "start": 230.4,
+      "source": "asr",
+      "end": 230.64
+    },
+    {
+      "word": "करता",
+      "start": 230.64,
+      "source": "asr",
+      "end": 230.879
+    },
+    {
+      "word": "है।",
+      "start": 230.879,
+      "source": "asr",
+      "end": 232.079
+    },
+    {
+      "word": "[प्रशंसा]",
+      "start": 232.39,
+      "source": "asr",
+      "kind": "tag",
+      "tag": "प्रशंसा",
+      "end": 233.59
+    },
+    {
+      "word": "और",
+      "start": 238.48,
+      "source": "asr",
+      "end": 238.959
+    },
+    {
+      "word": "मैंने",
+      "start": 238.959,
+      "source": "asr",
+      "end": 239.36
+    },
+    {
+      "word": "सुना",
+      "start": 239.36,
+      "source": "asr",
+      "end": 239.68
+    },
+    {
+      "word": "है",
+      "start": 239.68,
+      "source": "asr",
+      "end": 240.4
+    },
+    {
+      "word": "मैंने",
+      "start": 240.4,
+      "source": "asr",
+      "end": 240.799
+    },
+    {
+      "word": "सुना",
+      "start": 240.799,
+      "source": "asr",
+      "end": 241.12
+    },
+    {
+      "word": "है",
+      "start": 241.12,
+      "source": "asr",
+      "end": 241.28
+    },
+    {
+      "word": "एक",
+      "start": 241.28,
+      "source": "asr",
+      "end": 241.519
+    },
+    {
+      "word": "दफा",
+      "start": 241.519,
+      "source": "asr",
+      "end": 241.92
+    },
+    {
+      "word": "शाहजहां",
+      "start": 241.92,
+      "source": "asr",
+      "end": 242.56
+    },
+    {
+      "word": "ने",
+      "start": 242.56,
+      "source": "asr",
+      "end": 242.72
+    },
+    {
+      "word": "मुमताज",
+      "start": 242.72,
+      "source": "asr",
+      "end": 243.28
+    },
+    {
+      "word": "के",
+      "start": 243.28,
+      "source": "asr",
+      "end": 243.439
+    },
+    {
+      "word": "लिए",
+      "start": 243.439,
+      "source": "asr",
+      "end": 243.68
+    },
+    {
+      "word": "ताजमहल",
+      "start": 243.68,
+      "source": "asr",
+      "end": 244.319
+    },
+    {
+      "word": "बनवाया",
+      "start": 244.319,
+      "source": "asr",
+      "end": 244.64
+    },
+    {
+      "word": "था।",
+      "start": 244.64,
+      "source": "asr",
+      "end": 245.519
+    },
+    {
+      "word": "कि",
+      "start": 245.519,
+      "source": "asr",
+      "end": 245.84
+    },
+    {
+      "word": "मैंने",
+      "start": 245.84,
+      "source": "asr",
+      "end": 246.159
+    },
+    {
+      "word": "सुना",
+      "start": 246.159,
+      "source": "asr",
+      "end": 246.48
+    },
+    {
+      "word": "है",
+      "start": 246.48,
+      "source": "asr",
+      "end": 246.64
+    },
+    {
+      "word": "एक",
+      "start": 246.64,
+      "source": "asr",
+      "end": 246.879
+    },
+    {
+      "word": "दफा",
+      "start": 246.879,
+      "source": "asr",
+      "end": 247.28
+    },
+    {
+      "word": "शाहजहां",
+      "start": 247.28,
+      "source": "asr",
+      "end": 247.84
+    },
+    {
+      "word": "ने",
+      "start": 247.84,
+      "source": "asr",
+      "end": 248.0
+    },
+    {
+      "word": "मुमताज",
+      "start": 248.0,
+      "source": "asr",
+      "end": 248.64
+    },
+    {
+      "word": "के",
+      "start": 248.64,
+      "source": "asr",
+      "end": 248.799
+    },
+    {
+      "word": "लिए",
+      "start": 248.799,
+      "source": "asr",
+      "end": 249.04
+    },
+    {
+      "word": "ताजमहल",
+      "start": 249.04,
+      "source": "asr",
+      "end": 249.68
+    },
+    {
+      "word": "बनवाया",
+      "start": 249.68,
+      "source": "asr",
+      "end": 250.159
+    },
+    {
+      "word": "था।",
+      "start": 250.159,
+      "source": "asr",
+      "end": 250.48
+    },
+    {
+      "word": "अपने",
+      "start": 250.48,
+      "source": "asr",
+      "end": 250.72
+    },
+    {
+      "word": "इश्क",
+      "start": 250.72,
+      "source": "asr",
+      "end": 251.04
+    },
+    {
+      "word": "में",
+      "start": 251.04,
+      "source": "asr",
+      "end": 251.2
+    },
+    {
+      "word": "होने",
+      "start": 251.2,
+      "source": "asr",
+      "end": 251.439
+    },
+    {
+      "word": "का",
+      "start": 251.439,
+      "source": "asr",
+      "end": 251.599
+    },
+    {
+      "word": "सबूत",
+      "start": 251.599,
+      "source": "asr",
+      "end": 252.08
+    },
+    {
+      "word": "पूरी",
+      "start": 252.08,
+      "source": "asr",
+      "end": 252.48
+    },
+    {
+      "word": "दुनिया",
+      "start": 252.48,
+      "source": "asr",
+      "end": 252.879
+    },
+    {
+      "word": "को",
+      "start": 252.879,
+      "source": "asr",
+      "end": 253.12
+    },
+    {
+      "word": "दिखाया",
+      "start": 253.12,
+      "source": "asr",
+      "end": 253.519
+    },
+    {
+      "word": "था।",
+      "start": 253.519,
+      "source": "asr",
+      "end": 254.08
+    },
+    {
+      "word": "मगर",
+      "start": 254.08,
+      "source": "asr",
+      "end": 254.4
+    },
+    {
+      "word": "मैंने",
+      "start": 254.4,
+      "source": "asr",
+      "end": 254.72
+    },
+    {
+      "word": "यह",
+      "start": 254.72,
+      "source": "asr",
+      "end": 254.879
+    },
+    {
+      "word": "भी",
+      "start": 254.879,
+      "source": "asr",
+      "end": 255.04
+    },
+    {
+      "word": "सुना",
+      "start": 255.04,
+      "source": "asr",
+      "end": 255.28
+    },
+    {
+      "word": "है",
+      "start": 255.28,
+      "source": "asr",
+      "end": 255.439
+    },
+    {
+      "word": "कि",
+      "start": 255.439,
+      "source": "asr",
+      "end": 255.599
+    },
+    {
+      "word": "काट",
+      "start": 255.599,
+      "source": "asr",
+      "end": 255.84
+    },
+    {
+      "word": "दिए",
+      "start": 255.84,
+      "source": "asr",
+      "end": 256.16
+    },
+    {
+      "word": "थे",
+      "start": 256.16,
+      "source": "asr",
+      "end": 256.32
+    },
+    {
+      "word": "ताज",
+      "start": 256.32,
+      "source": "asr",
+      "end": 256.56
+    },
+    {
+      "word": "बनाने",
+      "start": 256.56,
+      "source": "asr",
+      "end": 256.959
+    },
+    {
+      "word": "वालों",
+      "start": 256.959,
+      "source": "asr",
+      "end": 257.199
+    },
+    {
+      "word": "के",
+      "start": 257.199,
+      "source": "asr",
+      "end": 257.359
+    },
+    {
+      "word": "हाथ",
+      "start": 257.359,
+      "source": "asr",
+      "end": 257.68
+    },
+    {
+      "word": "और",
+      "start": 257.68,
+      "source": "asr",
+      "end": 257.84
+    },
+    {
+      "word": "साथ",
+      "start": 257.84,
+      "source": "asr",
+      "end": 258.0
+    },
+    {
+      "word": "ही",
+      "start": 258.0,
+      "source": "asr",
+      "end": 258.16
+    },
+    {
+      "word": "काट",
+      "start": 258.16,
+      "source": "asr",
+      "end": 258.4
+    },
+    {
+      "word": "दिए",
+      "start": 258.4,
+      "source": "asr",
+      "end": 258.72
+    },
+    {
+      "word": "थे",
+      "start": 258.72,
+      "source": "asr",
+      "end": 258.799
+    },
+    {
+      "word": "हौसले",
+      "start": 258.799,
+      "source": "asr",
+      "end": 259.359
+    },
+    {
+      "word": "कि",
+      "start": 259.359,
+      "source": "asr",
+      "end": 259.68
+    },
+    {
+      "word": "ताज",
+      "start": 259.68,
+      "source": "asr",
+      "end": 260.0
+    },
+    {
+      "word": "कोई",
+      "start": 260.0,
+      "source": "asr",
+      "end": 260.239
+    },
+    {
+      "word": "और",
+      "start": 260.239,
+      "source": "asr",
+      "end": 260.479
+    },
+    {
+      "word": "बना",
+      "start": 260.479,
+      "source": "asr",
+      "end": 260.72
+    },
+    {
+      "word": "ना",
+      "start": 260.72,
+      "source": "asr",
+      "end": 260.959
+    },
+    {
+      "word": "सके",
+      "start": 260.959,
+      "source": "asr",
+      "end": 261.6
+    },
+    {
+      "word": "उससे",
+      "start": 261.6,
+      "source": "asr",
+      "end": 262.079
+    },
+    {
+      "word": "ऊपर",
+      "start": 262.079,
+      "source": "asr",
+      "end": 262.4
+    },
+    {
+      "word": "अपने",
+      "start": 262.4,
+      "source": "asr",
+      "end": 262.639
+    },
+    {
+      "word": "इश्क",
+      "start": 262.639,
+      "source": "asr",
+      "end": 262.96
+    },
+    {
+      "word": "की",
+      "start": 262.96,
+      "source": "asr",
+      "end": 263.199
+    },
+    {
+      "word": "दास्तान",
+      "start": 263.199,
+      "source": "asr",
+      "end": 263.52
+    },
+    {
+      "word": "कोई",
+      "start": 263.52,
+      "source": "asr",
+      "end": 263.759
+    },
+    {
+      "word": "और",
+      "start": 263.759,
+      "source": "asr",
+      "end": 264.0
+    },
+    {
+      "word": "सुना",
+      "start": 264.0,
+      "source": "asr",
+      "end": 264.32
+    },
+    {
+      "word": "ना",
+      "start": 264.32,
+      "source": "asr",
+      "end": 264.479
+    },
+    {
+      "word": "सके",
+      "start": 264.479,
+      "source": "asr",
+      "end": 264.88
+    },
+    {
+      "word": "मैं",
+      "start": 264.88,
+      "source": "asr",
+      "end": 265.12
+    },
+    {
+      "word": "सोचती",
+      "start": 265.12,
+      "source": "asr",
+      "end": 265.52
+    },
+    {
+      "word": "हूं",
+      "start": 265.52,
+      "source": "asr",
+      "end": 266.24
+    },
+    {
+      "word": "मैं",
+      "start": 266.24,
+      "source": "asr",
+      "end": 266.479
+    },
+    {
+      "word": "सोचती",
+      "start": 266.479,
+      "source": "asr",
+      "end": 266.96
+    },
+    {
+      "word": "हूं",
+      "start": 266.96,
+      "source": "asr",
+      "end": 267.199
+    },
+    {
+      "word": "उस",
+      "start": 267.199,
+      "source": "asr",
+      "end": 267.36
+    },
+    {
+      "word": "जुनून",
+      "start": 267.36,
+      "source": "asr",
+      "end": 267.84
+    },
+    {
+      "word": "में",
+      "start": 267.84,
+      "source": "asr",
+      "end": 268.08
+    },
+    {
+      "word": "अगर",
+      "start": 268.08,
+      "source": "asr",
+      "end": 268.639
+    },
+    {
+      "word": "थोड़ा",
+      "start": 268.639,
+      "source": "asr",
+      "end": 269.199
+    },
+    {
+      "word": "प्यार",
+      "start": 269.199,
+      "source": "asr",
+      "end": 269.6
+    },
+    {
+      "word": "जुड़",
+      "start": 269.6,
+      "source": "asr",
+      "end": 270.0
+    },
+    {
+      "word": "जाता",
+      "start": 270.0,
+      "source": "asr",
+      "end": 270.4
+    },
+    {
+      "word": "तो",
+      "start": 270.4,
+      "source": "asr",
+      "end": 270.56
+    },
+    {
+      "word": "इश्क",
+      "start": 270.56,
+      "source": "asr",
+      "end": 270.88
+    },
+    {
+      "word": "का",
+      "start": 270.88,
+      "source": "asr",
+      "end": 271.12
+    },
+    {
+      "word": "सबूत",
+      "start": 271.12,
+      "source": "asr",
+      "end": 271.52
+    },
+    {
+      "word": "वो",
+      "start": 271.52,
+      "source": "asr",
+      "end": 271.759
+    },
+    {
+      "word": "सातवां",
+      "start": 271.759,
+      "source": "asr",
+      "end": 272.4
+    },
+    {
+      "word": "जुबा",
+      "start": 272.4,
+      "source": "asr",
+      "end": 272.96
+    },
+    {
+      "word": "यहां",
+      "start": 272.96,
+      "source": "asr",
+      "end": 273.12
+    },
+    {
+      "word": "का",
+      "start": 273.12,
+      "source": "asr",
+      "end": 273.28
+    },
+    {
+      "word": "हर",
+      "start": 273.28,
+      "source": "asr",
+      "end": 273.44
+    },
+    {
+      "word": "घर",
+      "start": 273.44,
+      "source": "asr",
+      "end": 273.68
+    },
+    {
+      "word": "कहलाता",
+      "start": 273.68,
+      "source": "asr",
+      "end": 274.52
+    },
+    {
+      "word": "आहा",
+      "start": 274.52,
+      "source": "asr",
+      "end": 275.52
+    },
+    {
+      "word": "आहा",
+      "start": 275.52,
+      "source": "asr",
+      "end": 276.72
+    },
+    {
+      "word": "उससे",
+      "start": 278.4,
+      "source": "asr",
+      "end": 278.88
+    },
+    {
+      "word": "मिलती",
+      "start": 278.88,
+      "source": "asr",
+      "end": 279.36
+    },
+    {
+      "word": "जुलती",
+      "start": 279.36,
+      "source": "asr",
+      "end": 279.84
+    },
+    {
+      "word": "आवाज",
+      "start": 279.84,
+      "source": "asr",
+      "end": 280.4
+    },
+    {
+      "word": "कहां",
+      "start": 280.4,
+      "source": "asr",
+      "end": 280.72
+    },
+    {
+      "word": "से",
+      "start": 280.72,
+      "source": "asr",
+      "end": 281.04
+    },
+    {
+      "word": "लाओगे",
+      "start": 281.04,
+      "source": "asr",
+      "end": 282.16
+    },
+    {
+      "word": "ताजमहल",
+      "start": 282.16,
+      "source": "asr",
+      "end": 282.72
+    },
+    {
+      "word": "तो",
+      "start": 282.72,
+      "source": "asr",
+      "end": 282.88
+    },
+    {
+      "word": "बनवा",
+      "start": 282.88,
+      "source": "asr",
+      "end": 283.28
+    },
+    {
+      "word": "लोगे",
+      "start": 283.28,
+      "source": "asr",
+      "end": 283.6
+    },
+    {
+      "word": "मुमताज",
+      "start": 283.6,
+      "source": "asr",
+      "end": 284.16
+    },
+    {
+      "word": "कहां",
+      "start": 284.16,
+      "source": "asr",
+      "end": 284.32
+    },
+    {
+      "word": "से?",
+      "start": 284.32,
+      "source": "asr",
+      "end": 284.72
+    },
+    {
+      "word": "आय",
+      "start": 284.72,
+      "source": "asr",
+      "end": 284.96
+    },
+    {
+      "word": "हाय",
+      "start": 284.96,
+      "source": "asr",
+      "end": 285.759
+    },
+    {
+      "word": "क्या",
+      "start": 285.759,
+      "source": "asr",
+      "end": 286.16
+    },
+    {
+      "word": "बात",
+      "start": 286.16,
+      "source": "asr",
+      "end": 287.36
+    },
+    {
+      "word": "है।",
+      "start": 287.8,
+      "source": "asr",
+      "end": 288.8
+    },
+    {
+      "word": "क्या",
+      "start": 288.8,
+      "source": "asr",
+      "end": 289.12
+    },
+    {
+      "word": "इसी",
+      "start": 289.12,
+      "source": "asr",
+      "end": 289.36
+    },
+    {
+      "word": "पे",
+      "start": 289.36,
+      "source": "asr",
+      "end": 289.52
+    },
+    {
+      "word": "ना",
+      "start": 289.52,
+      "source": "asr",
+      "end": 289.68
+    },
+    {
+      "word": "बशीर",
+      "start": 289.68,
+      "source": "asr",
+      "end": 290.08
+    },
+    {
+      "word": "साहब",
+      "start": 290.08,
+      "source": "asr",
+      "end": 290.32
+    },
+    {
+      "word": "का",
+      "start": 290.32,
+      "source": "asr",
+      "end": 290.4
+    },
+    {
+      "word": "एक",
+      "start": 290.4,
+      "source": "asr",
+      "end": 290.56
+    },
+    {
+      "word": "बहुत",
+      "start": 290.56,
+      "source": "asr",
+      "end": 290.72
+    },
+    {
+      "word": "सुंदर",
+      "start": 290.72,
+      "source": "asr",
+      "end": 291.04
+    },
+    {
+      "word": "शेर",
+      "start": 291.04,
+      "source": "asr",
+      "end": 291.28
+    },
+    {
+      "word": "है।",
+      "start": 291.28,
+      "source": "asr",
+      "end": 291.44
+    },
+    {
+      "word": "वो",
+      "start": 291.44,
+      "source": "asr",
+      "end": 291.6
+    },
+    {
+      "word": "कहते",
+      "start": 291.6,
+      "source": "asr",
+      "end": 291.759
+    },
+    {
+      "word": "हैं",
+      "start": 291.759,
+      "source": "asr",
+      "end": 291.919
+    },
+    {
+      "word": "कि",
+      "start": 291.919,
+      "source": "asr",
+      "end": 292.08
+    },
+    {
+      "word": "अगर",
+      "start": 292.08,
+      "source": "asr",
+      "end": 292.24
+    },
+    {
+      "word": "तलाश",
+      "start": 292.24,
+      "source": "asr",
+      "end": 292.72
+    },
+    {
+      "word": "करूं",
+      "start": 292.72,
+      "source": "asr",
+      "end": 293.6
+    },
+    {
+      "word": "कि",
+      "start": 293.6,
+      "source": "asr",
+      "end": 293.84
+    },
+    {
+      "word": "अगर",
+      "start": 293.84,
+      "source": "asr",
+      "end": 294.16
+    },
+    {
+      "word": "तलाश",
+      "start": 294.16,
+      "source": "asr",
+      "end": 294.639
+    },
+    {
+      "word": "करूं",
+      "start": 294.639,
+      "source": "asr",
+      "end": 294.96
+    },
+    {
+      "word": "तो",
+      "start": 294.96,
+      "source": "asr",
+      "end": 295.12
+    },
+    {
+      "word": "कोई",
+      "start": 295.12,
+      "source": "asr",
+      "end": 295.36
+    },
+    {
+      "word": "मिल",
+      "start": 295.36,
+      "source": "asr",
+      "end": 295.52
+    },
+    {
+      "word": "ही",
+      "start": 295.52,
+      "source": "asr",
+      "end": 295.759
+    },
+    {
+      "word": "जाएगा।",
+      "start": 295.759,
+      "source": "asr",
+      "end": 296.32
+    },
+    {
+      "word": "कि",
+      "start": 296.32,
+      "source": "asr",
+      "end": 296.639
+    },
+    {
+      "word": "अगर",
+      "start": 296.639,
+      "source": "asr",
+      "end": 296.88
+    },
+    {
+      "word": "तलाश",
+      "start": 296.88,
+      "source": "asr",
+      "end": 297.36
+    },
+    {
+      "word": "करूं",
+      "start": 297.36,
+      "source": "asr",
+      "end": 297.68
+    },
+    {
+      "word": "तो",
+      "start": 297.68,
+      "source": "asr",
+      "end": 297.919
+    },
+    {
+      "word": "कोई",
+      "start": 297.919,
+      "source": "asr",
+      "end": 298.24
+    },
+    {
+      "word": "मिल",
+      "start": 298.24,
+      "source": "asr",
+      "end": 298.479
+    },
+    {
+      "word": "ही",
+      "start": 298.479,
+      "source": "asr",
+      "end": 298.72
+    },
+    {
+      "word": "जाएगा।",
+      "start": 298.72,
+      "source": "asr",
+      "end": 299.28
+    },
+    {
+      "word": "मगर",
+      "start": 299.28,
+      "source": "asr",
+      "end": 299.759
+    },
+    {
+      "word": "तुम्हारी",
+      "start": 299.759,
+      "source": "asr",
+      "end": 300.4
+    },
+    {
+      "word": "तरह",
+      "start": 300.4,
+      "source": "asr",
+      "end": 300.8
+    },
+    {
+      "word": "कौन",
+      "start": 300.8,
+      "source": "asr",
+      "end": 301.199
+    },
+    {
+      "word": "मुझको",
+      "start": 301.199,
+      "source": "asr",
+      "end": 301.68
+    },
+    {
+      "word": "चाहेगा",
+      "start": 301.68,
+      "source": "asr",
+      "end": 302.479
+    },
+    {
+      "word": "कि",
+      "start": 302.479,
+      "source": "asr",
+      "end": 302.72
+    },
+    {
+      "word": "चाहतों",
+      "start": 302.72,
+      "source": "asr",
+      "end": 303.36
+    },
+    {
+      "word": "से",
+      "start": 303.36,
+      "source": "asr",
+      "end": 303.68
+    },
+    {
+      "word": "देखेगा",
+      "start": 303.68,
+      "source": "asr",
+      "end": 304.4
+    },
+    {
+      "word": "जरूर",
+      "start": 304.4,
+      "source": "asr",
+      "end": 304.88
+    },
+    {
+      "word": "तुमको",
+      "start": 304.88,
+      "source": "asr",
+      "end": 305.36
+    },
+    {
+      "word": "कोई।",
+      "start": 305.36,
+      "source": "asr",
+      "end": 305.759
+    },
+    {
+      "word": "मगर",
+      "start": 305.759,
+      "source": "asr",
+      "end": 306.0
+    },
+    {
+      "word": "वो",
+      "start": 306.0,
+      "source": "asr",
+      "end": 306.16
+    },
+    {
+      "word": "आंखें",
+      "start": 306.16,
+      "source": "asr",
+      "end": 306.8
+    },
+    {
+      "word": "हमारी",
+      "start": 306.8,
+      "source": "asr",
+      "end": 307.44
+    },
+    {
+      "word": "कहां",
+      "start": 307.44,
+      "source": "asr",
+      "end": 308.0
+    },
+    {
+      "word": "से",
+      "start": 308.0,
+      "source": "asr",
+      "end": 308.24
+    },
+    {
+      "word": "लाएगा।",
+      "start": 308.24,
+      "source": "asr",
+      "end": 309.44
+    },
+    {
+      "word": "आंखों",
+      "start": 312.919,
+      "source": "asr",
+      "end": 313.919
+    },
+    {
+      "word": "से",
+      "start": 313.919,
+      "source": "asr",
+      "end": 314.0
+    },
+    {
+      "word": "वो",
+      "start": 314.0,
+      "source": "asr",
+      "end": 314.24
+    },
+    {
+      "word": "याद",
+      "start": 314.24,
+      "source": "asr",
+      "end": 314.479
+    },
+    {
+      "word": "आया",
+      "start": 314.479,
+      "source": "asr",
+      "end": 314.72
+    },
+    {
+      "word": "कि",
+      "start": 314.72,
+      "source": "asr",
+      "end": 314.96
+    },
+    {
+      "word": "हमने",
+      "start": 314.96,
+      "source": "asr",
+      "end": 316.08
+    },
+    {
+      "word": "तुझको",
+      "start": 316.08,
+      "source": "asr",
+      "end": 316.479
+    },
+    {
+      "word": "इतना",
+      "start": 316.479,
+      "source": "asr",
+      "end": 316.88
+    },
+    {
+      "word": "देखा",
+      "start": 316.88,
+      "source": "asr",
+      "end": 318.0
+    },
+    {
+      "word": "जितना",
+      "start": 318.0,
+      "source": "asr",
+      "end": 318.479
+    },
+    {
+      "word": "देखा",
+      "start": 318.479,
+      "source": "asr",
+      "end": 318.8
+    },
+    {
+      "word": "जा",
+      "start": 318.8,
+      "source": "asr",
+      "end": 319.039
+    },
+    {
+      "word": "सकता",
+      "start": 319.039,
+      "source": "asr",
+      "end": 320.239
+    },
+    {
+      "word": "लेकिन",
+      "start": 320.639,
+      "source": "asr",
+      "end": 320.88
+    },
+    {
+      "word": "फिर",
+      "start": 320.88,
+      "source": "asr",
+      "end": 321.12
+    },
+    {
+      "word": "भी",
+      "start": 321.12,
+      "source": "asr",
+      "end": 321.28
+    },
+    {
+      "word": "इन",
+      "start": 321.28,
+      "source": "asr",
+      "end": 321.52
+    },
+    {
+      "word": "दो",
+      "start": 321.52,
+      "source": "asr",
+      "end": 321.759
+    },
+    {
+      "word": "आंखों",
+      "start": 321.759,
+      "source": "asr",
+      "end": 322.08
+    },
+    {
+      "word": "से",
+      "start": 322.08,
+      "source": "asr",
+      "end": 322.639
+    },
+    {
+      "word": "कितना",
+      "start": 322.639,
+      "source": "asr",
+      "end": 323.039
+    },
+    {
+      "word": "देखा",
+      "start": 323.039,
+      "source": "asr",
+      "end": 323.36
+    },
+    {
+      "word": "जा",
+      "start": 323.36,
+      "source": "asr",
+      "end": 323.68
+    },
+    {
+      "word": "सकता",
+      "start": 323.68,
+      "source": "asr",
+      "end": 324.479
+    },
+    {
+      "word": "यार",
+      "start": 324.479,
+      "source": "asr",
+      "end": 324.8
+    },
+    {
+      "word": "क्या",
+      "start": 324.8,
+      "source": "asr",
+      "end": 325.039
+    },
+    {
+      "word": "बात",
+      "start": 325.039,
+      "source": "asr",
+      "end": 325.199
+    },
+    {
+      "word": "है",
+      "start": 325.199,
+      "source": "asr",
+      "end": 325.36
+    },
+    {
+      "word": "यार",
+      "start": 325.36,
+      "source": "asr",
+      "end": 325.52
+    },
+    {
+      "word": "एक",
+      "start": 325.52,
+      "source": "asr",
+      "end": 325.68
+    },
+    {
+      "word": "बार",
+      "start": 325.68,
+      "source": "asr",
+      "end": 325.759
+    },
+    {
+      "word": "अपने",
+      "start": 325.759,
+      "source": "asr",
+      "end": 326.08
+    },
+    {
+      "word": "लिए",
+      "start": 326.08,
+      "source": "asr",
+      "end": 326.16
+    },
+    {
+      "word": "जोरदार",
+      "start": 326.16,
+      "source": "asr",
+      "end": 326.639
+    },
+    {
+      "word": "तालियां",
+      "start": 326.639,
+      "source": "asr",
+      "end": 326.88
+    },
+    {
+      "word": "बजा",
+      "start": 326.88,
+      "source": "asr",
+      "end": 327.12
+    },
+    {
+      "word": "दो",
+      "start": 327.12,
+      "source": "asr",
+      "end": 327.72
+    },
+    {
+      "word": "यार",
+      "start": 327.72,
+      "source": "asr",
+      "end": 328.72
+    },
+    {
+      "word": "पोएट्री",
+      "start": 328.72,
+      "source": "asr",
+      "end": 329.28
+    },
+    {
+      "word": "ऑडियंस",
+      "start": 329.28,
+      "source": "asr",
+      "end": 329.68
+    },
+    {
+      "word": "यार",
+      "start": 329.68,
+      "source": "asr",
+      "end": 329.919
+    },
+    {
+      "word": "मजा",
+      "start": 329.919,
+      "source": "asr",
+      "end": 330.16
+    },
+    {
+      "word": "आ",
+      "start": 330.16,
+      "source": "asr",
+      "end": 330.32
+    },
+    {
+      "word": "रहा",
+      "start": 330.32,
+      "source": "asr",
+      "end": 330.4
+    },
+    {
+      "word": "है",
+      "start": 330.4,
+      "source": "asr",
+      "end": 330.56
+    },
+    {
+      "word": "वाह",
+      "start": 330.56,
+      "source": "asr",
+      "end": 330.72
+    },
+    {
+      "word": "यार",
+      "start": 330.72,
+      "source": "asr",
+      "end": 331.199
+    },
+    {
+      "word": "बहुत",
+      "start": 331.199,
+      "source": "asr",
+      "end": 331.36
+    },
+    {
+      "word": "सुंदर",
+      "start": 331.36,
+      "source": "asr",
+      "end": 332.16
+    },
+    {
+      "word": "नायाब",
+      "start": 332.16,
+      "source": "asr",
+      "end": 332.639
+    },
+    {
+      "word": "कुछ",
+      "start": 332.639,
+      "source": "asr",
+      "end": 332.8
+    },
+    {
+      "word": "और",
+      "start": 332.8,
+      "source": "asr",
+      "end": 333.28
+    },
+    {
+      "word": "एक",
+      "start": 333.28,
+      "source": "asr",
+      "end": 333.6
+    },
+    {
+      "word": "मेरी",
+      "start": 333.6,
+      "source": "asr",
+      "end": 333.759
+    },
+    {
+      "word": "वो",
+      "start": 333.759,
+      "source": "asr",
+      "end": 334.0
+    },
+    {
+      "word": "रिक्वेस्ट",
+      "start": 334.0,
+      "source": "asr",
+      "end": 334.4
+    },
+    {
+      "word": "तो",
+      "start": 334.4,
+      "source": "asr",
+      "end": 334.56
+    },
+    {
+      "word": "है",
+      "start": 334.56,
+      "source": "asr",
+      "end": 334.72
+    },
+    {
+      "word": "ही",
+      "start": 334.72,
+      "source": "asr",
+      "end": 334.8
+    },
+    {
+      "word": "वो",
+      "start": 334.8,
+      "source": "asr",
+      "end": 334.96
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 334.96,
+      "source": "asr",
+      "end": 335.44
+    },
+    {
+      "word": "वाली",
+      "start": 335.44,
+      "source": "asr",
+      "end": 335.68
+    },
+    {
+      "word": "वो",
+      "start": 335.68,
+      "source": "asr",
+      "end": 336.32
+    },
+    {
+      "word": "सबको",
+      "start": 336.32,
+      "source": "asr",
+      "end": 337.28
+    },
+    {
+      "word": "सबको",
+      "start": 337.28,
+      "source": "asr",
+      "end": 337.6
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 337.6,
+      "source": "asr",
+      "end": 338.0
+    },
+    {
+      "word": "जब",
+      "start": 338.0,
+      "source": "asr",
+      "end": 338.16
+    },
+    {
+      "word": "मैं",
+      "start": 338.16,
+      "source": "asr",
+      "end": 338.32
+    },
+    {
+      "word": "मरूंगी",
+      "start": 338.32,
+      "source": "asr",
+      "end": 338.639
+    },
+    {
+      "word": "ना",
+      "start": 338.639,
+      "source": "asr",
+      "end": 338.8
+    },
+    {
+      "word": "मेरे",
+      "start": 338.8,
+      "source": "asr",
+      "end": 338.96
+    },
+    {
+      "word": "खून",
+      "start": 338.96,
+      "source": "asr",
+      "end": 339.28
+    },
+    {
+      "word": "से",
+      "start": 339.28,
+      "source": "asr",
+      "end": 339.44
+    },
+    {
+      "word": "निकलेगी",
+      "start": 339.44,
+      "source": "asr",
+      "end": 340.64
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 341.56,
+      "source": "asr",
+      "end": 342.56
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 342.56,
+      "source": "asr",
+      "end": 343.28
+    },
+    {
+      "word": "अगर",
+      "start": 343.28,
+      "source": "asr",
+      "end": 343.52
+    },
+    {
+      "word": "आज",
+      "start": 343.52,
+      "source": "asr",
+      "end": 343.759
+    },
+    {
+      "word": "कहीं",
+      "start": 343.759,
+      "source": "asr",
+      "end": 344.08
+    },
+    {
+      "word": "से",
+      "start": 344.08,
+      "source": "asr",
+      "end": 344.24
+    },
+    {
+      "word": "हार",
+      "start": 344.24,
+      "source": "asr",
+      "end": 344.56
+    },
+    {
+      "word": "गए",
+      "start": 344.56,
+      "source": "asr",
+      "end": 344.72
+    },
+    {
+      "word": "हो।",
+      "start": 344.72,
+      "source": "asr",
+      "end": 345.36
+    },
+    {
+      "word": "उस",
+      "start": 345.36,
+      "source": "asr",
+      "end": 345.6
+    },
+    {
+      "word": "जीत",
+      "start": 345.6,
+      "source": "asr",
+      "end": 345.919
+    },
+    {
+      "word": "की",
+      "start": 345.919,
+      "source": "asr",
+      "end": 346.08
+    },
+    {
+      "word": "जरूरत",
+      "start": 346.08,
+      "source": "asr",
+      "end": 346.56
+    },
+    {
+      "word": "तुमसे",
+      "start": 346.56,
+      "source": "asr",
+      "end": 347.039
+    },
+    {
+      "word": "ज्यादा",
+      "start": 347.039,
+      "source": "asr",
+      "end": 347.36
+    },
+    {
+      "word": "किसी",
+      "start": 347.36,
+      "source": "asr",
+      "end": 347.6
+    },
+    {
+      "word": "को",
+      "start": 347.6,
+      "source": "asr",
+      "end": 348.0
+    },
+    {
+      "word": "थी",
+      "start": 348.0,
+      "source": "asr",
+      "end": 348.16
+    },
+    {
+      "word": "शायद।",
+      "start": 348.16,
+      "source": "asr",
+      "end": 349.12
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 349.12,
+      "source": "asr",
+      "end": 350.0
+    },
+    {
+      "word": "अगर",
+      "start": 350.0,
+      "source": "asr",
+      "end": 350.32
+    },
+    {
+      "word": "कुछ",
+      "start": 350.32,
+      "source": "asr",
+      "end": 350.56
+    },
+    {
+      "word": "खो",
+      "start": 350.56,
+      "source": "asr",
+      "end": 350.88
+    },
+    {
+      "word": "गया",
+      "start": 350.88,
+      "source": "asr",
+      "end": 351.12
+    },
+    {
+      "word": "है।",
+      "start": 351.12,
+      "source": "asr",
+      "end": 351.6
+    },
+    {
+      "word": "जिसके",
+      "start": 351.6,
+      "source": "asr",
+      "end": 352.0
+    },
+    {
+      "word": "नसीब",
+      "start": 352.0,
+      "source": "asr",
+      "end": 352.479
+    },
+    {
+      "word": "का",
+      "start": 352.479,
+      "source": "asr",
+      "end": 352.72
+    },
+    {
+      "word": "था",
+      "start": 352.72,
+      "source": "asr",
+      "end": 352.96
+    },
+    {
+      "word": "उसको",
+      "start": 352.96,
+      "source": "asr",
+      "end": 353.36
+    },
+    {
+      "word": "मिल",
+      "start": 353.36,
+      "source": "asr",
+      "end": 353.6
+    },
+    {
+      "word": "गया",
+      "start": 353.6,
+      "source": "asr",
+      "end": 353.84
+    },
+    {
+      "word": "है",
+      "start": 353.84,
+      "source": "asr",
+      "end": 354.0
+    },
+    {
+      "word": "शायद।",
+      "start": 354.0,
+      "source": "asr",
+      "end": 355.039
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 355.039,
+      "source": "asr",
+      "end": 355.919
+    },
+    {
+      "word": "अगर",
+      "start": 355.919,
+      "source": "asr",
+      "end": 356.24
+    },
+    {
+      "word": "दिल",
+      "start": 356.24,
+      "source": "asr",
+      "end": 356.56
+    },
+    {
+      "word": "टूट",
+      "start": 356.56,
+      "source": "asr",
+      "end": 356.8
+    },
+    {
+      "word": "गया",
+      "start": 356.8,
+      "source": "asr",
+      "end": 357.039
+    },
+    {
+      "word": "है।",
+      "start": 357.039,
+      "source": "asr",
+      "end": 357.52
+    },
+    {
+      "word": "किसी",
+      "start": 357.52,
+      "source": "asr",
+      "end": 357.84
+    },
+    {
+      "word": "का",
+      "start": 357.84,
+      "source": "asr",
+      "end": 358.0
+    },
+    {
+      "word": "जोड़ने",
+      "start": 358.0,
+      "source": "asr",
+      "end": 358.56
+    },
+    {
+      "word": "के",
+      "start": 358.56,
+      "source": "asr",
+      "end": 358.72
+    },
+    {
+      "word": "लिए",
+      "start": 358.72,
+      "source": "asr",
+      "end": 358.88
+    },
+    {
+      "word": "किसी",
+      "start": 358.88,
+      "source": "asr",
+      "end": 359.12
+    },
+    {
+      "word": "का",
+      "start": 359.12,
+      "source": "asr",
+      "end": 359.28
+    },
+    {
+      "word": "तोड़ना",
+      "start": 359.28,
+      "source": "asr",
+      "end": 359.759
+    },
+    {
+      "word": "पड़ता",
+      "start": 359.759,
+      "source": "asr",
+      "end": 360.16
+    },
+    {
+      "word": "होगा",
+      "start": 360.16,
+      "source": "asr",
+      "end": 360.479
+    },
+    {
+      "word": "शायद।",
+      "start": 360.479,
+      "source": "asr",
+      "end": 361.199
+    },
+    {
+      "word": "और",
+      "start": 361.199,
+      "source": "asr",
+      "end": 361.44
+    },
+    {
+      "word": "फिर",
+      "start": 361.44,
+      "source": "asr",
+      "end": 361.68
+    },
+    {
+      "word": "भी",
+      "start": 361.68,
+      "source": "asr",
+      "end": 361.919
+    },
+    {
+      "word": "रह",
+      "start": 361.919,
+      "source": "asr",
+      "end": 362.16
+    },
+    {
+      "word": "जाए",
+      "start": 362.16,
+      "source": "asr",
+      "end": 362.4
+    },
+    {
+      "word": "अगर",
+      "start": 362.4,
+      "source": "asr",
+      "end": 362.72
+    },
+    {
+      "word": "दिल",
+      "start": 362.72,
+      "source": "asr",
+      "end": 362.88
+    },
+    {
+      "word": "में",
+      "start": 362.88,
+      "source": "asr",
+      "end": 363.039
+    },
+    {
+      "word": "दर्द",
+      "start": 363.039,
+      "source": "asr",
+      "end": 363.44
+    },
+    {
+      "word": "कहीं",
+      "start": 363.44,
+      "source": "asr",
+      "end": 364.0
+    },
+    {
+      "word": "तो",
+      "start": 364.0,
+      "source": "asr",
+      "end": 364.24
+    },
+    {
+      "word": "बांट",
+      "start": 364.24,
+      "source": "asr",
+      "end": 364.56
+    },
+    {
+      "word": "कर",
+      "start": 364.56,
+      "source": "asr",
+      "end": 364.8
+    },
+    {
+      "word": "मुस्कुराओ।",
+      "start": 364.8,
+      "source": "asr",
+      "end": 365.68
+    },
+    {
+      "word": "और",
+      "start": 365.68,
+      "source": "asr",
+      "end": 365.919
+    },
+    {
+      "word": "है",
+      "start": 365.919,
+      "source": "asr",
+      "end": 366.08
+    },
+    {
+      "word": "अगर",
+      "start": 366.08,
+      "source": "asr",
+      "end": 366.4
+    },
+    {
+      "word": "दिल",
+      "start": 366.4,
+      "source": "asr",
+      "end": 366.639
+    },
+    {
+      "word": "में",
+      "start": 366.639,
+      "source": "asr",
+      "end": 366.8
+    },
+    {
+      "word": "खुशी",
+      "start": 366.8,
+      "source": "asr",
+      "end": 367.199
+    },
+    {
+      "word": "ज्यादा",
+      "start": 367.199,
+      "source": "asr",
+      "end": 367.68
+    },
+    {
+      "word": "तो",
+      "start": 367.68,
+      "source": "asr",
+      "end": 367.84
+    },
+    {
+      "word": "सेम",
+      "start": 367.84,
+      "source": "asr",
+      "end": 368.16
+    },
+    {
+      "word": "प्रोसेस",
+      "start": 368.16,
+      "source": "asr",
+      "end": 368.639
+    },
+    {
+      "word": "दोहराओ।",
+      "start": 368.639,
+      "source": "asr",
+      "end": 369.52
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 369.52,
+      "source": "asr",
+      "end": 370.24
+    },
+    {
+      "word": "अगर",
+      "start": 370.24,
+      "source": "asr",
+      "end": 370.479
+    },
+    {
+      "word": "सर",
+      "start": 370.479,
+      "source": "asr",
+      "end": 370.72
+    },
+    {
+      "word": "पर",
+      "start": 370.72,
+      "source": "asr",
+      "end": 370.88
+    },
+    {
+      "word": "है",
+      "start": 370.88,
+      "source": "asr",
+      "end": 371.12
+    },
+    {
+      "word": "छत",
+      "start": 371.12,
+      "source": "asr",
+      "end": 371.44
+    },
+    {
+      "word": "बदन",
+      "start": 371.44,
+      "source": "asr",
+      "end": 371.759
+    },
+    {
+      "word": "पर",
+      "start": 371.759,
+      "source": "asr",
+      "end": 371.919
+    },
+    {
+      "word": "है",
+      "start": 371.919,
+      "source": "asr",
+      "end": 372.08
+    },
+    {
+      "word": "कपड़ा",
+      "start": 372.08,
+      "source": "asr",
+      "end": 372.479
+    },
+    {
+      "word": "और",
+      "start": 372.479,
+      "source": "asr",
+      "end": 372.639
+    },
+    {
+      "word": "है",
+      "start": 372.639,
+      "source": "asr",
+      "end": 372.8
+    },
+    {
+      "word": "थाली",
+      "start": 372.8,
+      "source": "asr",
+      "end": 373.199
+    },
+    {
+      "word": "में",
+      "start": 373.199,
+      "source": "asr",
+      "end": 373.36
+    },
+    {
+      "word": "खाना",
+      "start": 373.36,
+      "source": "asr",
+      "end": 373.84
+    },
+    {
+      "word": "और",
+      "start": 373.84,
+      "source": "asr",
+      "end": 374.08
+    },
+    {
+      "word": "है",
+      "start": 374.08,
+      "source": "asr",
+      "end": 374.319
+    },
+    {
+      "word": "अगर",
+      "start": 374.319,
+      "source": "asr",
+      "end": 374.56
+    },
+    {
+      "word": "जरूरत",
+      "start": 374.56,
+      "source": "asr",
+      "end": 375.039
+    },
+    {
+      "word": "से",
+      "start": 375.039,
+      "source": "asr",
+      "end": 375.199
+    },
+    {
+      "word": "ज्यादा",
+      "start": 375.199,
+      "source": "asr",
+      "end": 375.6
+    },
+    {
+      "word": "तो",
+      "start": 375.6,
+      "source": "asr",
+      "end": 375.759
+    },
+    {
+      "word": "बांट",
+      "start": 375.759,
+      "source": "asr",
+      "end": 376.16
+    },
+    {
+      "word": "कर",
+      "start": 376.16,
+      "source": "asr",
+      "end": 376.319
+    },
+    {
+      "word": "घर",
+      "start": 376.319,
+      "source": "asr",
+      "end": 376.56
+    },
+    {
+      "word": "जाना।",
+      "start": 376.56,
+      "source": "asr",
+      "end": 377.12
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 377.12,
+      "source": "asr",
+      "end": 377.84
+    },
+    {
+      "word": "जब",
+      "start": 377.84,
+      "source": "asr",
+      "end": 378.08
+    },
+    {
+      "word": "बार-बार",
+      "start": 378.08,
+      "source": "asr",
+      "end": 378.56
+    },
+    {
+      "word": "यह",
+      "start": 378.56,
+      "source": "asr",
+      "end": 378.8
+    },
+    {
+      "word": "सोच",
+      "start": 378.8,
+      "source": "asr",
+      "end": 379.039
+    },
+    {
+      "word": "कर",
+      "start": 379.039,
+      "source": "asr",
+      "end": 379.28
+    },
+    {
+      "word": "हताश",
+      "start": 379.28,
+      "source": "asr",
+      "end": 379.68
+    },
+    {
+      "word": "हो",
+      "start": 379.68,
+      "source": "asr",
+      "end": 379.84
+    },
+    {
+      "word": "जाते",
+      "start": 379.84,
+      "source": "asr",
+      "end": 380.08
+    },
+    {
+      "word": "हो",
+      "start": 380.08,
+      "source": "asr",
+      "end": 380.319
+    },
+    {
+      "word": "कि",
+      "start": 380.319,
+      "source": "asr",
+      "end": 380.479
+    },
+    {
+      "word": "इससे",
+      "start": 380.479,
+      "source": "asr",
+      "end": 380.88
+    },
+    {
+      "word": "अच्छा",
+      "start": 380.88,
+      "source": "asr",
+      "end": 381.12
+    },
+    {
+      "word": "यह",
+      "start": 381.12,
+      "source": "asr",
+      "end": 381.36
+    },
+    {
+      "word": "हो",
+      "start": 381.36,
+      "source": "asr",
+      "end": 381.52
+    },
+    {
+      "word": "जाता,",
+      "start": 381.52,
+      "source": "asr",
+      "end": 381.84
+    },
+    {
+      "word": "इससे",
+      "start": 381.84,
+      "source": "asr",
+      "end": 382.16
+    },
+    {
+      "word": "अच्छा",
+      "start": 382.16,
+      "source": "asr",
+      "end": 382.4
+    },
+    {
+      "word": "वो",
+      "start": 382.4,
+      "source": "asr",
+      "end": 382.72
+    },
+    {
+      "word": "हो",
+      "start": 382.72,
+      "source": "asr",
+      "end": 382.88
+    },
+    {
+      "word": "जाता।",
+      "start": 382.88,
+      "source": "asr",
+      "end": 383.44
+    },
+    {
+      "word": "तब",
+      "start": 383.44,
+      "source": "asr",
+      "end": 383.759
+    },
+    {
+      "word": "यह",
+      "start": 383.759,
+      "source": "asr",
+      "end": 383.919
+    },
+    {
+      "word": "सोच",
+      "start": 383.919,
+      "source": "asr",
+      "end": 384.24
+    },
+    {
+      "word": "कर",
+      "start": 384.24,
+      "source": "asr",
+      "end": 384.4
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 384.4,
+      "source": "asr",
+      "end": 384.96
+    },
+    {
+      "word": "कि",
+      "start": 384.96,
+      "source": "asr",
+      "end": 385.12
+    },
+    {
+      "word": "इससे",
+      "start": 385.12,
+      "source": "asr",
+      "end": 385.44
+    },
+    {
+      "word": "बुरा",
+      "start": 385.44,
+      "source": "asr",
+      "end": 385.759
+    },
+    {
+      "word": "हो",
+      "start": 385.759,
+      "source": "asr",
+      "end": 386.0
+    },
+    {
+      "word": "जाता",
+      "start": 386.0,
+      "source": "asr",
+      "end": 386.319
+    },
+    {
+      "word": "तो",
+      "start": 386.319,
+      "source": "asr",
+      "end": 386.72
+    },
+    {
+      "word": "क्या",
+      "start": 386.72,
+      "source": "asr",
+      "end": 387.12
+    },
+    {
+      "word": "हो",
+      "start": 387.12,
+      "source": "asr",
+      "end": 387.36
+    },
+    {
+      "word": "जाता।",
+      "start": 387.36,
+      "source": "asr",
+      "end": 388.319
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 388.319,
+      "source": "asr",
+      "end": 389.039
+    },
+    {
+      "word": "जब",
+      "start": 389.039,
+      "source": "asr",
+      "end": 389.28
+    },
+    {
+      "word": "पूछे",
+      "start": 389.28,
+      "source": "asr",
+      "end": 389.68
+    },
+    {
+      "word": "कोई",
+      "start": 389.68,
+      "source": "asr",
+      "end": 389.919
+    },
+    {
+      "word": "कि",
+      "start": 389.919,
+      "source": "asr",
+      "end": 390.16
+    },
+    {
+      "word": "जिंदगी",
+      "start": 390.16,
+      "source": "asr",
+      "end": 390.479
+    },
+    {
+      "word": "जीने",
+      "start": 390.479,
+      "source": "asr",
+      "end": 390.88
+    },
+    {
+      "word": "का",
+      "start": 390.88,
+      "source": "asr",
+      "end": 391.039
+    },
+    {
+      "word": "है",
+      "start": 391.039,
+      "source": "asr",
+      "end": 391.199
+    },
+    {
+      "word": "क्या",
+      "start": 391.199,
+      "source": "asr",
+      "end": 391.52
+    },
+    {
+      "word": "सलीका।",
+      "start": 391.52,
+      "source": "asr",
+      "end": 392.16
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 392.16,
+      "source": "asr",
+      "end": 392.88
+    },
+    {
+      "word": "यह",
+      "start": 392.88,
+      "source": "asr",
+      "end": 393.039
+    },
+    {
+      "word": "कह",
+      "start": 393.039,
+      "source": "asr",
+      "end": 393.199
+    },
+    {
+      "word": "कर",
+      "start": 393.199,
+      "source": "asr",
+      "end": 393.44
+    },
+    {
+      "word": "कि",
+      "start": 393.44,
+      "source": "asr",
+      "end": 393.68
+    },
+    {
+      "word": "हमने",
+      "start": 393.68,
+      "source": "asr",
+      "end": 393.919
+    },
+    {
+      "word": "जिंदगी",
+      "start": 393.919,
+      "source": "asr",
+      "end": 394.4
+    },
+    {
+      "word": "से",
+      "start": 394.4,
+      "source": "asr",
+      "end": 394.639
+    },
+    {
+      "word": "मुस्कुराना",
+      "start": 394.639,
+      "source": "asr",
+      "end": 395.36
+    },
+    {
+      "word": "ही",
+      "start": 395.36,
+      "source": "asr",
+      "end": 395.6
+    },
+    {
+      "word": "सीखा।",
+      "start": 395.6,
+      "source": "asr",
+      "end": 396.52
+    },
+    {
+      "word": "मुस्कुराओ।",
+      "start": 396.52,
+      "source": "asr",
+      "end": 397.52
+    },
+    {
+      "word": "वो",
+      "start": 397.52,
+      "source": "asr",
+      "end": 397.84
+    },
+    {
+      "word": "दुनिया",
+      "start": 397.84,
+      "source": "asr",
+      "end": 398.16
+    },
+    {
+      "word": "जो",
+      "start": 398.16,
+      "source": "asr",
+      "end": 398.319
+    },
+    {
+      "word": "तुमसे",
+      "start": 398.319,
+      "source": "asr",
+      "end": 398.56
+    },
+    {
+      "word": "पूछती",
+      "start": 398.56,
+      "source": "asr",
+      "end": 398.88
+    },
+    {
+      "word": "रहती",
+      "start": 398.88,
+      "source": "asr",
+      "end": 399.039
+    },
+    {
+      "word": "है",
+      "start": 399.039,
+      "source": "asr",
+      "end": 399.12
+    },
+    {
+      "word": "ना",
+      "start": 399.12,
+      "source": "asr",
+      "end": 399.28
+    },
+    {
+      "word": "ग्लास",
+      "start": 399.28,
+      "source": "asr",
+      "end": 399.52
+    },
+    {
+      "word": "तुम",
+      "start": 399.52,
+      "source": "asr",
+      "end": 399.68
+    },
+    {
+      "word": "आधा",
+      "start": 399.68,
+      "source": "asr",
+      "end": 399.919
+    },
+    {
+      "word": "खाली",
+      "start": 399.919,
+      "source": "asr",
+      "end": 400.24
+    },
+    {
+      "word": "देखते",
+      "start": 400.24,
+      "source": "asr",
+      "end": 400.479
+    },
+    {
+      "word": "हो,",
+      "start": 400.479,
+      "source": "asr",
+      "end": 400.8
+    },
+    {
+      "word": "भरा",
+      "start": 400.8,
+      "source": "asr",
+      "end": 401.039
+    },
+    {
+      "word": "देखते",
+      "start": 401.039,
+      "source": "asr",
+      "end": 401.36
+    },
+    {
+      "word": "हो।",
+      "start": 401.36,
+      "source": "asr",
+      "end": 401.68
+    },
+    {
+      "word": "मुस्कुराओ",
+      "start": 401.68,
+      "source": "asr",
+      "end": 402.24
+    },
+    {
+      "word": "इवन",
+      "start": 402.24,
+      "source": "asr",
+      "end": 402.479
+    },
+    {
+      "word": "इफ",
+      "start": 402.479,
+      "source": "asr",
+      "end": 402.72
+    },
+    {
+      "word": "यू",
+      "start": 402.72,
+      "source": "asr",
+      "end": 402.8
+    },
+    {
+      "word": "हैव",
+      "start": 402.8,
+      "source": "asr",
+      "end": 402.96
+    },
+    {
+      "word": "टू",
+      "start": 402.96,
+      "source": "asr",
+      "end": 403.12
+    },
+    {
+      "word": "वर्क",
+      "start": 403.12,
+      "source": "asr",
+      "end": 403.36
+    },
+    {
+      "word": "माइल्स",
+      "start": 403.36,
+      "source": "asr",
+      "end": 403.68
+    },
+    {
+      "word": "एंड",
+      "start": 403.68,
+      "source": "asr",
+      "end": 403.84
+    },
+    {
+      "word": "माइल्स",
+      "start": 403.84,
+      "source": "asr",
+      "end": 404.16
+    },
+    {
+      "word": "बिकॉज़",
+      "start": 404.16,
+      "source": "asr",
+      "end": 404.4
+    },
+    {
+      "word": "इट्स",
+      "start": 404.4,
+      "source": "asr",
+      "end": 404.72
+    },
+    {
+      "word": "ओके",
+      "start": 404.72,
+      "source": "asr",
+      "end": 404.88
+    },
+    {
+      "word": "इफ",
+      "start": 404.88,
+      "source": "asr",
+      "end": 405.12
+    },
+    {
+      "word": "द",
+      "start": 405.12,
+      "source": "asr",
+      "end": 405.199
+    },
+    {
+      "word": "ग्लास",
+      "start": 405.199,
+      "source": "asr",
+      "end": 405.52
+    },
+    {
+      "word": "इज",
+      "start": 405.52,
+      "source": "asr",
+      "end": 405.68
+    },
+    {
+      "word": "हाफ",
+      "start": 405.68,
+      "source": "asr",
+      "end": 405.919
+    },
+    {
+      "word": "एम्प्टी",
+      "start": 405.919,
+      "source": "asr",
+      "end": 406.319
+    },
+    {
+      "word": "यू",
+      "start": 406.319,
+      "source": "asr",
+      "end": 406.4
+    },
+    {
+      "word": "कैन",
+      "start": 406.4,
+      "source": "asr",
+      "end": 406.639
+    },
+    {
+      "word": "ऑलवेज",
+      "start": 406.639,
+      "source": "asr",
+      "end": 407.039
+    },
+    {
+      "word": "ऑलवेज",
+      "start": 407.039,
+      "source": "asr",
+      "end": 407.44
+    },
+    {
+      "word": "फिल",
+      "start": 407.44,
+      "source": "asr",
+      "end": 407.68
+    },
+    {
+      "word": "इट",
+      "start": 407.68,
+      "source": "asr",
+      "end": 407.84
+    },
+    {
+      "word": "विथ",
+      "start": 407.84,
+      "source": "asr",
+      "end": 408.0
+    },
+    {
+      "word": "स्माइल्स।",
+      "start": 408.0,
+      "source": "asr",
+      "end": 408.56
+    },
+    {
+      "word": "मुस्कुराओ।",
+      "start": 408.56,
+      "source": "asr",
+      "end": 409.76
+    },
+    {
+      "word": "भाई",
+      "start": 415.039,
+      "source": "asr",
+      "end": 415.199
+    },
+    {
+      "word": "ग्लास",
+      "start": 415.199,
+      "source": "asr",
+      "end": 415.6
+    },
+    {
+      "word": "हाफ",
+      "start": 415.6,
+      "source": "asr",
+      "end": 415.84
+    },
+    {
+      "word": "एम्प्टी",
+      "start": 415.84,
+      "source": "asr",
+      "end": 416.319
+    },
+    {
+      "word": "भाई।",
+      "start": 416.319,
+      "source": "asr",
+      "end": 417.36
+    },
+    {
+      "word": "देयर",
+      "start": 417.36,
+      "source": "asr",
+      "end": 417.6
+    },
+    {
+      "word": "इज",
+      "start": 417.6,
+      "source": "asr",
+      "end": 417.84
+    },
+    {
+      "word": "ऑलवेज",
+      "start": 417.84,
+      "source": "asr",
+      "end": 418.319
+    },
+    {
+      "word": "रूम",
+      "start": 418.319,
+      "source": "asr",
+      "end": 418.479
+    },
+    {
+      "word": "फॉर",
+      "start": 418.479,
+      "source": "asr",
+      "end": 418.72
+    },
+    {
+      "word": "शराब।",
+      "start": 418.72,
+      "source": "asr",
+      "end": 419.199
+    },
+    {
+      "word": "याह।",
+      "start": 419.199,
+      "source": "asr",
+      "end": 419.36
+    },
+    {
+      "word": "देयर",
+      "start": 419.36,
+      "source": "asr",
+      "end": 419.52
+    },
+    {
+      "word": "इज़",
+      "start": 419.52,
+      "source": "asr",
+      "end": 419.96
+    },
+    {
+      "word": "ऑलवेज",
+      "start": 419.96,
+      "source": "asr",
+      "end": 420.96
+    },
+    {
+      "word": "देयर",
+      "start": 420.96,
+      "source": "asr",
+      "end": 421.199
+    },
+    {
+      "word": "इज",
+      "start": 421.199,
+      "source": "asr",
+      "end": 421.36
+    },
+    {
+      "word": "ऑलवेज",
+      "start": 421.36,
+      "source": "asr",
+      "end": 421.759
+    },
+    {
+      "word": "रूम",
+      "start": 421.759,
+      "source": "asr",
+      "end": 421.919
+    },
+    {
+      "word": "फॉर",
+      "start": 421.919,
+      "source": "asr",
+      "end": 422.16
+    },
+    {
+      "word": "स्माइल्स।",
+      "start": 422.16,
+      "source": "asr",
+      "end": 423.039
+    },
+    {
+      "word": "राहत",
+      "start": 423.039,
+      "source": "asr",
+      "end": 423.44
+    },
+    {
+      "word": "इंदौरी",
+      "start": 423.44,
+      "source": "asr",
+      "end": 423.919
+    },
+    {
+      "word": "साहब",
+      "start": 423.919,
+      "source": "asr",
+      "end": 424.08
+    },
+    {
+      "word": "की",
+      "start": 424.08,
+      "source": "asr",
+      "end": 424.24
+    },
+    {
+      "word": "एक",
+      "start": 424.24,
+      "source": "asr",
+      "end": 424.479
+    },
+    {
+      "word": "यह",
+      "start": 424.479,
+      "source": "asr",
+      "end": 425.039
+    },
+    {
+      "word": "गज़ल",
+      "start": 425.039,
+      "source": "asr",
+      "end": 425.44
+    },
+    {
+      "word": "है",
+      "start": 425.44,
+      "source": "asr",
+      "end": 425.599
+    },
+    {
+      "word": "बहुत",
+      "start": 425.599,
+      "source": "asr",
+      "end": 425.84
+    },
+    {
+      "word": "सुंदर।",
+      "start": 425.84,
+      "source": "asr",
+      "end": 426.16
+    },
+    {
+      "word": "वो",
+      "start": 426.16,
+      "source": "asr",
+      "end": 426.88
+    },
+    {
+      "word": "जब",
+      "start": 426.88,
+      "source": "asr",
+      "end": 427.28
+    },
+    {
+      "word": "आप",
+      "start": 427.28,
+      "source": "asr",
+      "end": 427.52
+    },
+    {
+      "word": "जब",
+      "start": 427.52,
+      "source": "asr",
+      "end": 427.759
+    },
+    {
+      "word": "आप",
+      "start": 427.759,
+      "source": "asr",
+      "end": 427.919
+    },
+    {
+      "word": "अपने",
+      "start": 427.919,
+      "source": "asr",
+      "end": 428.16
+    },
+    {
+      "word": "लोएस्ट",
+      "start": 428.16,
+      "source": "asr",
+      "end": 428.56
+    },
+    {
+      "word": "पे",
+      "start": 428.56,
+      "source": "asr",
+      "end": 428.72
+    },
+    {
+      "word": "होते",
+      "start": 428.72,
+      "source": "asr",
+      "end": 428.8
+    },
+    {
+      "word": "हो",
+      "start": 428.8,
+      "source": "asr",
+      "end": 428.88
+    },
+    {
+      "word": "ना,",
+      "start": 428.88,
+      "source": "asr",
+      "end": 429.039
+    },
+    {
+      "word": "तो",
+      "start": 429.039,
+      "source": "asr",
+      "end": 429.12
+    },
+    {
+      "word": "आपको",
+      "start": 429.12,
+      "source": "asr",
+      "end": 429.28
+    },
+    {
+      "word": "असलियत",
+      "start": 429.28,
+      "source": "asr",
+      "end": 429.759
+    },
+    {
+      "word": "पता",
+      "start": 429.759,
+      "source": "asr",
+      "end": 429.919
+    },
+    {
+      "word": "लगती",
+      "start": 429.919,
+      "source": "asr",
+      "end": 430.16
+    },
+    {
+      "word": "है",
+      "start": 430.16,
+      "source": "asr",
+      "end": 430.319
+    },
+    {
+      "word": "कि",
+      "start": 430.319,
+      "source": "asr",
+      "end": 430.479
+    },
+    {
+      "word": "कौन",
+      "start": 430.479,
+      "source": "asr",
+      "end": 430.72
+    },
+    {
+      "word": "तुम्हारा",
+      "start": 430.72,
+      "source": "asr",
+      "end": 431.52
+    },
+    {
+      "word": "सच्चा",
+      "start": 431.52,
+      "source": "asr",
+      "end": 431.919
+    },
+    {
+      "word": "दोस्त",
+      "start": 431.919,
+      "source": "asr",
+      "end": 432.319
+    },
+    {
+      "word": "है।",
+      "start": 432.319,
+      "source": "asr",
+      "end": 432.56
+    },
+    {
+      "word": "मुझे",
+      "start": 432.56,
+      "source": "asr",
+      "end": 432.8
+    },
+    {
+      "word": "ऐसा",
+      "start": 432.8,
+      "source": "asr",
+      "end": 432.96
+    },
+    {
+      "word": "लगता",
+      "start": 432.96,
+      "source": "asr",
+      "end": 433.12
+    },
+    {
+      "word": "है",
+      "start": 433.12,
+      "source": "asr",
+      "end": 433.28
+    },
+    {
+      "word": "उन्होंने",
+      "start": 433.28,
+      "source": "asr",
+      "end": 433.599
+    },
+    {
+      "word": "इसी",
+      "start": 433.599,
+      "source": "asr",
+      "end": 433.84
+    },
+    {
+      "word": "इसी",
+      "start": 433.84,
+      "source": "asr",
+      "end": 434.16
+    },
+    {
+      "word": "भावना",
+      "start": 434.16,
+      "source": "asr",
+      "end": 434.479
+    },
+    {
+      "word": "पे",
+      "start": 434.479,
+      "source": "asr",
+      "end": 434.639
+    },
+    {
+      "word": "कहीं",
+      "start": 434.639,
+      "source": "asr",
+      "end": 434.88
+    },
+    {
+      "word": "लिखा",
+      "start": 434.88,
+      "source": "asr",
+      "end": 435.12
+    },
+    {
+      "word": "था",
+      "start": 435.12,
+      "source": "asr",
+      "end": 435.28
+    },
+    {
+      "word": "कि",
+      "start": 435.28,
+      "source": "asr",
+      "end": 436.08
+    },
+    {
+      "word": "मेरे",
+      "start": 436.08,
+      "source": "asr",
+      "end": 436.4
+    },
+    {
+      "word": "अपने",
+      "start": 436.4,
+      "source": "asr",
+      "end": 436.72
+    },
+    {
+      "word": "मुझे",
+      "start": 436.72,
+      "source": "asr",
+      "end": 436.96
+    },
+    {
+      "word": "मिट्टी",
+      "start": 436.96,
+      "source": "asr",
+      "end": 437.28
+    },
+    {
+      "word": "में",
+      "start": 437.28,
+      "source": "asr",
+      "end": 437.44
+    },
+    {
+      "word": "मिलाने",
+      "start": 437.44,
+      "source": "asr",
+      "end": 437.84
+    },
+    {
+      "word": "आए।",
+      "start": 437.84,
+      "source": "asr",
+      "end": 438.24
+    },
+    {
+      "word": "आ",
+      "start": 438.24,
+      "source": "asr",
+      "end": 438.96
+    },
+    {
+      "word": "मेरे",
+      "start": 438.96,
+      "source": "asr",
+      "end": 439.28
+    },
+    {
+      "word": "अपने",
+      "start": 439.28,
+      "source": "asr",
+      "end": 439.68
+    },
+    {
+      "word": "मुझे",
+      "start": 439.68,
+      "source": "asr",
+      "end": 440.0
+    },
+    {
+      "word": "मिट्टी",
+      "start": 440.0,
+      "source": "asr",
+      "end": 440.4
+    },
+    {
+      "word": "में",
+      "start": 440.4,
+      "source": "asr",
+      "end": 440.56
+    },
+    {
+      "word": "मिलाने",
+      "start": 440.56,
+      "source": "asr",
+      "end": 441.039
+    },
+    {
+      "word": "आए।",
+      "start": 441.039,
+      "source": "asr",
+      "end": 441.44
+    },
+    {
+      "word": "अब",
+      "start": 441.44,
+      "source": "asr",
+      "end": 441.68
+    },
+    {
+      "word": "जाकर",
+      "start": 441.68,
+      "source": "asr",
+      "end": 442.08
+    },
+    {
+      "word": "कहीं",
+      "start": 442.08,
+      "source": "asr",
+      "end": 442.4
+    },
+    {
+      "word": "मेरे",
+      "start": 442.4,
+      "source": "asr",
+      "end": 442.56
+    },
+    {
+      "word": "होश",
+      "start": 442.56,
+      "source": "asr",
+      "end": 442.88
+    },
+    {
+      "word": "दिखाने",
+      "start": 442.88,
+      "source": "asr",
+      "end": 443.36
+    },
+    {
+      "word": "आए।",
+      "start": 443.36,
+      "source": "asr",
+      "end": 444.319
+    },
+    {
+      "word": "कि",
+      "start": 444.319,
+      "source": "asr",
+      "end": 444.56
+    },
+    {
+      "word": "मेरे",
+      "start": 444.56,
+      "source": "asr",
+      "end": 444.8
+    },
+    {
+      "word": "अपने",
+      "start": 444.8,
+      "source": "asr",
+      "end": 445.12
+    },
+    {
+      "word": "मुझे",
+      "start": 445.12,
+      "source": "asr",
+      "end": 445.44
+    },
+    {
+      "word": "मिट्टी",
+      "start": 445.44,
+      "source": "asr",
+      "end": 445.84
+    },
+    {
+      "word": "में",
+      "start": 445.84,
+      "source": "asr",
+      "end": 446.0
+    },
+    {
+      "word": "मिलाने",
+      "start": 446.0,
+      "source": "asr",
+      "end": 446.4
+    },
+    {
+      "word": "आए।",
+      "start": 446.4,
+      "source": "asr",
+      "end": 446.8
+    },
+    {
+      "word": "अब",
+      "start": 446.8,
+      "source": "asr",
+      "end": 446.96
+    },
+    {
+      "word": "जाकर",
+      "start": 446.96,
+      "source": "asr",
+      "end": 447.36
+    },
+    {
+      "word": "कहीं",
+      "start": 447.36,
+      "source": "asr",
+      "end": 447.68
+    },
+    {
+      "word": "मेरे",
+      "start": 447.68,
+      "source": "asr",
+      "end": 447.84
+    },
+    {
+      "word": "होश",
+      "start": 447.84,
+      "source": "asr",
+      "end": 448.24
+    },
+    {
+      "word": "ठिकाने",
+      "start": 448.24,
+      "source": "asr",
+      "end": 448.639
+    },
+    {
+      "word": "आए।",
+      "start": 448.639,
+      "source": "asr",
+      "end": 449.28
+    },
+    {
+      "word": "तूने",
+      "start": 449.28,
+      "source": "asr",
+      "end": 449.599
+    },
+    {
+      "word": "बालों",
+      "start": 449.599,
+      "source": "asr",
+      "end": 450.0
+    },
+    {
+      "word": "में",
+      "start": 450.0,
+      "source": "asr",
+      "end": 450.16
+    },
+    {
+      "word": "सजा",
+      "start": 450.16,
+      "source": "asr",
+      "end": 450.56
+    },
+    {
+      "word": "रखा",
+      "start": 450.56,
+      "source": "asr",
+      "end": 450.88
+    },
+    {
+      "word": "था",
+      "start": 450.88,
+      "source": "asr",
+      "end": 451.039
+    },
+    {
+      "word": "कागज",
+      "start": 451.039,
+      "source": "asr",
+      "end": 451.52
+    },
+    {
+      "word": "का",
+      "start": 451.52,
+      "source": "asr",
+      "end": 451.68
+    },
+    {
+      "word": "गुलाब।",
+      "start": 451.68,
+      "source": "asr",
+      "end": 452.24
+    },
+    {
+      "word": "आहा",
+      "start": 452.24,
+      "source": "asr",
+      "end": 452.72
+    },
+    {
+      "word": "कि",
+      "start": 452.72,
+      "source": "asr",
+      "end": 452.96
+    },
+    {
+      "word": "तूने",
+      "start": 452.96,
+      "source": "asr",
+      "end": 453.28
+    },
+    {
+      "word": "बालों",
+      "start": 453.28,
+      "source": "asr",
+      "end": 453.68
+    },
+    {
+      "word": "में",
+      "start": 453.68,
+      "source": "asr",
+      "end": 453.84
+    },
+    {
+      "word": "सजा",
+      "start": 453.84,
+      "source": "asr",
+      "end": 454.16
+    },
+    {
+      "word": "रखा",
+      "start": 454.16,
+      "source": "asr",
+      "end": 454.479
+    },
+    {
+      "word": "था",
+      "start": 454.479,
+      "source": "asr",
+      "end": 454.72
+    },
+    {
+      "word": "कागज",
+      "start": 454.72,
+      "source": "asr",
+      "end": 455.199
+    },
+    {
+      "word": "का",
+      "start": 455.199,
+      "source": "asr",
+      "end": 455.36
+    },
+    {
+      "word": "गुलाब।",
+      "start": 455.36,
+      "source": "asr",
+      "end": 455.759
+    },
+    {
+      "word": "मैं",
+      "start": 455.759,
+      "source": "asr",
+      "end": 455.919
+    },
+    {
+      "word": "समझा",
+      "start": 455.919,
+      "source": "asr",
+      "end": 456.24
+    },
+    {
+      "word": "कि",
+      "start": 456.24,
+      "source": "asr",
+      "end": 456.479
+    },
+    {
+      "word": "बहारों",
+      "start": 456.479,
+      "source": "asr",
+      "end": 457.039
+    },
+    {
+      "word": "के",
+      "start": 457.039,
+      "source": "asr",
+      "end": 457.199
+    },
+    {
+      "word": "जमाने",
+      "start": 457.199,
+      "source": "asr",
+      "end": 457.68
+    },
+    {
+      "word": "आए।",
+      "start": 457.68,
+      "source": "asr",
+      "end": 458.639
+    },
+    {
+      "word": "और",
+      "start": 458.639,
+      "source": "asr",
+      "end": 458.88
+    },
+    {
+      "word": "दोस्त",
+      "start": 458.88,
+      "source": "asr",
+      "end": 459.36
+    },
+    {
+      "word": "होकर",
+      "start": 459.36,
+      "source": "asr",
+      "end": 459.759
+    },
+    {
+      "word": "भी",
+      "start": 459.759,
+      "source": "asr",
+      "end": 460.0
+    },
+    {
+      "word": "महीनों",
+      "start": 460.0,
+      "source": "asr",
+      "end": 460.56
+    },
+    {
+      "word": "नहीं",
+      "start": 460.56,
+      "source": "asr",
+      "end": 460.8
+    },
+    {
+      "word": "मिलता",
+      "start": 460.8,
+      "source": "asr",
+      "end": 461.199
+    },
+    {
+      "word": "मुझसे।",
+      "start": 461.199,
+      "source": "asr",
+      "end": 462.0
+    },
+    {
+      "word": "और",
+      "start": 462.0,
+      "source": "asr",
+      "end": 462.24
+    },
+    {
+      "word": "दोस्त",
+      "start": 462.24,
+      "source": "asr",
+      "end": 462.72
+    },
+    {
+      "word": "होकर",
+      "start": 462.72,
+      "source": "asr",
+      "end": 463.12
+    },
+    {
+      "word": "भी",
+      "start": 463.12,
+      "source": "asr",
+      "end": 463.36
+    },
+    {
+      "word": "महीनों",
+      "start": 463.36,
+      "source": "asr",
+      "end": 463.919
+    },
+    {
+      "word": "नहीं",
+      "start": 463.919,
+      "source": "asr",
+      "end": 464.24
+    },
+    {
+      "word": "मिलता",
+      "start": 464.24,
+      "source": "asr",
+      "end": 464.639
+    },
+    {
+      "word": "मुझसे।",
+      "start": 464.639,
+      "source": "asr",
+      "end": 465.12
+    },
+    {
+      "word": "उसे",
+      "start": 465.12,
+      "source": "asr",
+      "end": 465.36
+    },
+    {
+      "word": "कहो",
+      "start": 465.36,
+      "source": "asr",
+      "end": 465.759
+    },
+    {
+      "word": "किसी",
+      "start": 465.759,
+      "source": "asr",
+      "end": 466.0
+    },
+    {
+      "word": "दिन",
+      "start": 466.0,
+      "source": "asr",
+      "end": 466.24
+    },
+    {
+      "word": "जख्म",
+      "start": 466.24,
+      "source": "asr",
+      "end": 466.72
+    },
+    {
+      "word": "लगाने",
+      "start": 466.72,
+      "source": "asr",
+      "end": 467.12
+    },
+    {
+      "word": "आए।",
+      "start": 467.12,
+      "source": "asr",
+      "end": 468.08
+    },
+    {
+      "word": "कि",
+      "start": 468.08,
+      "source": "asr",
+      "end": 468.319
+    },
+    {
+      "word": "फुर्सतें",
+      "start": 468.319,
+      "source": "asr",
+      "end": 469.039
+    },
+    {
+      "word": "चाट",
+      "start": 469.039,
+      "source": "asr",
+      "end": 469.44
+    },
+    {
+      "word": "रही",
+      "start": 469.44,
+      "source": "asr",
+      "end": 469.68
+    },
+    {
+      "word": "है",
+      "start": 469.68,
+      "source": "asr",
+      "end": 469.84
+    },
+    {
+      "word": "मेरी",
+      "start": 469.84,
+      "source": "asr",
+      "end": 470.08
+    },
+    {
+      "word": "हस्ती",
+      "start": 470.08,
+      "source": "asr",
+      "end": 470.4
+    },
+    {
+      "word": "का",
+      "start": 470.4,
+      "source": "asr",
+      "end": 470.56
+    },
+    {
+      "word": "लहू।",
+      "start": 470.56,
+      "source": "asr",
+      "end": 471.44
+    },
+    {
+      "word": "कि",
+      "start": 471.44,
+      "source": "asr",
+      "end": 471.68
+    },
+    {
+      "word": "फुर्सतें",
+      "start": 471.68,
+      "source": "asr",
+      "end": 472.319
+    },
+    {
+      "word": "चाट",
+      "start": 472.319,
+      "source": "asr",
+      "end": 472.8
+    },
+    {
+      "word": "रही",
+      "start": 472.8,
+      "source": "asr",
+      "end": 472.96
+    },
+    {
+      "word": "है",
+      "start": 472.96,
+      "source": "asr",
+      "end": 473.12
+    },
+    {
+      "word": "मेरी",
+      "start": 473.12,
+      "source": "asr",
+      "end": 473.36
+    },
+    {
+      "word": "हस्ती",
+      "start": 473.36,
+      "source": "asr",
+      "end": 473.759
+    },
+    {
+      "word": "का",
+      "start": 473.759,
+      "source": "asr",
+      "end": 473.919
+    },
+    {
+      "word": "लहू।",
+      "start": 473.919,
+      "source": "asr",
+      "end": 474.479
+    },
+    {
+      "word": "मुंतज़िर",
+      "start": 474.479,
+      "source": "asr",
+      "end": 474.96
+    },
+    {
+      "word": "हूं",
+      "start": 474.96,
+      "source": "asr",
+      "end": 475.199
+    },
+    {
+      "word": "कि",
+      "start": 475.199,
+      "source": "asr",
+      "end": 475.36
+    },
+    {
+      "word": "कोई",
+      "start": 475.36,
+      "source": "asr",
+      "end": 475.599
+    },
+    {
+      "word": "मुझे",
+      "start": 475.599,
+      "source": "asr",
+      "end": 476.0
+    },
+    {
+      "word": "बुलाने",
+      "start": 476.0,
+      "source": "asr",
+      "end": 476.56
+    },
+    {
+      "word": "आए।",
+      "start": 476.56,
+      "source": "asr",
+      "end": 477.76
+    },
+    {
+      "word": "कोई",
+      "start": 478.16,
+      "source": "asr",
+      "end": 478.4
+    },
+    {
+      "word": "मुझे",
+      "start": 478.4,
+      "source": "asr",
+      "end": 478.639
+    },
+    {
+      "word": "बुलाने",
+      "start": 478.639,
+      "source": "asr",
+      "end": 479.839
+    },
+    {
+      "word": "आए।",
+      "start": 480.68,
+      "source": "asr",
+      "end": 481.68
+    },
+    {
+      "word": "बालों",
+      "start": 481.68,
+      "source": "asr",
+      "end": 482.08
+    },
+    {
+      "word": "की",
+      "start": 482.08,
+      "source": "asr",
+      "end": 482.24
+    },
+    {
+      "word": "बात",
+      "start": 482.24,
+      "source": "asr",
+      "end": 482.4
+    },
+    {
+      "word": "करी",
+      "start": 482.4,
+      "source": "asr",
+      "end": 482.639
+    },
+    {
+      "word": "ना",
+      "start": 482.639,
+      "source": "asr",
+      "end": 482.8
+    },
+    {
+      "word": "इन्होंने",
+      "start": 482.8,
+      "source": "asr",
+      "end": 483.12
+    },
+    {
+      "word": "याद",
+      "start": 483.12,
+      "source": "asr",
+      "end": 483.36
+    },
+    {
+      "word": "आ",
+      "start": 483.36,
+      "source": "asr",
+      "end": 483.44
+    },
+    {
+      "word": "गया।",
+      "start": 483.44,
+      "source": "asr",
+      "end": 484.08
+    },
+    {
+      "word": "वो",
+      "start": 484.08,
+      "source": "asr",
+      "end": 484.319
+    },
+    {
+      "word": "एक",
+      "start": 484.319,
+      "source": "asr",
+      "end": 484.479
+    },
+    {
+      "word": "शेर",
+      "start": 484.479,
+      "source": "asr",
+      "end": 484.8
+    },
+    {
+      "word": "है",
+      "start": 484.8,
+      "source": "asr",
+      "end": 484.879
+    },
+    {
+      "word": "ना",
+      "start": 484.879,
+      "source": "asr",
+      "end": 485.039
+    },
+    {
+      "word": "कि",
+      "start": 485.039,
+      "source": "asr",
+      "end": 485.319
+    },
+    {
+      "word": "उधर",
+      "start": 485.319,
+      "source": "asr",
+      "end": 486.319
+    },
+    {
+      "word": "जुल्फों",
+      "start": 486.319,
+      "source": "asr",
+      "end": 486.96
+    },
+    {
+      "word": "में",
+      "start": 486.96,
+      "source": "asr",
+      "end": 487.12
+    },
+    {
+      "word": "कंघी",
+      "start": 487.12,
+      "source": "asr",
+      "end": 487.599
+    },
+    {
+      "word": "हो",
+      "start": 487.599,
+      "source": "asr",
+      "end": 487.759
+    },
+    {
+      "word": "रही",
+      "start": 487.759,
+      "source": "asr",
+      "end": 488.0
+    },
+    {
+      "word": "है।",
+      "start": 488.0,
+      "source": "asr",
+      "end": 488.72
+    },
+    {
+      "word": "कि",
+      "start": 488.72,
+      "source": "asr",
+      "end": 488.96
+    },
+    {
+      "word": "उधर",
+      "start": 488.96,
+      "source": "asr",
+      "end": 489.28
+    },
+    {
+      "word": "जुल्फों",
+      "start": 489.28,
+      "source": "asr",
+      "end": 489.84
+    },
+    {
+      "word": "में",
+      "start": 489.84,
+      "source": "asr",
+      "end": 489.919
+    },
+    {
+      "word": "कंघी",
+      "start": 489.919,
+      "source": "asr",
+      "end": 490.4
+    },
+    {
+      "word": "हो",
+      "start": 490.4,
+      "source": "asr",
+      "end": 490.639
+    },
+    {
+      "word": "रही",
+      "start": 490.639,
+      "source": "asr",
+      "end": 490.879
+    },
+    {
+      "word": "है।",
+      "start": 490.879,
+      "source": "asr",
+      "end": 491.199
+    },
+    {
+      "word": "खम",
+      "start": 491.199,
+      "source": "asr",
+      "end": 491.599
+    },
+    {
+      "word": "निकलता",
+      "start": 491.599,
+      "source": "asr",
+      "end": 492.08
+    },
+    {
+      "word": "है।",
+      "start": 492.08,
+      "source": "asr",
+      "end": 492.4
+    },
+    {
+      "word": "इधर",
+      "start": 492.4,
+      "source": "asr",
+      "end": 492.8
+    },
+    {
+      "word": "रुक-रुक",
+      "start": 492.8,
+      "source": "asr",
+      "end": 493.28
+    },
+    {
+      "word": "के",
+      "start": 493.28,
+      "source": "asr",
+      "end": 493.44
+    },
+    {
+      "word": "खींच",
+      "start": 493.44,
+      "source": "asr",
+      "end": 493.759
+    },
+    {
+      "word": "खींच",
+      "start": 493.759,
+      "source": "asr",
+      "end": 494.0
+    },
+    {
+      "word": "के",
+      "start": 494.0,
+      "source": "asr",
+      "end": 494.24
+    },
+    {
+      "word": "हमारा",
+      "start": 494.24,
+      "source": "asr",
+      "end": 494.56
+    },
+    {
+      "word": "दम",
+      "start": 494.56,
+      "source": "asr",
+      "end": 494.96
+    },
+    {
+      "word": "निकलता",
+      "start": 494.96,
+      "source": "asr",
+      "end": 495.44
+    },
+    {
+      "word": "है।",
+      "start": 495.44,
+      "source": "asr",
+      "end": 495.919
+    },
+    {
+      "word": "और",
+      "start": 495.919,
+      "source": "asr",
+      "end": 496.16
+    },
+    {
+      "word": "इलाही",
+      "start": 496.16,
+      "source": "asr",
+      "end": 496.72
+    },
+    {
+      "word": "खैर",
+      "start": 496.72,
+      "source": "asr",
+      "end": 497.12
+    },
+    {
+      "word": "हो",
+      "start": 497.12,
+      "source": "asr",
+      "end": 497.599
+    },
+    {
+      "word": "उलझन",
+      "start": 497.599,
+      "source": "asr",
+      "end": 498.08
+    },
+    {
+      "word": "पे",
+      "start": 498.08,
+      "source": "asr",
+      "end": 498.24
+    },
+    {
+      "word": "उलझन",
+      "start": 498.24,
+      "source": "asr",
+      "end": 498.639
+    },
+    {
+      "word": "बढ़ती",
+      "start": 498.639,
+      "source": "asr",
+      "end": 499.039
+    },
+    {
+      "word": "जाती",
+      "start": 499.039,
+      "source": "asr",
+      "end": 499.4
+    },
+    {
+      "word": "है।",
+      "start": 499.4,
+      "source": "asr",
+      "end": 500.4
+    },
+    {
+      "word": "ना",
+      "start": 500.4,
+      "source": "asr",
+      "end": 500.72
+    },
+    {
+      "word": "उनका",
+      "start": 500.72,
+      "source": "asr",
+      "end": 501.12
+    },
+    {
+      "word": "गम",
+      "start": 501.12,
+      "source": "asr",
+      "end": 501.52
+    },
+    {
+      "word": "निकलता",
+      "start": 501.52,
+      "source": "asr",
+      "end": 502.0
+    },
+    {
+      "word": "है",
+      "start": 502.0,
+      "source": "asr",
+      "end": 502.24
+    },
+    {
+      "word": "ना",
+      "start": 502.24,
+      "source": "asr",
+      "end": 502.479
+    },
+    {
+      "word": "हमारा",
+      "start": 502.479,
+      "source": "asr",
+      "end": 502.8
+    },
+    {
+      "word": "दम",
+      "start": 502.8,
+      "source": "asr",
+      "end": 503.44
+    },
+    {
+      "word": "निकलता",
+      "start": 503.44,
+      "source": "asr",
+      "end": 503.919
+    },
+    {
+      "word": "है।",
+      "start": 503.919,
+      "source": "asr",
+      "end": 505.119
+    },
+    {
+      "word": "हां",
+      "start": 509.52,
+      "source": "asr",
+      "end": 509.84
+    },
+    {
+      "word": "और",
+      "start": 509.84,
+      "source": "asr",
+      "end": 510.0
+    },
+    {
+      "word": "जाने",
+      "start": 510.0,
+      "source": "asr",
+      "end": 510.319
+    },
+    {
+      "word": "से",
+      "start": 510.319,
+      "source": "asr",
+      "end": 510.479
+    },
+    {
+      "word": "पहले",
+      "start": 510.479,
+      "source": "asr",
+      "end": 510.72
+    },
+    {
+      "word": "तुम",
+      "start": 510.72,
+      "source": "asr",
+      "end": 510.879
+    },
+    {
+      "word": "सब",
+      "start": 510.879,
+      "source": "asr",
+      "end": 511.12
+    },
+    {
+      "word": "दिल",
+      "start": 511.12,
+      "source": "asr",
+      "end": 511.28
+    },
+    {
+      "word": "टूटे",
+      "start": 511.28,
+      "source": "asr",
+      "end": 511.599
+    },
+    {
+      "word": "आशिकों",
+      "start": 511.599,
+      "source": "asr",
+      "end": 512.0
+    },
+    {
+      "word": "को",
+      "start": 512.0,
+      "source": "asr",
+      "end": 512.24
+    },
+    {
+      "word": "यही",
+      "start": 512.24,
+      "source": "asr",
+      "end": 512.32
+    },
+    {
+      "word": "कह",
+      "start": 512.32,
+      "source": "asr",
+      "end": 512.399
+    },
+    {
+      "word": "के",
+      "start": 512.399,
+      "source": "asr",
+      "end": 512.64
+    },
+    {
+      "word": "जाऊंगी",
+      "start": 512.64,
+      "source": "asr",
+      "end": 512.959
+    },
+    {
+      "word": "कि",
+      "start": 512.959,
+      "source": "asr",
+      "end": 513.279
+    },
+    {
+      "word": "नेवर",
+      "start": 513.279,
+      "source": "asr",
+      "end": 513.76
+    },
+    {
+      "word": "नेवर",
+      "start": 513.76,
+      "source": "asr",
+      "end": 514.08
+    },
+    {
+      "word": "गिव",
+      "start": 514.08,
+      "source": "asr",
+      "end": 514.399
+    },
+    {
+      "word": "योर",
+      "start": 514.399,
+      "source": "asr",
+      "end": 514.56
+    },
+    {
+      "word": "लव",
+      "start": 514.56,
+      "source": "asr",
+      "end": 514.8
+    },
+    {
+      "word": "अवे",
+      "start": 514.8,
+      "source": "asr",
+      "end": 515.519
+    },
+    {
+      "word": "उस",
+      "start": 515.519,
+      "source": "asr",
+      "end": 515.76
+    },
+    {
+      "word": "इंसान",
+      "start": 515.76,
+      "source": "asr",
+      "end": 516.159
+    },
+    {
+      "word": "के",
+      "start": 516.159,
+      "source": "asr",
+      "end": 516.32
+    },
+    {
+      "word": "साथ",
+      "start": 516.32,
+      "source": "asr",
+      "end": 516.479
+    },
+    {
+      "word": "छोड़",
+      "start": 516.479,
+      "source": "asr",
+      "end": 516.719
+    },
+    {
+      "word": "नहीं",
+      "start": 516.719,
+      "source": "asr",
+      "end": 516.8
+    },
+    {
+      "word": "देना",
+      "start": 516.8,
+      "source": "asr",
+      "end": 517.039
+    },
+    {
+      "word": "है",
+      "start": 517.039,
+      "source": "asr",
+      "end": 517.12
+    },
+    {
+      "word": "जो",
+      "start": 517.12,
+      "source": "asr",
+      "end": 517.279
+    },
+    {
+      "word": "इंसान",
+      "start": 517.279,
+      "source": "asr",
+      "end": 517.599
+    },
+    {
+      "word": "जा",
+      "start": 517.599,
+      "source": "asr",
+      "end": 517.76
+    },
+    {
+      "word": "रहा",
+      "start": 517.76,
+      "source": "asr",
+      "end": 517.839
+    },
+    {
+      "word": "है",
+      "start": 517.839,
+      "source": "asr",
+      "end": 518.0
+    },
+    {
+      "word": "तुम्हारे",
+      "start": 518.0,
+      "source": "asr",
+      "end": 518.24
+    },
+    {
+      "word": "जीवन",
+      "start": 518.24,
+      "source": "asr",
+      "end": 518.479
+    },
+    {
+      "word": "से",
+      "start": 518.479,
+      "source": "asr",
+      "end": 518.719
+    },
+    {
+      "word": "उसे",
+      "start": 518.719,
+      "source": "asr",
+      "end": 518.959
+    },
+    {
+      "word": "वापस",
+      "start": 518.959,
+      "source": "asr",
+      "end": 519.2
+    },
+    {
+      "word": "एक",
+      "start": 519.2,
+      "source": "asr",
+      "end": 519.44
+    },
+    {
+      "word": "ही",
+      "start": 519.44,
+      "source": "asr",
+      "end": 519.599
+    },
+    {
+      "word": "चीज",
+      "start": 519.599,
+      "source": "asr",
+      "end": 519.839
+    },
+    {
+      "word": "लेनी",
+      "start": 519.839,
+      "source": "asr",
+      "end": 520.0
+    },
+    {
+      "word": "होती",
+      "start": 520.0,
+      "source": "asr",
+      "end": 520.24
+    },
+    {
+      "word": "है",
+      "start": 520.24,
+      "source": "asr",
+      "end": 520.399
+    },
+    {
+      "word": "झगड़े",
+      "start": 520.399,
+      "source": "asr",
+      "end": 520.64
+    },
+    {
+      "word": "वगड़े",
+      "start": 520.64,
+      "source": "asr",
+      "end": 520.88
+    },
+    {
+      "word": "नहीं",
+      "start": 520.88,
+      "source": "asr",
+      "end": 521.039
+    },
+    {
+      "word": "उससे",
+      "start": 521.039,
+      "source": "asr",
+      "end": 521.2
+    },
+    {
+      "word": "वो",
+      "start": 521.2,
+      "source": "asr",
+      "end": 521.36
+    },
+    {
+      "word": "प्रेम",
+      "start": 521.36,
+      "source": "asr",
+      "end": 521.599
+    },
+    {
+      "word": "वापस",
+      "start": 521.599,
+      "source": "asr",
+      "end": 521.919
+    },
+    {
+      "word": "लेना",
+      "start": 521.919,
+      "source": "asr",
+      "end": 522.08
+    },
+    {
+      "word": "होता",
+      "start": 522.08,
+      "source": "asr",
+      "end": 522.159
+    },
+    {
+      "word": "है",
+      "start": 522.159,
+      "source": "asr",
+      "end": 522.32
+    },
+    {
+      "word": "खुद",
+      "start": 522.32,
+      "source": "asr",
+      "end": 522.479
+    },
+    {
+      "word": "के",
+      "start": 522.479,
+      "source": "asr",
+      "end": 522.64
+    },
+    {
+      "word": "लिए",
+      "start": 522.64,
+      "source": "asr",
+      "end": 522.719
+    },
+    {
+      "word": "जो",
+      "start": 522.719,
+      "source": "asr",
+      "end": 522.88
+    },
+    {
+      "word": "तुमने",
+      "start": 522.88,
+      "source": "asr",
+      "end": 523.12
+    },
+    {
+      "word": "उसको",
+      "start": 523.12,
+      "source": "asr",
+      "end": 523.36
+    },
+    {
+      "word": "दिया",
+      "start": 523.36,
+      "source": "asr",
+      "end": 523.519
+    },
+    {
+      "word": "था।",
+      "start": 523.519,
+      "source": "asr",
+      "end": 523.76
+    },
+    {
+      "word": "इन्वेस्टमेंट",
+      "start": 523.76,
+      "source": "asr",
+      "end": 524.399
+    },
+    {
+      "word": "हैज़",
+      "start": 524.399,
+      "source": "asr",
+      "end": 524.72
+    },
+    {
+      "word": "टू",
+      "start": 524.72,
+      "source": "asr",
+      "end": 524.8
+    },
+    {
+      "word": "बी",
+      "start": 524.8,
+      "source": "asr",
+      "end": 525.04
+    },
+    {
+      "word": "टेकन",
+      "start": 525.04,
+      "source": "asr",
+      "end": 525.279
+    },
+    {
+      "word": "बैक",
+      "start": 525.279,
+      "source": "asr",
+      "end": 526.08
+    },
+    {
+      "word": "ताकि",
+      "start": 526.08,
+      "source": "asr",
+      "end": 526.48
+    },
+    {
+      "word": "तुम",
+      "start": 526.48,
+      "source": "asr",
+      "end": 526.72
+    },
+    {
+      "word": "भी",
+      "start": 526.72,
+      "source": "asr",
+      "end": 526.88
+    },
+    {
+      "word": "ये",
+      "start": 526.88,
+      "source": "asr",
+      "end": 527.04
+    },
+    {
+      "word": "कह",
+      "start": 527.04,
+      "source": "asr",
+      "end": 527.2
+    },
+    {
+      "word": "सको",
+      "start": 527.2,
+      "source": "asr",
+      "end": 527.44
+    },
+    {
+      "word": "कि",
+      "start": 527.44,
+      "source": "asr",
+      "end": 527.6
+    },
+    {
+      "word": "गिला",
+      "start": 527.6,
+      "source": "asr",
+      "end": 527.92
+    },
+    {
+      "word": "नहीं",
+      "start": 527.92,
+      "source": "asr",
+      "end": 528.56
+    },
+    {
+      "word": "इरशाद",
+      "start": 528.56,
+      "source": "asr",
+      "end": 529.12
+    },
+    {
+      "word": "इरशाद",
+      "start": 529.12,
+      "source": "asr",
+      "end": 529.44
+    },
+    {
+      "word": "इरशाद",
+      "start": 529.44,
+      "source": "asr",
+      "end": 529.839
+    },
+    {
+      "word": "इरशाद",
+      "start": 529.839,
+      "source": "asr",
+      "end": 530.8
+    },
+    {
+      "word": "के",
+      "start": 530.8,
+      "source": "asr",
+      "end": 531.04
+    },
+    {
+      "word": "गिला",
+      "start": 531.04,
+      "source": "asr",
+      "end": 531.36
+    },
+    {
+      "word": "नहीं",
+      "start": 531.36,
+      "source": "asr",
+      "end": 531.6
+    },
+    {
+      "word": "अगर",
+      "start": 531.6,
+      "source": "asr",
+      "end": 531.92
+    },
+    {
+      "word": "पीठ",
+      "start": 531.92,
+      "source": "asr",
+      "end": 532.16
+    },
+    {
+      "word": "में",
+      "start": 532.16,
+      "source": "asr",
+      "end": 532.32
+    },
+    {
+      "word": "खंजर",
+      "start": 532.32,
+      "source": "asr",
+      "end": 532.8
+    },
+    {
+      "word": "लगे",
+      "start": 532.8,
+      "source": "asr",
+      "end": 533.2
+    },
+    {
+      "word": "लाखों",
+      "start": 533.2,
+      "source": "asr",
+      "end": 533.519
+    },
+    {
+      "word": "मेरे",
+      "start": 533.519,
+      "source": "asr",
+      "end": 533.76
+    },
+    {
+      "word": "इस",
+      "start": 533.76,
+      "source": "asr",
+      "end": 533.92
+    },
+    {
+      "word": "खौफ",
+      "start": 533.92,
+      "source": "asr",
+      "end": 534.32
+    },
+    {
+      "word": "से",
+      "start": 534.32,
+      "source": "asr",
+      "end": 534.48
+    },
+    {
+      "word": "मैं",
+      "start": 534.48,
+      "source": "asr",
+      "end": 534.64
+    },
+    {
+      "word": "अपनी",
+      "start": 534.64,
+      "source": "asr",
+      "end": 534.88
+    },
+    {
+      "word": "मोहब्बत",
+      "start": 534.88,
+      "source": "asr",
+      "end": 535.279
+    },
+    {
+      "word": "का",
+      "start": 535.279,
+      "source": "asr",
+      "end": 535.44
+    },
+    {
+      "word": "सौदा",
+      "start": 535.44,
+      "source": "asr",
+      "end": 535.92
+    },
+    {
+      "word": "नहीं",
+      "start": 535.92,
+      "source": "asr",
+      "end": 536.24
+    },
+    {
+      "word": "करूंगी",
+      "start": 536.24,
+      "source": "asr",
+      "end": 536.8
+    },
+    {
+      "word": "थैंक",
+      "start": 536.8,
+      "source": "asr",
+      "end": 536.959
+    },
+    {
+      "word": "यू",
+      "start": 536.959,
+      "source": "asr",
+      "end": 537.6
+    },
+    {
+      "word": "गाइस",
+      "start": 537.6,
+      "source": "asr",
+      "end": 537.92
+    },
+    {
+      "word": "कैन",
+      "start": 537.92,
+      "source": "asr",
+      "end": 538.24
+    },
+    {
+      "word": "मी",
+      "start": 538.24,
+      "source": "asr",
+      "end": 538.8
+    },
+    {
+      "word": "प्लीज",
+      "start": 538.8,
+      "source": "asr",
+      "end": 539.279
+    },
+    {
+      "word": "कीप",
+      "start": 539.279,
+      "source": "asr",
+      "end": 539.44
+    },
+    {
+      "word": "इट",
+      "start": 539.44,
+      "source": "asr",
+      "end": 539.959
+    },
+    {
+      "word": "गोइंग",
+      "start": 539.959,
+      "source": "asr",
+      "end": 540.959
+    },
+    {
+      "word": "कौन",
+      "start": 540.959,
+      "source": "asr",
+      "end": 541.36
+    },
+    {
+      "word": "आया",
+      "start": 541.36,
+      "source": "asr",
+      "end": 541.68
+    },
+    {
+      "word": "मेरा",
+      "start": 541.68,
+      "source": "asr",
+      "end": 542.48
+    },
+    {
+      "word": "तालियां",
+      "start": 542.48,
+      "source": "asr",
+      "end": 542.88
+    },
+    {
+      "word": "रुकनी",
+      "start": 542.88,
+      "source": "asr",
+      "end": 543.2
+    },
+    {
+      "word": "नहीं",
+      "start": 543.2,
+      "source": "asr",
+      "end": 543.36
+    },
+    {
+      "word": "चाहिए",
+      "start": 543.36,
+      "source": "asr",
+      "end": 543.6
+    },
+    {
+      "word": "दोस्तों",
+      "start": 543.6,
+      "source": "asr",
+      "end": 544.8
+    },
+    {
+      "word": "[संगीत]",
+      "start": 546.17,
+      "source": "asr",
+      "kind": "tag",
+      "tag": "संगीत",
+      "end": 546.57
+    }
+  ]
+}

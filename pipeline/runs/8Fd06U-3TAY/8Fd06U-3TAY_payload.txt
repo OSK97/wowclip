@@ -1,0 +1,387 @@
+DURATION 1786s
+
+HOW TO READ
+  L0001 = line id. Refer to clips by id, never by time.
+  The number after the id = how many seconds that line takes to say. A passage's length is the sum of the numbers on its lines, plus any [pause] printed between them. This is the only thing in the document that measures length, and it is exact -- never estimate a duration any other way.
+  A row with a BLANK number column is not speech. It carries an id but no words, so a clip can never begin or end on one.
+  (fast)(slow) = measured pace, against this video's own normal.
+  [pause 2.1s] = measured silence.
+  [applause (youtube)] = YouTube's own captions marked a sound here; no duration given.
+  [COMMENT] = a viewer comment about THIS exact moment, on its own indented line. Rare and strong.
+  [COMMENT summary] = the same, but the comment was too long to quote, so this is a machine summary of it, not the viewer's own words. Weigh it as testimony, never quote it.
+  +N more viewers marked this moment = N other people commented on this same line. The number is the signal.
+  >> inside a line = YouTube's caption marker for the OTHER PERSON STARTING TO TALK. A speaker change, not a comment, not a word. Never copy it into start_words or end_words.
+  [REPLAYED] = YouTube's replay data peaks somewhere near this line. It marks a neighbourhood, not a word.
+  THE WORDS ARE THE TRUTH. If any tag contradicts them, ignore the tag.
+
+
+MOST-MARKED MOMENTS (line ids where viewer comments landed, busiest first)
+  L0092  29 viewer comments
+  L0105  4 viewer comments
+  L0154  3 viewer comments
+  L0030  2 viewer comments
+  L0061  2 viewer comments
+  L0090  2 viewer comments
+  L0091  2 viewer comments
+  L0101  2 viewer comments
+  L0120  2 viewer comments
+  L0157  2 viewer comments
+
+
+AUDIENCE (about the video overall, no fixed moment)
+  mood: Viewers deeply moved and grateful for the motivational impact during challenging times.
+
+  loudest comments, verbatim:
+  "Les brown.. you are a blessing from creator. WHO AGREES?" (1330 likes)
+  "Les Brown literally changed my thinking. I was on the verge of suicide growing up in a extremely toxic household. Thank you les Brown 🙏" (1207 likes)
+  "Who is watching in 2025?" (882 likes, 2 people wrote this)
+  "Who is at the lowest and still listening in 2024, let me tell you "you have greatness within you"" (842 likes)
+  "Some speeches just touch your soul no matter how many times you watch it." (786 likes)
+  "Who’s here in 26?!" (568 likes)
+  "Given the current volatility in the stock market, I believe investors should divert their attention to lesser-known stocks. With 35% of my $270k portfolio invested in stocks that have sharply declined from their previous" (571 likes)
+  ""It's necessary to be creative" I learned this when I was in college. At the time I couldn't qualify for a loan (was told that I had to be 25 or married to apply instead of my parents applying). I couldn't ask my parents" (416 likes)
+  "Shoot for the moon; cause even if you miss you will land amongst the stars! My all time favorite quote by this man!" (393 likes)
+  "“I’m not having a bad day. I’m having a character building day.” Love it 🥰 Thank you Les Brown for not letting anybody steal your dreams." (379 likes)
+  "Anyone still listening in 2024 - It’s not over until you win ❤" (349 likes)
+  "This is the best motivational speech of all times. Ever. Period. I've been watching this video about three times a week for almost five years. Les baby! We love you!" (287 likes)
+  "I love this man! He should have a statue!💣🔥💯" (261 likes)
+  "I am going to retire my parents by January 1, 2023." (219 likes)
+  "It's not over until I Win, it's not over until all my dreams manifest, it's not over until I Win.... From The Ghetto, From Struggling and everyone giving up on me, from being raised in a shack, It's not Over until I Win." (212 likes)
+  "When you hit the like button before watching the video...cuz u already know👍🏾" (202 likes)
+  "Sing with me Sing for the year Sing for the laughter Sing for the tearr..." (186 likes)
+  "Who is watching this in 2024?" (166 likes)
+  "He speaks straight to the heart <3" (153 likes)
+  "I am still listening to Les Brown 2020, since my partner introduced me to your speech in 2012.🙏🙏❤️" (148 likes)
+  "Les Brown thank you for everything. My grandmother took care of me when I was 21days old and she died when I was 8years old I've been homeless sence I was 13 and I've been thru a lot in the streets im 40 now and I starte" (142 likes)
+  "If you're watching this, it's just a matter of time before it turns around for you. I believe it for you." (143 likes)
+  "Listening to this in 2024 for the 5th time. I love this. 🔥" (121 likes)
+  "Who is listening in 2026" (115 likes, 2 people wrote this)
+  "Anyone still listening in 2025 - It’s not over until you win😀" (115 likes)
+  "Les Brown speeches always brought tears to my eyes..." (108 likes)
+  "Seriously I must confess I own les brown a lot he has changed my whole life completely my belief systems I just can’t stop listen to him everyday" (99 likes)
+  "80s 90s Self Help culture was something else. I miss that energy." (87 likes)
+  "Still listening in February of 2025!" (77 likes)
+  "“That dream that you’re holding in your mind, THAT’S POSSIBLE!❤️ “Someone’s opinion of you does not have to become your reality!❤️ Thank you so much Mr. Brown! God bless you!❤️" (70 likes)
+
+
+TRANSCRIPT
+L0001          [music (youtube)]
+L0002    5.4s  (fast) what i'd like for you to do right now i want you to think about your dream because i'm in a room full of
+L0003    9.5s  dreamers think about your dream right now what you think about it and envision it now ladies and gentlemen let me share something with you
+L0004          [pause 1.9s]
+L0005    2.0s  (slow) i do not believe
+L0006    2.3s  that any of us have dreams
+L0007    2.6s  that were not given to us
+L0008    8.2s  for the purpose of accomplishing those particular dreams and i want to share something with you that has changed my life
+L0009    4.3s  (slow) i started out as was indicated by jack
+       [COMMENT] "Anyone understands what he means when he says at the very beginning 0:47 " I started out as was indicated by Jack" ???? I keep releasening but I still don't get it (English is not my first language) A" (0 likes)
+L0010    2.0s  (slow) it's very humble beginnings
+L0011    6.6s  i don't know what that dream is that you have i don't care how far fetched it might appear to be
+L0012    8.2s  i don't care how disappointing it might have been as you've been working toward that dream but here's what i know
+L0013    5.0s  that that dream that you're holding in your mind that it's possible
+L0014    3.0s  let's say that together please it's possible
+L0015          [pause 1.4s]
+L0016    6.2s  (slow) see sometimes we can't say i can do that but what we can say
+L0017    9.0s  that it's possible that i can have my dream as we run toward it as we work on it day in and day out
+L0018    5.6s  no one ladies and gentlemen could have convinced me when i started out
+L0019    2.4s  (slow) just over six years ago
+L0020    6.2s  working on my dream and i want you to think about whatever your dream is because i was willing to take a
+L0021    6.5s  chance and most people won't do that most of the people that you talk to to try and bring them into the business
+L0022    8.7s  these are not risk takers most people have done all that they're ever going to do they raise a family they earn a living and then they die
+L0023   11.5s  but people who are running toward their dreams life has a special kind of meaning and here's what i will share with you that in the process of working on your dreams
+L0024    9.6s  you are going to incur incur a lot of disappointment a lot of failure a lot of pain a lot of setbacks
+L0025    1.6s  a lot of defeats
+L0026   13.1s  but in the process of doing that you will discover some things about yourself that you don't know right now what you will realize is that you have greatness within you what you'll realize
+L0027   11.7s  is that you're more powerful than you can ever begin to imagine what you will realize is that you're greater than your circumstances that you don't have to go through life being a victim
+L0028    8.7s  as jack indicated i was born in miami florida an area called liberty city in an abandoned building on a hard linoleum floor
+L0029    9.8s  with my twin brother we were six weeks of age we were adopted when i was in fifth grade i was identified as emr labeled educable mentally
+L0030    6.2s  put back from the fifth grade into the fourth grade and stayed in that category until i got out of high school
+       [COMMENT] "03:15 best Moment" (3 likes)
+       [COMMENT] "3:17" (0 likes)
+L0031    5.9s  (fast) i don't have any college training but i met a high school teacher who one day changed my life i was waiting on
+L0032    5.7s  (fast) another student and when he came in he said to me young man go to the board and write what i'm about to tell
+L0033    7.0s  you and i said i can't do that sir he said why not i said i'm not one of your students he said
+L0034    9.7s  it doesn't matter follow my directions now i said i can't do that sir he said why not i said because i'm educable mentally
+L0035    9.0s  and he came from behind his desk and he looked at me he said don't ever say that again someone's opinion of you does not have to become your
+       [COMMENT] "3:53 This hit me so hard.., Les Brown is ispiration!!" (14 likes)
+L0036          [pause 1.3s]
+L0037    1.2s  reality
+L0038          [long gap 12.4s]
+L0039    5.8s  and that man mr leroy washington did something for me he started planting seeds in my mind
+L0040    8.3s  that enabled me to begin to dream as dexter has been doing for you and ladies and gentlemen i started working on my dream and most people don't work
+       [COMMENT] "4:20 00" (0 likes)
+L0041    9.8s  on their dreams why for many years i didn't one is because of fear the fear of failure what if things don't work out and the fear of success what
+L0042    8.2s  (fast) if they do and i can't handle it the other thing is that most people ladies and gentlemen they get comfortable they stop growing they stop working on themselves they
+L0043   11.4s  stop stretching they stop pushing themselves and they end up becoming very cynical about life and they throw in the towel on themselves on their families and on their dreams
+L0044    8.7s  and the other thing is that most people don't feel worthy what i'm doing now i could have been doing years ago but because i did not
+L0045   11.4s  have a college education because i didn't believe in myself because i allowed other people's opinion of me to control my destiny i didn't act on my ideas
+L0046    2.1s  (slow) so i applaud you
+L0047    6.8s  for your dreaming for your running towards your dream i applaud you for believing in yourself
+L0048    4.5s  (slow) because that's what life is about stretching and challenging
+L0049    3.3s  looking for ways that you can begin to improve yourself
+L0050    2.6s  and ladies and gentlemen as a result
+L0051   11.6s  of stretching out of acting on my dream and i don't know what that dream is for you i can tell you that it's possible no one could have convinced me that after just over six years i will have
+L0052    7.2s  my own book entitled live your dreams just over six years i would have five specials on public television just
+L0053    9.3s  (slow) over six years i've done motivational speaking for a t procter gamble mcdonald's corporation xerox ibm just over six years
+L0054    8.2s  i will now have my own talk show that will premiere on monday labor day i'm saying to you your dream is possible
+L0055          [long gap 4.1s]
+L0056    2.2s  (slow) your dream is possible
+       [COMMENT] "6:21" (2 likes)
+L0057          [pause 1.8s]
+L0058    6.1s  but not only is it important that you believe and begin to know that it's possible for you to live your
+L0059    7.1s  dream as you run toward it but i've done something that i want to share with you called choosing your future
+L0060    5.7s  (fast) in fact i've developed a set of tapes talking about how to begin to create your own reality by choosing your
+L0061    8.4s  future and not only is it important for you to know it's possible for you to choose your future but it's necessary
+       [COMMENT] "6:43 wow" (1 likes)
+       [COMMENT] "6:45" (0 likes)
+L0062    9.4s  that you work on yourself that you develop yourself it's necessary that you get the energy drainers out of your life people who don't want
+L0063    1.2s  anything
+L0064          [pause 1.9s]
+L0065   10.2s  it's necessary to know that everybody won't see it that everybody won't join you that everybody won't have the vision it's necessary to know
+L0066    8.2s  that that a lot of people like to complain but they don't want to do anything about their situation that you are an uncommon breed
+L0067    2.9s  you know you have to know within yourself
+L0068    6.3s  that i can do this even if no one else sees it for me i must see it for myself that's necessary
+L0069    9.3s  it's also ladies and gentlemen necessary that you be creative when you're working on your ideas that you understand the importance of changing
+L0070    8.2s  up of readjusting your strategies many times we can have a great idea but if you're not advancing it in the right way and
+L0071    7.8s  things don't happen you become discouraged and think the idea doesn't work no that's not true it's necessary that we become creative i remember
+L0072    5.8s  (fast) when i was in new york walking down the street and a guy approached me and said hey mister can i shine your shoes
+L0073    4.9s  (fast) and i said no i'm in a hurry i don't have time i kept walking someone else said hey man your shoes look clutty
+L0074    5.6s  (fast) my shiny shoes i said no i don't have time i'm sorry i'm busy and i was walking fast and many people solicited me
+L0075    6.8s  for my business and then finally a young man stepped in front of me and he's excuse me and he started counting 97 98
+L0076    6.6s  (fast) 99 100 he said sir i said yes he said come here please i said what is it he said today is my birthday
+L0077   10.2s  and every year just to thank god for another year of life the 100th person who passes my shoeshine stand i offer them a free shoe shine would you give me the honors
+L0078   10.0s  i said why sure i got up on the shoeshine stan george and i sat there and he shined my shoes diligently and when i got down i looked at them they were sparkling
+L0079    8.2s  (fast) and i was walking away and i said thank you and i stopped i said excuse me but how much do you usually charge he said only two dollars i said tell you what
+L0080   13.7s  today's your birthday here's five keep the change he said thank you as i was walking away looking in the opposite direction and other people coming he started counting again 97 98 99 100.
+L0081          [long gap 6.8s]
+L0082    3.0s  (slow) it's necessary that you be flexible
+L0083    7.9s  that you are always thinking of how can i improve this better this is a customer driven economy it's necessary for you to
+L0084    8.3s  always explore various ways in which you can improve the quality of service that you're providing for the people in your organization i
+L0085    6.9s  remember something a major company had talked about the extra value service they were providing for their customers and the lady who had
+L0086   10.4s  the news conference summarized it this way she said it's not our intention to satisfy our customers or to please our customers our intention
+L0087    9.8s  is to amaze them it's necessary if you're going to compete today that you look for ways to amaze your customers by being
+L0088    7.0s  one of those individuals that keep your commitments they keep your word that's relentless it's necessary as you work with the people that
+L0089    7.0s  you bring into all your organization that they see that you're a good example of a person to work with because you model
+L0090    9.9s  integrity and determination and ambition and truth and honesty and the way in which you conduct business the next step is that is you
+       [COMMENT] "10:27 don't mind me I'm gonna memorize this as my speech for a school present 😭" (0 likes)
+       [COMMENT] "10:27 - 12:40" (0 likes)
+L0091   11.8s  that is you that no one can do it for you but you and even though you face disappointments even though you will experience some setbacks it goes with the territory
+       [COMMENT] "For when you need that sudden motivation 10:31" (2 likes)
+       [COMMENT] "10:30 - 12:10" (0 likes)
+L0092   11.0s  you must understand that i remember i was playing a game with my nine-year-old son john leslie and i beat him ten straight games in a game called connect four
+       [COMMENT] "10:50 the beginning of that legendary moment" (69 likes)
+       [COMMENT] "10:42 this is what you came for" (10 likes)
+       [COMMENT] "10:40" (4 likes, 3 people wrote this)
+       [COMMENT] "10:42" (4 likes, 3 people wrote this)
+       [COMMENT] +25 more viewers marked this moment
+L0093    4.9s  (fast) and finally i said john leslie i'm bored i don't want to play you anymore and i got up i
+       [COMMENT] "10:54 Jon lesley story." (6 likes)
+L0094    5.8s  said i'm ready to go to sleep now and repeat after me please let's say to this together it's not over
+L0095          [pause 1.5s]
+L0096    2.2s  until i win
+L0097          [pause 1.8s]
+L0098    5.5s  john leslie said no you can't go now dad i said why he said it's not over until i
+L0099   11.1s  win that was his attitude we sat down and we played several other games and finally after the 11th game john leslie won and he got up and he yawned and he
+L0100    9.1s  (fast) said i'm ready to go to sleep now and i'm saying to you what if all of us took that attitude after we face a rejection and a no or we have a
+L0101    9.9s  meeting and no one shows up or somebody say you can count on me and they don't come through what if we have that kind of attitude the cause repossessed nobody believes in
+       [COMMENT] "For all the people looking for the quote: 'you lost again and again and again, but your still looking at your dream....' (etc.) It's at 11:39 :)" (952 likes)
+       [COMMENT] "11:42 this time..." (11 likes)
+L0102   11.5s  you you've lost again and again and again the lights are cut off but you're still looking at your dream reviewing it every day and say to yourself it's not over until i
+L0103    1.2s  win
+L0104          [long gap 8.2s]
+L0105    6.2s  life will yield to you now here's the next step repeat after me please it's possible
+       [COMMENT] "12:04" (1 likes)
+       [COMMENT] "12:06 Repeat after me" (1 likes)
+       [COMMENT] "12:09 important" (0 likes)
+       [COMMENT] "It’s not over until I win.It’s 12:10 I am having a character building day. 22:56 5 questions why am I here?" (0 likes, also marks 1 other moment)
+L0106          [pause 1.2s]
+L0107    2.1s  i can live my dream
+L0108    1.5s  it's necessary
+L0109    1.9s  (slow) i work on myself
+L0110    2.5s  (slow) surround myself with winners
+L0111          [pause 1.3s]
+L0112    1.8s  become creative
+L0113    4.2s  (slow) it's me i've got to make it happen
+L0114    4.1s  (slow) it's not over until i
+L0115    1.2s  win
+L0116          [long gap 7.2s]
+L0117   10.8s  the next thing that's important to know yes it's possible that you can choose your future and direct the course of your life as you run towards your dream it's necessary that you have goals
+L0118   10.3s  that you write those goals down that you plan that you think constantly of how you can begin to improve what it is that you're doing if it's your presentations if it's your recruiting skills whatever
+L0119   13.0s  that is it's also necessary that you look for ways to always find a way to pull it out when everybody else thinks you are defeated that you've got to take personal responsibility to know
+L0120   11.0s  that in order to become successful you've got to make it your personal business to do it but the next thing ladies and gentlemen i want to share with you that some of you already know
+       [COMMENT] "13:25 - It's hard" (4 likes)
+       [COMMENT] "13:30" (0 likes)
+L0121    1.4s  that it's
+L0122    5.5s  (slow) hard it's not easy it's hard changing your life
+L0123    6.8s  it was hard when just over three years ago in the penobscot building in detroit michigan
+L0124   10.8s  where i was operating my business and i fell on some hard times and i was sleeping in my office it was hard coming into the lobby and the
+L0125    7.9s  (fast) security said excuse me mr brown can we see you for a moment and i said yes and i walked up to the counter and he gave me an envelope
+L0126   11.1s  and he said would you mind reading it here and i opened the envelope and the envelope was from management that says this is an office tower it's not a hotel
+L0127    3.7s  (slow) please do not sleep in your office
+L0128    6.6s  and i said excuse me sir i said i just worked long hours in creating my business i'm an entrepreneur
+L0129    5.4s  and right now things are bad for me but they're not going to be this way always
+L0130          [pause 1.7s]
+L0131    7.0s  and i just asked for the opportunity to continue to operate like i'm doing i'm not trying to make this my home
+L0132    6.8s  and it was hard coming through the lobby and sometimes they would laugh there's a guy talking about becoming successful and look at him
+       [COMMENT] "14:44" (1 likes)
+L0133   10.7s  he's bathing in the bathroom upstairs on the 21st floor he sleeps on the floor him and two other dreamers up there look at him
+L0134    4.2s  it was hard ladies and gentlemen coming to speak to people
+L0135    6.2s  and i was facing financial difficulties in my own life i was behind on my bills and my dreams and i'm saying
+       [COMMENT] "15:04" (1 likes)
+L0136    7.8s  to them you can live your dream it was hard ladies and gentlemen it was very difficult to pick myself up each
+L0137    6.3s  day believing that i could do it there were times that i doubted myself i said god why why is this happening
+       [COMMENT] "15:20 best line" (3 likes)
+L0138    7.0s  to me i'm just trying to take care of my children and my mother i'm not trying to steal a rob from anybody
+L0139    2.4s  how did this have to happen to me
+L0140    1.8s  (slow) it was very hard
+L0141    5.8s  and here's what i want to say to you for those of you that have experienced some hardships
+L0142    5.7s  don't give up on your dream no one could have convinced me by holding on
+L0143    7.6s  (slow) by continuing to push forward by continuing to run toward my dream that one day
+L0144    7.7s  i would have my own talk show it's a long shot ladies and gentlemen from liberty city an abandoned building on a floor
+L0145   14.3s  never knowing my mother or father it's a long shot being here with you today in this dome in atlanta it's a long shot no college training labeled educable mentally but i kept running toward my
+L0146    1.2s  dreams
+L0147          [long gap 5.1s]
+L0148    1.4s  don't stop
+L0149          [long gap 5.6s]
+L0150    1.9s  don't stop
+L0151          [long gap 13.0s]
+L0152    3.1s  (slow) don't stop running towards your dream
+L0153          [long gap 5.7s]
+L0154    4.5s  it's very important as you hold on to that
+       [COMMENT] "17:01 true" (0 likes, 3 people wrote this)
+       [COMMENT] +2 more viewers marked this moment
+L0155    4.0s  dream there are moments when you're going to doubt yourself
+L0156    6.3s  their rough times are going to come but they have not come to stay they have come to pass it's
+L0157    7.4s  very important for you to know that don't say i'm having a bad day say i'm having a character building day
+       [COMMENT] "17:18" (1 likes)
+       [COMMENT] "17:17" (0 likes)
+L0158          [applause (youtube)]
+L0159    2.7s  it's very important for you to believe
+       [COMMENT] "-17:30" (2 likes)
+L0160    7.4s  that you are the one to make this happen i remember this high school teacher mr leroy washington
+L0161          [pause 1.2s]
+L0162    5.7s  at the end of school one june it was just a few days before we were supposed to leave
+L0163    2.6s  and i just got my report card
+L0164    7.4s  and it indicated that i'd failed history and i failed english and i would have to go to summer school
+L0165    2.5s  and i was feeling within myself
+L0166    6.2s  that i was a failure that i i'm slower than most people and getting paperwork and and i was feeling down on
+L0167    8.2s  myself and and very negative and mr washington was giving a speech to the graduating seniors and i was in 11th grade
+L0168   11.4s  and even though i wasn't supposed to be in there i went in there because the speech he was giving that speech was for me and as he talked my heart
+L0169   10.2s  began to beat fast tears began to run by my eyes and i was in the back just listening to him because he said and he was a very dramatic man
+L0170   11.2s  i still talk to him to this day he said as graduating seniors of booker t washington high school i want you to know that you're blessed and highly favored
+L0171    8.8s  and that as you go toward the future begin to know that you have greatness within you and if just one of you here
+L0172    9.0s  (slow) begin to envision yourselves as being blessed and highly favored to reach your goals if just one of you
+L0173    6.7s  capture the essence of what that means that you have greatness within you in responsibility to manifest that greatness
+L0174    9.8s  that you can make your parents proud you can make your school proud you can touch millions of people's lives and the world will never be the same again because you came this
+L0175   11.2s  way and the students gave him a rousing standing ovation and as he left the auditorium i ran down the steps and i caught him in the parking lot i said mr washington
+L0176    3.0s  he said yes i said do you remember me sir
+L0177    9.8s  (fast) he said no i said uh my name is leslie brown my mother she works in the cafeteria here i'm one of the twins leslie wesley i said mr washington but you know you know i got
+L0178   10.3s  (fast) these big dreams you know i like talking to people i love people i said i want to work with people and i got this dream of buying my mama home could could i do that mr washington
+L0179    2.6s  he said it's possible mr brown
+L0180    6.4s  and as he walked away i called him again i said mr washington he said what do you want now
+L0181    1.7s  i said um
+L0182          [long gap 4.3s]
+L0183    1.9s  (slow) i'm the one sir
+L0184    6.5s  i said i'm the one you you remember me sir i'm this maybe brown's boy
+       [COMMENT] "minute 20:20 everytime with tears in my eyes thx a lot mr Brown!" (3 likes)
+L0185    1.6s  i'm the wife
+L0186          [pause 1.5s]
+L0187    1.4s  i'm the
+L0188          [pause 3.5s]
+L0189    1.2s  one
+L0190          [long gap 18.0s]
+L0191    2.2s  and you must feel that
+L0192          [pause 1.8s]
+L0193    2.2s  (slow) that that's why you're here
+L0194   14.1s  because you are the one and i remember when pbs first played one of my specials called you deserve one sunday afternoon in miami florida i had some friends call him to tell him to tune in
+L0195    8.1s  (fast) and he watched the program he called me in detroit and i answered the phone i said hello he said may i speak to les brown please i said who's calling
+L0196    2.5s  he said you know who this is
+       [COMMENT] "21:21 I get so many chills" (32 likes)
+L0197   11.6s  i said oh mr washington it's you he said you were the one weren't you i said yes sir he said and you were so crazy i said i know but i'm rich
+       [COMMENT] "The beautiful smile 21:35," (4 likes)
+       [COMMENT] "21:32" (0 likes)
+L0198          [long gap 6.9s]
+L0199    1.2s  now
+L0200          [pause 2.8s]
+L0201    1.6s  ladies and gentlemen
+L0202    8.3s  it's not going to be easy it was hard laying on the floor of the penobscot building looking out of the window daydreaming
+L0203    8.8s  saying les can you do this can you make this happen i used to listen to tates day in and day out
+L0204    8.8s  about see you at the top my my great friend zig and and dennis waitland different other motivational speakers and dr norman vincent peale and
+L0205   11.0s  dex is saying don't let nobody steal your dream i used to ask myself can i do this and something said within me you're the one
+L0206    4.0s  you're the one and let me tell you something ladies and gentlemen
+L0207    6.5s  while you're here and before you go back home to your respective cities and communities
+L0208    2.6s  write down at least five reasons
+L0209    6.7s  on why you deserve your dream and why you won't give up what's going to make you unstoppable
+L0210    7.9s  why you must be unreasonable because logical practical thinking says you can't do it today but if you want to produce
+       [COMMENT] "It’s not over until I win.It’s 12:10 I am having a character building day. 22:56 5 questions why am I here?" (0 likes, also marks 1 other moment)
+L0211   10.0s  unreasonable results in your life like living your dreaming taking charge of your destiny you've got to be an unreasonable person you've got to be an uncommon
+L0212    1.2s  person
+L0213    3.1s  so write down the reasons of why you're here
+L0214   12.7s  my first major goal was to buy my mother a home and let me tell you something ladies and gentlemen what what will reasons do less nietzsche said if you know the why for doing you can endure almost
+L0215   11.6s  anyhow what do you mean by that if you know why you're doing something when the hard times come and they're going to come when the disappointments and the rejections come and they're going to come by the truckloads
+L0216    7.0s  (fast) your reasons will be your rod and staff to comfort you to pick you up once again i got a saying on one of my tapes if
+L0217    8.3s  life knocks you down try and land on your back because if you can look up you can get up let your reasons get you back up
+       [COMMENT] "Why he movin like dat at 23:47 💀😂✌🏾" (0 likes)
+       [COMMENT] "23:49 ❤️" (0 likes)
+L0218          [long gap 8.4s]
+L0219    4.9s  i remember when i i bought the home from my mother and she came
+L0220    4.9s  (fast) out of the car when i opened the door i said mom i think i know these people in this house that was my first
+L0221    8.3s  major goal and then i couldn't conceal it anymore i said mom i got this for you and as she went from room to room
+L0222    3.0s  looking at the house and saying thank you jesus
+L0223   12.5s  thank you lord no one ever could have convinced me that this could have happened to me and she looked at me she said leslie and you cost me so much problems as a boy you were always into stuff
+L0224    5.5s  (fast) she said no one could have convinced me that day when i walked in that house and this lady was
+L0225    5.8s  (fast) holding you and your brother and she said ma'am i want you to promise me two things and she said what
+L0226    7.4s  is it she says juan promise me that you won't separate them she said i want them raised together i want
+L0227    6.6s  them to know each other i got pregnant while my husband was away in the war and i can't keep them
+L0228    7.4s  promise me that you won't separate them she said i promise i would i've never had children i promise i won't
+L0229    7.0s  separate him and she said promise me that you'll never tell him about who i am because if my husband ever
+L0230    6.7s  found out he would kill me she said i promise and she said that she gave them to us and and
+L0231    7.2s  she kind of cried and she was walking out the door and she looked at my adopted mother she said remember
+L0232   10.0s  don't you separate them she said i swear to god i won't i won't separate them i'll keep them together and she said as i held you all
+L0233    7.0s  (fast) in my arms i never had any children my own i didn't know how i was going to do it but i knew with the help of god
+L0234    6.9s  i will do it and ladies and gentlemen my mother had a dream of having children
+L0235   10.2s  and raising us she didn't know how she's going to do it you're going to be just like that and some of you are already there well you don't know how you're going
+L0236   12.6s  to make this happen but you just feel within yourself some way somehow with the help of god i'm going to make it happen repeat after me please no matter how bad it is
+       [COMMENT] "26:15" (1 likes)
+L0237          [pause 1.5s]
+L0238    2.2s  (slow) or how bad it gets
+L0239          [pause 1.4s]
+L0240    2.7s  (slow) i'm going to make it
+L0241    2.6s  (slow) i'm going to make it
+L0242    3.8s  (fast) shake somebody's hand on your right and left and say you got the right
+L0243          [pause 3.2s]
+L0244    1.2s  stuff
+L0245          [long gap 4.1s]
+L0246    1.6s  so yes
+L0247          [pause 1.3s]
+L0248    2.7s  it's possible for you to live your dream
+L0249   11.8s  it's necessary that you associate with winners that you work your system that you are relentless that you never give up it's you you've got to take personal responsibility you've got to
+L0250   12.9s  make it your personal business to make it happen and you've got to resolve within yourself that i can do this that it's hard but you've got to save i'm the one
+L0251    9.8s  i'm the one to make this happen i'm the one to become successful in this business as you work to help other people to become successful that feeds your success
+L0252    6.6s  but you know it's going to be hard but find out what will make it worth it for you
+L0253    1.8s  (slow) so ladies and gentlemen
+L0254    8.8s  if you want to make your dream become reality the people that are running at their dreams know that it's possible that you can live your dream that
+L0255    8.6s  it's necessary that you're relentless that you have a plan of action that you are creative the people that are living their dream of finding winners to attach themselves
+L0256    9.2s  to the people that are living their dreams of a people that know that it's if it's going to happen it's up to them and they're resolving within themselves
+L0257    9.7s  it's not over until i win the people that are running after their dream know they're gonna have hard times they keep on running because they're saying within themselves
+L0258    6.3s  (fast) i'm the one i'm the one no matter how bad it is or how bad it gets i'm going to make it the people that
+L0259    6.9s  [REPLAYED] (fast) are running after their dreams are the people that are hungry shake somebody's hand on your right and left and say you gotta be hungry
+L0260          [long gap 6.8s]
+L0261    6.2s  (fast) and as you run towards your dream i want to dedicate this to you that i love very much i want to thank dexter and all
+L0262    8.3s  of you it's something that i'm known by it's on our tapes called choosing your future that says simply this that if you want a thing bad
+       [COMMENT] "28:41who gets goose bumps after this speech all the time." (2 likes)
+L0263    7.6s  enough to go out and fight for it to work day and night for it to give up your time your peace and your sleep for
+L0264    8.9s  it if all that your dream and scheme is about it and life seems useless and worthless without it and if you gladly sweat for it and
+L0265    6.9s  (fast) fret for it and plan for it and lose all your terror of the opposition for it and if you simply go after that thing that
+L0266   11.6s  you want with all of your capacity strength and sagacity faith hope and confidence and stirring pertinacity if neither cold poverty famish or gulf sickness or pain
+       [COMMENT] "Les Brown is stirring motivational fire by 29:13" (1 likes)
+L0267    7.7s  or body and brain can keep you away from the thing that you want if dogged and grim you besiege and beset it with the help of
+       [COMMENT] "29:20 what I will do for my love 💜" (6 likes)
+L0268    8.8s  god you'll get it this is mrs amy brown's baby boy leslie calvin brown saying it's been a plum pleasing pleasure as well as a privilege thank
+       [COMMENT] "29:30" (1 likes)
+       [COMMENT summary] The commenter quotes Les Brown's motivational speech about relentlessly pursuing your dreams. (0 likes)
+L0269          [long gap 4.2s]
+L0270    1.2s  you
+L0271          [long gap 5.6s]
+L0272    0.4s  you
+       [COMMENT] "Around 29:46 , lights are shut off!" (1 likes)

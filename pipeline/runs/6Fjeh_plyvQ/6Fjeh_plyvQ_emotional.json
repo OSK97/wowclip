@@ -1,0 +1,321 @@
+{
+  "category": "emotional",
+  "clips": [
+    {
+      "category": "emotional",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "ताजमहल तो बनवा लोगे, मुमताज़ कहाँ से?",
+      "why": "The strongest thing in the video. It takes the world's most famous monument of love and turns it inside out: Shahjahan had the hands of the Taj's builders cut off 'so no one could build above his ishq, no one could tell his love story better' — the audience suddenly sees possessiveness where it expected devotion. Then the last line lands and leaves: you can still commission a Taj Mahal, but where will you find a Mumtaz? A complete piece with one written ending, a measured pause to settle after it, replay data and multiple viewer comments marking it. Slow delivery on the turn (L0034) is visible in the tags.",
+      "category_hint": "shayari / reframe that costs something",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0031 and L0034",
+        "comment on L0036 'hits❤'",
+        "comment on L0034",
+        "pause after L0036 within the closing line"
+      ],
+      "start_line": "L0031",
+      "end_line": "L0036",
+      "start_words": "और मैंने सुना है मैंने सुना है एक दफा शाहजहां ने",
+      "end_words": "ताजमहल तो बनवा लोगे मुमताज कहां से",
+      "start_s": 238.48,
+      "end_s": 287.36,
+      "duration_s": 48.88,
+      "source_start_s": 238.48,
+      "source_end_s": 287.36,
+      "one_liner": false,
+      "text": "और मैंने सुना है मैंने सुना है एक दफा शाहजहां ने मुमताज के लिए ताजमहल बनवाया था। कि मैंने सुना है एक दफा शाहजहां ने मुमताज के लिए ताजमहल बनवाया था। अपने इश्क में होने का सबूत पूरी दुनिया को दिखाया था। मगर मैंने यह भी सुना है कि काट दिए थे ताज बनाने वालों के हाथ और साथ ही काट दिए थे हौसले कि ताज कोई और बना ना सके उससे ऊपर अपने इश्क की दास्तान कोई और सुना ना सके मैं सोचती हूं मैं सोचती हूं उस जुनून में अगर थोड़ा प्यार जुड़ जाता तो इश्क का सबूत वो सातवां जुबा यहां का हर घर कहलाता आहा आहा उससे मिलती जुलती आवाज कहां से लाओगे ताजमहल तो बनवा लोगे मुमताज कहां से? आय हाय क्या बात",
+      "flags": [],
+      "id": "emo1"
+    },
+    {
+      "category": "emotional",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "तुम्हारी तरह कौन मुझको चाहेगा कि चाहतों से देखेगा",
+      "why": "One complete Bashir Badr sher, and the single most-commented moment in the video (two viewers on L0038, replayed, marked slow). The ache is precise and unsentimental: someone will surely be found if you search — but who will want you the way she did, and where would anyone get eyes like hers? The 3.5s measured pause after the sher is the audience sitting still; it belongs in the clip. The opening line ('Bashir sahab ka ek sher hai') also gives a stranger the context that this is a recitation.",
+      "category_hint": "shayari — longing",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "2 viewer comments on L0038 (most-marked moment)",
+        "[REPLAYED] on L0037 and L0038",
+        "(slow) on L0038",
+        "[pause 3.5s] after L0038"
+      ],
+      "start_line": "L0037",
+      "end_line": "L0038",
+      "start_words": "क्या इसी पे ना बशीर साहब का एक बहुत सुंदर शेर है",
+      "end_words": "जो आंखें हमारी कहां से लाएगा",
+      "start_s": 287.8,
+      "end_s": 309.44,
+      "duration_s": 21.64,
+      "source_start_s": 287.8,
+      "source_end_s": 309.44,
+      "one_liner": false,
+      "text": "है। क्या इसी पे ना बशीर साहब का एक बहुत सुंदर शेर है। वो कहते हैं कि अगर तलाश करूं कि अगर तलाश करूं तो कोई मिल ही जाएगा। कि अगर तलाश करूं तो कोई मिल ही जाएगा। मगर तुम्हारी तरह कौन मुझको चाहेगा कि चाहतों से देखेगा जरूर तुमको कोई। मगर वो आंखें हमारी कहां से लाएगा।",
+      "flags": [],
+      "id": "emo2"
+    },
+    {
+      "category": "emotional",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "इश्क और प्यार एक ही तो बात है — एक दिन है और एक रात",
+      "why": "A complete couplet that viewers quote back word for word — it appears verbatim in at least two independent audience comments outside the video, which is the exact behaviour this category predicts. The distinction between ishq and pyaar as a day and a night, with junoon deciding the distance between them, is a thought that rearranges something. The reel can open on 'कहा है कि इश्क और प्यार एक ही तो बात है' — the sher itself carries everything.",
+      "category_hint": "shayari — deep thought",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0028 and L0029",
+        "comment 'shayri ❤' on L0028",
+        "audience block quotes this sher verbatim twice"
+      ],
+      "start_line": "L0028",
+      "end_line": "L0029",
+      "start_words": "हमें लगता है यही है जो है कि ये जुनून",
+      "end_words": "आजकल कानून तय करता है",
+      "start_s": 211.2,
+      "end_s": 232.08,
+      "duration_s": 20.88,
+      "source_start_s": 211.2,
+      "source_end_s": 232.08,
+      "one_liner": false,
+      "text": "हमें लगता है यही है जो है कि ये जुनून एंड इट सॉर्ट ऑफ़ एंड्स अप बर्निंग अस। कहा है कि इश्क और प्यार एक ही तो बात है। कि इश्क और प्यार एक ही तो बात है। फर्क बस इतना है कि एक दिन है और एक रात है। और इस दिन से रात का फासला सिर्फ जुनून तय करता है। और ये किसको किससे हो आजकल कानून तय करता है।",
+      "flags": [],
+      "id": "emo3"
+    },
+    {
+      "category": "emotional",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "मेरे अपने मुझे मिट्टी में मिलाने आए",
+      "why": "The full Rahat Indori ghazal, taken whole because it is a closed form: your own people came to bury you in the dirt, the paper rose in her hair you mistook for spring, friends who never find a month to visit, 'फुर्सतें चाट रही है मेरी हस्ती का लहू' — the slow bleed of being nobody's priority. It ends where the poet ended it, on 'मुंतज़िर हूं कि कोई मुझे बुलाने आए' (the cut lands inside L0061, right after 'आए'). Roughly 55 seconds; the length is the form. The first line is itself a hook.",
+      "category_hint": "ghazal — betrayal by your own",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment '7:10😪💕' on L0054 (the framing line just before)",
+        "(slow) tag absent but the recitation structure is marked by a long gap after L0062"
+      ],
+      "start_line": "L0055",
+      "end_line": "L0061",
+      "start_words": "कि मेरे अपने मुझे मिट्टी में मिलाने आए",
+      "end_words": "आए। बालों की बात करी ना इन्होंने",
+      "start_s": 435.28,
+      "end_s": 491.6,
+      "duration_s": 56.32,
+      "source_start_s": 435.28,
+      "source_end_s": 491.6,
+      "one_liner": false,
+      "text": "कि मेरे अपने मुझे मिट्टी में मिलाने आए। आ मेरे अपने मुझे मिट्टी में मिलाने आए। अब जाकर कहीं मेरे होश दिखाने आए। कि मेरे अपने मुझे मिट्टी में मिलाने आए। अब जाकर कहीं मेरे होश ठिकाने आए। तूने बालों में सजा रखा था कागज का गुलाब। आहा कि तूने बालों में सजा रखा था कागज का गुलाब। मैं समझा कि बहारों के जमाने आए। और दोस्त होकर भी महीनों नहीं मिलता मुझसे। और दोस्त होकर भी महीनों नहीं मिलता मुझसे। उसे कहो किसी दिन जख्म लगाने आए। कि फुर्सतें चाट रही है मेरी हस्ती का लहू। कि फुर्सतें चाट रही है मेरी हस्ती का लहू। मुंतज़िर हूं कि कोई मुझे बुलाने आए। कोई मुझे बुलाने आए। बालों की बात करी ना इन्होंने याद आ गया। वो एक शेर है ना कि उधर जुल्फों में कंघी हो रही है। कि उधर जुल्फों में कंघी हो रही है। खम",
+      "flags": [],
+      "id": "emo4"
+    },
+    {
+      "category": "emotional",
+      "rank": 5,
+      "finder_rank": 5.0,
+      "title": "मुस्कुराओ — उस जीत की ज़रूरत तुमसे ज़्यादा किसी को थी शायद",
+      "why": "The complete 'Muskurao' poem, whole — it is a closed form with a refrain that only resolves at the final 'मुस्कुराओ', so no fragment of it is shippable. Several verses do real work: 'us jeet ki zaroorat tumse zyada kisi ko thi shayad' takes a defeat away from you, and 'kisi ka jodne ke liye kisi ka todna padta hoga shayad' is a genuine reframe. The middle-to-late verses drift toward gratitude, and the glass-half-empty stretch is the flattest part of the piece — ship it anyway, because a poem that stops halfway is worse than a flat verse inside one that resolves. Long, roughly 68 seconds; the editor stage can trim edge fat but not the form.",
+      "category_hint": "recited poem — comfort that does not dismiss",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment 'This piece hits different every time💗' on L0042",
+        "two viewer comments on L0043",
+        "[REPLAYED] on L0049"
+      ],
+      "start_line": "L0043",
+      "end_line": "L0050",
+      "start_words": "मुस्कुराओ मुस्कुराओ अगर आज कहीं से हार गए हो",
+      "end_words": "यू कैन ऑलवेज ऑलवेज फिल इट विथ स्माइल्स। मुस्कुराओ।",
+      "start_s": 341.56,
+      "end_s": 409.76,
+      "duration_s": 68.2,
+      "source_start_s": 341.56,
+      "source_end_s": 409.76,
+      "one_liner": false,
+      "text": "मुस्कुराओ मुस्कुराओ अगर आज कहीं से हार गए हो। उस जीत की जरूरत तुमसे ज्यादा किसी को थी शायद। मुस्कुराओ अगर कुछ खो गया है। जिसके नसीब का था उसको मिल गया है शायद। मुस्कुराओ अगर दिल टूट गया है। किसी का जोड़ने के लिए किसी का तोड़ना पड़ता होगा शायद। और फिर भी रह जाए अगर दिल में दर्द कहीं तो बांट कर मुस्कुराओ। और है अगर दिल में खुशी ज्यादा तो सेम प्रोसेस दोहराओ। मुस्कुराओ अगर सर पर है छत बदन पर है कपड़ा और है थाली में खाना और है अगर जरूरत से ज्यादा तो बांट कर घर जाना। मुस्कुराओ जब बार-बार यह सोच कर हताश हो जाते हो कि इससे अच्छा यह हो जाता, इससे अच्छा वो हो जाता। तब यह सोच कर मुस्कुराओ कि इससे बुरा हो जाता तो क्या हो जाता। मुस्कुराओ जब पूछे कोई कि जिंदगी जीने का है क्या सलीका। मुस्कुराओ यह कह कर कि हमने जिंदगी से मुस्कुराना ही सीखा। मुस्कुराओ। वो दुनिया जो तुमसे पूछती रहती है ना ग्लास तुम आधा खाली देखते हो, भरा देखते हो। मुस्कुराओ इवन इफ यू हैव टू वर्क माइल्स एंड माइल्स बिकॉज़ इट्स ओके इफ द ग्लास इज हाफ एम्प्टी यू कैन ऑलवेज ऑलवेज फिल इट विथ स्माइल्स। मुस्कुराओ।",
+      "flags": [],
+      "id": "emo5"
+    },
+    {
+      "category": "emotional",
+      "rank": 6,
+      "finder_rank": 6.0,
+      "title": "इश्क आपको एक ही शख़्स से होता है — कैपेसिटी ही उतनी है",
+      "why": "A deep-thought reframe said plainly: love comes with an infinite quota — your job, your family, the whole world — but passion comes rationed, 'उतनी ही कैपेसिटी होती है हमारे पास खुद को बर्न करने की', and ishq is the balance of the two, which is why it happens with only one person. It separates two feelings the viewer has always had at once and never had names for. MEDIUM because the middle of the passage is dense Hinglish and the transcript is messy there; the audio will carry what the text garbles.",
+      "category_hint": "deep thought — psychology of love",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment '❤' on L0027"
+      ],
+      "start_line": "L0023",
+      "end_line": "L0027",
+      "start_words": "जुनून को प्रेम समझ लेते हैं। है ना?",
+      "end_words": "कैपेसिटी ही उतनी है।",
+      "start_s": 162.8,
+      "end_s": 211.2,
+      "duration_s": 48.4,
+      "source_start_s": 162.8,
+      "source_end_s": 211.2,
+      "one_liner": false,
+      "text": "जुनून को प्रेम समझ लेते हैं। है ना? इफ यू थिंक अबाउट इट दैट व्हेन यू टॉक अबाउट लव ना कि हम लोगों को प्रेम का जो कोटा है प्यार का वो भरपूर मिला है। इट्स इनफाइनाइट टू अस बिकॉज़ वो हमें हर चीज से करना है इस दुनिया में। जैसे हमें दुनिया से तो प्यार करना ही है। इसके हर इंसान से जो दो जो अल्टीमेट थॉट है कि आपको अपनी नौकरी से प्यार करना चाहिए। अपने परिवार से, दोस्तों से तो उसका कोटा बड़ा इनफाइनाइट टाइप का है। बट वेयर एस जुनून पैशन इट्स लाइक फायर उसका बड़ा लिमिटेड मिला है। तो आप एक आधे शक से एक आधे सपने से कर लेते हैं। उतनी ही कैपेसिटी होती है हमारे पास खुद को बर्न करने की। और जब प्यार और जुनून का एक बैलेंस बैठता है तो वो इश्क बनता है। है ना? जो आपको इसीलिए इश्क आपको एक ही शख्स से होता है। कैपेसिटी ही उतनी है। सम टाइम्स व्हाट हैपेंस इन हम जुनून को प्यार समझ लेते हैं कि इफ बिकम पैशनेट अबाउट वन पर्सन और",
+      "flags": [],
+      "id": "emo6"
+    },
+    {
+      "category": "emotional",
+      "rank": 7,
+      "finder_rank": 7.0,
+      "title": "जो इंसान जा रहा है, उससे वो प्रेम वापस लेना",
+      "why": "Her parting words to the heartbroken, and they are not the usual blessing: the person leaving takes nothing from you but your fights — what you must take back is the love you gave them, because it was your investment and it is yours. That inversion (grief as an asset to reclaim, not a debt owed to someone gone) is a hard truth told with the speaker standing beside the viewer, and it ends on her own sher refusing to trade her love even if stabbed in the back. Straddles advice and emotion; the emotion dominates. The sher in L0066–L0067 is garbled in the transcript but the audio carries it. Replay-marked twice.",
+      "category_hint": "hard truth — heartbreak",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "[REPLAYED] on L0066 and L0067"
+      ],
+      "start_line": "L0064",
+      "end_line": "L0067",
+      "start_words": "हां और जाने से पहले तुम सब दिल टूटे आशिकों को",
+      "end_words": "मैं अपनी मोहब्बत का सौदा नहीं करूंगी",
+      "start_s": 509.52,
+      "end_s": 544.8,
+      "duration_s": 35.28,
+      "source_start_s": 509.52,
+      "source_end_s": 544.8,
+      "one_liner": false,
+      "text": "हां और जाने से पहले तुम सब दिल टूटे आशिकों को यही कह के जाऊंगी कि नेवर नेवर गिव योर लव अवे उस इंसान के साथ छोड़ नहीं देना है जो इंसान जा रहा है तुम्हारे जीवन से उसे वापस एक ही चीज लेनी होती है झगड़े वगड़े नहीं उससे वो प्रेम वापस लेना होता है खुद के लिए जो तुमने उसको दिया था। इन्वेस्टमेंट हैज़ टू बी टेकन बैक ताकि तुम भी ये कह सको कि गिला नहीं इरशाद इरशाद इरशाद इरशाद के गिला नहीं अगर पीठ में खंजर लगे लाखों मेरे इस खौफ से मैं अपनी मोहब्बत का सौदा नहीं करूंगी थैंक यू गाइस कैन मी प्लीज कीप इट गोइंग कौन आया मेरा तालियां रुकनी नहीं चाहिए दोस्तों",
+      "flags": [],
+      "id": "emo7"
+    },
+    {
+      "category": "emotional",
+      "rank": 8,
+      "finder_rank": 8.0,
+      "title": "उधर जुल्फों में कंघी हो रही है — ना हमारा दम निकलता है",
+      "why": "One complete sher, marked slow and commented ('8:22 ✨🥀'): on her side the comb moves lazily through her hair, on his side breath is dragged out in fits — 'ना उनका गम निकलता है ना हमारा दम निकलता है'. The asymmetry of caring is the whole thing. Real worry: the clip begins on the tail of the previous ghazal and a spoken aside, and the transcript does not make clear whether the host or Nayab recites it — the second pass should cut to 'वो एक शेर है ना कि...' and the audio will resolve the voice.",
+      "category_hint": "shayari — unrequited asymmetry",
+      "hook_strength": 3.0,
+      "self_contained": false,
+      "confidence": "LOW",
+      "signals_used": [
+        "comment '8:22 ✨🥀' on L0062",
+        "(slow) on L0062"
+      ],
+      "start_line": "L0061",
+      "end_line": "L0062",
+      "start_words": "आए। बालों की बात करी ना इन्होंने",
+      "end_words": "ना हमारा दम निकलता है",
+      "start_s": 480.68,
+      "end_s": 505.12,
+      "duration_s": 24.44,
+      "source_start_s": 480.68,
+      "source_end_s": 505.12,
+      "one_liner": false,
+      "text": "आए। बालों की बात करी ना इन्होंने याद आ गया। वो एक शेर है ना कि उधर जुल्फों में कंघी हो रही है। कि उधर जुल्फों में कंघी हो रही है। खम निकलता है। इधर रुक-रुक के खींच खींच के हमारा दम निकलता है। और इलाही खैर हो उलझन पे उलझन बढ़ती जाती है। ना उनका गम निकलता है ना हमारा दम निकलता है।",
+      "flags": [
+        "finder marked it not self-contained"
+      ],
+      "id": "emo8"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0022",
+      "end_line": "L0022",
+      "why_not": "Opens on a garbled host interjection ('जब मैं छोटी थी तो ये बात मेरे मां-बाप को नहीं पता थी') that points at a story never told; the thought she actually completes begins one line later."
+    },
+    {
+      "start_line": "L0041",
+      "end_line": "L0042",
+      "why_not": "Host praising the recitation and requesting the next poem — commentary on emotion, not the thing itself."
+    },
+    {
+      "start_line": "L0052",
+      "end_line": "L0052",
+      "why_not": "Host joke riffing on the glass-half-empty line ('there is always room for sharab') — comedy, and it only works with the poem just heard."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0009",
+      "what": "tour announcement, ticket reads, and the guest introduction"
+    },
+    {
+      "from_line": "L0010",
+      "to_line": "L0019",
+      "what": "stage banter — girls' gang, chairs for couples and singles, jokes about the audience's sleep"
+    },
+    {
+      "from_line": "L0020",
+      "to_line": "L0021",
+      "what": "stool-pulling bit leading into the interview segment"
+    },
+    {
+      "from_line": "L0030",
+      "to_line": "L0030",
+      "what": "applause row"
+    },
+    {
+      "from_line": "L0051",
+      "to_line": "L0051",
+      "what": "measured long gap — audience settling after the poem"
+    },
+    {
+      "from_line": "L0063",
+      "to_line": "L0063",
+      "what": "measured long gap after the sher"
+    },
+    {
+      "from_line": "L0068",
+      "to_line": "L0068",
+      "what": "music over the close"
+    }
+  ],
+  "video_read": "A staged poetry evening: a host brings poet Nayab Mida up on stage and the two trade verse for several minutes — her own shayari (ishq vs pyaar, the Shahjahan/Taj Mahal piece, a Bashir Badr sher), a recitation of 'Muskurao', a Rahat Indori ghazal, and her parting words to the heartbroken. Nearly all the emotional material lives in the recited verse from roughly the two-minute mark to the end; the first ninety seconds is a tour announcement and the guest introduction.",
+  "coverage": 0.949,
+  "usage": {
+    "prompt_tokens": 25688,
+    "completion_tokens": 11910,
+    "total_tokens": 37598,
+    "cost": 0.0098082,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0098082,
+      "upstream_inference_prompt_cost": 0.0038532,
+      "upstream_inference_completions_cost": 0.005955
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 8011,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 8011
+  },
+  "error": null,
+  "seconds": 217.2,
+  "coverage_note": null,
+  "reasoning": "Let me read the transcript carefully.\n\nVideo: a poetry/open-mic style show. Host introduces surprise guest, \"Nayab Mida\" (a poet). She performs shayari, guest does poetry, \"Muskurao\" poem, Rahat Indori ghazal, closing.\n\nKey stretches:\n\nL0020–L0026: She talks about junoon vs prem — people confuse passion with love. Love has infinite quota, passion is limited. Ishq is balance of pyaar and junoon. Then L0028–L0029: shayari \"Ishq aur pyaar ek hi toh baat hai... farq bas itna hai ki ek din hai aur ek raat hai...\" — that's a complete sher, heavily commented (audience comments quote it verbatim in the audience block: multiple comments). REPLAYED marks.\n\nL0031–L0036: Taj Mahal sher: \"Shahjahan ne Mumtaz ke liye Tajmahal banvaya... kaat diye the Taj banane walon ke haath...\" and ends \"Tajmahal to banwa loge, Mumtaz kahan se?\" — complete poem, REPLAYED, comments. This is strong. The whole piece from L0031 to L0036 is a complete form. Actually the piece starts L0031 \"aur maine suna hai ek dafa Shahjahan ne Mumtaz ke liye Tajmahal banvaya tha...\" and ends L0036 \"Tajmahal to banwa loge Mumtaz kahan se?\" — applause follows (L0030 is before; L0034 has comments, L0036 \"hits❤\"). Total length: 10.3+8.4+7.7+11.8+1.7(pause)+9.0 = ~48.9s. That's fine. Maybe start at L0031. This is the strongest candidate — recognition/reframe: the man who cut the hands of the builders so no one could build a greater monument to love — jealousy disguised as devotion. And \"us junoon mein agar thoda pyaar jud jaata...\" — reframe that costs something. HIGH confidence.\n\nL0037–L0040: Bashir Badr sher: \"agar talash karoon to koi mil hi jayega / magar tumhari tarah kaun mujhko chahega ki chahton se dekhega... wo aankhen hamari kahan se layega\" — complete sher, most-marked (L0038, 2 comments), REPLAYED, slow delivery, pause after. Length: 8.5+13.1+3.5(pause)+7.3 = ~32.4s. Strong candidate. Then L0040–L0041 continues \"aankhon se wo yaad aaya ki humne tujhko itna dekha jitna dekha ja sakta...\" — that's an extension of the same piece? Actually L0040 continues \"aankhon se\" picking up from \"wo aankhen hamari kahan se layega\" — \"aankhon se wo yaad aaya ki humne tujhko itna dekha jitna dekha ja sakta... lekin phir bhi in do aankhon se kitna dekha ja sakta\". Hmm, that's another sher fragment. The main sher is L0037–L0038. Could end at L0038, pause L0039 is the settle. Take L0037–L0038, maybe through L0040. Per rules, end where feeling settles — pause after L0038 is part of clip. Could include L0040-L0041 but L0041 breaks into host praise. I'll take L0037–L0038.\n\nL0042–L0050: \"Muskurao\" poem. This is the documented trap — must return WHOLE poem or one complete unit. Where does it start? L0042 has host request \"wo muskurao wali, wo sabko... muskurao jab main marungi na mere khoon se niklegi\" — wait, that's inside L0042: \"वो मुस्कुराओ वाली वो सबको सबको मुस्कुराओ जब मैं मरूंगी ना मेरे खून से निकलेगी\" — hmm \"जब मैं मरूंगी ना मेरे खून से निकलेगी मुस्कुराओ\" — that seems like a different line? Actually that might be her reciting a line as identification: \"wo muskurao wali... jab main marungi na, mere khoon se niklegi muskurao\". Then L0043 begins the poem proper: \"muskurao agar aaj kahin se haar gaye ho. Us jeet ki zaroorat tumse zyada kisi ko thi shayad.\" The poem runs through L0050: \"muskurao even if you have to work miles and miles because it's ok if the glass is half empty you can always fill it with smiles. Muskurao.\" Then [long gap], then L0052 joke \"glass half empty... room for sharab\" — that's the host joke, not part of poem.\n\nPer the calibration example, \"Muskurao\" whole poem. Full length L0042–L0050: 10.3+10.0+9.6+8.3+7.6+7.3+9.3+8.8+7.3 = ~78.5s. Plus partial of L0042. That's over a minute — long but \"a story that needs its build can justify more\". Hmm. The poem is the whole form; I can't cut it partially per the rule. But is the whole poem good? It has the \"glass half empty... smiles\" English bit which is weaker, but the rule says take whole or none. Alternatively return none of it. Comments on L0042/L0043 (2 viewer comments each, \"This piece hits different every time\", \"muskarao kavita\") — it's a marked moment.\n\nWait — does the poem end at L0050? L0050 ends \"you can always fill it with smiles. Muskurao.\" Yes, that's the end. L0051 is a long gap (audience reaction), L0052 is host joke.\n\nHmm, the calibration specifically says a performance of \"Muskurao\" was returned as first three verses and that was broken. So if I return it, I must return L0043–L0050 (poem proper) whole — start where poem starts. But does the poem start at L0042's \"muskurao agar aaj...\" — actually L0042's tail: \"जब मैं मरूंगी ना मेरे खून से निकलेगी\" then L0043 \"मुस्कुराओ मुस्कुराओ अगर आज कहीं से हार गए हो\". Hmm, \"jab main marungi na mere khoon se niklegi muskurao\" — that seems like a line from a different poem or a mis-transcription. Could be her saying a teaser line. Safer start: L0043 \"मुस्कुराओ मुस्कुराओ अगर आज कहीं से हार गए हो\" — that's a clean start, self-contained. End L0050 \"यू कैन ऑलवेज ऑलवेज फिल इट विथ स्माइल्स। मुस्कुराओ।\" Length: 10.0+9.6+8.3+7.6+7.3+9.3+8.8+7.3 = 68.2s. Long-ish. Do I believe in it? The poem is comfort/gratitude oriented — \"muskarao\" genre is motivational-ish comfort. The calibration example says the later verses \"slide into generic gratitude\" and yet says ship the whole anyway or none. The audience comments say \"hits different\". Honestly, I'm torn. The rule: whole form or one complete unit. A poem with refrain \"muskurao\" repeating — the refrain coming back tells you it has not ended until the final one. There's no internal complete unit. So: whole (L0043–L0050) or none.\n\nCase for: the opening verse \"agar aaj kahin se haar gaye ho, us jeet ki zaroorat tumse zyada kisi ko thi shayad\" is genuinely striking — a reframe. \"dil toot gaya hai, kisi ka jodne ke liye kisi ka todna padta hoga shayad\" also. It's comfort but not entirely generic. Hook is weak-ish but the editor can pull \"muskurao agar dil toot gaya hai\" as hook. I'll return it whole, MEDIUM confidence, note length ~68s.\n\nL0053–L0060: Rahat Indori ghazal \"mere apne mujhe mitti mein milane aaye\". Complete ghazal: \"mere apne mujhe mitti mein milane aaye... ab jaake kahin mere hosh thikane aaye... tune baalon mein saja rakha tha kagaz ka gulab, main samjha ke baharon ke zamane aaye... dost hokar bhi mahinon nahi milta mujhse, use kaho kisi din zakhm lagane aaye... fursatein chaat rahi hai meri hasti ka lahu, muntazir hoon ki koi mujhe bulane aaye.\" Ends L0060/L0061 \"koi mujhe bulane aaye.\" — complete ghazal, ends L0061 first words. Actually L0061 begins \"आए। बालों की बात करी ना...\" — the last words of the maqta are in early L0061. So the ghazal spans L0055–L0061(first few words). Hmm, ending mid-line is awkward; but L0060 ends \"कोई मुझे बुलाने\" and L0061 starts \"आए\". So end_line L0061, end_words \"आए। बालों की बात करी ना...\" — the second pass picks precise cut. Set end L0061.\n\nBut wait — the host intro L0053–L0054 gives context: \"Rahat Indori sahab ki ye ghazal hai... jab aap apne lowest pe hote ho na, to aapko asliyat pata lagti hai kaun tumhara sachcha dost hai. Unhone isi bhaavna pe likha tha: ...\" Including intro makes it self-contained. Start L0053? L0053 begins \"इंदौरी साहब की एक यह गज़ल है बहुत सुंदर। वो जब आप जब आप अपने लोएस्ट पे होते हो ना...\" — good framing. Length L0053–L0061: 5.8+6.0+9.0+7.2+8.2+9.3+8.7+1.7+10.9 = ~66.8s. Long. Alternatively start L0055. The ghazal itself is deeply about \"my own people came to bury me in dirt\" — recognition of betrayal by your own, \"fursatein chaat rahi hai meri hasti ka lahu\" — that's strong material. Return L0055–L0061 or L0053–L0061. I'll go L0055–L0061 (38s-ish: 9.0+7.2+8.2+9.3+8.7+1.7+10.9 = 55s). Hmm: 9.0+7.2=16.2, +8.2=24.4, +9.3=33.7, +8.7=42.4, +1.7=44.1, +10.9=55.0s. Fine. Actually including the intro makes it clearer for strangers — \"kaun tumhara sachcha dost hai\" framing primes it. 67s total though. I'll start at L0055; the ghazal's first line \"mere apne mujhe mitti mein milane aaye\" is itself self-contained and a striking hook. Good.\n\nL0061–L0062: another sher: \"udhar julfon mein kanghi ho rahi hai, idhar ruk-ruke kheench kheench ke hamara dam nikalta hai... na unka gam nikalta hai na hamara dam nikalta hai.\" Complete sher inside L0061–L0062. L0061 is 10.9s and contains the tail of the ghazal PLUS the intro \"बालों की बात करी ना इन्होंने याद आ गया। वो एक शेर है ना कि उधर जुल्फों में कंघी हो रही है।\" L0062: full sher, slow, comment \"8:22 ✨🥀\". This is a small moment — could return L0061–L0062 as a sher clip. The second pass can lift the hook. Length ~24s. It's decent — the contrast of her trivial grooming vs his dying breath. Return it? It's a complete sher. I'd say yes, MEDIUM.\n\nL0064–L0067: closing advice \"never give your love away... jo insaan ja raha hai... us se wo prem wapas le lena... investment has to be taken back...\" — ends with a sher \"gila nahi irshad... agar peeth mein khanjar lage, laakhon mere is khauf se main apni mohabbat ka sauda nahi karungi\". This is advice + closing sher. It's motivational-ish/relationship advice. The final sher is decent. But it's a wrap-up with \"thank you guys\" — messy. The advice \"take your love back, it's an investment\" is a hard-truth reframe, actually not generic. Could be a clip: L0064–L0066 (\"taki tum bhi ye keh sako ki gila nahi irshad\"). Length: 7.6+5.8+9.9 = 23.3s. Hmm, ends mid-thought though — L0066 ends \"ताकि तुम भी ये कह सको कि गिला नहीं इरशाद इरशाद इरशाद\" and L0067 continues \"के गिला नहीं अगर पीठ में खंजर लगे लाखों मेरे इस खौफ से मैं अपनी मोहब्बत का सौदा नहीं करूंगी\" then thank-yous. The sher completes in L0067 before \"thank you guys\". So L0064–L0067 ~45s. The sher: \"gila nahi irshad, agar peeth mein khanjar lage, laakhon... main apni mohabbat ka sauda nahi karungi\" — garbled but meaning: \"I won't trade my love even if stabbed in the back.\" Is it strong? It's an exit line, devotional/self-worth. I'm less sure. The investment reframe \"jo pyar tumne diya tha wo wapas lo, khud ke liye\" is actually a real reframe — people hold onto love given to someone who left. I could return L0064–L0067 with MEDIUM/LOW confidence noting garbled transcript at the sher. Actually the advice portion feels a bit lecture-y / motivational. Border. Given asymmetry, return it MEDIUM with note it straddles advice and emotion.\n\nNow the junoon vs prem talk L0022–L0029. L0022–L0027: her thought about love quota vs passion quota — \"hum logon ko prem ka jo quota hai wo bharpoor mila hai... junoon ka limited mila hai... jab pyaar aur junoon ka balance baithta hai to wo ishq banta hai... isliye ishq aapko ek hi shakhs se hota hai, capacity hi utni hai.\" That's a reframe that names something — \"ishq ek hi shakhs se hota hai kyunki capacity hi utni hai\" — deep thought, self-contained-ish. Starts L0022 \"जब मैं छोटी थी तो ये बात मेरे मां-बाप को नहीं पता थी\" — that opening seems disconnected (mis-transcription?). Actually L0022 mixes: \"लड़कियों को काम नहीं करने देते। जब मैं छोटी थी...\" — garbled host interjection. Better start L0023: \"अक्सर ना लोग जुनून को प्रेम समझ लेते हैं\" — clean start, self-contained. End at L0027 \"कैपेसिटी ही उतनी है\" — wait L0027: \"जो आपको इसीलिए इश्क आपको एक ही शख्स से होता है। कैपेसिटी ही उतनी है।\" then continues \"सम टाइम्स व्हाट हैपेंस इन हम जुनून को प्यार समझ लेते हैं...\" — repetition. End L0027 mid-line at \"कैपेसिटी ही उतनी है।\" — end_words can be that; second pass cuts precisely. Length L0023–L0027: 9.8+9.6+10.2+9.6+9.1 = 48.3s. Hmm, includes the garbled English portions. It's a deep-thought clip. Then L0028–L0029 is the \"ishq aur pyaar ek hi baat\" sher — separate clip, complete sher: \"इश्क और प्यार एक ही तो बात है। फर्क बस इतना है कि एक दिन है और एक रात है। और इस दिन से रात का फासला सिर्फ जुनून तय करता है। और ये किसको किससे हो आजकल कानून तय करता है।\" — complete, REPLAYED, quoted verbatim by audience in comments (the 11-likes and 7-likes comments in audience block quote it!). Start L0028 mid-line though: L0028 begins with \"हमें लगता है यही है जो है कि ये जुनून एंड इट सॉर्ट ऑफ़ एंड्स अप बर्निंग अस। कहा है कि इश्क और प्यार एक ही तो बात है। कि इश्क और प्यार एक ही तो...\" then L0029 the full sher. Start at L0028 — second pass cuts to \"कहा है कि\". Return L0028–L0029. Length 9.6+11.3 = 20.9s. Strong quotable clip. Actually this overlaps with the junoon/prem clip (L0023–L0027) — but rule says return separately.\n\nHow many clips total? Taj Mahal piece, Bashir Badr sher, ishq/pyaar sher, junoon-prem thought, Muskurao poem, Rahat Indori ghazal, julfon sher, closing investment. That's 8 — a lot. Prioritize the ones I actually believe in.\n\nHonest ranking:\n1. Taj Mahal piece (L0031–L0036) — HIGH. The twist \"kaat diye Taj banane walon ke haath\" reframes the ultimate love monument as jealousy; final \"Tajmahal to banwa loge, Mumtaz kahan se?\" lands hard. Heavily marked (comments on L0032 with 179 likes — though that's \"the way he listens\", on the host, not the content), REPLAYED x2, comments \"4:38 hits❤\". 49s.\n2. Bashir Badr sher (L0037–L0038) — HIGH. \"magar tumhari tarah kaun mujhko chahega ki chahton se dekhega, jo aankhen hamari kahan se layega\" — most-marked, slow delivery, pause after.\n3. Ishq/pyaar sher (L0028–L0029) — HIGH-ish. Quoted verbatim by multiple viewers in the audience block.\n4. Rahat Indori ghazal (L0055–L0061) — HIGH/MEDIUM. Complete ghazal, \"mere apne mujhe mitti mein milane aaye\" — betrayal by your own; comment \"7:10😪💕\" on L0054.\n5. Muskurao (L0043–L0050) — whole poem, MEDIUM, long.\n6. Junoon vs prem (L0023–L0027) — MEDIUM.\n7. Julfon sher (L0061–L0062) — MEDIUM/LOW. Overlaps start with #4's end line — clips can overlap, fine. But starting at L0061 means the clip begins with the tail of the previous ghazal \"आए।\" then \"बालों की बात करी ना इन्होंने याद आ गया\" — that's her saying \"yaad aa gaya\" (comment about hair). Confusing start for a stranger. The second pass can cut to \"वो एक शेर है ना कि उधर जुल्फों में कंघी हो रही है\". Hmm, but \"इन्होंने\" refers to... someone. Actually who performs this sher? After Rahat Indori ghazal, L0061 \"बालों की बात करी ना इन्होंने याद आ गया\" — probably Nayab or the host remarking. Ambiguity about who is speaking. I'll include with LOW/MEDIUM and note the speaker ambiguity. Actually, maybe drop it — it's the weakest, start is unclear, speaker unclear. But \"a moment you leave out cannot be recovered\". It's a complete sher, decent but not great. I'll include at MEDIUM with the ambiguity note. Hmm, hook_strength low (4).\n\n8. Closing investment (L0064–L0067) — MEDIUM. \"jo insaan ja raha hai us se wo prem wapas le lena, investment has to be taken back\" — reframe; ends with \"main apni mohabbat ka sauda nahi karungi\". Return, note straddle.\n\nWait — \"agar peeth mein khanjar lage, laakhon... main apni mohabbat ka sauda nahi karungi\" — \"लाखों मेरे\" garbled; meaning maybe \"laakhon ki bheed mein\" or \"laakhon ka lalach ho\"? Can't fully reconstruct the sher, but the gist \"even if betrayed, I won't trade my love\" is recoverable. Fine, note it.\n\nActually, is the closing clip's advice portion partly the host? L0064 \"हां और जाने से पहले तुम सब दिल टूटे आशिकों को यही कह के जाऊंगी\" — first person feminine \"जाऊंगी\" — Nayab speaking (fast). L0065 also fast, \"तुम्हारे जीवन से\" — same speaker continuing. L0066-67 REPLAYED. OK, Nayab's closing.\n\nOrder by rank: 1 Taj, 2 Bashir sher, 3 ishq/pyaar sher, 4 Rahat Indori ghazal, 5 Muskurao, 6 junoon/prem, 7 closing, 8 julfon sher? Maybe 8 clips is too many? \"A rich hour can yield a dozen.\" This is a 9-minute poetry video — poetry is the core category. 8 clips is defensible but let me prune ones I don't believe in. \n\nJunoon/prem (L0023–L0027): the English-garbled middle makes it dense, but the core claim \"prem ka quota infinite, junoon ka limited, isliye ishq ek hi shakhs se hota hai\" is a genuine deep-thought reframe. Keep, MEDIUM.\n\nJulfon sher: keep at LOW? The calibration says LOW with named worry is fine. Actually let me reconsider: hook weak, speaker unclear, but sher complete and marked. Keep MEDIUM-LOW. I'll say confidence MEDIUM and note speaker ambiguity.\n\nActually 8 clips might dilute. Let me drop... hmm. The instruction pushes hard against omission. I'll keep all 8 but rank honestly. Actually let me reconsider the Muskurao one more: is it \"generic comfort\"? \"Muskurao agar sar par hai chhat, badan par hai kapda aur thali mein hai khana\" — that's gratitude-adjacent. But \"us jeet ki zaroorat tumse zyada kisi ko thi shayad\" and \"kisi ka jodne ke liye kisi ka todna padta hoga\" are sharp. Whole poem per the rule. Keep, MEDIUM, note 68s length.\n\nSkipped ranges: L0001–L0009 intro/tour announcement; L0010–L0019 guest intro banter, girls' gang, chairs bit; L0030, L0035, L0039 applause/pause rows; L0051–L0052 host joke about glass/sharab; L0067–L0068 thank-yous/music (partially included in clip 7 end... clip 7 ends L0067 which includes \"thank you guys\" — hmm. End clip 7 at L0067; end_words should be the sher end \"मैं अपनी मोहब्बत का सौदा नहीं करूंगी\" — second pass cuts before thank-yous. Fine.\n\nAlso the cold open: no montage here — video starts with direct address. L0007 \"एक दादा और भी सरप्राइज है\" — \"दादा\"? Probably \"दोस्त\"? Whatever, intro.\n\nClip details:\n\n1. Taj Mahal: start L0031 \"और मैंने सुना है मैंने सुना है एक दफा शाहजहां ने...\" end L0036 \"...मुमताज कहां से?\" start_words: \"और मैंने सुना है मैंने सुना है एक दफा\" end_words: \"ताजमहल तो बनवा लोगे मुमताज कहां से?\" why: complete piece; reframes the monument of love as an act of possessiveness — the hands of the builders cut so no one could tell a greater love story — then turns it: \"you can build a Taj Mahal, but where will you get a Mumtaz?\" Ends with applause-settle pause. hook 6. signals: REPLAYED on L0031/L0034, comments L0031, L0032(179 but host-listening), L0036, pause after L0036? Actually pause L0035 is inside. Fine.\n\n2. Bashir Badr: L0037–L0038. start_words \"क्या इसी पे ना बशीर साहब का एक बहुत सुंदर शेर है\" end_words \"जो आंखें हमारी कहां से लाएगा\" hook 7 (starts with \"is pe Bashir sahab ka ek sher hai\" — decent). signals: 2 comments on L0038, REPLAYED, slow, pause 3.5s after.\n\n3. Ishq/pyaar sher: L0028–L0029. start_words \"हमें लगता है यही है जो है कि ये जुनून\" end_words \"आजकल कानून तय करता है\" hook 7. signals: REPLAYED on L0028/L0029, comment \"shayri ❤\", audience block quotes it verbatim twice.\n\n4. Rahat Indori ghazal: L0055–L0061. start \"कि मेरे अपने मुझे मिट्टी में मिलाने आए\" end L0061 start \"आए। बालों की बात करी ना\" — hmm end_words should be last few words of L0061... but I want the cut at \"आए\". end_words: \"आए। बालों की बात करी ना इन्होंने\" — the second pass will cut at \"आए\". OK. Length ~55s. why: complete Rahat Indori ghazal about your own people coming to bury you — \"फुर्सतें चाट रही है मेरी हस्ती का लहू\" — the friendship/betrayal ache, ends on \"कोई मुझे बुलाने आए\". hook 7 (\"mere apne mujhe mitti mein milane aaye\" is a strong opening line). signals: comment \"7:10😪💕\" on L0054 (adjacent), REPLAYED? no replay here. pause after L0062/L0063.\n\n5. Muskurao: L0043–L0050. start \"मुस्कुराओ मुस्कुराओ अगर आज कहीं से हार गए हो\" end \"यू कैन ऑलवेज ऑलवेज फिल इट विथ स्माइल्स। मुस्कुराओ।\" 68s. why: whole poem per closed-form rule; reframes loss (\"us jeet ki zaroorat tumse zyada kisi ko thi shayad\"; \"kisi ka jodne ke liye kisi ka todna padta hoga\"). Note long. hook 5. signals: comments \"This piece hits different every time\" L0042, two comments L0043, REPLAYED L0049. MEDIUM confidence, note length and that middle verses are flatter — ship whole per form rule.\n\n6. Junoon/prem: L0023–L0027. start \"जुनून को प्रेम समझ लेते हैं। है ना?\" end \"कैपेसिटी ही उतनी है।\" 48s. why: deep-thought reframe — love's quota is infinite, passion's is limited, so ishq happens with only one person because capacity hi utni hai. Self-contained. hook 5. MEDIUM.\n\n7. Closing: L0064–L0067. start \"हां और जाने से पहले तुम सब दिल टूटे आशिकों को\" end \"मैं अपनी मोहब्बत का सौदा नहीं करूंगी\" ~45s. why: parting reframe to the heartbroken — take your love back from the person leaving, it's your investment; ends on her sher refusing to trade her love even when stabbed in the back. Straddles advice and feeling. MEDIUM; garbled sher noted. hook 5.\n\n8. Julfon sher: L0061–L0062. start \"आए। बालों की बात करी ना इन्होंने\" end \"ना हमारा दम निकलता है\" ~24s (10.9+13.5). why: complete sher contrasting her trivial tedium with his dying breath. Worry: speaker ambiguity (could be host reciting), start includes tail of previous ghazal. LOW confidence. hook 3.\n\nvideo_read: A staged poetry evening — a host brings poet Nayab Mida on stage; she and the host trade original shayari and classic ghazals (Bashir Badr, Rahat Indori) and a recitation of \"Muskurao\" before her closing. The emotional material lives almost entirely in the recited verse between ~2:20 and the end.\n\nnear_misses: maybe L0022 (garbled start \"जब मैं छोटी थी\") — covered by clip 6? Can't compare. why_not for L0022 alone: \"opens on a garbled host interjection; the thought she actually completes starts one line later.\" That's an internal fault, fine. L0041–L0042 host praise \"पोएट्री ऑडियंस यार मजा आ रहा है\" — host reacting, not emotion. L0052 host joke. L0001–L0006 tour announcement.\n\nskipped ranges: L0001–L0009 tour announcement and guest intro; L0010–L0019 banter, chairs, \"time waste\" joke; L0041–L0042 host praise (partially in clip 5's preamble — actually clip 5 starts L0043; L0041–L0042 host request). L0051–L0052 host joke about glass half empty/sharab; L0067–L0068 thank yous and music.\n\nJSON only, with ``` at end. The instruction says use ``` to end the code block. I'll output JSON in a code block."
+}

@@ -20,6 +20,7 @@ export type Step = {
   state: StepState;
   detail?: string;
   at?: number;
+  durationSeconds?: number;
 };
 
 export type Evidence = { at: number; quote: string };
@@ -137,6 +138,7 @@ export type Clip = {
   transcript: string;
   nominated_by: string[];
   flags: string[];
+  cut_status?: "needs_review";
   evidence: { kind: string; text: string }[];
   why_chosen: WhyChosen;
   youtube_url?: string;
@@ -150,7 +152,8 @@ export type ClipsPayload = {
     string,
     {
       video_read: string;
-      coverage: number;
+      coverage: number | null;
+      error?: string | null;
       near_misses: { start_line?: string; end_line?: string; why_not?: string }[];
       skipped: { from_line?: string; to_line?: string; what?: string }[];
     }
@@ -167,6 +170,7 @@ export type PipelineEvent =
       label: string;
       detail?: string;
       at: number;
+      duration_seconds: number;
     }
   | {
       type: "step_fail";
@@ -174,6 +178,7 @@ export type PipelineEvent =
       label: string;
       detail?: string;
       at: number;
+      duration_seconds: number;
     }
   | {
       type: "step_skip";
@@ -181,6 +186,7 @@ export type PipelineEvent =
       label: string;
       detail?: string;
       at: number;
+      duration_seconds: number;
     }
   | { type: "note"; message: string; at: number }
   | ({ type: "verdict"; at: number } & Verdict)
@@ -208,6 +214,13 @@ export function formatDuration(total: number): string {
   const s = total % 60;
   const pad = (n: number) => String(n).padStart(2, "0");
   return h > 0 ? `${h}:${pad(m)}:${pad(s)}` : `${m}:${pad(s)}`;
+}
+
+/** Elapsed processing time, with subsecond detail for short steps. */
+export function formatProcessTime(seconds: number): string {
+  if (seconds < 60) return `${seconds.toFixed(1)}s`;
+  const minutes = Math.floor(seconds / 60);
+  return `${minutes}m ${(seconds - minutes * 60).toFixed(1)}s`;
 }
 
 /** Indian-style short counts: 1.2K, 3.4L, 2.1Cr */

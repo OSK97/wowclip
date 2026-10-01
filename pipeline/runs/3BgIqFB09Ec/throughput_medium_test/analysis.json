@@ -1,0 +1,41 @@
+{
+  "video_id": "3BgIqFB09Ec",
+  "old_findings": {
+    "emotional": {
+      "seconds": 352.5,
+      "provider": "Z.AI",
+      "prompt_tokens": 116187,
+      "completion_tokens": 19915,
+      "reasoning_tokens": 14764,
+      "visible_tokens": 5151,
+      "output_tokens_per_elapsed_second": 56.5,
+      "reasoning_percent_of_output": 74.14,
+      "cost_inr": 2.629,
+      "nominations": 9
+    },
+    "motivational": {
+      "seconds": 504.3,
+      "provider": "Z.AI",
+      "prompt_tokens": 118116,
+      "completion_tokens": 31240,
+      "reasoning_tokens": 23915,
+      "visible_tokens": 7325,
+      "output_tokens_per_elapsed_second": 61.95,
+      "reasoning_percent_of_output": 76.55,
+      "cost_inr": 3.2004,
+      "nominations": 14
+    }
+  },
+  "throughput_note": "End-to-end average including request waiting, not provider-native generation throughput; the old run did not save a generation id or first-token timing.",
+  "old_cut_errors": "23 of 23 saved cuts failed with HTTP 403.",
+  "new_live_test": "Blocked before model generation. OpenRouter confirmed this API key has exceeded its total spending limit. No new speed or quality result is available.",
+  "new_settings": {
+    "reasoning_effort": "medium",
+    "provider": {
+      "sort": "throughput",
+      "require_parameters": true,
+      "allow_fallbacks": true
+    }
+  },
+  "validation": "20 offline provider, reasoning stream, retry and cut-integrity regressions passed; all prompt JSON examples and category compositions parse."
+}

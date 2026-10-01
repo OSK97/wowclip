@@ -1,0 +1,223 @@
+{
+  "category": "motivational",
+  "clips": [
+    {
+      "category": "motivational",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "You would still choose your own problems",
+      "why": "A story that detonates: a panicked father in a taxi with his injured daughter, and the driver quietly hands him the laundry parable — 'you would still choose your own problems' — then 'Don't worry, I'll get you there safe and sound and in time.' It reframes the viewer's own private burden as bearable, even chosen, and the payoff (resilience that lasted his whole career) makes the comfort earned instead of empty. Multiple REPLAYED peaks sit inside this exact run — viewers rewound to it. Runs long at ~82s; the edges can be narrowed to the saying itself (L0175 onward), but the sick-child setup is what makes the words land.",
+      "category_hint": "REFRAME / REASSURANCE EARNED",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0174",
+        "[REPLAYED] on L0176",
+        "[REPLAYED] on L0179",
+        "[REPLAYED] on L0182"
+      ],
+      "start_line": "L0172",
+      "end_line": "L0184",
+      "start_words": "one more personal story",
+      "end_words": "deal with the roller coaster ride of business fortunes",
+      "start_s": 1311.32,
+      "end_s": 1398.24,
+      "duration_s": 86.92,
+      "source_start_s": 1311.32,
+      "source_end_s": 1398.24,
+      "one_liner": false,
+      "text": "every day to living with empathy, and possibly without ever knowing how impactful they have been. So, let me share with you one more personal story. Decades ago, we were in a taxi rushing to get my then 1-year-old daughter to surgery for a hand injury that she had suffered. And my wife and I were beside ourselves with anxiety. My daughter was throwing a tantrum, and the taxi driver clearly picked up on our anxious, intense state. \"May I share an old saying with you?\" he quietly asked us. And he said, \"If everyone's problems were like laundry hanging out to dry in an open field, and you had the opportunity to go out into that field and exchange your laundry, your problems in other words, with anyone else's, you would still choose your own problems.\" And he paused, and he just said quietly, \"Don't worry, I'll get you there safe and sound and in time.\" And at that moment, it was precisely the perspective that I needed. The surgery was a success, and to this day, I look gratefully to that cab driver's wise act of comfort. A man who has no idea that he provided me with a view and a resilience that has helped me throughout my career to deal with the roller coaster ride of business fortunes.",
+      "flags": [],
+      "id": "mot1"
+    },
+    {
+      "category": "motivational",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "Shed the lingering feelings of inferiority",
+      "why": "Names a private humiliation almost nobody says out loud — the 'invisible, pernicious, and lingering feelings of inferiority... the bequest of colonialism' — and then converts it: the company that said 'Indians are second to none' turned that inherited doubt into fuel. Anyone carrying self-doubt about where they come from hears their own feeling spoken and then handed back as a weapon. Ends on the landing line 'And it fueled our self-belief.'",
+      "category_hint": "SELF-BELIEF",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0149",
+      "end_line": "L0155",
+      "start_words": "Now, that core purpose was simply to say",
+      "end_words": "And it fueled our self-belief",
+      "start_s": 1115.04,
+      "end_s": 1162.52,
+      "duration_s": 47.48,
+      "source_start_s": 1115.04,
+      "source_end_s": 1162.52,
+      "one_liner": false,
+      "text": "Now, that core purpose was simply to say, \"Indians are second to none, and we will make products that will prove that to the world.\" I know that sounds terribly parochial. But please understand, at that time, it was a cry to shed the most invisible, pernicious, and lingering feelings of inferiority, and a lack of self-belief, which was the bequest of colonialism. And that really had an electrifying effect on our people. It triggered the David versus Goliath sentiment. It tapped into our collective memories of our founding days where we had succeeded against all odds because we had something to prove. And it fueled our self-belief.",
+      "flags": [],
+      "id": "mot2"
+    },
+    {
+      "category": "motivational",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "Embrace the ought, not the is",
+      "why": "The question every viewer at a low point asks — 'how does it make sense to hold fast to your ideals when the ground feels like quicksand?' — answered with 'a resounding yes,' and then compressed into a quotable inversion: 'embrace the ought, not the is. Shape the world as it ought to be, rather than accepting it as it is.' The opening line is slightly clipped by the transcript ('this where...') but the meaning reconstructs cleanly; the later pass can trim it.",
+      "category_hint": "REFRAME / REALITY CHECK",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [],
+      "start_line": "L0113",
+      "end_line": "L0119",
+      "start_words": "this where there seems to be no certainty",
+      "end_words": "rather than accepting it as it is",
+      "start_s": 838.68,
+      "end_s": 894.84,
+      "duration_s": 56.16,
+      "source_start_s": 838.68,
+      "source_end_s": 894.84,
+      "one_liner": false,
+      "text": "this where there seems to be no certainty, but only shades of gray, how does it make sense for me to tell you to go out into the world holding fast to your ideals? But, my answer to that would be a resounding yes. Because it may in fact be the only way to make sense of a world in which the ground under your feet feels like quicksand. And because all of you are in a unique position to apply those ideals to your work right away. Cuz you've all taken a decision to follow a career path that is going to have a wider impact on global issues than almost any other career. So, my first exhortation to you would be to embrace the ought, not the is. Shape the world as it ought to be, rather than accepting it as it is.",
+      "flags": [],
+      "id": "mot3"
+    },
+    {
+      "category": "motivational",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "They were busy writing our epitaph",
+      "why": "A comeback story for anyone being counted out: crisis hits, the world's most powerful competitors arrive at the door, consultancy firms are 'busy writing our epitaph' — 'And yet, three decades later, here we are.' It lands the prove-them-wrong feeling and pays it off with an answer ('harness the power of purpose') the viewer can carry, even though the answer is stated in corporate language. Runs ~66s including setup; the epitaph-and-yet passage is the moment.",
+      "category_hint": "FAILURE & COMEBACK / PROVE THEM WRONG",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [],
+      "start_line": "L0139",
+      "end_line": "L0145",
+      "start_words": "However, in the early '90s, India and Indian industry",
+      "end_words": "the most important one was to harness the power of purpose",
+      "start_s": 1018.64,
+      "end_s": 1086.56,
+      "duration_s": 67.92,
+      "source_start_s": 1018.64,
+      "source_end_s": 1086.56,
+      "one_liner": false,
+      "text": "However, in the early '90s, India and Indian industry were both in crisis. Faced with the prospect of running out of foreign exchange reserves, India took the radical step of radical of liberalizing its closed economy. And after decades of being protected, suddenly the world's most powerful companies were at our doorstep, anxious to get a temptingly large piece of the Indian pie. For old economy companies like ours, which had prospered under a protectionist regime, and had forgotten really how to compete, the opening up of the Indian economy was like the Grim Reaper knocking at the door. And seriously, there were people around, large consultancy firms, who were busy writing our epitaph. And yet, three decades later, here we are, a multi-billion dollar group, still chugging along and earning goodwill while we do so. So, how did we do it? Well, obviously, there were many ingredients. But to my mind, the most important one was to harness the power of purpose.",
+      "flags": [],
+      "id": "mot4"
+    },
+    {
+      "category": "motivational",
+      "rank": 5,
+      "finder_rank": 5.0,
+      "title": "A pilgrim is a wanderer with a purpose",
+      "why": "The closing definition — 'a pilgrim is a wanderer with a purpose... You are all pilgrims who in the course of your careers will wander through an uncharted world. May you wander through it with purpose.' It hands the viewer a new story about themselves: not lost, but a wanderer with a purpose. A viewer typed the definition back word for word in the comments ('Pilgrim real meaning is a wanderer with purpose. Great inspiration to all') — the exact behaviour the test predicts.",
+      "category_hint": "IDENTITY & SELF-NARRATIVE / ONE-LINER",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "audience comment quoting L0199-L0200 verbatim"
+      ],
+      "start_line": "L0199",
+      "end_line": "L0204",
+      "start_words": "I once read the perfect definition of a pilgrim",
+      "end_words": "wander through it with purpose. Thank you and congratulations",
+      "start_s": 1504.68,
+      "end_s": 1532.84,
+      "duration_s": 28.16,
+      "source_start_s": 1504.68,
+      "source_end_s": 1532.84,
+      "one_liner": false,
+      "text": "I once read the perfect definition of a pilgrim, which says that a pilgrim is a wanderer with a purpose. And I think that pretty much sums up your present and your future. You are all pilgrims who in the course of your careers will wander through an uncharted world. May you wander through it with purpose. Thank you and congratulations.",
+      "flags": [],
+      "id": "mot5"
+    }
+  ],
+  "dropped": [],
+  "near_misses": [
+    {
+      "start_line": "L0125",
+      "end_line": "L0126",
+      "why_not": "'Cynics scoff at phrases like the power of purpose, but in my experience it works' is a claim that points forward to a story it does not contain; alone it is an assertion without the experience behind it."
+    },
+    {
+      "start_line": "L0166",
+      "end_line": "L0168",
+      "why_not": "'Never underestimate the power of purpose' restates the theme as a flat summary with no fresh angle; the conviction is only visible inside the story, not in this sentence."
+    },
+    {
+      "start_line": "L0185",
+      "end_line": "L0190",
+      "why_not": "'Why can't the next individual who brings the is closer to the ought be you?' depends on the ought/is definition given minutes earlier and reads as unfinished without it."
+    },
+    {
+      "start_line": "L0069",
+      "end_line": "L0073",
+      "why_not": "The Bill Gates joke and 'my finest hour' redemption is charming and about the speaker's own moment; it hands the viewer no belief or instruction to carry."
+    }
+  ],
+  "skipped": [
+    {
+      "from_line": "L0001",
+      "to_line": "L0033",
+      "what": "Dean's introduction, Mahindra's résumé, and the medal presentation — ceremonial, no usable moment"
+    },
+    {
+      "from_line": "L0034",
+      "to_line": "L0068",
+      "what": "Greetings, the father and Uncle Fred nostalgia, friendship and tractor anecdote — warm reminiscence, not motivation"
+    },
+    {
+      "from_line": "L0083",
+      "to_line": "L0109",
+      "what": "The world of 1946 and a long metaverse/technology commentary — dry observation with no charge"
+    },
+    {
+      "from_line": "L0126",
+      "to_line": "L0138",
+      "what": "Founding history of Mahindra & Mahindra and 1945 advertisement — background for the later clips"
+    },
+    {
+      "from_line": "L0158",
+      "to_line": "L0165",
+      "what": "The 'rise' credo and corporate purpose evolution — internal company narrative"
+    },
+    {
+      "from_line": "L0168",
+      "to_line": "L0171",
+      "what": "'Take small steps to change the world around you' — generic advice with no fresh angle"
+    }
+  ],
+  "video_read": "Anand Mahindra's Class Day address at the Fletcher School after receiving the Dean's Medal. The first third is the Dean's introduction and ceremonial material; the motivational material lives in the second half of the speech — a story about being written off, a core purpose built to shed inherited feelings of inferiority, a taxi driver's parable about problems, and the closing 'wanderer with a purpose' definition that a viewer quoted back word for word in the comments.",
+  "coverage": 0.847,
+  "usage": {
+    "prompt_tokens": 25079,
+    "completion_tokens": 7176,
+    "total_tokens": 32255,
+    "cost": 0.00734985,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00734985,
+      "upstream_inference_prompt_cost": 0.00376185,
+      "upstream_inference_completions_cost": 0.003588
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 5260,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    },
+    "provider": "Z.AI",
+    "reasoning_tokens": 5260
+  },
+  "error": null,
+  "seconds": 169.3,
+  "coverage_note": null,
+  "reasoning": "Let me read this transcript carefully. It's Anand Mahindra's Class Day speech at Fletcher School, receiving the Dean's Medal. ~26 minutes.\n\nThe audience: pride, admiration. One commenter: \"Pilgrim real meaning is a wanderer with purpose. Great inspiration to all\" — that's tied to the pilgrim lines at the end (L0199-L0200).\n\nWhat are candidate moments for motivation mindset clips?\n\n1. L0118-L0119: \"embrace the ought, not the is. Shape the world as it ought to be, rather than accepting it as it is.\" This is a quotable reframe. Standalone? Needs some context — L0113-L0115 sets it up: \"where there seems to be no certainty... how does it make sense for me to tell you to go out into the world holding fast to your ideals? But, my answer to that would be a resounding yes.\" Actually starting at L0113 works: \"this where there seems to be no certainty, but only shades of gray, how does it make sense...\" Hmm, mid-thought. Maybe start L0115: \"But, my answer to that would be a resounding yes. Because it may in fact be the only way...\" then through L0119. Actually L0115 alone carries: \"resounding yes... only way to make sense of a world in which the ground under your feet feels like quicksand.\" Then L0118-L0119 the exhortation. That's a clip: ~25s.\n\n2. L0125: \"Cynics scoff at phrases like the power of purpose, but I have to tell you in my experience it works.\" Then the business story — L0145-L0157: purpose story, \"Indians are second to none, and we will make products that will prove that to the world\" — L0151: \"it was a cry to shed the most invisible, pernicious, and lingering feelings of inferiority, and a lack of self-belief, which was the bequest of colonialism.\" That's a strong reframe about colonial inferiority — a private feeling named. L0149-L0157 is strong. \"I know that sounds terribly parochial. But please understand, at that time, it was a cry to shed the most invisible, pernicious, and lingering feelings of inferiority, and a lack of self-belief, which was the bequest of colonialism.\" Then \"It fueled our self-belief... profits went up 33 times, stock price 72 times.\"\n\nIs this mine? The 2am viewer — the person carrying self-doubt, inferiority. \"Shed the most invisible, pernicious, and lingering feelings of inferiority... bequest of colonialism\" — names a private humiliation (inherited inferiority) and converts it. That's a SELF-BELIEF clip. Start at L0148 or L0149. L0149 includes the core purpose line. Start L0149 (\"Now, that core purpose was simply to say, 'Indians are second to none...'\"). End at L0157 (profits). Actually ending at L0156 \"it contributed to concrete results\" might be enough; L0157 gives the numbers. Numbers = evidence, earned reassurance. Take through L0157.\n\n3. The taxi driver laundry story L0172-L0184: \"If everyone's problems were like laundry hanging out to dry... you would still choose your own problems.\" This is a reframe that lands — REASSURANCE earned through a story. The REPLAYED tags show it. \"Don't worry, I'll get you there safe and sound and in time.\" Ends \"a resilience that has helped me throughout my career to deal with the roller coaster ride of business fortunes.\" Strong clip. Start L0172 (\"So, let me share with you one more personal story.\") through L0184. ~45s. That works. Maybe start at L0172. End L0184 or L0183. L0184 ends the thought.\n\n4. Pilgrim definition L0196-L0204: \"a pilgrim is a wanderer with a purpose... You are all pilgrims who... will wander through an uncharted world. May you wander through it with purpose.\" The commenter quoted this: \"Pilgrim real meaning is a wanderer with purpose. Great inspiration to all.\" That's the strongest confirmation available. Clip: L0196-L0204, ~27s. Actually the comment appears in the audience block, not attached to a line in the transcript — but the phrase matches L0199-L0200 exactly. Still, the audience block says it's about the video overall... \"Pilgrim real meaning is a wanderer with purpose. Great inspiration to all 👏👏👏\" — the viewer typed the line back word for word. That's the exact behaviour the test predicts. Take L0196-L0204. Or L0199-L0204. Starting at L0196 \"He came as the original pilgrim seeking answers\" then \"In a way, so are you all. pilgrims in search of answers.\" That's a nice build. L0196-L0204 ≈ 6.6+6.6+3.4+6.5+1.5+6.0+1.8+6.0+4.0 ≈ 42s. Hmm, maybe trim to L0199-L0204: 6.5+1.5+6.0+1.8+6.0+4.0 ≈ 25.8s. \"I once read the perfect definition of a pilgrim...\" — self-contained. Good.\n\n5. L0069-L0073 Bill Gates daughters joke — \"Dad, in that case you might as well just give up and retire now. So today is a moment of redemption for me.\" Humour, redemption — \"being invited to speak at Fletcher's Class Day is my finest hour.\" That's more charming than mindset-shifting. Probably not mine — warmth without a change in how the viewer sees themselves. Skip. Though the joke is shareable... it's about him, not the viewer. Skip.\n\n6. L0143-L0144: \"there were people around, large consultancy firms, who were busy writing our epitaph. And yet, three decades later, here we are, a multi-billion dollar group... So, how did we do it?\" — PROVE THEM WRONG. Could be a clip: L0139-L0144 or L0142-L0145. \"the opening up of the Indian economy was like the Grim Reaper knocking at the door... people busy writing our epitaph. And yet, three decades later, here we are...\" That's a comeback story with a principle (\"harness the power of purpose\" at L0145). Could stand alone: L0142-L0145 ≈ 8.4+15+9.8+5.6 = 38.8s. Or extend to L0145 ending \"the most important one was to harness the power of purpose.\" Hmm — but it's about a company, \"our epitaph\", we as Indian company. For the 2am viewer — being written off, then surviving — it does land. I'll consider it a near-miss or a clip. The payoff \"how did we do it? ... harness the power of purpose\" is a bit corporate. MEDIUM/LOW confidence. I think the stronger clip is the inferiority/self-belief one (L0149-L0157), which uses the same story. The epitaph moment is a separate landing though. I'll return it as a separate clip? Let me check: L0142-L0145. \"For old economy companies like ours, which had prospered under a protectionist regime...\" — opens mid-context. Need L0139-L0141 for setup: India in crisis, liberalization, world's most powerful companies at doorstep. L0139-L0145 ≈ 5.3+11.6+10.3+8.4+15+9.8+5.6 ≈ 66s. Long. The epitaph line + \"and yet\" is the punch. I'll return it with self_contained true starting L0139... \"However, in the early '90s, India and Indian industry were both in crisis.\" OK as a standalone. Actually a viewer sees \"we\" as Mahindra Group — it's a company story. Does it hand the viewer something? \"They were writing our epitaph, and yet here we are\" — the feeling is \"survive the write-off.\" It's decent but the purpose answer is corporate. I'll include it as a clip with MEDIUM confidence, or as near-miss. Given the asymmetry (omission is expensive), return it.\n\n7. L0125-L0126: \"Cynics scoff at phrases like the power of purpose, but I have to tell you in my experience it works. Let me share the story...\" — this leads into the same business story. Covered by clips 2/3 arrangement. If I take L0149-L0157, the cynics line is separate and generic-ish. Skip or include? \"Cynics scoff at phrases like the power of purpose, but I have to tell you in my experience it works\" — one-liner, decent. But weak without the story. Skip as near-miss.\n\n8. L0110-L0117: \"You have all experienced the disruption caused by COVID...\" — context for ideals. Part of clip 1's setup.\n\n9. L0166-L0168: \"I'm a hard-headed businessman, not an armchair philosopher, but personal experience has taught me never to underestimate the power of purpose in business or in life.\" — quotable-ish but repeats purpose theme. Near-miss maybe.\n\n10. L0185-L0190: \"You will similarly have no difficulty in finding such inspirational people... These are people who commit themselves to helping others rise... And I ask you, why can't the next individual who brings the is closer to the ought be you?\" — \"Why can't that be you?\" ending. Decent: L0190 alone: \"They find ways to shape their world into what it ought to be. And I ask you, why can't the next individual who brings the is closer to the ought be you?\" Needs \"the is\" and \"the ought\" defined — which comes from L0118-L0119. Self-contained? Marginal — \"the is closer to the ought\" without definition. Near-miss or include with context. I'd say near-miss: needs the earlier definition.\n\nAlso check the cold open concern: the video starts with the Dean's introduction — not a montage; it's the award ceremony intro. L0001-L0032 is intro/award — skip. L0034-L0045 greetings and joke — skip.\n\nNow decide clips list, ordered:\n\n1. Laundry story (L0172-L0184) — REPLAYED tags, story detonates, reframe of your own problems. Strongest.\n2. \"Indians are second to none\" / shedding colonial inferiority (L0149-L0157) — SELF-BELIEF, names inherited inferiority.\n3. Pilgrim definition (L0199-L0204) — one-liner-ish, viewer typed it back.\n4. Embrace the ought not the is (L0115-L0119) — quotable reframe. Start: L0115 \"But, my answer to that would be a resounding yes.\" Hmm, \"But\" and \"my answer\" points at the question in L0113-L0114. Self-contained? \"how does it make sense for me to tell you to go out into the world holding fast to your ideals? But my answer... yes.\" To be self-contained, start L0113. L0113: \"this where there seems to be no certainty, but only shades of gray, how does it make sense for me to tell you to go out into the world holding fast to your ideals?\" That starts awkwardly (\"this where...\"). Start L0112-L0114? L0112 \"And in such a situation,\" L0113, L0114. Actually starting at L0113 with \"this where there seems to be no certainty\" — a later pass can trim. I'll start at L0112 for \"And in such a situation\" — also awkward. Better: start L0113. Or just take L0115-L0119 and set self_contained true — \"my answer to that\" refers to the question... risky. Take L0110-L0119: \"You have all experienced the disruption caused by COVID... You're seeing a world where few leaders are true or permanent role models. And in such a situation, where there seems to be no certainty, but only shades of gray, how does it make sense for me to tell you to go out into the world holding fast to your ideals? But, my answer... yes... embrace the ought, not the is.\" That's self-contained and ~35s. Good. Start L0110, end L0119.\n\n5. Epitaph / prove them wrong (L0139-L0145) — comeback. Include with MEDIUM.\n\nOrder by strength: laundry story first? Or \"Indians are second to none\"? The laundry story has REPLAYED and is the best story. Rank:\n\n1. Laundry story\n2. Second to none / inferiority\n3. Ought not is\n4. Epitaph\n5. Pilgrim\n\nHmm, the pilgrim one has the strongest audience confirmation. But its category is more inspirational-close. Keep it at 3 or 4. Order: 1 laundry, 2 second-to-none, 3 ought, 4 epitaph, 5 pilgrim.\n\nDurations check:\n- Laundry: L0172-L0184: 11.5+7.2+11.2+7.4+1.6+3.8+3.8+6.5+5.3+4.2+4.4+11.7+3.6 = 82.2s. That's long — over a minute. Hmm. Can I trim? Core: the driver's saying + \"I'll get you there safe and sound\" + the gratitude/resilience payoff. L0173-L0184: 7.2+11.2+7.4+1.6+3.8+3.8+6.5+5.3+4.2+4.4+11.7+3.6 = 70.7s. Still long. L0175-L0184: 7.4+1.6+3.8+3.8+6.5+5.3+4.2+4.4+11.7+3.6 = 52.3s. Starting at L0175 \"May I share an old saying with you?\" — that's a decent cold open actually, question hook. Ends L0184 \"deal with the roller coaster ride of business fortunes.\" 52s. Length is not grounds for discard; the build does real work. I'll return L0175-L0184 and note it runs ~52s. Actually the setup (sick daughter in taxi) is what makes the driver's words land. Without it, \"May I share an old saying\" from a cab driver context... the listener doesn't know it's a taxi or a sick child. Hmm. L0172-L0174 sets the scene. The REPLAYED tags sit at L0174, L0176, L0179, L0182, L0183 — the whole story. Return L0172-L0184 (82s) and let the second pass narrow? The instructions: \"If the only thing wrong with a passage is that it runs long, return it and say so.\" Yes — return L0172-L0184, note in why that the edges can be narrowed to the saying itself (L0175-L0184).\n\n- Second to none: L0149-L0157: 12.7+1.6+8.6+4.9+1.8+8.1+7.1+4.7+14.7 = 64.2s. Also long. Core landing: L0149-L0155: 12.7+1.6+8.6+4.9+1.8+8.1+7.1 = 44.8s. End L0155 \"And it fueled our self-belief.\" That's the landing. L0156-L0157 adds results. I'll take L0149-L0155 and mention numbers optional. Actually L0157's numbers are the proof. Return L0149-L0157 (64s) with note? Or L0149-L0155 (45s)? The landing \"it fueled our self-belief\" is clean. I'll go L0149-L0155.\n\n- Ought: L0110-L0119: 9.2+9.2+1.8+8.4+2.5+13.8+6.9+7.9+7.5+6.9 = 74.1s. Long. Trim: L0112-L0119 = 1.8+8.4+2.5+13.8+6.9+7.9+7.5+6.9 = 55.7s. Still long. The essential: question + resounding yes + exhortation. L0113-L0119 = 8.4+2.5+13.8+6.9+7.9+7.5+6.9 = 53.9s. Hmm. Could cut L0116-L0117 (career-specific, aimed at Fletcher grads). L0113-L0115 + L0118-L0119 — but clips are contiguous. Take L0113-L0119 and let second pass trim. Or return the one-liner: L0118-L0119 \"my first exhortation to you would be to embrace the ought, not the is. Shape the world as it ought to be, rather than accepting it as it is.\" 14.4s — \"my first exhortation to you\" — decent open. That's a clean short clip. Two entries? The pair rule: return parts and whole? These are adjacent landings. I could return L0113-L0119 as the clip. I'll do L0113-L0119 with note.\n\n- Epitaph: L0139-L0145 = 5.3+11.6+10.3+8.4+15+9.8+5.6 = 66s. Trim to L0142-L0145 = 38.8s but \"For old economy companies like ours\" needs setup. Keep L0139-L0145, or start L0140 \"Faced with the prospect of running out of foreign exchange reserves, India took the radical step...\" — needs \"India... crisis\" context. L0139 start is fine. 66s, note it. Or end at L0144 (\"here we are, a multi-billion dollar group, still chugging along... So, how did we do it? Well, obviously, there were many ingredients.\") — that ends on a hanging \"how did we do it?\" Must end at L0145 to land: \"the most important one was to harness the power of purpose.\" OK L0139-L0145.\n\n- Pilgrim: L0199-L0204 = 6.5+1.5+6.0+1.8+6.0+4.0 = 25.8s. Good. Or L0196-L0204 (~42s). L0196-L0198 gives the \"you are pilgrims\" address. I'll take L0196-L0204? L0196: \"He came as the original pilgrim seeking answers.\" \"He\" = his father — pronoun pointing outside. So start L0199. L0199-L0204, self-contained. 26s.\n\nNear misses:\n- L0166-L0167: \"hard-headed businessman... never underestimate the power of purpose\" — repeats theme, generic without the story.\n- L0125: \"Cynics scoff...\" — leads into story, one-liner that's semi-generic alone. Actually \"Cynics scoff at phrases like the power of purpose, but I have to tell you in my experience it works\" — decent one-liner. why_not: it sets up a story it doesn't contain; alone it's a claim without the experience behind it. Hmm, that's a comparison-ish? No, it's a fault inside the passage. Fine.\n- L0185-L0190: \"why can't the next individual who brings the is closer to the ought be you\" — depends on the ought/is definition given earlier.\n- L0069-L0073: Bill Gates joke — charming, but about him, no principle for the viewer.\n\nSkipped ranges:\n- L0001-L0033: Dean's introduction and medal presentation.\n- L0034-L0068: greetings, father/Uncle Fred nostalgia.\n- L0069-L0082: Bill Gates joke and Socrates joke.\n- L0083-L0109: 1946 world picture and metaverse commentary.\n- L0126-L0138: founding history of Mahindra & Mahindra.\n- L0158-L0165: \"rise\" credo, corporate purpose evolution.\n- L0168-L0171: small steps exhortation.\n\nstart_words/end_words — copy exactly.\n\nClip 1: L0172-L0184. start_words: \"So, let me share with you one more personal story\" (L0172 begins \"every day to living with empathy, and possibly without ever knowing how impactful they have been. So, let me share with you one more personal story.\"). Copy last few words of L0172: \"one more personal story\". end_words L0184: \"to deal with the roller coaster ride of business fortunes\".\n\nClip 2: L0149-L0155. start_words: \"Now, that core purpose was simply to say\". end_words: \"And it fueled our self-belief\".\n\nClip 3: L0113-L0119. start_words: \"this where there seems to be no certainty\". end_words: \"rather than accepting it as it is\". Wait L0119: \"Shape the world as it ought to be, rather than accepting it as it is.\" Yes.\n\nClip 4: L0139-L0145. start_words: \"However, in the early '90s, India and Indian industry\". end_words: \"the most important one was to harness the power of purpose\".\n\nClip 5: L0199-L0204. start_words: \"I once read the perfect definition of a pilgrim\". end_words: \"May you wander through it with purpose. Thank you and congratulations\". Hmm — end before \"Thank you and congratulations\"? end_words should be last few words of the line as written; the second pass picks the exact cut. Use \"with purpose. Thank you and congratulations\" — copy exactly: \"May you wander through it with purpose. Thank you and congratulations.\" I'll give end_words \"wander through it with purpose. Thank you and congratulations\".\n\nhook_strength: clip1 ~6 (scene setup), clip2 ~6 (\"that core purpose was simply to say\" — mild), clip3 ~5, clip4 ~6 (\"India and Indian industry were both in crisis\" — decent), clip5 ~5.\n\nvideo_read: Anand Mahindra's Class Day address at Fletcher after receiving the Dean's Medal; motivational material lives in the second half — purpose, self-belief, the taxi driver's laundry parable, and the pilgrim closing."
+}

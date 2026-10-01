@@ -1,0 +1,857 @@
+{
+  "meta": {
+    "payload": "C:\\Users\\DP\\Desktop\\App\\website\\pipeline\\runs\\3BgIqFB09Ec\\3BgIqFB09Ec_payload.txt",
+    "model": "z-ai/glm-5.3-flash",
+    "effort": "high",
+    "clip_start_s": 0.0,
+    "duration_s": 6710.0,
+    "lines": 771,
+    "categories": [
+      "emotional",
+      "motivational"
+    ],
+    "video": {
+      "video_id": "3BgIqFB09Ec",
+      "title": "Shahid Kapoor Unfiltered On Life, Marriage, Parenting, Movies, Acting & Failures | FO307 Raj Shamani",
+      "channel": "Raj Shamani",
+      "duration_s": 6710.0,
+      "views": "3160149"
+    }
+  },
+  "by_category": {
+    "emotional": {
+      "video_read": "A ~112 minute Raj Shamani podcast with Shahid Kapoor. Most of the runtime is career, stardom and mindset talk, but the emotional core lives in three pockets: the childhood-and-parents stretch around L0298-L0361 (parentified son, a home with one parent, the nana ji memory), the vulnerability stretch around L0177-L0184 (being made to feel lesser), and the heartbreak conversation around L0694-L0730. Several clips are confirmed by viewer comments and replay data.",
+      "coverage": 0.911,
+      "error": null,
+      "near_misses": [
+        {
+          "start_line": "L0281",
+          "end_line": "L0289",
+          "why_not": "The claim that 90 percent of personality is formed by age seven and the rest is managing that 90 percent is a real, quotable idea, but it stays a finding — the viewer's response is 'huh, interesting' rather than being seen, and the destiny extension dilutes it."
+        },
+        {
+          "start_line": "L0133",
+          "end_line": "L0139",
+          "why_not": "Negative emotions as fuel, with the burnt-house metaphor — the thought is honest but the transcription is garbled enough that the metaphor half-lands and the passage never settles into one clean feeling."
+        },
+        {
+          "start_line": "L0409",
+          "end_line": "L0417",
+          "why_not": "'Be your own favourite' is warm and quotable but reads as a pleasant instruction rather than something the viewer recognises painfully in their own life."
+        },
+        {
+          "start_line": "L0513",
+          "end_line": "L0523",
+          "why_not": "Parenting philosophy about letting children fall softly and unconditional love — true and well meant, but it stays general parenting guidance without naming a specific lived feeling."
+        },
+        {
+          "start_line": "L0458",
+          "end_line": "L0464",
+          "why_not": "The kneecap-bone image about children needing to fall to become strong is vivid, but the passage is a debate exchange about his brother and the landing is instruction-shaped rather than felt."
+        },
+        {
+          "start_line": "L0712",
+          "end_line": "L0715",
+          "why_not": "The honest admission of neediness in love is real, but the thought completes only with the surrounding heartbreak discussion and on its own it reads as a fragment of a bigger point."
+        }
+      ],
+      "skipped": [
+        {
+          "from_line": "L0001",
+          "to_line": "L0026",
+          "what": "cold open montage, channel subscribe read and episode trailer"
+        },
+        {
+          "from_line": "L0027",
+          "to_line": "L0110",
+          "what": "humility, faking it, stardom and power dynamics — career/motivation territory"
+        },
+        {
+          "from_line": "L0110",
+          "to_line": "L0132",
+          "what": "aura anecdote and failure-as-fuel framing"
+        },
+        {
+          "from_line": "L0153",
+          "to_line": "L0175",
+          "what": "victim mindset flip and energy/electricity metaphor — motivational register"
+        },
+        {
+          "from_line": "L0204",
+          "to_line": "L0278",
+          "what": "simplicity, universe feedback, cinema's emotional power, craft and imagination talk"
+        },
+        {
+          "from_line": "L0314",
+          "to_line": "L0348",
+          "what": "kindness register, destiny, male energy and the two-feet parenting image"
+        },
+        {
+          "from_line": "L0362",
+          "to_line": "L0375",
+          "what": "host's grandfather swimming-pool story — charming but motivational in shape"
+        },
+        {
+          "from_line": "L0383",
+          "to_line": "L0397",
+          "what": "relationships, maturity and Dhoni captain-cool analogy"
+        },
+        {
+          "from_line": "L0418",
+          "to_line": "L0444",
+          "what": "comparison loop, fashion-sense and Sachin cover-drive — advice register"
+        },
+        {
+          "from_line": "L0445",
+          "to_line": "L0512",
+          "what": "elder brother, anger control, Nietzsche morality, parenting three-body problem"
+        },
+        {
+          "from_line": "L0539",
+          "to_line": "L0604",
+          "what": "second child, values for kids, emotional maturity study and marriage setup"
+        },
+        {
+          "from_line": "L0605",
+          "to_line": "L0693",
+          "what": "two kinds of people, ambition vs family debate, friendship and alone time"
+        },
+        {
+          "from_line": "L0718",
+          "to_line": "L0745",
+          "what": "asking in relationships, trust and betting on talent — interview/insight territory"
+        },
+        {
+          "from_line": "L0746",
+          "to_line": "L0798",
+          "what": "directors he trusted, fears, the artist's inner child and creation talk"
+        },
+        {
+          "from_line": "L0798",
+          "to_line": "L0827",
+          "what": "farewell exchange, respect-boundary moment and outro subscribe read"
+        }
+      ],
+      "dropped": []
+    },
+    "motivational": {
+      "video_read": "Shahid Kapoor on Raj Shamani's podcast — a long, unusually open Hindi-English conversation about his childhood, being made to feel less, failure, love, marriage and fatherhood. The motivational material is scattered through the middle and late portions: reframes about measuring success from where you started, heartbreak as the moment you decide who you become, generating your own motivation instead of borrowing it, and several hard-won identity claims. The opening three minutes are montage and subscribe reads.",
+      "coverage": 0.75,
+      "error": null,
+      "near_misses": [
+        {
+          "start_line": "L0136",
+          "end_line": "L0138",
+          "why_not": "The house-on-fire metaphor is genuinely striking but arrives half-built and garbled in the transcription; the vortex-dark-energy idea does not complete cleanly enough for a stranger to follow on its own."
+        },
+        {
+          "start_line": "L0284",
+          "end_line": "L0289",
+          "why_not": "The fatalistic first half — personality fixed by age seven, destiny decides the hand — outweighs the 'how well you play your hand' landing; the direction is uncertain and risks leaving the viewer smaller."
+        },
+        {
+          "start_line": "L0150",
+          "end_line": "L0157",
+          "why_not": "The flip is announced ('मैंने उस चीज को कंप्लीट फ्लिप किया') but the explanation of what actually changed never arrives before the passage dissolves into post-covid vagueness; the thought does not complete."
+        },
+        {
+          "start_line": "L0733",
+          "end_line": "L0735",
+          "why_not": "The quotable line about trusting your own read of people is embedded in fragmented host-guest ping-pong where the thought never finishes — only fragments are reachable and each is broken."
+        },
+        {
+          "start_line": "L0779",
+          "end_line": "L0793",
+          "why_not": "The 'child inside made me choose this' idea is real, but the delivery here is fragmented and the payoff about success living in the creation of art is quoted secondhand without its build."
+        }
+      ],
+      "skipped": [
+        {
+          "from_line": "L0001",
+          "to_line": "L0009",
+          "what": "cold-open montage; every line repeats later in the interview"
+        },
+        {
+          "from_line": "L0010",
+          "to_line": "L0026",
+          "what": "subscribe appeal and episode trailer"
+        },
+        {
+          "from_line": "L0027",
+          "to_line": "L0072",
+          "what": "self-definition, humility, operating out of love — reflective but slow and conversational"
+        },
+        {
+          "from_line": "L0073",
+          "to_line": "L0105",
+          "what": "power dynamics, star deliverables, fake humility — insider fame talk with no hand-off to the viewer"
+        },
+        {
+          "from_line": "L0109",
+          "to_line": "L0120",
+          "what": "host complimenting Shahid's aura — praise exchange, not motivation"
+        },
+        {
+          "from_line": "L0203",
+          "to_line": "L0252",
+          "what": "simplicity, universe relationship, cinema helping him process emotions — pleasant, no charge"
+        },
+        {
+          "from_line": "L0253",
+          "to_line": "L0316",
+          "what": "dark side, childhood memories, parents' separation — biography and sadness without a turn"
+        },
+        {
+          "from_line": "L0322",
+          "to_line": "L0362",
+          "what": "karma and accountability philosophical debate — rambling, no landing"
+        },
+        {
+          "from_line": "L0463",
+          "to_line": "L0507",
+          "what": "brotherhood, anger, self-control counts — decent values talk but diffuse"
+        },
+        {
+          "from_line": "L0507",
+          "to_line": "L0548",
+          "what": "parenting specifics, three-body problem, first vs second child — aimed at parents, administrative"
+        },
+        {
+          "from_line": "L0583",
+          "to_line": "L0604",
+          "what": "marriage veto lists and car decisions — relationship admin"
+        },
+        {
+          "from_line": "L0637",
+          "to_line": "L0692",
+          "what": "energy you put out, friends, alone time — pleasant conversation without a landing"
+        },
+        {
+          "from_line": "L0737",
+          "to_line": "L0762",
+          "what": "trusting directors and talent before success — career-specific industry talk"
+        },
+        {
+          "from_line": "L0796",
+          "to_line": "L0827",
+          "what": "closing courtesies, parting advice, outro and subscribe read"
+        }
+      ],
+      "dropped": []
+    }
+  },
+  "clips": [
+    {
+      "category": "emotional",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "Roles reverse: पहले आप बेटे हो, फिर आप बाप बनते हो",
+      "why": "He names the hole plainly — 'from the age of three I lived with my mom, I would see my father only once in a year, the male presence in my life was much less than what is normal' — and then lands the reframe that only a parent can deliver: now that he has children he can see how even a couple of days away affects his own son, and he understands his father for the first time. 'Roles reverse, first you are a son and then you are a father... life is completing a cycle.' A viewer with an absent or half-present parent feels seen, and a viewer who is now the parent feels the forgiveness arrive. A viewer comment on this exact line says 'part of my life hits my heart' — the behaviour we are predicting, already performed.",
+      "category_hint": "parents / generational",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0313"
+      ],
+      "start_line": "L0308",
+      "end_line": "L0313",
+      "start_words": "दैट हैव डीप शेप्ड हु आई एम यस आई डिड कम फ्रॉम अ होम",
+      "end_words": "हैपेंस इट्स लाइक लाइफ इज कंपलीटिंग अ साइकल",
+      "start_s": 2416.88,
+      "end_s": 2477.4,
+      "duration_s": 60.52,
+      "source_start_s": 2416.88,
+      "source_end_s": 2477.4,
+      "one_liner": false,
+      "text": "दैट हैव डीप शेप्ड हु आई एम यस आई डिड कम फ्रॉम अ होम वे माय पेरेंट्स र नॉट टुगेदर फ्रॉम द एज ऑफ थ्री आई लिव अ लॉट विथ माय मॉम आई वुड सी माय फादर ओनली वंस इन द ईयर अ सो द मेल प्रेजेंस इन माय लाइफ वाज लेस मच मच मच लेस देन व्ट इज नॉर्मल नाउ बिकॉज आई हैव चिल्ड्रन एंड आई कैन सी व्हेन आई एम नॉट देयर और इवन फॉर अ कपल ऑफ डेज हाउ दैट अफेक्ट्स माय सन एंड माय डॉटर इट वेरी क्लीयरली गिव्स मी पर्सपेक्टिव टू कंपेयर टू मे बी हाउ आई माइट हैव फेल्ट एज अ चाइल्ड अ सो दोस दोज थिंग्स बिकम अपेरेंट बिकॉज ट्स द ब्यूटी ऑफ लाइफ राइट लाइक रोल्स रिवर्स फर्स्ट यू आर अ सन एंड देन यूर अ फादर यू नो फ ूर अ अ डॉटर एंड देन यू आर अ मदर यू नो सो दैट दैट रोल रिवर्सल विल हैपन एंड व्हेन दैट रोल रिवर्सल हैपेंस इट्स लाइक लाइफ इज कंपलीटिंग अ साइकल सो यू हैव टू डायमेंशन और टू साइड्स टू कंपेयर हम यू नो एंड अ लॉट ऑफ टाइम्स इट ब्रिंग्स अबाउट बोथ टाइप्स ऑफ फीलिंग्लेस",
+      "flags": [],
+      "id": "emo1"
+    },
+    {
+      "category": "emotional",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "प्यार में अपनी डिग्निटी टूट जाती है — और पता भी नहीं चलता",
+      "why": "The most precise thing said about heartbreak in the whole episode: 'you love someone so much that when they reject you, you chase them to the degree where your own dignity breaks — you sacrifice it and you don't even realise you've lost your self-respect, and the realisation comes years later, yaar, what was I doing.' Then the landing line 'the most interesting thing about love is that you can lose your own self-respect in it.' It names something an enormous number of people did and only understood late; the delayed realisation is the ache. Replay data peaks right on the landing line.",
+      "category_hint": "heartbreak",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "[REPLAYED] on L0703",
+        "comment on L0694",
+        "comment on L0699"
+      ],
+      "start_line": "L0698",
+      "end_line": "L0703",
+      "start_words": "ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में",
+      "end_words": "यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव",
+      "start_s": 5634.2,
+      "end_s": 5673.0,
+      "duration_s": 38.8,
+      "source_start_s": 5634.2,
+      "source_end_s": 5673.0,
+      "one_liner": false,
+      "text": "ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो कि आप जब वह आपको रिजेक्ट कर देते हैं तो आप उनके पीछे भागते हो टू अ डिग्री जहां आपकी अपनी डिग्निटी टूट जाती है आप अपनी डिग्निटी सैक्रिफाइस कर देते हो और आपको रिलाइज भी नहीं होता कि अब नाउ यू हैव लॉस्ट योर सेल्फ रिस्पेक्ट इन द प्रोसेस यू नो और वो रिलाइजेशन बड़े साल बाद होता है कि यार मैं क्या कर रहा था क्या कर रहा था यार मतलब आई वुड टेल माय बेस्ट फ्रेंड कि ब्रो जस्ट होल्ड ऑन टू योर डिग्निटी ऐसे मत कर यू नो तो वो आई थिंक सबसे इंटरेस्टिंग चीज है ना प्यार के बारे में कि यू कैन लूज",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "emo2"
+    },
+    {
+      "category": "emotional",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "नाना जी की घड़ी और स्कूल छोड़ने वाला हाथ",
+      "why": "A story carried entirely by physical detail: the grandfather's watch with a cracked glass that he wore every day, the big Ashok Kumar glasses, the very loving eyes — and the fact that he held his hand and walked him to school every single day through rain and through his own illness. 'I don't remember a single day he missed. That became my standard as a parent. That became my definition.' One quiet detail does the whole thing; the viewer immediately thinks of the person who did this for them, or whether anyone did.",
+      "category_hint": "tenderness / grandparents",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0349",
+      "end_line": "L0361",
+      "start_words": "फॉर मी यू नो सो ही इज माय स्ट्रांगेस्ट मेमोरी",
+      "end_words": "बिकम माय डेफिनेशन सो यू हैव टू टेक द डेफिनेशन",
+      "start_s": 2720.44,
+      "end_s": 2817.2,
+      "duration_s": 96.76,
+      "source_start_s": 2720.44,
+      "source_end_s": 2817.2,
+      "one_liner": false,
+      "text": "फॉर मी यू नो सो ही इज माय स्ट्रांगेस्ट मेमोरी एज अ चाइल्ड इज विथ माय मैटरनल ग्रैंडफादर माय नाना जी मुझे कोई कोई अच्छी मेमोरी बताओ जोट इंपैक्टेड ना यह समझाना बड़ा मुश्किल है उनकी एक ट्वीट की गोल्फर हैट थी वो मेरे लिए बहुत बड़ी मेमरी है उनकी एक घड़ी थी जिसमें क्रैक था और वह घड़ी पहनते थे रोज वही वाली और उसका ग्लास क्रैक हो गया था वो मेरे लिए बहुत बड़ी विजुअल मेमोरी है उनके बड़े-बड़े चश्मे ब्लैक वाले यू नो किशोर कुमार टाइप किशोर कुमार नहीं अशोक कुमार सर वैसे पहनते थे उस टाइप के बड़े चश्मे ही हैड वेरी काइंड वेरी लविंग आईज एंड ही वास अ वेरी ब्यूटीफुल राइटर तो उनकी जबान बहुत बहुत बहुत बहुत अच्छी थी और व बहुत एजुकेटेड और बहुत इवॉल्वड थे बहुत फिलोसॉफिकल थे एक्सट्रीमली वेल रेड तो जब भी मैं स्कूल जाता था मुझे याद है जब तक मैं बम्बे शिफ्ट नहीं हुआ मैं आई थिंक आई वाज ऑलमोस्ट 11 न आ 10 एंड हाफ और 11 मुझे आज तक याद नहीं कि बारिश हो रही होगी कि उनकी तबीयत खराब होगी कि मैं अकेला स्कूल चल के गया इट वा 10 मिनट्स वाकिंग डिस्टेंस ही वुड होल्ड माय हैंड एंड ड्रॉप मी टू स्कूल एवरी डे आई डोंट रिमेंबर अ सिंगल डे ही हैज मिस्ड वा सो फॉर मी दैट इज माय स्टैंडर्ड एज अ पेरेंट च आईल नेवर मीट यू नो बट दैट फॉर मी डिफाइन माय स्टैंडर्ड सो ही वाज डूइंग द दैट फॉर मी सो दैट बिकम माय डेफिनेशन सो यू हैव टू टेक द डेफिनेशन दैट वर्क्स फॉर यू ट्रू आई कुड हैव टेकन अनदर वन",
+      "flags": [],
+      "id": "emo3"
+    },
+    {
+      "category": "emotional",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "जो बच्चा पूरे घर को खुश रखता है, वो खुद को भूल जाता है",
+      "why": "He defines the parentified eldest child from the inside: knowingly and unknowingly the parents have expectations, and the elder kid spends full time trying to keep impressing them — 'maybe he never even said it but I want to do it, and the extra thing — if mamma is sad, then I am there, because of me she will stay happy.' Then the two sentences that name the cost: 'for the longest time I did that... and in this situation you forget yourself.' The person everyone leaned on as a child hears their childhood described back to them accurately for the first time.",
+      "category_hint": "parentified child / eldest kid",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0300",
+      "end_line": "L0304",
+      "start_words": "दैट बी ओके सो इन ब्रॉडर टर्म्स",
+      "end_words": "आप फॉरगेट योरसेल्फ यस",
+      "start_s": 2334.36,
+      "end_s": 2390.92,
+      "duration_s": 56.56,
+      "source_start_s": 2334.36,
+      "source_end_s": 2390.92,
+      "one_liner": false,
+      "text": "दैट बी ओके सो इन ब्रॉडर टर्म्स जो लूज डेफिनेशन होती है कि नोइंग्ली और अननोइंग्ली आपके पेरेंट्स की आपसे कुछ एक्सपेक्टेशन होती है एंड देन एज एन एल्डर किड मोस्टली र ल्स तो फिर आप उस एक्सपेक्टशंस को फुलफिल करने की कोशिश कर दे तो मे बी वो डायरेक्टली नहीं बोलते बट आप चाहते हो फुल टाइम कि उन्हें इंप्रेस करते रहो फुल टाइम आप चाहते हो कि ओके पापा कोई अच्छा लगता है तो मैं ये करूंगा मे बी ही इज नॉट इवन सेड इट बट आई वाना डू इट एन एक्स्ट्रा थिंग कि मम्मी अगर दुखी है या उनको अच्छा नहीं लग रहा है तो मैं हूं मेरी वजह से ही वो खुश रहेंगी तो आई टेक लाइक फुल डिपेंडेंसी एंड लाइक रिस्पांसिबिलिटी ऑफ द फैमिलीज इमोशनल नीड्स एंड ट्राई टू जस्ट मेक इट अप या तो मैं कुछ भी ऐसा नहीं करूंगा जिनसे उनको थोड़ा सा भी बुरा लगे एंड फॉर द लांगेस्ट टाइम आई डिड दैट जस्ट ट्रा टू इंप्रेस एंड इन दिस सिचुएशन में आपको कता है यू फॉरगेट योरसेल्फ यस बिकॉज यू आर जस्ट ट्राइम टू लिव अप टू योर पेरेंट्स एक्सपेक्टेशन सो दैट्ची",
+      "flags": [],
+      "id": "emo4"
+    },
+    {
+      "category": "emotional",
+      "rank": 5,
+      "finder_rank": 5.0,
+      "title": "'मुझे ऐसा महसूस कराया गया कि मैं कम हूं'",
+      "why": "A star admitting a very un-star feeling, said carefully: 'I felt lesser. I was made to feel that way — nobody forced anything, but as an artist, as a star, as an individual, I was put in situations where I felt I was less. And being less means your stardom is less, your acting is less — it's like your clothes are better than mine.' Then the survival landing from his own journey. The specificity — being made to feel small while standing next to someone — is what travels; it is not about films, it is about every room where someone was quietly diminished.",
+      "category_hint": "men's silent pain / dignity",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0177",
+      "end_line": "L0184",
+      "start_words": "अ मेरे अंदर जो भी था मुझे ना ऐसा फील हुआ था",
+      "end_words": "तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में",
+      "start_s": 1403.32,
+      "end_s": 1470.44,
+      "duration_s": 67.12,
+      "source_start_s": 1403.32,
+      "source_end_s": 1470.44,
+      "one_liner": false,
+      "text": "अ मेरे अंदर जो भी था मुझे ना ऐसा फील हुआ था मैं स्पेसिफिक्स में नहीं घुस आई एम लेसर मुझे ऐसा महसूस कराया गया जबरदस्ती नहीं किया किसी ने एज एन आर्टिस्ट एस अ स्टार एस एन इंडिविजुअल मुझे ऐसा सिचुएशन में डाला गया कि मुझे यह फील हो कि मैं कम हूं और यह ना यह मैं कभी एक्सेप्ट नहीं करू कम मतलब योर स्टारडम इज लेस की एक्टिंग इ लेस इट्स लाइक योर क्लोथ आर बेटर देन माइन ओ इट्स जस्ट अ क नो इट्स कंपैरेटिव सम टाइम्स लाइफ पुट्स यू इन सिचुएशन वेर इट प्लेज आउट इन वे र सम बडी इ यर इन क्लोस प्रॉक्सिमिटी ए य मेड टू फील लेसर इट्स नोबडी फल्ट आम नॉ गेटिंग इ टूट बट दैट इज व्ट आई वेंट थ्रू फॉर सम टाइम एंड आई वाज मेड टू फील लाइक दैट आई फट इट बिकॉज ना यार मैं सरवाइवर हूं जहां से लाइफ से मैं उठके आया हूं और जो मैंने लाइफ मेरी जो जर्नी रही है ना पिछले 21 सालों में मैंने अपने बारे में यह सीखा कि तू सर्वाइवल है यार तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में",
+      "flags": [],
+      "id": "emo5"
+    },
+    {
+      "category": "emotional",
+      "rank": 6,
+      "finder_rank": 6.0,
+      "title": "आठ साल के बच्चे बहुत मीन होते हैं",
+      "why": "The social cost of growing up with one parent, said without self-pity: 'eight year old kids are very mean. If you don't have one parent, they make you feel about it — that you are not normal. They don't even know what they're doing, they're just being stupid, but at that time you feel — meri to life khatam ho gayi.' Anyone who grew up different in any way recognises the cruelty of children who meant nothing by it, and how enormous it felt at eight.",
+      "category_hint": "childhood / loneliness",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0377",
+      "end_line": "L0382",
+      "start_words": "ऑफ कोर्स क्या वॉइड फील",
+      "end_words": "मेरी तो लाइफ खत्म हो गई ऐसा फील होता है",
+      "start_s": 2942.36,
+      "end_s": 2983.6,
+      "duration_s": 41.24,
+      "source_start_s": 2942.36,
+      "source_end_s": 2983.6,
+      "one_liner": false,
+      "text": "कोर्स क्या वॉइड फील क्या क्या लगा कि यार मेरी लाइफ में ये तो मिसिंग है यार एक तो क्या होता है ना जब आप बच्चे बड़े मीन होते हैं यार यू नो ये आठन साल के बच्चे जो होते हैं ना बहुत मीन होते हैं तो उस टाइम पे अगर आपका एक पेरेंट नहीं है तो वो आपको ना ऐसे फील कराते है उसके बारे में कि तू नॉर्मल नहीं है यू नो ये बहुत फील कराते थे मुझे दूसरे बच्चे हां कराते हैं यू नो उनको पता थोड़ी होता है वो क्या कर रहे हैं ऐसे करके स्टूपिडिटी करते हैं बट आपको उस टाइम प ऐसा लगता है मेरी तो लाइफ खत्म हो गई ऐसा फील होता है सो डेफिनेटली सोशली आपको फील होता",
+      "flags": [],
+      "id": "emo6"
+    },
+    {
+      "category": "emotional",
+      "rank": 7,
+      "finder_rank": 7.0,
+      "title": "400 मीटर की दौड़ — सबको अलग-अलग लाइन से खड़ा किया गया",
+      "why": "The running-track experiment: everyone told it's a race, then deliberately placed at different points — someone at 200 metres, someone 50 metres behind the start line — and everyone crying 'this is so unfair.' 'But that is life, na. Do you recognise that about your own life? Success is not based on where you are, it's based on where you started and where you reached.' The image does the work; the viewer involuntarily places themselves and the people they compare themselves to on the same track. Strong viewer agreement in the comments on this exact stretch.",
+      "category_hint": "deep thought / fairness of life",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0145",
+        "comment on L0141"
+      ],
+      "start_line": "L0142",
+      "end_line": "L0149",
+      "start_words": "आया हूं तो जब आप जैसे एक बड़ा",
+      "end_words": "वेर दे आर स्टार्टिंग फ्रॉम दैट",
+      "start_s": 1112.28,
+      "end_s": 1181.36,
+      "duration_s": 69.08,
+      "source_start_s": 1112.28,
+      "source_end_s": 1181.36,
+      "one_liner": false,
+      "text": "आया हूं तो जब आप जैसे एक बड़ा इंटरेस्टिंग एग्जांपल है कि 400 मीटर का एक रनिंग का एरिया होता है यू नो लाइक अ प्रॉपर ट्रैक इ 400 मीटर लाइक तो एक एक्सपेरिमेंट हुआ था बड़ा इंटरेस्टिंग वर्कशॉप था जहां मैंने वीडियो देखा था जहां पे उन लोगों ने सब लोगों को बोला कि ये रेस है आपको सबको यू ल हैव टू रन दिस रेस एंड उन्होंने अलग-अलग लोगों को अलग-अलग पॉइंट्स प खड़ा कर दिया तो एवरी बडी वाज लाइक दिस इज सो अनफेयर यू नो सम बडी स्टैंडिंग एट 200 मीटर यू मेड मी स्टैंड 50 मीटर द स्टार्टिंग लाइन सो दे सेड बट दैट इज लाइफ ना डू यू रिकॉग्नाइज दैट अबाउट लाइफ क्या आप ये रिकॉग्नाइज करते हो के शायद आप ऑलरेडी 200 मीटर के एडवांटेज पे हो और कोई बंदा 50 मीटर के डिसएडवांटेज पे है जीरो स्टार्टिंग लाइन से भी तो जब आप बाहर जाके दुनिया में लोगों से मिलते हो जब आप अपने बारे में सोचते हो न य न यू आस्क योरसेल्फ एम आई अ सक्सेस और फेलियर इट्स नॉट बेस्ड ऑन वेर यू आर इट्स बेस्ड ऑन वेर यू स्टार्टेड एंड वेर यू रीच ट्रू सो हम अपने साथ क्या करते हैं ना हम अपने सरकमस्टेंसस को हटा के वी वांट टू बी द बेस्ट इन कंपेरिजन टूू एवरीबॉडी एल्स विदाउट टेकिंग इन टू कॉन्टेक्स्ट एक्चुअली वेर वीी स्टार्टेड फ्रॉम एंड वर दे आर स्टार्टिंग फ्रॉम दैट हैज टू बी देयर आई थिंक इट इट मेक्स थिंग्स अ लिटिल मोर",
+      "flags": [],
+      "id": "emo7"
+    },
+    {
+      "category": "emotional",
+      "rank": 8,
+      "finder_rank": 8.0,
+      "title": "हम सब प्यार के भूखे हैं — सोर्स को मत बांधो",
+      "why": "A reframe that costs something: 'if you look at a void as a void you will always feel a void... there is always love in the world. Even seeking is love. Don't define the source, leave the source open, it will come.' Then the plain truth underneath it: 'we are all hungry for love, brother. Why do we want love? Because we want to feel accepted.' Anyone waiting for love from one specific person who isn't giving it hears the door they had welded shut open slightly.",
+      "category_hint": "deep thought / longing",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [],
+      "start_line": "L0398",
+      "end_line": "L0404",
+      "start_words": "टॉक अबाउट फेलर राइट सो वी सर्कलिंग",
+      "end_words": "वी वांट टू फील एक्सेप्टेड",
+      "start_s": 3123.96,
+      "end_s": 3181.12,
+      "duration_s": 57.16,
+      "source_start_s": 3123.96,
+      "source_end_s": 3181.12,
+      "one_liner": false,
+      "text": "टॉक अबाउट फेलर राइट सो वी सर्कलिंग बैक टू दैट दैट इफ यू लुक एट अ वॉइड एज अ वॉइड देन यू विल ऑलवेज फील अ वॉइड इफ यू लुक एट इट एज एन अपॉर्चुनिटी एंड इफ यू बिलीव दैट यू कैन फिल इट ब्रो देर इज ऑलवेज लव इन द वर्ल्ड या इवेंचर सीकिंग इज लव डोंट डिफाइन द सोर्स लिमिटिंग योरसेल्फ लीव द सोर्स ओपन इट विल कम आई गट सो मच फ्रॉम माय ग्रैंडफादर एंड माय ग्रैंडमदर आई गट सो मच मोर फ्रॉम माय मदर माय मदर्स ब्रदर एंड आई एम गेटिंग सो मच मोर फ्रॉम माय फादर नाउ बिकॉज़ वी कुडंट बी देन टुगेदर यू गेट लाइक यू नो सो वो होता है व्हेन इज इट गोइंग टू कम हाउ इज इट गोइंग टू कम दोज आर डेफिनेशंस एंड एक्सपेक्टशंस राइट एज वी मूव फॉरवर्ड वी रिलाइज दैट इफ यू गेट लिमिटेड टू इट इट विल नेवर कम बट इफ यू जस्ट ड्रॉप दैट ना इट जस्ट कम्स ब्रो सो आई लव द लाइन फॉरगेट द सोर्स या फॉरगेट फॉरगेट द सोर्स वी आर ऑल हंग्री फॉर लव ब्रदर हम सबको प्यार चाहिए प्यार क्यों चाहिए बिकॉज वी वांट टू फील एक्सेप्टेड वी वांट टू फील क वही चाहिए ब्रो और क्या",
+      "flags": [],
+      "id": "emo8"
+    },
+    {
+      "category": "emotional",
+      "rank": 9,
+      "finder_rank": 9.0,
+      "title": "सबकी रिस्पॉन्सिबिलिटी मत उठाओ",
+      "why": "The final advice, aimed at exactly the person nobody says this to — the one carrying everyone: 'Don't take everybody's responsibility, it usually leads to disappointment at a deeper level later. Take as much as you feel you can do, without expecting anything in return, and with a sense of happiness. When it starts making you feel a little loaded — don't do it.' It straddles advice and recognition, but the recognition is the dominant thing: permission to put the load down. A viewer marked this as their biggest learning from the whole episode.",
+      "category_hint": "the one everybody leans on",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment summary on L0805"
+      ],
+      "start_line": "L0800",
+      "end_line": "L0801",
+      "start_words": "यू कुड इंप्रूव लर्न टू वर्क",
+      "end_words": "अ लिटिल लोडेड डोंट डू इट",
+      "start_s": 6473.08,
+      "end_s": 6495.72,
+      "duration_s": 22.64,
+      "source_start_s": 6473.08,
+      "source_end_s": 6495.72,
+      "one_liner": false,
+      "text": "यू कुड इंप्रूव लर्न टू वर्क आउटसाइड योर स्टूडियो बॉज आई थिंक वी हैड अ ग्रेट कन्वर्सेशन वीड वी ड नो आई मीन आथ इ वन एडवाइस इफ यू कुड डोंट टेक डोंट टेक एवरी बडी रिस्पांसिबिलिटी इट यूजुअली लीड्स टू डिसइंटर डीपर लेवल एट अ लेटर स्टेज टेक एज मच एज यू फील दैट यू कैन डू विदाउट एक्सपेक्टिंग",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "emo9"
+    },
+    {
+      "category": "motivational",
+      "rank": 1,
+      "finder_rank": 1.0,
+      "title": "सक्सेस इट्स नॉट बेस्ड ऑन वेर यू आर — इट्स बेस्ड ऑन वेर यू स्टार्टेड",
+      "why": "The 400-metre race experiment is a build the viewer follows — people placed at different starting points — and the landing reorganises how they judge themselves: 'इट्स नॉट बेस्ड ऑन वेर यू आर इट्स बेस्ड ऑन वेर यू स्टार्टेड एंड वेर यू रीच'. Anyone comparing themselves to someone with a head start feels this land. Two viewers marked the build, one calling it 'most watch reel till date'.",
+      "category_hint": "failure & comeback",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0141",
+        "comment on L0145"
+      ],
+      "start_line": "L0141",
+      "end_line": "L0148",
+      "start_words": "राइट लाइक थोड़ा एक्सप्लेन करो भाई",
+      "end_words": "वी वांट टू बी द बेस्ट इन कंपेरिजन टूू",
+      "start_s": 1100.64,
+      "end_s": 1171.92,
+      "duration_s": 71.28,
+      "source_start_s": 1100.64,
+      "source_end_s": 1171.92,
+      "one_liner": false,
+      "text": "राइट लाइक थोड़ा एक्सप्लेन करो भाई कुछ लोगों की स्ट्रगल बीएड में होती है उनकी शुरुआत फिल्म के टॉप टू थ्री डायरेक्टर देश की शुरुआत होती है मैं 250 ऑडिशन दे देके आया हूं तो जब आप जैसे एक बड़ा इंटरेस्टिंग एग्जांपल है कि 400 मीटर का एक रनिंग का एरिया होता है यू नो लाइक अ प्रॉपर ट्रैक इ 400 मीटर लाइक तो एक एक्सपेरिमेंट हुआ था बड़ा इंटरेस्टिंग वर्कशॉप था जहां मैंने वीडियो देखा था जहां पे उन लोगों ने सब लोगों को बोला कि ये रेस है आपको सबको यू ल हैव टू रन दिस रेस एंड उन्होंने अलग-अलग लोगों को अलग-अलग पॉइंट्स प खड़ा कर दिया तो एवरी बडी वाज लाइक दिस इज सो अनफेयर यू नो सम बडी स्टैंडिंग एट 200 मीटर यू मेड मी स्टैंड 50 मीटर द स्टार्टिंग लाइन सो दे सेड बट दैट इज लाइफ ना डू यू रिकॉग्नाइज दैट अबाउट लाइफ क्या आप ये रिकॉग्नाइज करते हो के शायद आप ऑलरेडी 200 मीटर के एडवांटेज पे हो और कोई बंदा 50 मीटर के डिसएडवांटेज पे है जीरो स्टार्टिंग लाइन से भी तो जब आप बाहर जाके दुनिया में लोगों से मिलते हो जब आप अपने बारे में सोचते हो न य न यू आस्क योरसेल्फ एम आई अ सक्सेस और फेलियर इट्स नॉट बेस्ड ऑन वेर यू आर इट्स बेस्ड ऑन वेर यू स्टार्टेड एंड वेर यू रीच ट्रू सो हम अपने साथ क्या करते हैं ना हम अपने सरकमस्टेंसस को हटा के वी वांट टू बी द बेस्ट इन कंपेरिजन टूू",
+      "flags": [],
+      "id": "mot1"
+    },
+    {
+      "category": "motivational",
+      "rank": 2,
+      "finder_rank": 2.0,
+      "title": "दज आर द मोमेंट्स वेर यू डिसाइड हु यू वांट टू बिकम",
+      "why": "Names a humiliation the heartbroken viewer has lived and never heard said: loving someone so much you chase them 'टू अ डिग्री जहां आपकी अपनी डिग्निटी टूट जाती है', losing self-respect in love. Then the turn converts the wound into agency — heartbreak is where you decide who you become, and if it didn't teach you that, 'यू वेस्टेड द अपॉर्चुनिटी'. The build is needed for the detonation. YouTube shows a replay peak here.",
+      "category_hint": "identity & self-narrative",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "REPLAYED near L0703"
+      ],
+      "start_line": "L0698",
+      "end_line": "L0708",
+      "start_words": "ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में",
+      "end_words": "यू लर्न टू अंडरस्टैंड व्ट",
+      "start_s": 5634.2,
+      "end_s": 5718.4,
+      "duration_s": 84.2,
+      "source_start_s": 5634.2,
+      "source_end_s": 5718.4,
+      "one_liner": false,
+      "text": "ये बड़ा इंटरेस्टिंग होता है ना हार्ट ब्रेक में कि आप किसी से इतना प्यार करते हो कि आप जब वह आपको रिजेक्ट कर देते हैं तो आप उनके पीछे भागते हो टू अ डिग्री जहां आपकी अपनी डिग्निटी टूट जाती है आप अपनी डिग्निटी सैक्रिफाइस कर देते हो और आपको रिलाइज भी नहीं होता कि अब नाउ यू हैव लॉस्ट योर सेल्फ रिस्पेक्ट इन द प्रोसेस यू नो और वो रिलाइजेशन बड़े साल बाद होता है कि यार मैं क्या कर रहा था क्या कर रहा था यार मतलब आई वुड टेल माय बेस्ट फ्रेंड कि ब्रो जस्ट होल्ड ऑन टू योर डिग्निटी ऐसे मत कर यू नो तो वो आई थिंक सबसे इंटरेस्टिंग चीज है ना प्यार के बारे में कि यू कैन लूज योर ओन सेल्फ रेस्पेक्ट इन लव और वो होता है बिकॉज योर बिहेवियर कैन बी लाइक दैट राइट सो ऑफकोर्स यू गो थ्रू दैट आल्सो अ एंड ऑफकोर्स यू लिसन टू द द बेस्ट हार्ट ब्रेक सोंग्स य य सम कॉल्ड बे खयाली सो वो भी होता है अ तो या वो होता है बट इट्स एलरी प्रोसेस यार इट्स हेल्पिंग यू दज आर द मोमेंट्स वे यू डिसाइड हु यू वांट टू बिकम एंड इफ इट हैजन हेल्प यू डिसाइड हु यू वा बिकम देन यू वेस्टेड द अपॉर्चुनिटी ब्रो और यनो यू नॉट गटन एनीथिंग गुड आउट ऑफ इट यू नो टड यू गट आउट ऑफ हार्डवे यू नो यू लर्न टू अंडरस्टैंड व्ट",
+      "flags": [],
+      "id": "mot2"
+    },
+    {
+      "category": "motivational",
+      "rank": 3,
+      "finder_rank": 3.0,
+      "title": "I still feel I don't belong here",
+      "why": "A superstar admits 'आईम शिटिंग माय पैंट्स हाफ द टाइम' ten days before release and repeats 'आई डोंट बिलंग हियर आई डोंट डिजर्व दिस' through his biggest successes. The private feeling the viewer carries — that they got more than they deserve — is named by someone with no reason to admit it. The ending even deepens it: overwhelm and hunger coexist.",
+      "category_hint": "private humiliation named",
+      "hook_strength": 9.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0193",
+      "end_line": "L0201",
+      "start_words": "स्टिल माय फिल्म कम्स आउट इन अ वीक",
+      "end_words": "और दे दो विय और चाहिए अभी दिल नहीं भरा है",
+      "start_s": 1519.12,
+      "end_s": 1578.04,
+      "duration_s": 58.92,
+      "source_start_s": 1519.12,
+      "source_end_s": 1578.04,
+      "one_liner": false,
+      "text": "स्टिल माय फिल्म कम्स आउट इन अ वीक 10 डेज एंड आईम शिटिंग माय पैंट्स हाफ द टाइम नेच एंड लिंग टू अपलिफ्टिंग म्यूजिक एंड टेलिंग माय सेल्फ य गोना किल इट बडी ग किल इट सो इट्स कांस्टेंटली देयर राइट दैट डुएलिटीज कांस्टेंटली देयर यू नो बट दैट गुड ट्स ट्स अ गुड थिंग दैट यू ऑलवेज फील दैट कभी इंपोस्टर सिंड्रोम हुआ है इन व्हाट वे लाइक गिव मी अ लिटिल लाइक जैसे यू यू गो टू अ प्लेस एंड यू फील लाइक कि यार ये मैं बिलंग नहीं करता आई डोंट डिजर्व दिस मतलब मेरे साथ क्यों हो गया ये आ डोंट डिजर्व दिस आई डोंट बिलंग हियर अच्छा आई डोंट डिजर्व दिस और मे बी आई डोंट बिलंग हियर आई डोंट बिलंग आई डोंट बिलंग हियर आई स्टिल फील कि कु ज्यादा मिल गया हो लाइक शट मतलब ज्यादा मिल गया यस कभी-कभी जब आपको बहुत प्यार मिलता है आपकी फिल्म के लिए तो आपको फील होता है यार मैंने तो हर फिल्म में मेहनत की थी इसमें इतना क्यों मिल रहा है वो फील हुआ था पहली फिल्म में फील हुआ था कबीर सिंह में फील हुआ था होता है देरा टाइम्स जब आपको बहुत ऐसा ओवर",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "mot3"
+    },
+    {
+      "category": "motivational",
+      "rank": 4,
+      "finder_rank": 4.0,
+      "title": "अगर आप अपनी इलेक्ट्रिसिटी खुद बना सकते हो तो बाहर से जरूरत नहीं",
+      "why": "Opens by indicting the exact activity the viewer is doing — getting inspired for two minutes and falling back — then hands over a small, believable instruction: become your own generator. A viewer typed the essence back in the comments ('we get motivated by watch some videos but after we don't do anything'), which is the exact behaviour this predicts.",
+      "category_hint": "discipline over feeling",
+      "hook_strength": 8.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0161"
+      ],
+      "start_line": "L0159",
+      "end_line": "L0164",
+      "start_words": "दो मिनट इंस्पायर हो जाते हैं बट",
+      "end_words": "खुद अपना अपनी इलेक्ट्रिसिटी अपनी वाइब्रेशन खुद",
+      "start_s": 1258.88,
+      "end_s": 1305.52,
+      "duration_s": 46.64,
+      "source_start_s": 1258.88,
+      "source_end_s": 1305.52,
+      "one_liner": false,
+      "text": "दो मिनट इंस्पायर हो जाते हैं बट वो अगर आपकी अंदर की जो रेजोनेंस आपकी जो अंदर की एनर्जी है उससे अगर मैच नहीं करता तो वो दो मिनट बाद आप उसी एनर्जी पर चले जाओगे या जो आपको बाहर से मिल रहा है अगर आप कुछ किसी चीज के साथ कनेक्ट कर रहे हो दो मिनट के लिए भी और आपको लगता है वह आपके लिए आपको एलीवेट कर रही है थोड़ा सा तो फिर उस एलिवेशन को वापस ड्रॉप मत होने दो फिर उसको वापस पुश करो अपने अंदर से चन करो उसको यू नो फिर जब आप चन करोगे तो फिर इफ यू कैन बी र मशीन अगर आप अपनी इलेक्ट्रिसिटी खुद ही बना सकते हो तो फिर आपको बाहर से जरूरत नहीं होगी आप एंजॉय करोगे आप अप्रिशिएट करोगे आप कनेक्ट करोगे लेकिन अगर वो नहीं हुआ तो आप डाउन नहीं हो जाओगे य तो आपको खुद अपना अपनी इलेक्ट्रिसिटी अपनी वाइब्रेशन खुद",
+      "flags": [],
+      "id": "mot4"
+    },
+    {
+      "category": "motivational",
+      "rank": 5,
+      "finder_rank": 5.0,
+      "title": "टू टाइप्स ऑफ पीपल — बोज ऑन द वर्ल्ड या मेकिंग इट लाइटर",
+      "why": "Sets up the individual journey versus what you represent beyond yourself, then lands a daily identity choice: are you the weight on the world or the person who makes it slightly lighter by taking people's load off? A viewer wrote the line back word for word in the comments — the strongest confirmation available.",
+      "category_hint": "identity & self-narrative",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [
+        "comment on L0610"
+      ],
+      "start_line": "L0605",
+      "end_line": "L0614",
+      "start_words": "एक होती है आपकी इंडिविजुअल जर्नी",
+      "end_words": "रिमाइंड योरसेल्फ ट एवरीडे ना ब्रो",
+      "start_s": 4855.72,
+      "end_s": 4927.92,
+      "duration_s": 72.2,
+      "source_start_s": 4855.72,
+      "source_end_s": 4927.92,
+      "one_liner": false,
+      "text": "एक होती है आपकी इंडिविजुअल जर्नी कि आपको पर्सनली सेल्फिश क्या अचीव करना है लाइफ में आपका अपना विजन आपकी अपनी एक जर्नी होती है और एक होता है हाउ ड यू डू समथिंग दैट इज बियोंड यू एंड इटस फॉर लार्जर पर्पस राइट एंड दैट इज व्ट यू रिप्रेजेंट इन लाइफ एंड ट स्टार्टस विथ बिहेवियर इट स्टार्टस विद एक्शन इट स्टार्टस विद द स्मालेस्ट थिंग्स इन लाइफ च गड़बड़ हो गया तो विल आई से अरे यार सब गड़बड़ हो गया और डू आई वा स्टैंड फॉर द गा से क्या गड़बड़ फिक्स कर लेते हैं इन दैट डू यू वांट टू स्टैंड अप एंड से क्या गड़बड़ हो गया मैं फिक्स करता हूं ड य वा बी लाइक गा जस्ट चिल ल फिक्स इट सिट डाउन लेट्स टॉक अबाउट इट एवरी लिटिल एक्शन ट यू टेक इन लाइफ रिप्रेजेंट्स समथिंग लार्जर देन जस्ट यू एंड एस यू ग्रो ओल्डर इ यू रिलाइज ट देर आर टू टाइप्स ऑफ पीपल इन द वर्ल्ड बेसिकली यू नो सो यू हैव टू डिसाइड विच वर्जन यू आर आर यू द वन हु इ द बोज ऑन द वर्ल्ड क्या आपके रि व से सबको आपको झेलना पड़ता है और यू आर द पर्सन हु मेकिंग द वर्ल्ड स्लाइटली लाइटर प्लेस बाय टेकिंग पीपल लोड ऑफ यू नो ट्स अ फंडामेंटल थिंग यू हैव टू नो इफ यू रिमाइंड योरसेल्फ ट एवरीडे ना ब्रो",
+      "flags": [],
+      "id": "mot5"
+    },
+    {
+      "category": "motivational",
+      "rank": 6,
+      "finder_rank": 6.0,
+      "title": "तू सर्वाइवल है यार — तू कहीं अटकता नहीं",
+      "why": "He takes the story of being made to feel lesser and flips it into a self-narrative spoken in second person, like a mantra he told himself: 'तू सर्वाइवल है यार तू निकल आता है मुश्किल सिचुएशन में, तू अटकता नहीं'. Closes on the method: 'नोबडी शुड डिफाइन यू, यू शुड डिफाइन योरसेल्फ'. The 'made to feel less' build sits just before L0183 if the editor wants it.",
+      "category_hint": "identity & self-narrative",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0183",
+      "end_line": "L0191",
+      "start_words": "इट बिकॉज ना यार मैं सरवाइवर हूं",
+      "end_words": "यू शुड डिफाइन योरसेल्फ यू टॉक",
+      "start_s": 1453.04,
+      "end_s": 1509.6,
+      "duration_s": 56.56,
+      "source_start_s": 1453.04,
+      "source_end_s": 1509.6,
+      "one_liner": false,
+      "text": "इट बिकॉज ना यार मैं सरवाइवर हूं जहां से लाइफ से मैं उठके आया हूं और जो मैंने लाइफ मेरी जो जर्नी रही है ना पिछले 21 सालों में मैंने अपने बारे में यह सीखा कि तू सर्वाइवल है यार तू निकल आता है सिचुएशन में मुश्किल सिचुएशन में कॉम्प्लेक्टेड तू ना टक टक टक टक करके निकल जाता है तू अटकता नहीं कहीं पे यू नो एंड दैट स्टेड विथ मी बिकॉज आई यूज टू ऑलवेज सिंग द अपोजिट मुझे लगता था यार मैं फस जाता हूं यू नो एंड ही सेड नहीं तू सिचुएशन जो भी हो तू निकल जाता है उसम से यू नो एंड आई फेल्ट दैट दैट वाज अ रियली रियली गुड क्वालिटी या यू नो बिकॉज लाइफ विल कांस्टेंटली थ्रो न्यू थिंग्स एट यू इफ यू गेट स्टक ट्स नॉट गुड फॉर यू यू हैव टू लर्न टू बी निंबल फूटेड एंड मूव आउ आउट ऑफ दैट राइट सो आई टोल्ड माय सेल्फ एट दैट टाइम दैट नो शायद डोंट लेट दिस डिफाइन यू यू नो नोबडी शुड डिफाइन यू यू शुड डिफाइन योरसेल्फ यू टॉक",
+      "flags": [],
+      "id": "mot6"
+    },
+    {
+      "category": "motivational",
+      "rank": 7,
+      "finder_rank": 7.0,
+      "title": "व्हट एवर यू आर अफ्रेड ऑफ इज वेर द रेस्ट ऑफ यू लाइट्स",
+      "why": "He answers 'what's your biggest fear' honestly — darkness as a child, anything outside his comfort zone — and then delivers the quotable inversion: whatever you are afraid of is where the rest of you lives; go to your fear and you will find the rest of yourself there. A one-line reframe that carries its meaning alone.",
+      "category_hint": "one-liner / reframe",
+      "hook_strength": 6.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0766",
+      "end_line": "L0770",
+      "start_words": "सो एस अ चाइल्ड आई हैड अ फियर",
+      "end_words": "बट यू सेड कंफर्ट जोन से बाहर निकल कंफर्ट जन से बाहर",
+      "start_s": 6204.24,
+      "end_s": 6244.08,
+      "duration_s": 39.84,
+      "source_start_s": 6204.24,
+      "source_end_s": 6244.08,
+      "one_liner": false,
+      "text": "सो एस अ चाइल्ड आई हैड अ फियर ऑफ डार्कनेस आई हैव ओवरकम ट टू अ ग्रेट डिग्री आई ऑलवेज वा अन कंफर्टेबल इन फ्लाइट्स एंड आई एम आल्सो नॉट द बेस्ट स्विमर सो आई डोंट लव बीइंग इन वाटर सो आई थिंक माय फियर इज एनीथिंग ट इज नॉट माय इमीडिएट कंफर्ट जोन दे रिली नाइस सेइंग च सेज ट व्ट एवर यू आर अफ्रेड ऑफ इज वेर द रेस्ट ऑफ यू लाइट्स यू चूज कक्टर डू ल यू हैव टू गो टू योर फियर यू विल फाइंड द रेस्ट ऑफ योरसेल्फ देयर बट यू सेड कंफर्ट जोन से बाहर निकल कंफर्ट जन से बाहर",
+      "flags": [],
+      "id": "mot7"
+    },
+    {
+      "category": "motivational",
+      "rank": 8,
+      "finder_rank": 8.0,
+      "title": "नोबडी इज बेटर, नोबडी इज वर्स — आई एम द बेस्ट वर्जन ऑफ माइसेल्फ",
+      "why": "After 21 years in the industry, his biggest learning in two sentences: nobody is better, nobody is worse, I am the best version of myself — that's all that matters. A screenshot-able one-liner; twelve viewers marked the exact moment. The second pass should cut at 'बेस्ट वर्जन ऑफ माइसेल्फ उतना ही है' before the trailing discontentment talk.",
+      "category_hint": "self-belief",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment on L0085"
+      ],
+      "start_line": "L0085",
+      "end_line": "L0086",
+      "start_words": "फॉर इट यू आर नॉट बेटर दन एनीबडी एल्स",
+      "end_words": "नो आई एम नॉट नेवर कंटेंट विद माइसेल्फ",
+      "start_s": 628.24,
+      "end_s": 645.24,
+      "duration_s": 17.0,
+      "source_start_s": 628.24,
+      "source_end_s": 645.24,
+      "one_liner": false,
+      "text": "फॉर इट यू आर नॉट बेटर दन एनीबडी एल्स आफ्टर 21 इयर्स माय बिगेस्ट लर्निंग व्हाट एवर यू माइट कॉल मी एज एन एक्टर व्हाट एवर यू माइट कॉल मी इन माय क्राफ्ट नोबडी इज बेटर नोबडी इज वर्स आई एम द बेस्ट वर्जन ऑफ माइसेल्फ उतना ही है मे को एंड यू कंटेंट विद दैट नो आई एम नॉट नेवर कंटेंट विद माइसेल्फ",
+      "flags": [],
+      "id": "mot8"
+    },
+    {
+      "category": "motivational",
+      "rank": 9,
+      "finder_rank": 9.0,
+      "title": "मैं फर्स्ट करूंगा और कोई नहीं कर रहा है — लेकिन मैं करूंगा",
+      "why": "Loneliness converted into appetite: the opening batsman who volunteers to face the first 148 kph ball, the lone ranger who wants the headwind. The closing repetition — 'खुद ही करूंगा मैं और मैं करूंगा और मैं फर्स्ट करूंगा और कोई नहीं कर रहा है लेकिन मैं करूंगा और उसी में मजा है' — is a war cry the viewer can borrow.",
+      "category_hint": "loneliness as strength",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0445",
+      "end_line": "L0451",
+      "start_words": "ऐसे फील हुआ है कि मुझे तो है ना",
+      "end_words": "मैं फोड दंगा हां बस",
+      "start_s": 3480.64,
+      "end_s": 3538.8,
+      "duration_s": 58.16,
+      "source_start_s": 3480.64,
+      "source_end_s": 3538.8,
+      "one_liner": false,
+      "text": "ऐसे फील हुआ है कि मुझे तो है ना रिस्पांसिबिलिटी है एक लीडर बनना है और मैं ही ये मेरा नेचुरल प्रोटोटाइप बन चुका है ब्रो क्या मुझे अगर कोई बोल दे ना अभी फॉलो करो या किसी का छोटा भाई बन जाओ मेरे से होगा ही नहीं अब मैं बड़ा भाई बन चुका हूं मतलब अभी सेट हो चुका है ये मामला यू नो एंड आई एम लाइक वेरी हैप्पी यू नो हा बोलते है ना ओपनिंग बैट्समैन को आदत है वो सामने वाला फर्स्ट बॉल 148 150 किमी प डाले लेगा और मैं फर्स्ट बॉल फेस करूंगा उसमें एक ट्रिप है या तो मैं अभी वैसा बन गया हूं ब्रो आई लाइक आई लाइक बीइंग अ लोन रेंजर आई लाइक डूइंग इट ऑन माय ओन आई डोंट वांट एनीबडी ब्रेकिंग द हेड विंड ऑन मी या बिकॉज देन इट्स नॉट फन एनी मोर आई वांट दैट ब्रिंग द हेड विंड कम ऑन ट्स व्हाट ड्राइव्स मी नाउ मैं पंगे लेना पसंद है मुझे हां खुद ही करूंगा मैं और मैं करूंगा और मैं फर्स्ट करूंगा और कोई नहीं और कर रहा है लेकिन मैं करूंगा और उसी में मजा है तो मेरे को मजा आता है हम आई एम सेम हां म मैं फोड दंगा हां बस और बट उसके बाद एक और",
+      "flags": [],
+      "id": "mot9"
+    },
+    {
+      "category": "motivational",
+      "rank": 10,
+      "finder_rank": 10.0,
+      "title": "कुछ करना है ना तो कूद जा — हो जाएगा",
+      "why": "A story that detonates: a grandfather who threw the non-swimming kid into the water every summer with two words — कूद जा — and the line that became his operating instruction for every new situation. The whole story is needed; the payoff only lands because you heard the build. Simple, warm, and it ends on 'तू कूदे तो बन जाएगा'.",
+      "category_hint": "story detonates",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "HIGH",
+      "signals_used": [],
+      "start_line": "L0363",
+      "end_line": "L0373",
+      "start_words": "य मा आई हैव अ वेरी फंड मेमोरी",
+      "end_words": "गांव में तो मैं बन गया यस तो तू कूदे तो बन जाएगा",
+      "start_s": 2818.76,
+      "end_s": 2908.96,
+      "duration_s": 90.2,
+      "source_start_s": 2818.76,
+      "source_end_s": 2908.96,
+      "one_liner": false,
+      "text": "य मा आई हैव अ वेरी फंड मेमोरी ऑफ माय ग्रैंडफादर एज वेल ही स्टिल अलाइव विथ मी टर्नल ग्रैंडफादर टर्नल दादा जी मैं दादू हा जी तो वो हर समर हॉलीडेज में हमें हर नहीं मतलब आफ्टर एथ नाथ के बाद वो हमें स्विमिंग पूल लेके जाते थे कहीं पे बाहर ऐसे आई रिमेंबर दे र लाइक किसी आउटस्कर्ट फार्म्स होते थे जहां पर आप 2 देके एक घंटे में स्विम करने जा सकते हो मेरे उनके अलावा मेरी फैमिली किसी को स्विमिंग नहीं आती थी तो मुझे नहीं पता कि उनको क्यों ये लगा कि सिखाना बहुत जरूरी है बट ऑल वी लिव इन जॉइंट फैमिली या तो ऑल फोर किड्स वो लेके जाएंगे एंड देन बिकॉज आई वा आई वाज द एल्डेस्ट सन वो बोलेंगे कि कूद जा मतलब मुझे आती नहीं स् नहीं नहीं कूद जा कूद जा सो उन्होंने रोज इतना पुश किया दैट चिस्ट दैट बिकम अ मेमोरी एंड ट्स व्हाई प्रोबेबली आ नो स्विमिंग नहीं तो मुझे कभी आती नहीं ना मैं कभी सीखने जाता ना मेरे घर वालों को इंपॉर्टेंस है उसकी नथिंग सो इट्स मोर लाइक आई सी दैट एज अ लेसन कि कुछ करना है ना तो कूद जा हो जाएगा एंड वो मैं जब भी नई सिचुएशन जाता हूं दोस वर्ड्स लाइक जस्ट रिमाइंड मी इटल हैपन इटल हैपन एंड वो क्योंकि अपनी स्टोरी बताते हैं और वो हमेशा ना मेरे पापा और बड़े पापा को ऐसे गालियां देते थे कि ये देख ये ऐसे ही रह गए ये कूद ही नहीं कभी मैं कूद गया हमारी गांव में तो मैं बन गया यस तो तू कूदे तो बन जाएगा सो दैट वाज सच अ स्ट्रंग दैट हैड सच अ स्ट्रंग लली मेमरी",
+      "flags": [],
+      "id": "mot10"
+    },
+    {
+      "category": "motivational",
+      "rank": 11,
+      "finder_rank": 11.0,
+      "title": "बिफोर यू स्टार्ट वकिंग, डोंट आस्क व्हाई यू हैवनट रीच्ड द डेस्टिनेशन",
+      "why": "Kills the comparison excuse with his own 20-years-of-looking-clueless confession ('मेरे को लोखंड वाला में भी पैसे नहीं थे जाके कपड़े खरीदने'), then the instruction sized to start tonight: don't ask why you haven't arrived before you've started walking. Ends on the Sachin cover drive — anything that looks easy is not easy. A viewer in the audience block typed this exact line back with 240 likes.",
+      "category_hint": "excuse removed",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment on L0442"
+      ],
+      "start_line": "L0438",
+      "end_line": "L0443",
+      "start_words": "क्वेश्चन इज नेवर गोइंग टू हेल्प यू",
+      "end_words": "वा इ लु सो इजी एनीथिंग ट लुक्स इजी इ नॉट इजी",
+      "start_s": 3413.64,
+      "end_s": 3471.84,
+      "duration_s": 58.2,
+      "source_start_s": 3413.64,
+      "source_end_s": 3471.84,
+      "one_liner": false,
+      "text": "क्वेश्चन इज नेवर गोइंग टू हेल्प यू मूव ट्रू इट्स गो मेक यू फील वर्स अबाउट योरसेल्फ मैं भी करूंगा मुझे भी वैसा बनना है वो सोचो ना नो आई अग्री आई वा उसकी जर्नी देखो वो भी तो पैदा वैसे नहीं हुआ होगा ब्रो व वैसा पैदा नहीं हुआ होगा मैं 20 साल पहले जो कपड़े पहनता था ना तू हसेगा मेरे ऊपर टुडे एवरी बडी सेज यू नो शायद फैशन सेंस सो गुड फैशन गेम एंड आई एम लाफिंग आई एम लाइक मेरा टाइम था बॉस मेरे को लोखंड वाला में भी पैसे नहीं थे जाके कपड़े खरीदने इट्स 20 इयर्स ऑफ लुकिंग एंड लर्निंग एंड फीलिंग एंड अब एंड ट्रांग एंड अंडरस्टैंडिंग एंड फाइनली गेटिंग टू अ प्लेस यू नो सो इट्स 20 यर्स वक 20 यर्स देन टेल योरसेल्फ आई डों नो वई आईम नॉट देर इट्स फेर क्वेश्चन बिफोर यू स्टार्ट वकिंग डोंट आस्क योरसेल्फ वई यू नॉट रीच द डेस्टिनेशन ब्रो इट्स लग वक सचिन टकर कवर ड्राइव लुक सो इजी ना फम द एज ऑफ थ स्टार्टेड ट्स",
+      "flags": [],
+      "id": "mot11"
+    },
+    {
+      "category": "motivational",
+      "rank": 12,
+      "finder_rank": 12.0,
+      "title": "इफ समबडी इज बीइंग मीन, लेट देम बी मीन — बी नाइस एनीवेज",
+      "why": "A rule dismantled with standing: rudeness does not license rudeness back. 'बी काइंड एनीवेज' because everyone's own register will open one day and the question asked will be what YOU did, not what they did. Multiple viewers commented on this exact passage, one saying the clip brought them to the video.",
+      "category_hint": "spiritual / accountability",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "comment on L0317",
+        "comment on L0318"
+      ],
+      "start_line": "L0318",
+      "end_line": "L0321",
+      "start_words": "इफ सम बडी इज बीइंग मीन लेट देम बी मीन",
+      "end_words": "वेदर यू वांट टू कॉल इट गॉड वेदर",
+      "start_s": 2514.72,
+      "end_s": 2546.56,
+      "duration_s": 31.84,
+      "source_start_s": 2514.72,
+      "source_end_s": 2546.56,
+      "one_liner": false,
+      "text": "इफ सम बडी इज बीइंग मीन लेट देम बी मीन बी नाइस एनीवेज इफ सम बडी इज बीइंग रूड लेट देम बी रूड बी नाइस एनीवेज इफ सम इज बीइंग सेल्फिश लेट देम बी सेल्फिश बी काइंड एनीवेज बिकॉज इवेंचर देम इट वाज बिटवीन यू एंड हिम सबका अपना रजिस्टर खुलेगा ब्रो ऊपर जाके कोई यह नहीं पूछेगा कि उसने ये किया तो तुमने ऐसे क्यों किया वो डायरेक्ट यही पूछेगा कि तुमने ऐसे क्यों किया तुम्हें मुझे जवाब देना है सो वेदर यू वांट टू कॉल इट गॉड वेदर यू वांट टू कॉल इट योर ओन कॉन्शियस वेदर",
+      "flags": [],
+      "id": "mot12"
+    },
+    {
+      "category": "motivational",
+      "rank": 13,
+      "finder_rank": 13.0,
+      "title": "एवल्यूशन ओनली कम्स फ्रॉम मिस्टेक्स एंड इंजरी एंड फॉल",
+      "why": "A fresh image for failure: a baby's knee bone doesn't develop till age two because they keep falling and getting up — falling is literally how strength is built. 'यू कैन इफ यू कीप प्रोटेक्टिंग समबडी फ्रॉम फॉलिंग, दे डोंट बिकम स्ट्रंग'. The framing is about protecting a younger brother, but the principle is universal and quotable.",
+      "category_hint": "failure & comeback",
+      "hook_strength": 5.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [],
+      "start_line": "L0459",
+      "end_line": "L0462",
+      "start_words": "माफ एंड ल्स दे हैव टूल्स हाउ दे हैव",
+      "end_words": "बस उतना बट दे हैव टू फॉल",
+      "start_s": 3602.8,
+      "end_s": 3648.28,
+      "duration_s": 45.48,
+      "source_start_s": 3602.8,
+      "source_end_s": 3648.28,
+      "one_liner": false,
+      "text": "माफ एंड ल्स दे हैव टूल्स हाउ दे हैव टू हैव देर ओन जर्नी यनो उनका हक बनता है मैं तो उल्टा बोलता हूं जा तीन गलती कर गिरेगा नहीं तो फिर स्ट्रंग कैसे बनेगा यू कैन इफ यू कीप प्रोटेक्टिंग सम बडी फ्रॉम फॉलिंग दे डोंट बिकम स्ट्रंग यू नो इन बेबी दे डोंट डिवेलप द द नी का बोन टिल द एज ऑफ टू बिकॉज दे आर गोंग टू कीप फॉलिंग एंड गेटिंग अप सो दैट इज दैट इज एवल्यूशन बिकॉज दे फेल एंड फेल एंड फेल देर ओन डीएनए इवॉल्वड ओवर टाइम टू बिकम सच दैट तो दैट इज एवल्यूशन एवोल्यूशन ओनली कम्स फ्रॉम मिस्टेक्स एंड इंजरी एंड फॉल यू जस्ट हैव टू ब्रेक द फॉल पीपल हु यू लव यू वांट टू ब्रेक द फॉल फॉर देम अ लिटिल बिट सो दैट इट्स मिनिमम",
+      "flags": [
+        "end_words not in end line"
+      ],
+      "id": "mot13"
+    },
+    {
+      "category": "motivational",
+      "rank": 14,
+      "finder_rank": 14.0,
+      "title": "देर इज नथिंग कॉल्ड अ परफेक्ट मैरिज",
+      "why": "He takes the phrase everyone was raised on — perfect marriage — and dismantles it: it's a dangerous term that usually leads to disappointment. The reframe that lands: 'वी आर ऑन सेपरेट ट्रैक्स चूसिंग टू मूव फॉरवर्ड टुगेदर', and your shared life experience cannot take away from your individual life experience. Aimed at people in or heading toward relationships, which is most of the audience. A replay peak sits in this passage.",
+      "category_hint": "reality check",
+      "hook_strength": 7.0,
+      "self_contained": true,
+      "confidence": "MEDIUM",
+      "signals_used": [
+        "REPLAYED near L0578"
+      ],
+      "start_line": "L0575",
+      "end_line": "L0582",
+      "start_words": "ना इट्स अ डेंजरस टर्म वी शुड",
+      "end_words": "गिव स्पेस टू द अदर पर्सन टू सेंस",
+      "start_s": 4558.4,
+      "end_s": 4639.76,
+      "duration_s": 81.36,
+      "source_start_s": 4558.4,
+      "source_end_s": 4639.76,
+      "one_liner": false,
+      "text": "आईडिया ऑफ अ परफेक्ट मैरिज ना इट्स अ डेंजरस टर्म वी शुड अवॉइड यूजिंग इट इट यूली लीड्स टू डिपॉट मेंट परफेक्ट मैरिज ओके देर इज नथिंग परफेक्ट ओके अ गुड मैरिज अ हेल्दी मैरिज फर्स्ट ऑफ ल इ अ मैरिज वे यू नो दे नथिंग कॉल्ड परफेक्ट मैरिज रूल नंबर वन इट इज अ ऑन गोइंग जर्नी ऑफ अंडरस्टैंडिंग एक्सेप्टेंस एंड म्यूचुअल रिस्पेक्ट आई थिंक दोस थिंग्स आर वेरी इंपोर्टेंट इफ आई कैन वरी अबाउट व्टक व्ट मैटर्स टू यू एंड यू कैन वरी अबाउट व्ट मैटर्स टू मी इट्स अ हेल्दी मैरिज इफ आई एम ट्राइट फोकस ऑन व्ट मैटर्स टू मी एंड लेट यू नो व्ट मैटर्स टू मी एंड यू आर ट्राइट लेट मी नो व्ट मैटर्स टू यू इट इज अ रेसिपी फॉर डिजास्टर एंड आव ट्राइड बोथ यू नो आई थिंक द फर्स्ट थिंग इन अ मैरिज ज यू हैव टू एक्सेप्ट दैट वी आर नॉट ऑन द सेम ट्रैक वी आर ऑन सेपरेट ट्रैक्स चूसिंग टू मूव फॉरवर्ड टुगेदर सो देयर इज अ सेंस ऑफ इंडिविजुअलिटी यू नो योर शेयर्ड लाइफ एक्सपीरियंस कैन नॉट टेक अवे फ्रॉम योर इंडिविजुअल लाइफ एक्सपीरियंस इट हैज टू ऐड टू दैट एंड एट टाइम्स यू हैव टू बी एबल टू गिव स्पेस टू द अदर पर्सन टू सेंस फील एक्सप्लोर देयर",
+      "flags": [],
+      "id": "mot14"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-import { formatDuration, type Clip } from "@/app/lib/types";
+import { formatDuration, formatProcessTime, type Clip } from "@/app/lib/types";
 
 /**
  * One clip, shown in full.
@@ -28,7 +28,7 @@ export function ClipCard({
   clip: Clip;
   videoId: string;
 }) {
-  const [playing, setPlaying] = useState(false);
+  const [activeSegment, setActiveSegment] = useState<number | null>(null);
   const [showTranscript, setShowTranscript] = useState(false);
 
   const why = clip.why_chosen;
@@ -43,6 +43,11 @@ export function ClipCard({
 
   const start = formatDuration(Math.floor(clip.source_start_s));
   const end = formatDuration(Math.floor(clip.source_end_s));
+  const segments = clip.segments?.length ? clip.segments : [];
+  const selectedSegment = activeSegment === null ? null : segments[activeSegment];
+  const previewUrl = selectedSegment
+    ? `https://www.youtube.com/embed/${videoId}?start=${Math.floor(selectedSegment.source_start_s)}&end=${Math.ceil(selectedSegment.source_end_s)}&autoplay=1`
+    : null;
 
   return (
     <article className="border border-[#333333] bg-[#262626]">
@@ -61,7 +66,12 @@ export function ClipCard({
             <span className="font-mono text-[#a8a8a8]">
               {start} – {end}
             </span>
-            <span>{clip.duration_s.toFixed(1)}s</span>
+            <span>{formatProcessTime(clip.duration_s)}</span>
+            {clip.cut_status === "needs_review" && (
+              <span className="border border-[#8a6a38] px-1.5 py-0.5 text-[#d0aa6a]">
+                Approximate cut · review before publishing
+              </span>
+            )}
             <span className="text-[#4a4a4a]">·</span>
             <span>{clip.category}</span>
             {clip.is_one_liner && (
@@ -87,10 +97,11 @@ export function ClipCard({
       {/* Player: thumbnail until pressed, then the real embed */}
       <div className="border-b border-[#333333] bg-black">
         <div className="relative aspect-video">
-          {playing && clip.embed_url ? (
+          {previewUrl ? (
             <iframe
-              src={`${clip.embed_url}&autoplay=1`}
-              title={clip.title}
+              key={activeSegment}
+              src={previewUrl}
+              title={`${clip.title}, segment ${(activeSegment ?? 0) + 1}`}
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
               className="absolute inset-0 h-full w-full"
@@ -98,7 +109,7 @@ export function ClipCard({
           ) : (
             <button
               type="button"
-              onClick={() => setPlaying(true)}
+              onClick={() => setActiveSegment(0)}
               aria-label={`Play this clip, ${start} to ${end}`}
               className="group absolute inset-0 h-full w-full"
             >
@@ -122,12 +133,32 @@ export function ClipCard({
                 </span>
               </span>
               <span className="absolute right-2 bottom-2 bg-black/85 px-1.5 py-0.5 font-mono text-[11px] text-white">
-                {clip.duration_s.toFixed(1)}s
+                {formatProcessTime(clip.duration_s)}
               </span>
             </button>
           )}
         </div>
       </div>
+      {segments.length > 1 && (
+        <div className="flex flex-wrap items-center gap-2 border-b border-[#333333] p-3 text-[12px]">
+          <span className="mr-2 text-[#a8a8a8]">
+            {segments.length} selected segments. The gaps are omitted; play each part.
+          </span>
+          {segments.map((segment, index) => (
+            <button
+              key={index}
+              type="button"
+              onClick={() => setActiveSegment(index)}
+              className={`border px-2 py-1 ${activeSegment === index ? "border-[#a8a8a8] text-[#ededed]" : "border-[#3d3d3d] text-[#a8a8a8]"}`}
+            >
+              Part {index + 1}: {formatDuration(Math.floor(segment.source_start_s))}–{formatDuration(Math.ceil(segment.source_end_s))}
+            </button>
+          ))}
+        </div>
+      )}
+      <p className="border-b border-[#333333] px-4 py-2 text-[11px] text-[#6b6b6b]">
+        YouTube previews round to whole seconds. Use the precise boundaries below for the final edit.
+      </p>
 
       <div className="space-y-4 p-4">
         {audience.length > 0 && (
@@ -189,7 +220,7 @@ export function ClipCard({
         )}
 
         <dl className="grid grid-cols-2 gap-x-6 gap-y-2 border-t border-[#333333] pt-4 text-[12px] sm:grid-cols-4">
-          <Fact label="Exact cut" value={`${clip.source_start_s.toFixed(2)}s`} />
+          <Fact label={clip.cut_status === "needs_review" ? "Approx. start" : "Starts"} value={`${clip.source_start_s.toFixed(2)}s`} />
           <Fact label="Ends" value={`${clip.source_end_s.toFixed(2)}s`} />
           <Fact label="Confidence" value={clip.confidence} />
           <Fact
@@ -198,7 +229,7 @@ export function ClipCard({
           />
         </dl>
 
-        {clip.segments?.[0]?.start_words && (
+        {clip.cut_status !== "needs_review" && clip.segments?.[0]?.start_words && (
           <p className="text-[12px] leading-relaxed text-[#6b6b6b]">
             Opens on{" "}
             <span className="text-[#a8a8a8]">
@@ -208,8 +239,11 @@ export function ClipCard({
             <span className="text-[#a8a8a8]">
               &ldquo;{clip.segments[clip.segments.length - 1].end_words}&rdquo;
             </span>
-            . Both matched against the audio&rsquo;s own words, so the cut lands
-            on a syllable rather than a caption boundary.
+            . {clip.segments.every((segment) =>
+              segment.match.start >= 0.8 && segment.match.end >= 0.8,
+            )
+              ? "Both matched against the audio's own words."
+              : "At least one requested word boundary could not be verified; review the cut."}
           </p>
         )}
 
@@ -235,7 +269,7 @@ export function ClipCard({
             onClick={() => setShowTranscript((s) => !s)}
             className="text-[12px] text-[#8a8a8a] underline decoration-[#4a4a4a] underline-offset-2 transition-colors hover:text-[#ededed]"
           >
-            {showTranscript ? "Hide the words" : "Read the exact words"}
+            {showTranscript ? "Hide the words" : "Read the transcript"}
           </button>
 
           {clip.youtube_url && (

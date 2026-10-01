@@ -1,4 +1,4 @@
-import type { Report } from "@/app/lib/types";
+import { formatProcessTime, type Report } from "@/app/lib/types";
 
 const STEP_LABELS: Record<string, string> = {
   fetch_parallel: "Captions + replay (proxy)",
@@ -22,9 +22,6 @@ export function ReportCard({
   const proxyMb =
     (costs.proxy_bytes_measured + costs.proxy_bytes_estimated) / 1_000_000;
 
-  const proxyShare =
-    costs.total_inr > 0 ? (costs.proxy_inr / costs.total_inr) * 100 : 0;
-
   return (
     <div className="border border-[#333333] bg-[#262626]">
       <div className="flex items-baseline justify-between border-b border-[#333333] p-4">
@@ -32,7 +29,7 @@ export function ReportCard({
           Time and cost
         </p>
         <p className="font-mono text-[13px] text-[#ededed]">
-          {totalSeconds?.toFixed(1)}s · ₹{costs.total_inr.toFixed(4)}
+          {totalSeconds === null ? "—" : formatProcessTime(totalSeconds)} · ₹{costs.total_inr.toFixed(4)}
         </p>
       </div>
 
@@ -59,7 +56,7 @@ export function ReportCard({
                   />
                 </div>
                 <span className="w-14 shrink-0 text-right font-mono text-[11px] text-[#8a8a8a]">
-                  {seconds.toFixed(2)}s
+                  {formatProcessTime(seconds)}
                 </span>
               </div>
             ))}
@@ -70,7 +67,7 @@ export function ReportCard({
               <span className="text-[#d0a860]">
                 {STEP_LABELS[slowest[0]] ?? slowest[0]}
               </span>{" "}
-              at {slowest[1].toFixed(2)}s
+              at {formatProcessTime(slowest[1])}
               {totalSeconds
                 ? `, ${Math.round((slowest[1] / totalSeconds) * 100)}% of the run`
                 : ""}
@@ -112,11 +109,7 @@ export function ReportCard({
             </tbody>
           </table>
 
-          <p className="mt-3 text-[12px] leading-relaxed text-[#8a8a8a]">
-            The proxy is {Math.round(proxyShare)}% of this run&apos;s cost, not
-            the model. Bandwidth is the thing to optimise.
-          </p>
-          <p className="mt-1.5 text-[11px] leading-relaxed text-[#5a5a5a]">
+          <p className="mt-3 text-[11px] leading-relaxed text-[#5a5a5a]">
             {(costs.proxy_bytes_measured / 1000).toFixed(0)} KB of that is
             measured exactly (the subtitle file);{" "}
             {(costs.proxy_bytes_estimated / 1_000_000).toFixed(1)} MB is an

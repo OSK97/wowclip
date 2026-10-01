@@ -13,6 +13,7 @@ import sys
 import time
 
 _START = time.time()
+_STEP_STARTS = {}
 
 
 def _emit(payload: dict) -> None:
@@ -23,10 +24,13 @@ def _emit(payload: dict) -> None:
 
 def step_start(step: str, label: str) -> None:
     """A unit of work began. Steps running at the same time share a group."""
+    _STEP_STARTS[step] = time.monotonic()
     _emit({"type": "step_start", "step": step, "label": label})
 
 
-def step_done(step: str, label: str, detail: str = "", data=None) -> None:
+def step_done(step: str, label: str, detail: str = "", data=None,
+              duration_seconds=None) -> None:
+    started = _STEP_STARTS.pop(step, None)
     _emit(
         {
             "type": "step_done",
@@ -34,16 +38,23 @@ def step_done(step: str, label: str, detail: str = "", data=None) -> None:
             "label": label,
             "detail": detail,
             "data": data,
+            "duration_seconds": (round(duration_seconds, 2) if duration_seconds is not None
+                                 else round(time.monotonic() - started, 2)
+                                 if started is not None else 0.0),
         }
     )
 
 
 def step_fail(step: str, label: str, detail: str = "") -> None:
-    _emit({"type": "step_fail", "step": step, "label": label, "detail": detail})
+    started = _STEP_STARTS.pop(step, None)
+    _emit({"type": "step_fail", "step": step, "label": label, "detail": detail,
+           "duration_seconds": round(time.monotonic() - started, 2) if started is not None else 0.0})
 
 
 def step_skip(step: str, label: str, detail: str = "") -> None:
-    _emit({"type": "step_skip", "step": step, "label": label, "detail": detail})
+    started = _STEP_STARTS.pop(step, None)
+    _emit({"type": "step_skip", "step": step, "label": label, "detail": detail,
+           "duration_seconds": round(time.monotonic() - started, 2) if started is not None else 0.0})
 
 
 def note(message: str) -> None:
